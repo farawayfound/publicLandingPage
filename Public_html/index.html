@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>FarawayFound — David Chui</title>
+	<meta name="description" content="Home hub for David Chui: professional portfolio at davidchui.work and the FarawayFound travel blog.">
+	<link rel="shortcut icon" href="assets/favicon.ico">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&family=Roboto:wght@300;400;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+	<!-- Image list for hero slideshow. Regenerate with: pwsh -File scripts/sync-landing-images.ps1 -->
+	<script src="assets/images/Landing/landing-images.js"></script>
+	<style>
+		:root {
+			--bg:           #0f051e;
+			--bg-mid:       #1e0d3c;
+			--bg-card:      #2a1555;
+			--bg-light:     #4a2d7a;
+			--bg-softest:   #6b47a8;
+			--text:         #c8b8e8;
+			--heading:      #f0e6ff;
+			--accent:       #f9ad81;
+			--accent-hover: #f67d38;
+			--accent-soft:  rgba(249, 173, 129, 0.18);
+			--white:        #fff;
+			--shadow:       0 12px 40px rgba(0, 0, 0, 0.45);
+		}
+
+		* { box-sizing: border-box; }
+		html { scroll-behavior: smooth; }
+
+		body {
+			margin: 0;
+			font-family: "Roboto", system-ui, sans-serif;
+			font-size: 18px;
+			font-weight: 300;
+			line-height: 1.6;
+			color: var(--text);
+			background: var(--bg);
+			min-height: 100vh;
+		}
+
+		::selection { color: var(--white); background: var(--accent); }
+
+		a { color: var(--accent); text-decoration: none; transition: color 0.35s ease; }
+		a:hover, a:focus { color: var(--accent-hover); }
+
+		/* ── Header ── */
+		.site-header {
+			position: absolute;
+			top: 0; left: 0; right: 0;
+			z-index: 20;
+			padding: 1.25rem 1.5rem;
+			display: flex;
+			justify-content: center;
+		}
+
+		.site-header__brand {
+			font-family: "Roboto Slab", Georgia, serif;
+			font-weight: 700;
+			font-size: 1.125rem;
+			letter-spacing: 0.02em;
+			color: var(--white);
+			text-shadow: 0 1px 14px rgba(0, 0, 0, 0.6);
+		}
+
+		.site-header__brand span { color: var(--accent); }
+
+		/* ── Hero ── */
+		.hero {
+			position: relative;
+			min-height: 58vh;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			text-align: center;
+			padding: 7rem 1.5rem 5rem;
+			overflow: hidden;
+			/* Lightest theme color — shows through during crossfade */
+			background-color: var(--bg-light);
+		}
+
+		/* Slideshow layers */
+		.hero__slide {
+			position: absolute;
+			inset: 0;
+			background-size: cover;
+			background-position: center;
+			opacity: 0;
+			transition: opacity 1.4s ease-in-out;
+			z-index: 1;
+		}
+
+		.hero__slide.active { opacity: 1; }
+
+		/* Dark-purple gradient overlay — always on top of slides */
+		.hero__overlay {
+			position: absolute;
+			inset: 0;
+			background: linear-gradient(
+				175deg,
+				rgba(15, 5, 30, 0.60) 0%,
+				rgba(30, 13, 60, 0.45) 55%,
+				rgba(74, 45, 122, 0.65) 100%
+			);
+			z-index: 2;
+		}
+
+		.hero__inner {
+			position: relative;
+			z-index: 3;
+			max-width: 44rem;
+		}
+
+		/* White pill for "Live · Explore · Wander" */
+		.hero__badge {
+			display: inline-block;
+			background: var(--white);
+			color: var(--accent);
+			font-family: "Roboto Slab", Georgia, serif;
+			font-size: 0.95rem;
+			font-weight: 700;
+			letter-spacing: 0.24em;
+			text-transform: uppercase;
+			padding: 0.55rem 1.75rem;
+			border-radius: 100px;
+			margin-bottom: 1.6rem;
+			box-shadow: 0 4px 28px rgba(0, 0, 0, 0.30);
+		}
+
+		.hero__tagline {
+			margin: 0 0 0.75rem;
+			font-size: 1.1rem;
+			font-weight: 300;
+			color: rgba(255, 255, 255, 0.93);
+			text-shadow: 0 1px 10px rgba(0, 0, 0, 0.45);
+		}
+
+		.hero__sub {
+			margin: 0;
+			font-family: "Roboto Slab", Georgia, serif;
+			font-size: 0.9rem;
+			font-weight: 400;
+			color: rgba(200, 184, 232, 0.80);
+			letter-spacing: 0.07em;
+		}
+
+		/* ── Main ── */
+		main {
+			background: var(--bg);
+			padding: 4rem 1.5rem 5.5rem;
+		}
+
+		.cards-wrap {
+			max-width: 960px;
+			margin: 0 auto;
+		}
+
+		.cards {
+			display: grid;
+			grid-template-columns: 1fr;
+			gap: 1.5rem;
+		}
+
+		@media (min-width: 640px) {
+			.cards { grid-template-columns: repeat(2, 1fr); }
+		}
+
+		.card {
+			display: flex;
+			flex-direction: column;
+			background: var(--white);
+			border-radius: 6px;
+			overflow: hidden;
+			box-shadow: var(--shadow);
+			border: 1px solid rgba(74, 45, 122, 0.20);
+			transition: transform 0.35s ease, box-shadow 0.35s ease, border-color 0.35s ease;
+		}
+
+		.card:hover, .card:focus-within {
+			transform: translateY(-5px);
+			box-shadow: 0 24px 64px rgba(74, 45, 122, 0.38);
+			border-color: var(--accent-soft);
+		}
+
+		.card__media {
+			height: 180px;
+			background-size: cover;
+			background-position: center;
+			overflow: hidden;
+		}
+
+		.card__media--blog {
+			background-image:
+				linear-gradient(135deg, rgba(42, 21, 85, 0.45) 0%, rgba(249, 173, 129, 0.25) 100%),
+				url("assets/images/resized/DSC_8454.jpg");
+		}
+
+		/* ── Terminal card ── */
+		.card__media--terminal {
+			background: #0c0c14;
+			font-family: "Share Tech Mono", "Courier New", monospace;
+			font-size: 0.70rem;
+			padding: 0.85rem 1rem 0.5rem;
+			color: #a8ff78;
+			display: flex;
+			flex-direction: column;
+			gap: 0;
+			pointer-events: none;
+			user-select: none;
+		}
+
+		.t-line {
+			line-height: 1.52;
+			min-height: 1em;
+			opacity: 0;
+			transition: opacity 0.18s ease;
+		}
+
+		.t-prompt  { color: #bd93f9; }
+		.t-path    { color: #ffb86c; }
+		.t-cmd     { color: #f8f8f2; }
+		.t-out     { color: #6272a4; }
+		.t-ok      { color: #50fa7b; }
+		.t-warn    { color: #f1fa8c; }
+		.t-cursor  {
+			display: inline-block;
+			width: 7px; height: 0.85em;
+			background: #f8f8f2;
+			vertical-align: text-bottom;
+			animation: blink 1s step-end infinite;
+		}
+
+		@keyframes blink {
+			0%, 100% { opacity: 1; }
+			50%       { opacity: 0; }
+		}
+
+		/* ── Card body ── */
+		.card__body {
+			padding: 1.5rem 1.5rem 1.75rem;
+			display: flex;
+			flex-direction: column;
+			flex: 1;
+		}
+
+		.card__label {
+			font-family: "Roboto Slab", Georgia, serif;
+			font-size: 0.7rem;
+			font-weight: 700;
+			letter-spacing: 0.2em;
+			text-transform: uppercase;
+			color: var(--accent);
+			margin-bottom: 0.35rem;
+		}
+
+		.card h2 {
+			margin: 0 0 0.75rem;
+			font-family: "Roboto Slab", Georgia, serif;
+			font-weight: 700;
+			font-size: 1.35rem;
+			color: #1a0a35;
+		}
+
+		.card p {
+			margin: 0 0 1.25rem;
+			font-size: 0.95rem;
+			color: #5a4e72;
+			flex: 1;
+		}
+
+		.card__cta {
+			display: inline-flex;
+			align-items: center;
+			gap: 0.35rem;
+			font-family: "Roboto Slab", Georgia, serif;
+			font-size: 0.75rem;
+			font-weight: 700;
+			letter-spacing: 0.18em;
+			text-transform: uppercase;
+			color: var(--accent);
+			margin-top: auto;
+		}
+
+		.card__cta::after {
+			content: "→";
+			transition: transform 0.3s ease;
+		}
+
+		.card a:hover .card__cta::after,
+		.card a:focus .card__cta::after { transform: translateX(4px); }
+
+		.card a {
+			color: inherit;
+			display: flex;
+			flex-direction: column;
+			height: 100%;
+			outline: none;
+		}
+
+		.card a:hover h2, .card a:focus h2 { color: var(--accent-hover); }
+
+		/* ── Footer ── */
+		.site-footer {
+			text-align: center;
+			padding: 1.75rem 1.5rem 2.5rem;
+			font-size: 0.85rem;
+			color: var(--text);
+			background: var(--bg-mid);
+			border-top: 1px solid rgba(74, 45, 122, 0.35);
+		}
+
+		.site-footer p { margin: 0; }
+	</style>
+</head>
+<body>
+
+	<header class="site-header">
+		<div class="site-header__brand" aria-label="FarawayFound">FarawayFound<span>.</span></div>
+	</header>
+
+	<section class="hero" aria-label="Hero">
+		<div id="slide-a" class="hero__slide"></div>
+		<div id="slide-b" class="hero__slide"></div>
+		<div class="hero__overlay"></div>
+
+		<div class="hero__inner">
+			<div class="hero__badge">Live &middot; Explore &middot; Wander</div>
+			<p class="hero__tagline">A single place to find my work on the web &mdash; engineering, portfolio, and travel.</p>
+			<p class="hero__sub">Choose a destination below</p>
+		</div>
+	</section>
+
+	<main>
+		<div class="cards-wrap">
+			<div class="cards">
+
+				<article class="card">
+					<a href="https://davidchui.work/" target="_blank" rel="noopener noreferrer">
+						<div class="card__media card__media--terminal" id="terminal-card" role="img" aria-label="Terminal animation showing code execution"></div>
+						<div class="card__body">
+							<span class="card__label">Professional</span>
+							<h2>davidchui.work</h2>
+							<p>Portfolio and professional presence — projects, experience, and how to get in touch for work.</p>
+							<span class="card__cta">Open site</span>
+						</div>
+					</a>
+				</article>
+
+				<article class="card">
+					<a href="blog/index.html">
+						<div class="card__media card__media--blog" role="img" aria-label="Travel photography"></div>
+						<div class="card__body">
+							<span class="card__label">Travel blog</span>
+							<h2>FarawayFound stories</h2>
+							<p>Photo journals and notes from the road — national parks, cities, and mountain trips in the same style as before.</p>
+							<span class="card__cta">Enter blog</span>
+						</div>
+					</a>
+				</article>
+
+			</div>
+		</div>
+	</main>
+
+	<footer class="site-footer">
+		<p>David Chui &middot; Colorado &middot; <a href="blog/index.html">Blog</a> &middot; <a href="https://davidchui.work/" target="_blank" rel="noopener noreferrer">Portfolio</a></p>
+	</footer>
+
+	<script>
+		/* ── Hero Slideshow ──
+		   Image list comes from assets/images/Landing/landing-images.js (window.LANDING_IMAGES).
+		   Works on file://, http://, and https:// — no fetch() needed.
+		   To add/remove photos: edit the folder, then run:
+		     pwsh -File scripts/sync-landing-images.ps1
+		   or: node scripts/sync-landing-images.js */
+		(function () {
+			var images = (window.LANDING_IMAGES && window.LANDING_IMAGES.length)
+				? window.LANDING_IMAGES : [];
+			if (!images.length) return;
+
+			function shuffle(arr) {
+				var a = arr.slice();
+				for (var i = a.length - 1; i > 0; i--) {
+					var j = Math.floor(Math.random() * (i + 1));
+					var tmp = a[i]; a[i] = a[j]; a[j] = tmp;
+				}
+				return a;
+			}
+
+			var slideA = document.getElementById("slide-a");
+			var slideB = document.getElementById("slide-b");
+			var queue = shuffle(images);
+			var idx = 0;
+			var useA = true;
+
+			function nextImage() {
+				if (idx >= queue.length) { queue = shuffle(images); idx = 0; }
+				var incoming = useA ? slideA : slideB;
+				var outgoing = useA ? slideB : slideA;
+				incoming.style.backgroundImage = 'url("' + queue[idx++] + '")';
+				incoming.classList.add("active");
+				outgoing.classList.remove("active");
+				useA = !useA;
+			}
+
+			nextImage();
+			setInterval(nextImage, 3000);
+		})();
+
+		/* ── Terminal Animation ── */
+		(function () {
+			const terminal = document.getElementById("terminal-card");
+			const MAX_LINES = 9;
+
+			function p(path) {
+				return '<span class="t-prompt">david@chui</span>:<span class="t-path">' + path + '</span>$ ';
+			}
+			function cmd(t) { return '<span class="t-cmd">' + t + '</span>'; }
+			function out(t) { return '<span class="t-out">' + t + '</span>'; }
+			function ok(t)  { return '<span class="t-ok">'  + t + '</span>'; }
+			function wrn(t) { return '<span class="t-warn">'+ t + '</span>'; }
+
+			/* Each entry: html string + pause (ms) before next line appears */
+			const script = [
+				// ── git status & branch ──
+				{ h: p("~/dev") + cmd("git status"),                                          ms: 480  },
+				{ h: out("On branch main · Your branch is up to date."),                      ms: 150  },
+				{ h: out("nothing to commit, working tree clean"),                            ms: 900  },
+				{ h: p("~/dev") + cmd("git checkout -b feat/dark-mode"),                      ms: 380  },
+				{ h: out("Switched to a new branch 'feat/dark-mode'"),                        ms: 850  },
+				// ── diff & commit ──
+				{ h: p("~/dev") + cmd("git diff --stat"),                                     ms: 320  },
+				{ h: out("src/styles/theme.css  |  +47  -3"),                                 ms: 130  },
+				{ h: out("1 file changed, 47 insertions(+), 3 deletions(-)"),                 ms: 750  },
+				{ h: p("~/dev") + cmd("git add -A && git commit -m 'feat: dark-mode'"),       ms: 420  },
+				{ h: out("[feat/dark-mode a3f9c12] feat: dark-mode"),                         ms: 900  },
+				// ── npm test ──
+				{ h: p("~/dev") + cmd("npm test -- --coverage"),                              ms: 650  },
+				{ h: wrn("⚙  Running test suite..."),                                         ms: 620  },
+				{ h: out("PASS  src/__tests__/theme.test.js"),                                ms: 180  },
+				{ h: out("PASS  src/__tests__/App.test.js"),                                  ms: 180  },
+				{ h: out("PASS  src/__tests__/router.test.js"),                               ms: 200  },
+				{ h: ok("Tests: 27 passed · Coverage: 91.4% · Time: 4.2s"),                   ms: 880  },
+				// ── npm build ──
+				{ h: p("~/dev") + cmd("npm run build"),                                       ms: 580  },
+				{ h: out("&gt; react-scripts build --profile"),                               ms: 400  },
+				{ h: wrn("⚙  Creating optimized production build..."),                        ms: 850  },
+				{ h: ok("✓  Compiled in 3.12s · bundle: 248 kB gzipped"),                     ms: 780  },
+				// ── push & PR ──
+				{ h: p("~/dev") + cmd("git push origin feat/dark-mode"),                      ms: 430  },
+				{ h: out("Enumerating objects: 9 · Compressing: 100%"),                       ms: 200  },
+				{ h: ok("✓  feat/dark-mode → origin  [davidchui/portfolio]"),                 ms: 680  },
+				{ h: p("~/dev") + cmd('gh pr create --title "feat: dark mode" --fill'),       ms: 480  },
+				{ h: ok("✓  PR #42 created · github.com/davidchui/portfolio/pull/42"),        ms: 950  },
+				// ── docker build & push ──
+				{ h: p("~/dev") + cmd("docker build -t portfolio:latest ."),                  ms: 580  },
+				{ h: out("Step 1/8 : FROM node:20-alpine"),                                   ms: 200  },
+				{ h: out("Step 4/8 : RUN npm ci --omit=dev"),                                 ms: 220  },
+				{ h: out("Step 8/8 : CMD [\"node\", \"server.js\"]"),                         ms: 280  },
+				{ h: ok("✓  Successfully built  portfolio:latest"),                            ms: 680  },
+				{ h: p("~/dev") + cmd("docker push portfolio:latest"),                        ms: 480  },
+				{ h: out("Pushing layers: 100% ████████████████  12/12"),                     ms: 380  },
+				{ h: ok("✓  digest: sha256:8d3f9a…  pushed"),                                 ms: 900  },
+				// ── SSH deploy ──
+				{ h: p("~/dev") + cmd("ssh deploy@davidchui.work 'systemctl restart app'"),  ms: 520  },
+				{ h: out("Connected to davidchui.work  (uptime: 47d 3h 12m)"),               ms: 300  },
+				{ h: ok("● portfolio.service  active (running)"),                              ms: 950  },
+				// ── Python sitemap ──
+				{ h: p("~/analytics") + cmd("python3 generate_sitemap.py --verbose"),         ms: 580  },
+				{ h: out("Scanning /dist/**/*.html  →  38 routes found"),                     ms: 280  },
+				{ h: out("Adding lastmod timestamps from git log..."),                        ms: 380  },
+				{ h: ok("✓  sitemap.xml written  (38 URLs · 4.1 kB)"),                        ms: 870  },
+				// ── curl health check ──
+				{ h: p("~") + cmd("curl -s https://davidchui.work/health | jq ."),           ms: 520  },
+				{ h: out('{ "status": "ok", "uptime": 170124, "v": "2.4.1" }'),              ms: 900  },
+				// ── grep ──
+				{ h: p("~/dev/src") + cmd('grep -r "useTheme" --include="*.tsx" -l'),        ms: 380  },
+				{ h: out("components/Navbar.tsx"),                                             ms: 100  },
+				{ h: out("components/Settings.tsx"),                                           ms: 100  },
+				{ h: out("pages/Home.tsx"),                                                    ms: 780  },
+				// ── git log ──
+				{ h: p("~/dev") + cmd("git log --oneline -5"),                                ms: 330  },
+				{ h: out("a3f9c12  feat: dark-mode toggle"),                                  ms: 100  },
+				{ h: out("b18e741  fix: mobile nav z-index"),                                 ms: 100  },
+				{ h: out("d9c3301  chore: bump dependencies"),                                ms: 100  },
+				{ h: out("f551208  feat: project filter component"),                          ms: 100  },
+				{ h: out("3a8d990  init: project scaffolding"),                               ms: 880  },
+				// ── pip + python lint ──
+				{ h: p("~/analytics") + cmd("pip install -r requirements.txt -q"),            ms: 650  },
+				{ h: wrn("⚙  Resolving dependencies..."),                                     ms: 520  },
+				{ h: ok("✓  All packages installed"),                                          ms: 820  },
+				{ h: p("~/analytics") + cmd("flake8 . --max-line-length=100"),                ms: 380  },
+				{ h: ok("✓  No issues found"),                                                 ms: 900  },
+				// ── node & versions ──
+				{ h: p("~") + cmd("node -v && npm -v && python3 --version"),                  ms: 320  },
+				{ h: out("v20.12.0  ·  npm 10.5.0  ·  Python 3.11.9"),                       ms: 880  },
+				// ── lighthouse ──
+				{ h: p("~/dev") + cmd("npx lighthouse https://davidchui.work --quiet"),       ms: 700  },
+				{ h: wrn("⚙  Analyzing page performance..."),                                  ms: 950  },
+				{ h: ok("Performance: 98  ·  Accessibility: 100  ·  SEO: 100"),               ms: 950  },
+				// ── final cursor ──
+				{ h: p("~/dev") + '<span class="t-cursor"></span>',                           ms: 3200 },
+			];
+
+			function addLine(html) {
+				const div = document.createElement("div");
+				div.className = "t-line";
+				div.innerHTML = html;
+				div.style.opacity = "1";
+				terminal.appendChild(div);
+				while (terminal.children.length > MAX_LINES) {
+					terminal.removeChild(terminal.firstChild);
+				}
+			}
+
+			function run(i) {
+				if (i >= script.length) {
+					setTimeout(() => { terminal.innerHTML = ""; run(0); }, 600);
+					return;
+				}
+				addLine(script[i].h);
+				setTimeout(() => run(i + 1), script[i].ms);
+			}
+
+			run(0);
+		})();
+	</script>
+</body>
+</html>
