@@ -164,10 +164,13 @@
 		$("a.transition").click(function(event){
 		  	event.preventDefault();
 		  	var linkLocation = this.href;
+		  	if (!linkLocation) {
+		  		return;
+		  	}
 
-		  	$("body").fadeOut(2000, redirectPage);      
-		  	
-		  	redirectPage(linkLocation);
+		  	$("body").fadeOut(2000, function() {
+		  		redirectPage(linkLocation);
+		  	});
 		});
 			
 	};
