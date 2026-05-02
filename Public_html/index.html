@@ -94,19 +94,6 @@
 
 		.hero__slide.active { opacity: 1; }
 
-		/* Dark-purple gradient overlay — always on top of slides */
-		.hero__overlay {
-			position: absolute;
-			inset: 0;
-			background: linear-gradient(
-				175deg,
-				rgba(15, 5, 30, 0.60) 0%,
-				rgba(30, 13, 60, 0.45) 55%,
-				rgba(74, 45, 122, 0.65) 100%
-			);
-			z-index: 2;
-		}
-
 		.hero__inner {
 			position: relative;
 			z-index: 3;
@@ -332,7 +319,6 @@
 	<section class="hero" aria-label="Hero">
 		<div id="slide-a" class="hero__slide"></div>
 		<div id="slide-b" class="hero__slide"></div>
-		<div class="hero__overlay"></div>
 
 		<div class="hero__inner">
 			<div class="hero__badge">Live &middot; Explore &middot; Wander</div>
