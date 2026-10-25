@@ -1,0 +1,79 @@
+{
+ "slug": "lookout-mountain",
+ "title": "Lookout Mountain, CO",
+ "cardTitle": "Lookout Mountain, CO",
+ "date": "2021-06",
+ "dateLabel": "June 2021",
+ "location": "Lookout Mountain, Golden, Colorado",
+ "country": "United States",
+ "coords": [
+  39.7,
+  -105.2
+ ],
+ "tags": [
+  "mountains",
+  "hiking"
+ ],
+ "sectionTitle": "Edge of the Plains",
+ "paragraphs": [
+  "Standing in the foothills above Golden feels like standing on the shore of a dry ocean. The mountains simply stop, and the plains roll out below as far as you can see. I stopped on the Lookout Mountain side of town on a June afternoon, the grass still green and the slopes freckled with yellow wildflowers. Denver sat far out on that flat horizon, a handful of towers in the haze. From up here even the sprawl looks tidy. Maybe sprawl just needs distance.",
+  "To the north, the weather had other plans. A heavy gray-blue sky hung over the foothills, and Golden sat in its valley beneath a long, flat-topped mesa. That, I'm fairly sure, is North Table Mountain, capped by an ancient lava flow that held its ground while the softer rock around it wore away. Summer storms like that are routine along the Front Range, so start early and keep an eye on the clouds. At the overlook itself, a split-rail fence doubled as a bike rack, four bikes leaning along it with the metro area spread out behind them and big clouds stacking up over the green hills. Climb high enough and whatever you were worrying about shrinks right along with the city."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/lookout-mountain/cover.webp",
+ "card": "assets/images/lookout-mountain/thumbs/d24620bc.webp",
+ "photos": [
+  {
+   "src": "assets/images/lookout-mountain/d58cd887.webp",
+   "thumb": "assets/images/lookout-mountain/thumbs/d58cd887.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Golden Slopes",
+   "alt": "A hillside covered in yellow wildflowers sloping down toward the hazy Denver skyline in the distance"
+  },
+  {
+   "src": "assets/images/lookout-mountain/f9eb582d.webp",
+   "thumb": "assets/images/lookout-mountain/thumbs/f9eb582d.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Table Top",
+   "alt": "View north over the town of Golden to a long flat-topped mesa and hazy foothills under a heavy grey-blue sky"
+  },
+  {
+   "src": "assets/images/lookout-mountain/857eea7b.webp",
+   "thumb": "assets/images/lookout-mountain/thumbs/857eea7b.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Lone Ranger",
+   "alt": "A single cream-coloured mountain bike standing on a rocky pad with green hills and big clouds in a blue sky behind"
+  },
+  {
+   "src": "assets/images/lookout-mountain/2c449e10.webp",
+   "thumb": "assets/images/lookout-mountain/thumbs/2c449e10.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Hitching Post",
+   "alt": "Mountain bikes in a row along a split-rail fence at a rocky overlook, with big white clouds over green hills and the plains beyond"
+  },
+  {
+   "src": "assets/images/lookout-mountain/8eb967fb.webp",
+   "thumb": "assets/images/lookout-mountain/thumbs/8eb967fb.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Spokes & Skyline",
+   "alt": "Mountain bikes leaning on a wooden fence with yellow flowers below and the Denver skyline small and hazy on the horizon"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 20%"
+}

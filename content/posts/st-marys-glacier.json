@@ -1,0 +1,103 @@
+{
+ "slug": "st-marys-glacier",
+ "title": "St. Mary's Glacier",
+ "cardTitle": "St. Mary's Glacier",
+ "date": "2020-08",
+ "dateLabel": "August 2020",
+ "location": "St. Mary's Glacier, Colorado",
+ "country": "United States",
+ "coords": [
+  39.8,
+  -105.6
+ ],
+ "tags": [
+  "hiking",
+  "mountains",
+  "snow",
+  "aerial"
+ ],
+ "sectionTitle": "Copper Sky",
+ "paragraphs": [
+  "One Saturday in mid-August, the sky changed color. Wildfires were burning in western Colorado, and westerly winds had pushed their smoke all the way to the Front Range. Around noon, from a roadside viewpoint south of Georgetown, the sky was still mostly blue, but the far ridges had already faded into haze. A power line cut a straight stripe through the forest down the valley. I had a glacier to get to!",
+  "St. Mary's Glacier is a short hike from a trailhead about nine miles up Fall River Road from I-70 at Idaho Springs. By a little before four in the afternoon, the light on the trail already looked like sunset. Magenta fireweed crowded the path beside a bleached, gnarled old tree, a loud pink against all that orange. The plant is named for how readily it moves into burned ground, which felt a little too fitting under that sky. Strictly speaking, St. Mary's is a perennial snowfield, too thin to flow the way a true glacier does, but it looks the part: a wide, rippled slope of old snow, streaked with dust and grit. The dog didn't care about the distinction. It plowed nose-first through the snow in its red pack like a furry bulldozer. Up in the haze, the sun was just a dim orange dot.",
+  "On Sunday I flew west out of Denver, and the window showed me how big the smoke really was. Milky layers of it were stacked over the valleys, a plume climbed out of the hills like a thunderhead, and above it all the sky was a clean, deep blue. Far below, a tiny jet crossed the haze.",
+  "A perennial snowfield is supposed to outlast every summer, but news reports say St. Mary's melted out completely in September 2026. I'm glad I saw it, copper sky and all."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/st-marys-glacier/cover.webp",
+ "card": "assets/images/st-marys-glacier/thumbs/97f8ac05.webp",
+ "photos": [
+  {
+   "src": "assets/images/st-marys-glacier/bf2d35f8.webp",
+   "thumb": "assets/images/st-marys-glacier/thumbs/bf2d35f8.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Fireweed",
+   "alt": "Magenta fireweed beside a dirt trail, with a bleached, gnarled old tree and forested hills under an orange, smoky sky."
+  },
+  {
+   "src": "assets/images/st-marys-glacier/027042be.webp",
+   "thumb": "assets/images/st-marys-glacier/thumbs/027042be.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "August Snow",
+   "alt": "A dog in a red pack on a large, dusty snowfield below a dark rocky ridge, with the sun a dim orange dot in the corner of the smoky sky."
+  },
+  {
+   "src": "assets/images/st-marys-glacier/97f8ac05.webp",
+   "thumb": "assets/images/st-marys-glacier/thumbs/97f8ac05.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Plowing Ahead",
+   "alt": "A dog in a red pack plowing nose-first through rippled, dirt-streaked snow on a steep slope below a rocky ridge."
+  },
+  {
+   "src": "assets/images/st-marys-glacier/4dc003d2.webp",
+   "thumb": "assets/images/st-marys-glacier/thumbs/4dc003d2.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Clear Above",
+   "alt": "Plane window view of a wing tip and engine over a hazy blue landscape, with one small cloud and a deep blue sky above."
+  },
+  {
+   "src": "assets/images/st-marys-glacier/e0813a41.webp",
+   "thumb": "assets/images/st-marys-glacier/thumbs/e0813a41.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Plume",
+   "alt": "Plane window view of brown hills and a winding valley, with a plume of smoke rising behind a ridge and the wing and engine at the right edge."
+  },
+  {
+   "src": "assets/images/st-marys-glacier/6a0d1482.webp",
+   "thumb": "assets/images/st-marys-glacier/thumbs/6a0d1482.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Brushstrokes",
+   "alt": "Swirling layers of white and brown smoke seen from above, under a band of deep blue sky."
+  },
+  {
+   "src": "assets/images/st-marys-glacier/d9986295.webp",
+   "thumb": "assets/images/st-marys-glacier/thumbs/d9986295.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Traffic",
+   "alt": "Thick layers of smoke seen from a plane window, with a tiny jet far below."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "70% 40%"
+}

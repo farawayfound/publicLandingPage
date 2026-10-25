@@ -1,0 +1,4207 @@
+[
+ {
+  "slug": "cheyenne-mountain-zoo",
+  "title": "Cheyenne Mountain Zoo, CO",
+  "cardTitle": "Cheyenne Mountain Zoo",
+  "date": "2026-02",
+  "dateLabel": "February 2026",
+  "year": "2026",
+  "location": "Cheyenne Mountain Zoo, Colorado",
+  "country": "United States",
+  "coords": [
+   38.7,
+   -104.8
+  ],
+  "tags": [
+   "mountains",
+   "snow"
+  ],
+  "photos": 10,
+  "href": "blog/pages/cheyenne-mountain-zoo.html",
+  "card": [
+   {
+    "src": "assets/images/derived/cheyenne-mountain-zoo/9e52c0bf-480.webp",
+    "w": 480,
+    "h": 360
+   },
+   {
+    "src": "assets/images/derived/cheyenne-mountain-zoo/9e52c0bf-960.webp",
+    "w": 960,
+    "h": 720
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/cheyenne-mountain-zoo/9e52c0bf-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/cheyenne-mountain-zoo/9e52c0bf-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "seattle-2025",
+  "title": "Seattle, Again",
+  "cardTitle": "Seattle, Again",
+  "date": "2025-12",
+  "dateLabel": "December 2025",
+  "year": "2025",
+  "location": "Seattle, Washington",
+  "country": "United States",
+  "coords": [
+   47.6,
+   -122.3
+  ],
+  "tags": [
+   "city",
+   "coast"
+  ],
+  "photos": 9,
+  "href": "blog/pages/seattle-2025.html",
+  "card": [
+   {
+    "src": "assets/images/derived/seattle-2025/1100e384-480.webp",
+    "w": 480,
+    "h": 360
+   },
+   {
+    "src": "assets/images/derived/seattle-2025/1100e384-960.webp",
+    "w": 960,
+    "h": 720
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/seattle-2025/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/seattle-2025/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "tokyo",
+  "title": "Tokyo, JP",
+  "cardTitle": "Tokyo, JP",
+  "date": "2025-09",
+  "dateLabel": "January & September 2025",
+  "year": "2025",
+  "location": "Tokyo, Japan",
+  "country": "Japan",
+  "coords": [
+   35.7,
+   139.7
+  ],
+  "tags": [
+   "city",
+   "abroad"
+  ],
+  "photos": 11,
+  "href": "blog/pages/tokyo.html",
+  "card": [
+   {
+    "src": "assets/images/derived/tokyo/a7d26f28-480.webp",
+    "w": 480,
+    "h": 640
+   },
+   {
+    "src": "assets/images/derived/tokyo/a7d26f28-960.webp",
+    "w": 960,
+    "h": 1280
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/tokyo/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/tokyo/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "evergreen-lake",
+  "title": "Evergreen Reflections",
+  "cardTitle": "Evergreen Reflections",
+  "date": "2025-08",
+  "dateLabel": "August 2025",
+  "year": "2025",
+  "location": "Evergreen Lake, Evergreen, Colorado",
+  "country": "United States",
+  "coords": [
+   39.6,
+   -105.3
+  ],
+  "tags": [
+   "lakes",
+   "mountains",
+   "forest"
+  ],
+  "photos": 7,
+  "href": "blog/pages/evergreen-lake.html",
+  "card": [
+   {
+    "src": "assets/images/derived/evergreen-lake/ff628b4e-2433-480.webp",
+    "w": 480,
+    "h": 360
+   },
+   {
+    "src": "assets/images/derived/evergreen-lake/ff628b4e-2433-960.webp",
+    "w": 960,
+    "h": 720
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/evergreen-lake/cover-960.webp",
+    "w": 960,
+    "h": 720
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "webster-pass",
+  "title": "Webster Pass",
+  "cardTitle": "Webster Pass",
+  "date": "2025-07",
+  "dateLabel": "July 2025",
+  "year": "2025",
+  "location": "Webster Pass, Colorado",
+  "country": "United States",
+  "coords": [
+   39.6,
+   -105.8
+  ],
+  "tags": [
+   "aerial",
+   "lakes",
+   "mountains",
+   "snow"
+  ],
+  "photos": 10,
+  "href": "blog/pages/webster-pass.html",
+  "card": [
+   {
+    "src": "assets/images/derived/webster-pass/thumbs/86e687cc-8240-480.webp",
+    "w": 480,
+    "h": 270
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/webster-pass/cover-960.webp",
+    "w": 960,
+    "h": 540
+   },
+   {
+    "src": "assets/images/derived/webster-pass/cover-1600.webp",
+    "w": 1600,
+    "h": 900
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "red-rocks",
+  "title": "Red Rocks, CO",
+  "cardTitle": "Red Rocks, CO",
+  "date": "2025-02",
+  "dateLabel": "February 2025",
+  "year": "2025",
+  "location": "Red Rocks Park, Morrison, Colorado",
+  "country": "United States",
+  "coords": [
+   39.7,
+   -105.2
+  ],
+  "tags": [
+   "state-park",
+   "hiking",
+   "snow",
+   "mountains"
+  ],
+  "photos": 8,
+  "href": "blog/pages/red-rocks.html",
+  "card": [
+   {
+    "src": "assets/images/derived/red-rocks/3d502445-480.webp",
+    "w": 480,
+    "h": 321
+   },
+   {
+    "src": "assets/images/derived/red-rocks/3d502445-960.webp",
+    "w": 960,
+    "h": 641
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/red-rocks/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/red-rocks/cover-1600.webp",
+    "w": 1600,
+    "h": 1069
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "tokyo-disney",
+  "title": "Tokyo Disney, JP",
+  "cardTitle": "Tokyo Disney, JP",
+  "date": "2025-01",
+  "dateLabel": "January 2025",
+  "year": "2025",
+  "location": "Tokyo Disney Resort, Chiba, Japan",
+  "country": "Japan",
+  "coords": [
+   35.6,
+   139.9
+  ],
+  "tags": [
+   "city",
+   "abroad"
+  ],
+  "photos": 13,
+  "href": "blog/pages/tokyo-disney.html",
+  "card": [
+   {
+    "src": "assets/images/derived/tokyo-disney/7c3cfe44-480.webp",
+    "w": 480,
+    "h": 307
+   },
+   {
+    "src": "assets/images/derived/tokyo-disney/7c3cfe44-960.webp",
+    "w": 960,
+    "h": 613
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/tokyo-disney/cover-960.webp",
+    "w": 960,
+    "h": 612
+   },
+   {
+    "src": "assets/images/derived/tokyo-disney/cover-1600.webp",
+    "w": 1600,
+    "h": 1020
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "close-to-home-2024",
+  "title": "Close to Home",
+  "cardTitle": "Close to Home",
+  "date": "2024-10",
+  "dateLabel": "May – December 2024",
+  "year": "2024",
+  "location": "Summit County & the Front Range, Colorado",
+  "country": "United States",
+  "coords": [
+   39.5,
+   -105.9
+  ],
+  "tags": [
+   "mountains",
+   "snow",
+   "lakes",
+   "forest"
+  ],
+  "photos": 11,
+  "href": "blog/pages/close-to-home-2024.html",
+  "card": [
+   {
+    "src": "assets/images/derived/close-to-home-2024/b614e766-480.webp",
+    "w": 480,
+    "h": 360
+   },
+   {
+    "src": "assets/images/derived/close-to-home-2024/b614e766-960.webp",
+    "w": 960,
+    "h": 720
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/close-to-home-2024/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/close-to-home-2024/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "maroon-bells-2024",
+  "title": "Starry Maroon Bells",
+  "cardTitle": "Starry Maroon Bells",
+  "date": "2024-07",
+  "dateLabel": "July 2024",
+  "year": "2024",
+  "location": "Maroon Bells, Aspen, Colorado",
+  "country": "United States",
+  "coords": [
+   39.1,
+   -107
+  ],
+  "tags": [
+   "mountains",
+   "night-sky",
+   "lakes",
+   "forest",
+   "road-trip"
+  ],
+  "photos": 11,
+  "href": "blog/pages/maroon-bells-2024.html",
+  "card": [
+   {
+    "src": "assets/images/derived/maroon-bells-2024/thumbs/4494bb38-480.webp",
+    "w": 480,
+    "h": 321
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/maroon-bells-2024/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/maroon-bells-2024/cover-1600.webp",
+    "w": 1600,
+    "h": 1068
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "san-francisco",
+  "title": "San Francisco, CA",
+  "cardTitle": "San Francisco, CA",
+  "date": "2023-12",
+  "dateLabel": "December 2023",
+  "year": "2023",
+  "location": "San Francisco, California",
+  "country": "United States",
+  "coords": [
+   37.8,
+   -122.4
+  ],
+  "tags": [
+   "city",
+   "coast"
+  ],
+  "photos": 15,
+  "href": "blog/pages/san-francisco.html",
+  "card": [
+   {
+    "src": "assets/images/derived/san-francisco/f7326239-480.webp",
+    "w": 480,
+    "h": 271
+   },
+   {
+    "src": "assets/images/derived/san-francisco/f7326239-960.webp",
+    "w": 960,
+    "h": 541
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/san-francisco/cover-960.webp",
+    "w": 960,
+    "h": 642
+   },
+   {
+    "src": "assets/images/derived/san-francisco/cover-1600.webp",
+    "w": 1600,
+    "h": 1069
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "kenosha-pass",
+  "title": "Kenosha Pass",
+  "cardTitle": "Kenosha Pass",
+  "date": "2023-10",
+  "dateLabel": "October 2023",
+  "year": "2023",
+  "location": "Kenosha Pass, Colorado",
+  "country": "United States",
+  "coords": [
+   39.4,
+   -105.8
+  ],
+  "tags": [
+   "forest",
+   "mountains",
+   "snow"
+  ],
+  "photos": 13,
+  "href": "blog/pages/kenosha-pass.html",
+  "card": [
+   {
+    "src": "assets/images/derived/kenosha-pass/509f3d4d-480.webp",
+    "w": 480,
+    "h": 360
+   },
+   {
+    "src": "assets/images/derived/kenosha-pass/509f3d4d-960.webp",
+    "w": 960,
+    "h": 720
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/kenosha-pass/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/kenosha-pass/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "rocky-mountain-summer",
+  "title": "Rocky Mountain Summer",
+  "cardTitle": "Rocky Mountain Summer",
+  "date": "2023-07",
+  "dateLabel": "July & September 2023",
+  "year": "2023",
+  "location": "Golden Gate Canyon & Breckenridge, Colorado",
+  "country": "United States",
+  "coords": [
+   39.4,
+   -106.1
+  ],
+  "tags": [
+   "mountains",
+   "hiking",
+   "lakes",
+   "forest",
+   "state-park"
+  ],
+  "photos": 13,
+  "href": "blog/pages/rocky-mountain-summer.html",
+  "card": [
+   {
+    "src": "assets/images/derived/rocky-mountain-summer/561eb573-480.webp",
+    "w": 480,
+    "h": 360
+   },
+   {
+    "src": "assets/images/derived/rocky-mountain-summer/561eb573-960.webp",
+    "w": 960,
+    "h": 720
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/rocky-mountain-summer/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/rocky-mountain-summer/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "mosel-valley",
+  "title": "Mosel Valley, DE",
+  "cardTitle": "Mosel Valley, DE",
+  "date": "2023-06",
+  "dateLabel": "June 2023",
+  "year": "2023",
+  "location": "Mosel Valley, Germany",
+  "country": "Germany",
+  "coords": [
+   49.9,
+   7.1
+  ],
+  "tags": [
+   "abroad",
+   "city",
+   "hiking",
+   "road-trip"
+  ],
+  "photos": 13,
+  "href": "blog/pages/mosel-valley.html",
+  "card": [
+   {
+    "src": "assets/images/derived/mosel-valley/84603c00-480.webp",
+    "w": 480,
+    "h": 360
+   },
+   {
+    "src": "assets/images/derived/mosel-valley/84603c00-960.webp",
+    "w": 960,
+    "h": 720
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/mosel-valley/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/mosel-valley/cover-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "trier",
+  "title": "Trier, DE",
+  "cardTitle": "Trier, DE",
+  "date": "2023-06",
+  "dateLabel": "June 2023",
+  "year": "2023",
+  "location": "Trier, Germany",
+  "country": "Germany",
+  "coords": [
+   49.8,
+   6.6
+  ],
+  "tags": [
+   "abroad",
+   "city"
+  ],
+  "photos": 13,
+  "href": "blog/pages/trier.html",
+  "card": [
+   {
+    "src": "assets/images/derived/trier/e4fb9358-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/trier/e4fb9358-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/trier/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/trier/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "lake-tahoe",
+  "title": "Frosted Tahoe",
+  "cardTitle": "Frosted Tahoe",
+  "date": "2023-02",
+  "dateLabel": "March 2020 & February 2023",
+  "year": "2023",
+  "location": "Lake Tahoe, Nevada & California",
+  "country": "United States",
+  "coords": [
+   39.1,
+   -120
+  ],
+  "tags": [
+   "forest",
+   "hiking",
+   "lakes",
+   "mountains",
+   "snow"
+  ],
+  "photos": 13,
+  "href": "blog/pages/lake-tahoe.html",
+  "card": [
+   {
+    "src": "assets/images/derived/lake-tahoe/thumbs/89fbef42-480.webp",
+    "w": 480,
+    "h": 360
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/lake-tahoe/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/lake-tahoe/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "bordeaux",
+  "title": "Bordeaux, FR",
+  "cardTitle": "Bordeaux, FR",
+  "date": "2022-11",
+  "dateLabel": "November 2022",
+  "year": "2022",
+  "location": "Bordeaux, France",
+  "country": "France",
+  "coords": [
+   44.8,
+   -0.6
+  ],
+  "tags": [
+   "abroad",
+   "city"
+  ],
+  "photos": 14,
+  "href": "blog/pages/bordeaux.html",
+  "card": [
+   {
+    "src": "assets/images/derived/bordeaux/3d793bbc-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/bordeaux/3d793bbc-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/bordeaux/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/bordeaux/cover-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "paris-revisited",
+  "title": "Gilded Paris",
+  "cardTitle": "Gilded Paris",
+  "date": "2022-11",
+  "dateLabel": "November 2022",
+  "year": "2022",
+  "location": "Paris, France",
+  "country": "France",
+  "coords": [
+   48.9,
+   2.3
+  ],
+  "tags": [
+   "abroad",
+   "city"
+  ],
+  "photos": 22,
+  "href": "blog/pages/paris-revisited.html",
+  "card": [
+   {
+    "src": "assets/images/derived/paris-revisited/thumbs/2aab7885-480.webp",
+    "w": 480,
+    "h": 321
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/paris-revisited/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/paris-revisited/cover-1600.webp",
+    "w": 1600,
+    "h": 1068
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "evergreen",
+  "title": "Evergreen, CO",
+  "cardTitle": "Evergreen, CO",
+  "date": "2022-10",
+  "dateLabel": "October 2022",
+  "year": "2022",
+  "location": "Evergreen, Colorado",
+  "country": "United States",
+  "coords": [
+   39.6,
+   -105.3
+  ],
+  "tags": [
+   "forest",
+   "mountains"
+  ],
+  "photos": 8,
+  "href": "blog/pages/evergreen.html",
+  "card": [
+   {
+    "src": "assets/images/derived/evergreen/d6465b1a-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/evergreen/d6465b1a-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/evergreen/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/evergreen/cover-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "summit-summer",
+  "title": "Summit County Summer",
+  "cardTitle": "Summit County Summer",
+  "date": "2022-09",
+  "dateLabel": "September 2022",
+  "year": "2022",
+  "location": "Summit County, Colorado",
+  "country": "United States",
+  "coords": [
+   39.6,
+   -106.1
+  ],
+  "tags": [
+   "backpacking",
+   "forest",
+   "hiking",
+   "lakes",
+   "mountains"
+  ],
+  "photos": 15,
+  "href": "blog/pages/summit-summer.html",
+  "card": [
+   {
+    "src": "assets/images/derived/summit-summer/thumbs/9ead89d3-480.webp",
+    "w": 480,
+    "h": 360
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/summit-summer/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/summit-summer/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "acadia",
+  "title": "Acadia NP",
+  "cardTitle": "Acadia NP",
+  "date": "2022-06",
+  "dateLabel": "June 2022",
+  "year": "2022",
+  "location": "Acadia National Park, Maine",
+  "country": "United States",
+  "coords": [
+   44.3,
+   -68.2
+  ],
+  "tags": [
+   "coast",
+   "lakes",
+   "national-park"
+  ],
+  "photos": 10,
+  "href": "blog/pages/acadia.html",
+  "card": [
+   {
+    "src": "assets/images/derived/acadia/3d83874e-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/acadia/3d83874e-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/acadia/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/acadia/cover-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "maritimes",
+  "title": "Maritime Spring",
+  "cardTitle": "Maritime Spring",
+  "date": "2022-06",
+  "dateLabel": "June 2022",
+  "year": "2022",
+  "location": "Charlottetown, Prince Edward Island & Halifax, Nova Scotia",
+  "country": "Canada",
+  "coords": [
+   45.4,
+   -63.4
+  ],
+  "tags": [
+   "abroad",
+   "coast",
+   "city"
+  ],
+  "photos": 11,
+  "href": "blog/pages/maritimes.html",
+  "card": [
+   {
+    "src": "assets/images/derived/maritimes/448e6489-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/maritimes/448e6489-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/maritimes/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/maritimes/cover-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "montreal",
+  "title": "Montréal, CA",
+  "cardTitle": "Montréal, CA",
+  "date": "2022-06",
+  "dateLabel": "June 2022",
+  "year": "2022",
+  "location": "Montréal, Quebec",
+  "country": "Canada",
+  "coords": [
+   45.5,
+   -73.6
+  ],
+  "tags": [
+   "abroad",
+   "city"
+  ],
+  "photos": 13,
+  "href": "blog/pages/montreal.html",
+  "card": [
+   {
+    "src": "assets/images/derived/montreal/dc6ddd0d-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/montreal/dc6ddd0d-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/montreal/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/montreal/cover-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "quebec-city",
+  "title": "Québec City, CA",
+  "cardTitle": "Québec City, CA",
+  "date": "2022-06",
+  "dateLabel": "June 2022",
+  "year": "2022",
+  "location": "Québec City & Montmorency Falls, Quebec",
+  "country": "Canada",
+  "coords": [
+   46.8,
+   -71.2
+  ],
+  "tags": [
+   "city",
+   "abroad",
+   "waterfalls"
+  ],
+  "photos": 10,
+  "href": "blog/pages/quebec-city.html",
+  "card": [
+   {
+    "src": "assets/images/derived/quebec-city/a43f52c2-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/quebec-city/a43f52c2-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/quebec-city/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/quebec-city/cover-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "vero-beach",
+  "title": "Vero Beach, FL",
+  "cardTitle": "Vero Beach, FL",
+  "date": "2022-04",
+  "dateLabel": "April 2022",
+  "year": "2022",
+  "location": "Vero Beach & Sebastian Inlet, Florida",
+  "country": "United States",
+  "coords": [
+   27.8,
+   -80.4
+  ],
+  "tags": [
+   "coast",
+   "state-park"
+  ],
+  "photos": 7,
+  "href": "blog/pages/vero-beach.html",
+  "card": [
+   {
+    "src": "assets/images/derived/vero-beach/thumbs/fef34cb7-480.webp",
+    "w": 480,
+    "h": 360
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/vero-beach/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/vero-beach/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "crested-butte-winter",
+  "title": "Crested Butte Winter",
+  "cardTitle": "Crested Butte Winter",
+  "date": "2022-02",
+  "dateLabel": "February 2022",
+  "year": "2022",
+  "location": "Crested Butte, Colorado",
+  "country": "United States",
+  "coords": [
+   38.9,
+   -107
+  ],
+  "tags": [
+   "mountains",
+   "road-trip",
+   "snow"
+  ],
+  "photos": 11,
+  "href": "blog/pages/crested-butte-winter.html",
+  "card": [
+   {
+    "src": "assets/images/derived/crested-butte-winter/f101d15a-480.webp",
+    "w": 480,
+    "h": 360
+   },
+   {
+    "src": "assets/images/derived/crested-butte-winter/f101d15a-960.webp",
+    "w": 960,
+    "h": 720
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/crested-butte-winter/cover-960.webp",
+    "w": 960,
+    "h": 1280
+   },
+   {
+    "src": "assets/images/derived/crested-butte-winter/cover-1600.webp",
+    "w": 1600,
+    "h": 2134
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "frozen-bear-creek",
+  "title": "Frozen Bear Creek",
+  "cardTitle": "Frozen Bear Creek",
+  "date": "2022-01",
+  "dateLabel": "January 2022",
+  "year": "2022",
+  "location": "Upper Bear Creek, near Evergreen, Colorado",
+  "country": "United States",
+  "coords": [
+   39.6,
+   -105.4
+  ],
+  "tags": [
+   "hiking",
+   "snow",
+   "forest",
+   "mountains"
+  ],
+  "photos": 6,
+  "href": "blog/pages/frozen-bear-creek.html",
+  "card": [
+   {
+    "src": "assets/images/derived/frozen-bear-creek/32d87faa-480.webp",
+    "w": 480,
+    "h": 640
+   },
+   {
+    "src": "assets/images/derived/frozen-bear-creek/32d87faa-960.webp",
+    "w": 960,
+    "h": 1280
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/frozen-bear-creek/cover-960.webp",
+    "w": 960,
+    "h": 1280
+   },
+   {
+    "src": "assets/images/derived/frozen-bear-creek/cover-1600.webp",
+    "w": 1600,
+    "h": 2134
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "keystone-winters",
+  "title": "Keystone Winters",
+  "cardTitle": "Keystone Winters",
+  "date": "2022-01",
+  "dateLabel": "November 2021 – April 2025",
+  "year": "2022",
+  "location": "Keystone & Breckenridge, Colorado",
+  "country": "United States",
+  "coords": [
+   39.6,
+   -105.9
+  ],
+  "tags": [
+   "mountains",
+   "snow"
+  ],
+  "photos": 20,
+  "href": "blog/pages/keystone-winters.html",
+  "card": [
+   {
+    "src": "assets/images/derived/keystone-winters/f213789b-480.webp",
+    "w": 480,
+    "h": 360
+   },
+   {
+    "src": "assets/images/derived/keystone-winters/f213789b-960.webp",
+    "w": 960,
+    "h": 720
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/keystone-winters/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/keystone-winters/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "seattle-nye",
+  "title": "Seattle NYE",
+  "cardTitle": "Seattle NYE",
+  "date": "2021-12",
+  "dateLabel": "December 2021",
+  "year": "2021",
+  "location": "Seattle, Washington",
+  "country": "United States",
+  "coords": [
+   47.6,
+   -122.3
+  ],
+  "tags": [
+   "city",
+   "mountains",
+   "snow"
+  ],
+  "photos": 7,
+  "href": "blog/pages/seattle-nye.html",
+  "card": [
+   {
+    "src": "assets/images/derived/seattle-nye/thumbs/e4d7a2a6-480.webp",
+    "w": 480,
+    "h": 360
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/seattle-nye/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/seattle-nye/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "hawaii-volcanoes",
+  "title": "Hawaii Volcanoes NP",
+  "cardTitle": "Hawaii Volcanoes NP",
+  "date": "2021-10",
+  "dateLabel": "October 2021",
+  "year": "2021",
+  "location": "Hawaii Volcanoes National Park, Hawaii",
+  "country": "United States",
+  "coords": [
+   19.4,
+   -155.3
+  ],
+  "tags": [
+   "coast",
+   "national-park",
+   "road-trip"
+  ],
+  "photos": 17,
+  "href": "blog/pages/hawaii-volcanoes.html",
+  "card": [
+   {
+    "src": "assets/images/derived/hawaii-volcanoes/cover-480.webp",
+    "w": 480,
+    "h": 360
+   },
+   {
+    "src": "assets/images/derived/hawaii-volcanoes/cover-960.webp",
+    "w": 960,
+    "h": 720
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/hawaii-volcanoes/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/hawaii-volcanoes/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "waipio-valley",
+  "title": "Waipio Valley, HI",
+  "cardTitle": "Waipio Valley, HI",
+  "date": "2021-10",
+  "dateLabel": "October 2021",
+  "year": "2021",
+  "location": "Waipio Valley, Hawaii",
+  "country": "United States",
+  "coords": [
+   20.1,
+   -155.6
+  ],
+  "tags": [
+   "coast",
+   "road-trip"
+  ],
+  "photos": 16,
+  "href": "blog/pages/waipio-valley.html",
+  "card": [
+   {
+    "src": "assets/images/derived/waipio-valley/0aa1869a-480.webp",
+    "w": 480,
+    "h": 321
+   },
+   {
+    "src": "assets/images/derived/waipio-valley/0aa1869a-960.webp",
+    "w": 960,
+    "h": 641
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/waipio-valley/cover-960.webp",
+    "w": 960,
+    "h": 642
+   },
+   {
+    "src": "assets/images/derived/waipio-valley/cover-1600.webp",
+    "w": 1600,
+    "h": 1070
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "grays-torreys",
+  "title": "Torreys Peak, CO",
+  "cardTitle": "Torreys Peak, CO",
+  "date": "2021-09",
+  "dateLabel": "September 2021",
+  "year": "2021",
+  "location": "Torreys Peak, Colorado",
+  "country": "United States",
+  "coords": [
+   39.6,
+   -105.8
+  ],
+  "tags": [
+   "hiking",
+   "mountains"
+  ],
+  "photos": 10,
+  "href": "blog/pages/grays-torreys.html",
+  "card": [
+   {
+    "src": "assets/images/derived/grays-torreys/fc126849-480.webp",
+    "w": 480,
+    "h": 321
+   },
+   {
+    "src": "assets/images/derived/grays-torreys/fc126849-960.webp",
+    "w": 960,
+    "h": 642
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/grays-torreys/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/grays-torreys/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "elk-falls",
+  "title": "Elk Falls Overlook",
+  "cardTitle": "Elk Falls",
+  "date": "2021-08",
+  "dateLabel": "August 2021",
+  "year": "2021",
+  "location": "Elk Falls Overlook, Staunton State Park, Colorado",
+  "country": "United States",
+  "coords": [
+   39.5,
+   -105.4
+  ],
+  "tags": [
+   "hiking",
+   "forest",
+   "waterfalls",
+   "mountains",
+   "state-park"
+  ],
+  "photos": 7,
+  "href": "blog/pages/elk-falls.html",
+  "card": [
+   {
+    "src": "assets/images/derived/elk-falls/thumbs/4c4e7bf3-480.webp",
+    "w": 480,
+    "h": 360
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/elk-falls/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/elk-falls/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "gore-range",
+  "title": "Gore Range, CO",
+  "cardTitle": "Gore Range, CO",
+  "date": "2021-07",
+  "dateLabel": "July 2021",
+  "year": "2021",
+  "location": "Eagles Nest Wilderness, Colorado",
+  "country": "United States",
+  "coords": [
+   39.7,
+   -106.2
+  ],
+  "tags": [
+   "backpacking",
+   "forest",
+   "hiking",
+   "lakes",
+   "mountains",
+   "snow",
+   "waterfalls"
+  ],
+  "photos": 19,
+  "href": "blog/pages/gore-range.html",
+  "card": [
+   {
+    "src": "assets/images/derived/gore-range/2fe2c6dc-480.webp",
+    "w": 480,
+    "h": 360
+   },
+   {
+    "src": "assets/images/derived/gore-range/2fe2c6dc-960.webp",
+    "w": 960,
+    "h": 720
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/gore-range/cover-960.webp",
+    "w": 960,
+    "h": 642
+   },
+   {
+    "src": "assets/images/derived/gore-range/cover-1600.webp",
+    "w": 1600,
+    "h": 1070
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "alpine-lakes",
+  "title": "Alpine Lakes Wilderness",
+  "cardTitle": "Alpine Lakes",
+  "date": "2021-06",
+  "dateLabel": "June 2021",
+  "year": "2021",
+  "location": "Alpine Lakes Wilderness, Washington",
+  "country": "United States",
+  "coords": [
+   47.4,
+   -121.5
+  ],
+  "tags": [
+   "backpacking",
+   "forest",
+   "hiking",
+   "lakes",
+   "mountains",
+   "night-sky",
+   "snow",
+   "waterfalls"
+  ],
+  "photos": 20,
+  "href": "blog/pages/alpine-lakes.html",
+  "card": [
+   {
+    "src": "assets/images/derived/alpine-lakes/17ffc3b9-480.webp",
+    "w": 480,
+    "h": 321
+   },
+   {
+    "src": "assets/images/derived/alpine-lakes/17ffc3b9-960.webp",
+    "w": 960,
+    "h": 642
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/alpine-lakes/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/alpine-lakes/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "crested-butte",
+  "title": "Crested Butte, CO",
+  "cardTitle": "Crested Butte, CO",
+  "date": "2021-06",
+  "dateLabel": "June 2021",
+  "year": "2021",
+  "location": "Crested Butte & Kebler Pass, Colorado",
+  "country": "United States",
+  "coords": [
+   38.9,
+   -107
+  ],
+  "tags": [
+   "forest",
+   "lakes",
+   "mountains",
+   "road-trip"
+  ],
+  "photos": 14,
+  "href": "blog/pages/crested-butte.html",
+  "card": [
+   {
+    "src": "assets/images/derived/crested-butte/bd6680ac-480.webp",
+    "w": 480,
+    "h": 360
+   },
+   {
+    "src": "assets/images/derived/crested-butte/bd6680ac-960.webp",
+    "w": 960,
+    "h": 720
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/crested-butte/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/crested-butte/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "lookout-mountain",
+  "title": "Lookout Mountain, CO",
+  "cardTitle": "Lookout Mountain, CO",
+  "date": "2021-06",
+  "dateLabel": "June 2021",
+  "year": "2021",
+  "location": "Lookout Mountain, Golden, Colorado",
+  "country": "United States",
+  "coords": [
+   39.7,
+   -105.2
+  ],
+  "tags": [
+   "mountains",
+   "hiking"
+  ],
+  "photos": 5,
+  "href": "blog/pages/lookout-mountain.html",
+  "card": [
+   {
+    "src": "assets/images/derived/lookout-mountain/thumbs/d24620bc-480.webp",
+    "w": 480,
+    "h": 360
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/lookout-mountain/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/lookout-mountain/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "portland",
+  "title": "Portland, OR",
+  "cardTitle": "Portland, OR",
+  "date": "2021-06",
+  "dateLabel": "June 2021 – May 2023",
+  "year": "2021",
+  "location": "Portland, Oregon",
+  "country": "United States",
+  "coords": [
+   45.5,
+   -122.7
+  ],
+  "tags": [
+   "city",
+   "forest",
+   "hiking",
+   "mountains",
+   "waterfalls"
+  ],
+  "photos": 24,
+  "href": "blog/pages/portland.html",
+  "card": [
+   {
+    "src": "assets/images/derived/portland/710f94bd-480.webp",
+    "w": 480,
+    "h": 360
+   },
+   {
+    "src": "assets/images/derived/portland/710f94bd-960.webp",
+    "w": 960,
+    "h": 720
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/portland/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/portland/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "indian-peaks",
+  "title": "Indian Peaks",
+  "cardTitle": "Indian Peaks",
+  "date": "2021-05",
+  "dateLabel": "May 2021",
+  "year": "2021",
+  "location": "Indian Peaks, Colorado",
+  "country": "United States",
+  "coords": [
+   40,
+   -105.6
+  ],
+  "tags": [
+   "backpacking",
+   "hiking",
+   "mountains",
+   "lakes",
+   "waterfalls",
+   "snow"
+  ],
+  "photos": 14,
+  "href": "blog/pages/indian-peaks.html",
+  "card": [
+   {
+    "src": "assets/images/derived/indian-peaks/5b8404aa-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/indian-peaks/5b8404aa-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/indian-peaks/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/indian-peaks/cover-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "smoky-rockies",
+  "title": "Smoky Rockies",
+  "cardTitle": "Smoky Rockies",
+  "date": "2020-10",
+  "dateLabel": "October 2020",
+  "year": "2020",
+  "location": "Estes Park and Rocky Mountain National Park, Colorado",
+  "country": "United States",
+  "coords": [
+   40.4,
+   -105.6
+  ],
+  "tags": [
+   "hiking",
+   "lakes",
+   "mountains",
+   "national-park",
+   "road-trip",
+   "waterfalls"
+  ],
+  "photos": 12,
+  "href": "blog/pages/smoky-rockies.html",
+  "card": [
+   {
+    "src": "assets/images/derived/smoky-rockies/thumbs/b663164f-480.webp",
+    "w": 480,
+    "h": 320
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/smoky-rockies/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/smoky-rockies/cover-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "colorado-gold",
+  "title": "Colorado Gold",
+  "cardTitle": "Colorado Gold",
+  "date": "2020-09",
+  "dateLabel": "September 2020",
+  "year": "2020",
+  "location": "Elk Mountains, Colorado",
+  "country": "United States",
+  "coords": [
+   39,
+   -106.9
+  ],
+  "tags": [
+   "forest",
+   "hiking",
+   "mountains",
+   "road-trip"
+  ],
+  "photos": 19,
+  "href": "blog/pages/colorado-gold.html",
+  "card": [
+   {
+    "src": "assets/images/derived/colorado-gold/3e90f8fb-480.webp",
+    "w": 480,
+    "h": 300
+   },
+   {
+    "src": "assets/images/derived/colorado-gold/3e90f8fb-960.webp",
+    "w": 960,
+    "h": 600
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/colorado-gold/cover-960.webp",
+    "w": 960,
+    "h": 600
+   },
+   {
+    "src": "assets/images/derived/colorado-gold/cover-1600.webp",
+    "w": 1600,
+    "h": 1000
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "telluride",
+  "title": "Telluride, CO",
+  "cardTitle": "Telluride, CO",
+  "date": "2020-09",
+  "dateLabel": "September 2020",
+  "year": "2020",
+  "location": "Telluride, Colorado",
+  "country": "United States",
+  "coords": [
+   37.9,
+   -107.8
+  ],
+  "tags": [
+   "hiking",
+   "mountains",
+   "road-trip",
+   "waterfalls"
+  ],
+  "photos": 17,
+  "href": "blog/pages/telluride.html",
+  "card": [
+   {
+    "src": "assets/images/derived/telluride/a3d36f6b-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/telluride/a3d36f6b-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/telluride/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/telluride/cover-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "camp-muir",
+  "title": "Camp Muir",
+  "cardTitle": "Camp Muir",
+  "date": "2020-08",
+  "dateLabel": "August 2020",
+  "year": "2020",
+  "location": "Camp Muir, Mount Rainier National Park, Washington",
+  "country": "United States",
+  "coords": [
+   46.8,
+   -121.7
+  ],
+  "tags": [
+   "national-park",
+   "mountains",
+   "backpacking",
+   "hiking",
+   "snow",
+   "night-sky"
+  ],
+  "photos": 18,
+  "href": "blog/pages/camp-muir.html",
+  "card": [
+   {
+    "src": "assets/images/derived/camp-muir/2814b716-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/camp-muir/2814b716-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/camp-muir/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/camp-muir/cover-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "st-marys-glacier",
+  "title": "St. Mary's Glacier",
+  "cardTitle": "St. Mary's Glacier",
+  "date": "2020-08",
+  "dateLabel": "August 2020",
+  "year": "2020",
+  "location": "St. Mary's Glacier, Colorado",
+  "country": "United States",
+  "coords": [
+   39.8,
+   -105.6
+  ],
+  "tags": [
+   "hiking",
+   "mountains",
+   "snow",
+   "aerial"
+  ],
+  "photos": 7,
+  "href": "blog/pages/st-marys-glacier.html",
+  "card": [
+   {
+    "src": "assets/images/derived/st-marys-glacier/97f8ac05-480.webp",
+    "w": 480,
+    "h": 640
+   },
+   {
+    "src": "assets/images/derived/st-marys-glacier/97f8ac05-960.webp",
+    "w": 960,
+    "h": 1280
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/st-marys-glacier/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/st-marys-glacier/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "summit-afterglow",
+  "title": "Summit County Afterglow",
+  "cardTitle": "Summit Afterglow",
+  "date": "2020-02",
+  "dateLabel": "February 2020",
+  "year": "2020",
+  "location": "Summit County, Colorado",
+  "country": "United States",
+  "coords": [
+   39.6,
+   -106.1
+  ],
+  "tags": [
+   "mountains",
+   "snow",
+   "aerial",
+   "road-trip",
+   "lakes"
+  ],
+  "photos": 15,
+  "href": "blog/pages/summit-afterglow.html",
+  "card": [
+   {
+    "src": "assets/images/derived/summit-afterglow/67d422d3-480.webp",
+    "w": 480,
+    "h": 360
+   },
+   {
+    "src": "assets/images/derived/summit-afterglow/67d422d3-960.webp",
+    "w": 960,
+    "h": 720
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/summit-afterglow/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/summit-afterglow/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "valley-of-fire",
+  "title": "Valley of Fire, NV",
+  "cardTitle": "Valley of Fire, NV",
+  "date": "2020-01",
+  "dateLabel": "January & April 2020",
+  "year": "2020",
+  "location": "Valley of Fire State Park, Nevada",
+  "country": "United States",
+  "coords": [
+   36.4,
+   -114.5
+  ],
+  "tags": [
+   "desert",
+   "road-trip",
+   "state-park"
+  ],
+  "photos": 8,
+  "href": "blog/pages/valley-of-fire.html",
+  "card": [
+   {
+    "src": "assets/images/derived/valley-of-fire/48952241-480.webp",
+    "w": 480,
+    "h": 360
+   },
+   {
+    "src": "assets/images/derived/valley-of-fire/48952241-960.webp",
+    "w": 960,
+    "h": 720
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/valley-of-fire/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/valley-of-fire/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "luxembourg",
+  "title": "Luxembourg, LU",
+  "cardTitle": "Luxembourg, LU",
+  "date": "2019-12",
+  "dateLabel": "December 2019",
+  "year": "2019",
+  "location": "Vianden & Luxembourg City, Luxembourg",
+  "country": "Luxembourg",
+  "coords": [
+   49.9,
+   6.2
+  ],
+  "tags": [
+   "abroad",
+   "city"
+  ],
+  "photos": 11,
+  "href": "blog/pages/luxembourg.html",
+  "card": [
+   {
+    "src": "assets/images/derived/luxembourg/84973137-480.webp",
+    "w": 480,
+    "h": 321
+   },
+   {
+    "src": "assets/images/derived/luxembourg/84973137-960.webp",
+    "w": 960,
+    "h": 641
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/luxembourg/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/luxembourg/cover-1600.webp",
+    "w": 1600,
+    "h": 1069
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "snowy-roxborough",
+  "title": "Snowy Roxborough",
+  "cardTitle": "Snowy Roxborough",
+  "date": "2019-11",
+  "dateLabel": "November 2019",
+  "year": "2019",
+  "location": "Roxborough State Park, Colorado",
+  "country": "United States",
+  "coords": [
+   39.4,
+   -105.1
+  ],
+  "tags": [
+   "state-park",
+   "snow",
+   "mountains",
+   "hiking"
+  ],
+  "photos": 7,
+  "href": "blog/pages/snowy-roxborough.html",
+  "card": [
+   {
+    "src": "assets/images/derived/snowy-roxborough/fb3b0a64-480.webp",
+    "w": 480,
+    "h": 321
+   },
+   {
+    "src": "assets/images/derived/snowy-roxborough/fb3b0a64-960.webp",
+    "w": 960,
+    "h": 641
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/snowy-roxborough/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/snowy-roxborough/cover-1600.webp",
+    "w": 1600,
+    "h": 1069
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "goat-summit",
+  "title": "Goat Summit",
+  "cardTitle": "Goat Summit",
+  "date": "2019-10",
+  "dateLabel": "October 2019",
+  "year": "2019",
+  "location": "Summit County, Colorado",
+  "country": "United States",
+  "coords": [
+   39.5,
+   -106
+  ],
+  "tags": [
+   "forest",
+   "hiking",
+   "lakes",
+   "mountains",
+   "road-trip"
+  ],
+  "photos": 17,
+  "href": "blog/pages/goat-summit.html",
+  "card": [
+   {
+    "src": "assets/images/derived/goat-summit/897fe376-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/goat-summit/897fe376-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/goat-summit/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/goat-summit/cover-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "independence-pass",
+  "title": "Independence Pass",
+  "cardTitle": "Independence Pass",
+  "date": "2019-10",
+  "dateLabel": "October 2019",
+  "year": "2019",
+  "location": "Independence Pass, Colorado",
+  "country": "United States",
+  "coords": [
+   39.1,
+   -106.5
+  ],
+  "tags": [
+   "mountains",
+   "forest",
+   "lakes",
+   "road-trip"
+  ],
+  "photos": 14,
+  "href": "blog/pages/independence-pass.html",
+  "card": [
+   {
+    "src": "assets/images/derived/independence-pass/thumbs/983c49f9-480.webp",
+    "w": 480,
+    "h": 320
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/independence-pass/cover-960.webp",
+    "w": 960,
+    "h": 640
+   },
+   {
+    "src": "assets/images/derived/independence-pass/cover-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "new-york",
+  "title": "New York, NY",
+  "cardTitle": "New York, NY",
+  "date": "2019-10",
+  "dateLabel": "October 2019 – May 2022",
+  "year": "2019",
+  "location": "New York City, New York",
+  "country": "United States",
+  "coords": [
+   40.7,
+   -74
+  ],
+  "tags": [
+   "city"
+  ],
+  "photos": 19,
+  "href": "blog/pages/new-york.html",
+  "card": [
+   {
+    "src": "assets/images/derived/new-york/thumbs/6950661e-480.webp",
+    "w": 480,
+    "h": 321
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/new-york/cover-960.webp",
+    "w": 960,
+    "h": 642
+   },
+   {
+    "src": "assets/images/derived/new-york/cover-1600.webp",
+    "w": 1600,
+    "h": 1070
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "grand-canyon",
+  "title": "Grand Canyon NP",
+  "cardTitle": "Grand Canyon NP",
+  "date": "2019-08",
+  "dateLabel": "August 2019",
+  "year": "2019",
+  "location": "Grand Canyon National Park & Diamond Creek, Arizona",
+  "country": "United States",
+  "coords": [
+   36.1,
+   -112.1
+  ],
+  "tags": [
+   "desert",
+   "national-park",
+   "night-sky",
+   "road-trip"
+  ],
+  "photos": 12,
+  "href": "blog/pages/grand-canyon.html",
+  "card": [
+   {
+    "src": "assets/images/derived/grand-canyon/b1f8aafb-480.webp",
+    "w": 480,
+    "h": 360
+   },
+   {
+    "src": "assets/images/derived/grand-canyon/b1f8aafb-960.webp",
+    "w": 960,
+    "h": 720
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/grand-canyon/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/grand-canyon/cover-1600.webp",
+    "w": 1600,
+    "h": 1069
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "among-the-giants",
+  "title": "Among the Giants",
+  "cardTitle": "Among the Giants",
+  "date": "2019-07",
+  "dateLabel": "July 2019",
+  "year": "2019",
+  "location": "Sequoia & Kings Canyon National Parks, California",
+  "country": "United States",
+  "coords": [
+   36.7,
+   -118.9
+  ],
+  "tags": [
+   "forest",
+   "mountains",
+   "national-park",
+   "road-trip"
+  ],
+  "photos": 13,
+  "href": "blog/pages/among-the-giants.html",
+  "card": [
+   {
+    "src": "assets/images/derived/among-the-giants/34b88196-480.webp",
+    "w": 480,
+    "h": 640
+   },
+   {
+    "src": "assets/images/derived/among-the-giants/34b88196-960.webp",
+    "w": 960,
+    "h": 1280
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/among-the-giants/cover-960.webp",
+    "w": 960,
+    "h": 1280
+   },
+   {
+    "src": "assets/images/derived/among-the-giants/cover-1600.webp",
+    "w": 1600,
+    "h": 2134
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "high-sierra",
+  "title": "High Sierra",
+  "cardTitle": "High Sierra",
+  "date": "2019-07",
+  "dateLabel": "July 2019",
+  "year": "2019",
+  "location": "Eastern Sierra, California",
+  "country": "United States",
+  "coords": [
+   37.1,
+   -118.5
+  ],
+  "tags": [
+   "mountains",
+   "lakes",
+   "waterfalls",
+   "snow",
+   "hiking",
+   "forest"
+  ],
+  "photos": 19,
+  "href": "blog/pages/high-sierra.html",
+  "card": [
+   {
+    "src": "assets/images/derived/high-sierra/1ec4581e-480.webp",
+    "w": 480,
+    "h": 321
+   },
+   {
+    "src": "assets/images/derived/high-sierra/1ec4581e-960.webp",
+    "w": 960,
+    "h": 641
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/high-sierra/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/high-sierra/cover-1600.webp",
+    "w": 1600,
+    "h": 1069
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "yosemite",
+  "title": "Yosemite NP",
+  "cardTitle": "Yosemite NP",
+  "date": "2019-07",
+  "dateLabel": "July 2019",
+  "year": "2019",
+  "location": "Yosemite National Park, California",
+  "country": "United States",
+  "coords": [
+   37.7,
+   -119.6
+  ],
+  "tags": [
+   "national-park",
+   "mountains",
+   "waterfalls",
+   "road-trip"
+  ],
+  "photos": 9,
+  "href": "blog/pages/yosemite.html",
+  "card": [
+   {
+    "src": "assets/images/derived/yosemite/ca050b97-480.webp",
+    "w": 480,
+    "h": 321
+   },
+   {
+    "src": "assets/images/derived/yosemite/ca050b97-960.webp",
+    "w": 960,
+    "h": 641
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/yosemite/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/yosemite/cover-1600.webp",
+    "w": 1600,
+    "h": 1069
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "austin-revisited",
+  "title": "Austin, Revisited",
+  "cardTitle": "Austin, Revisited",
+  "date": "2019-06",
+  "dateLabel": "June 2019",
+  "year": "2019",
+  "location": "Austin and Enchanted Rock, Texas",
+  "country": "United States",
+  "coords": [
+   30.3,
+   -97.8
+  ],
+  "tags": [
+   "city",
+   "state-park",
+   "hiking"
+  ],
+  "photos": 6,
+  "href": "blog/pages/austin-revisited.html",
+  "card": [
+   {
+    "src": "assets/images/derived/austin-revisited/f5548672-480.webp",
+    "w": 480,
+    "h": 360
+   },
+   {
+    "src": "assets/images/derived/austin-revisited/f5548672-960.webp",
+    "w": 960,
+    "h": 720
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/austin-revisited/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/austin-revisited/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "zion-windows",
+  "title": "Zion Windows",
+  "cardTitle": "Zion Windows",
+  "date": "2019-05",
+  "dateLabel": "May 2019",
+  "year": "2019",
+  "location": "Zion National Park, Utah",
+  "country": "United States",
+  "coords": [
+   37.2,
+   -112.9
+  ],
+  "tags": [
+   "national-park",
+   "desert",
+   "hiking",
+   "mountains",
+   "road-trip"
+  ],
+  "photos": 24,
+  "href": "blog/pages/zion-windows.html",
+  "card": [
+   {
+    "src": "assets/images/derived/zion-windows/thumbs/90541e4e-480.webp",
+    "w": 480,
+    "h": 360
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/zion-windows/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/zion-windows/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "great-smoky-mountains",
+  "title": "Great Smoky Mountains NP",
+  "cardTitle": "Smoky Mountains NP",
+  "date": "2019-04",
+  "dateLabel": "April 2019",
+  "year": "2019",
+  "location": "Great Smoky Mountains National Park, North Carolina",
+  "country": "United States",
+  "coords": [
+   35.6,
+   -83.5
+  ],
+  "tags": [
+   "national-park",
+   "mountains",
+   "backpacking",
+   "hiking",
+   "forest",
+   "waterfalls"
+  ],
+  "photos": 10,
+  "href": "blog/pages/great-smoky-mountains.html",
+  "card": [
+   {
+    "src": "assets/images/derived/great-smoky-mountains/baf8e08e-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/great-smoky-mountains/baf8e08e-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/great-smoky-mountains/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/great-smoky-mountains/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "sedona",
+  "title": "Sedona, AZ",
+  "cardTitle": "Sedona, AZ",
+  "date": "2019-04",
+  "dateLabel": "April 2019",
+  "year": "2019",
+  "location": "Sedona, Arizona",
+  "country": "United States",
+  "coords": [
+   34.9,
+   -111.8
+  ],
+  "tags": [
+   "desert",
+   "hiking"
+  ],
+  "photos": 7,
+  "href": "blog/pages/sedona.html",
+  "card": [
+   {
+    "src": "assets/images/derived/sedona/8dd761d7-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/sedona/8dd761d7-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/sedona/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/sedona/cover-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "whistler",
+  "title": "Whistler, BC",
+  "cardTitle": "Whistler, BC",
+  "date": "2019-04",
+  "dateLabel": "April 2019",
+  "year": "2019",
+  "location": "Whistler, British Columbia",
+  "country": "Canada",
+  "coords": [
+   50.1,
+   -122.9
+  ],
+  "tags": [
+   "abroad",
+   "mountains",
+   "road-trip",
+   "snow"
+  ],
+  "photos": 14,
+  "href": "blog/pages/whistler.html",
+  "card": [
+   {
+    "src": "assets/images/derived/whistler/b7bdf49c-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/whistler/b7bdf49c-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/whistler/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/whistler/cover-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "waterton-canyon",
+  "title": "Waterton Canyon, CO",
+  "cardTitle": "Waterton Canyon",
+  "date": "2018-10",
+  "dateLabel": "October 2018 – October 2022",
+  "year": "2018",
+  "location": "Waterton Canyon, Colorado",
+  "country": "United States",
+  "coords": [
+   39.5,
+   -105.1
+  ],
+  "tags": [
+   "hiking",
+   "mountains"
+  ],
+  "photos": 12,
+  "href": "blog/pages/waterton-canyon.html",
+  "card": [
+   {
+    "src": "assets/images/derived/waterton-canyon/5c01afaf-480.webp",
+    "w": 480,
+    "h": 480
+   },
+   {
+    "src": "assets/images/derived/waterton-canyon/5c01afaf-960.webp",
+    "w": 960,
+    "h": 960
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/waterton-canyon/cover-960.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "assets/images/derived/waterton-canyon/cover-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "sharkfin-tower",
+  "title": "Sharkfin Tower",
+  "cardTitle": "Sharkfin Tower",
+  "date": "2018-09",
+  "dateLabel": "September 2018",
+  "year": "2018",
+  "location": "North Cascades National Park, Washington",
+  "country": "United States",
+  "coords": [
+   48.5,
+   -121.1
+  ],
+  "tags": [
+   "national-park",
+   "mountains",
+   "hiking",
+   "backpacking",
+   "snow",
+   "waterfalls"
+  ],
+  "photos": 17,
+  "href": "blog/pages/sharkfin-tower.html",
+  "card": [
+   {
+    "src": "assets/images/derived/sharkfin-tower/d65bad7d-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/sharkfin-tower/d65bad7d-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/sharkfin-tower/cover-960.webp",
+    "w": 960,
+    "h": 640
+   },
+   {
+    "src": "assets/images/derived/sharkfin-tower/cover-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "bryce-canyon",
+  "title": "Bryce Canyon NP",
+  "cardTitle": "Bryce Canyon NP",
+  "date": "2018-08",
+  "dateLabel": "August 2018",
+  "year": "2018",
+  "location": "Bryce Canyon National Park, Utah",
+  "country": "United States",
+  "coords": [
+   37.6,
+   -112.2
+  ],
+  "tags": [
+   "national-park",
+   "desert",
+   "hiking",
+   "road-trip"
+  ],
+  "photos": 15,
+  "href": "blog/pages/bryce-canyon.html",
+  "card": [
+   {
+    "src": "assets/images/derived/bryce-canyon/9f3ba2e1-480.webp",
+    "w": 480,
+    "h": 321
+   },
+   {
+    "src": "assets/images/derived/bryce-canyon/9f3ba2e1-960.webp",
+    "w": 960,
+    "h": 641
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/bryce-canyon/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/bryce-canyon/cover-1600.webp",
+    "w": 1600,
+    "h": 1069
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "capitol-reef",
+  "title": "Capitol Reef NP",
+  "cardTitle": "Capitol Reef NP",
+  "date": "2018-08",
+  "dateLabel": "August 2018",
+  "year": "2018",
+  "location": "Capitol Reef National Park, Utah",
+  "country": "United States",
+  "coords": [
+   38.3,
+   -111.3
+  ],
+  "tags": [
+   "national-park",
+   "desert",
+   "hiking",
+   "night-sky",
+   "road-trip"
+  ],
+  "photos": 9,
+  "href": "blog/pages/capitol-reef.html",
+  "card": [
+   {
+    "src": "assets/images/derived/capitol-reef/cff8b6d4-480.webp",
+    "w": 480,
+    "h": 321
+   },
+   {
+    "src": "assets/images/derived/capitol-reef/cff8b6d4-960.webp",
+    "w": 960,
+    "h": 641
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/capitol-reef/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/capitol-reef/cover-1600.webp",
+    "w": 1600,
+    "h": 1069
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "four-corners",
+  "title": "Four Corners",
+  "cardTitle": "Four Corners",
+  "date": "2018-08",
+  "dateLabel": "August 2018",
+  "year": "2018",
+  "location": "Four Corners Region, Southwestern United States",
+  "country": "United States",
+  "coords": [
+   37,
+   -110
+  ],
+  "tags": [
+   "road-trip",
+   "desert",
+   "national-park",
+   "mountains"
+  ],
+  "photos": 16,
+  "href": "blog/pages/four-corners.html",
+  "card": [
+   {
+    "src": "assets/images/derived/four-corners/thumbs/39f4225b-480.webp",
+    "w": 480,
+    "h": 321
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/four-corners/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/four-corners/cover-1600.webp",
+    "w": 1600,
+    "h": 1068
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "moab",
+  "title": "Moab, UT",
+  "cardTitle": "Moab, UT",
+  "date": "2018-08",
+  "dateLabel": "August 2018",
+  "year": "2018",
+  "location": "Canyonlands & Arches National Parks, Utah",
+  "country": "United States",
+  "coords": [
+   38.6,
+   -109.6
+  ],
+  "tags": [
+   "national-park",
+   "desert",
+   "hiking",
+   "road-trip"
+  ],
+  "photos": 21,
+  "href": "blog/pages/moab.html",
+  "card": [
+   {
+    "src": "assets/images/derived/moab/33460057-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/moab/33460057-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/moab/cover-960.webp",
+    "w": 960,
+    "h": 640
+   },
+   {
+    "src": "assets/images/derived/moab/cover-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "north-cascades",
+  "title": "North Cascades NP",
+  "cardTitle": "North Cascades NP",
+  "date": "2018-07",
+  "dateLabel": "July 2018",
+  "year": "2018",
+  "location": "North Cascades National Park, Washington",
+  "country": "United States",
+  "coords": [
+   48.7,
+   -121.2
+  ],
+  "tags": [
+   "national-park",
+   "mountains",
+   "hiking",
+   "lakes",
+   "snow",
+   "night-sky"
+  ],
+  "photos": 22,
+  "href": "blog/pages/north-cascades.html",
+  "card": [
+   {
+    "src": "assets/images/derived/north-cascades/349e4e96-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/north-cascades/349e4e96-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/north-cascades/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/north-cascades/cover-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "glacier-np",
+  "title": "Glacier NP",
+  "cardTitle": "Glacier NP",
+  "date": "2018-06",
+  "dateLabel": "June 2018",
+  "year": "2018",
+  "location": "Glacier National Park, Montana",
+  "country": "United States",
+  "coords": [
+   48.5,
+   -113.4
+  ],
+  "tags": [
+   "national-park",
+   "mountains",
+   "backpacking",
+   "hiking",
+   "lakes",
+   "waterfalls",
+   "snow"
+  ],
+  "photos": 12,
+  "href": "blog/pages/glacier-np.html",
+  "card": [
+   {
+    "src": "assets/images/derived/glacier-np/2bc537b6-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/glacier-np/2bc537b6-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/glacier-np/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/glacier-np/cover-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "cape-flattery",
+  "title": "Cape Flattery, WA",
+  "cardTitle": "Cape Flattery, WA",
+  "date": "2018-05",
+  "dateLabel": "May 2018",
+  "year": "2018",
+  "location": "Cape Flattery, Washington",
+  "country": "United States",
+  "coords": [
+   48.4,
+   -124.7
+  ],
+  "tags": [
+   "aerial",
+   "coast",
+   "forest",
+   "hiking",
+   "road-trip"
+  ],
+  "photos": 11,
+  "href": "blog/pages/cape-flattery.html",
+  "card": [
+   {
+    "src": "assets/images/derived/cape-flattery/f0a0d648-480.webp",
+    "w": 480,
+    "h": 321
+   },
+   {
+    "src": "assets/images/derived/cape-flattery/f0a0d648-960.webp",
+    "w": 960,
+    "h": 641
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/cape-flattery/cover-960.webp",
+    "w": 960,
+    "h": 540
+   },
+   {
+    "src": "assets/images/derived/cape-flattery/cover-1600.webp",
+    "w": 1600,
+    "h": 900
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "olympic-coast",
+  "title": "Olympic Coast",
+  "cardTitle": "Olympic Coast",
+  "date": "2018-05",
+  "dateLabel": "May 2018",
+  "year": "2018",
+  "location": "Olympic Coast, Washington",
+  "country": "United States",
+  "coords": [
+   47.9,
+   -124.6
+  ],
+  "tags": [
+   "backpacking",
+   "coast",
+   "forest",
+   "national-park"
+  ],
+  "photos": 15,
+  "href": "blog/pages/olympic-coast.html",
+  "card": [
+   {
+    "src": "assets/images/derived/olympic-coast/thumbs/9eca0d71-480.webp",
+    "w": 480,
+    "h": 321
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/olympic-coast/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/olympic-coast/cover-1600.webp",
+    "w": 1600,
+    "h": 1069
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "olympic-np",
+  "title": "Olympic NP",
+  "cardTitle": "Olympic NP",
+  "date": "2018-05",
+  "dateLabel": "May 2018",
+  "year": "2018",
+  "location": "Olympic National Park, Washington",
+  "country": "United States",
+  "coords": [
+   48,
+   -123.5
+  ],
+  "tags": [
+   "forest",
+   "hiking",
+   "lakes",
+   "mountains",
+   "national-park",
+   "road-trip",
+   "waterfalls"
+  ],
+  "photos": 15,
+  "href": "blog/pages/olympic-np.html",
+  "card": [
+   {
+    "src": "assets/images/derived/olympic-np/5a4abe57-480.webp",
+    "w": 480,
+    "h": 321
+   },
+   {
+    "src": "assets/images/derived/olympic-np/5a4abe57-960.webp",
+    "w": 960,
+    "h": 642
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/olympic-np/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/olympic-np/cover-1600.webp",
+    "w": 1600,
+    "h": 1069
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "sky-islands",
+  "title": "Sky Islands",
+  "cardTitle": "Sky Islands",
+  "date": "2018-05",
+  "dateLabel": "May 2018 – December 2019",
+  "year": "2018",
+  "location": "Spring Mountains, Nevada",
+  "country": "United States",
+  "coords": [
+   36.3,
+   -115.7
+  ],
+  "tags": [
+   "mountains",
+   "hiking",
+   "backpacking",
+   "desert",
+   "forest",
+   "snow"
+  ],
+  "photos": 21,
+  "href": "blog/pages/sky-islands.html",
+  "card": [
+   {
+    "src": "assets/images/derived/sky-islands/26b0828a-480.webp",
+    "w": 480,
+    "h": 321
+   },
+   {
+    "src": "assets/images/derived/sky-islands/26b0828a-960.webp",
+    "w": 960,
+    "h": 642
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/sky-islands/cover-960.webp",
+    "w": 960,
+    "h": 642
+   },
+   {
+    "src": "assets/images/derived/sky-islands/cover-1600.webp",
+    "w": 1600,
+    "h": 1070
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "death-valley",
+  "title": "Death Valley NP",
+  "cardTitle": "Death Valley NP",
+  "date": "2018-04",
+  "dateLabel": "April 2018 – July 2019",
+  "year": "2018",
+  "location": "Death Valley National Park, California",
+  "country": "United States",
+  "coords": [
+   36.5,
+   -117.1
+  ],
+  "tags": [
+   "national-park",
+   "desert",
+   "mountains",
+   "hiking",
+   "night-sky",
+   "road-trip"
+  ],
+  "photos": 13,
+  "href": "blog/pages/death-valley.html",
+  "card": [
+   {
+    "src": "assets/images/derived/death-valley/a643fc11-480.webp",
+    "w": 480,
+    "h": 321
+   },
+   {
+    "src": "assets/images/derived/death-valley/a643fc11-960.webp",
+    "w": 960,
+    "h": 641
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/death-valley/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/death-valley/cover-1600.webp",
+    "w": 1600,
+    "h": 1069
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "zion",
+  "title": "Zion NP",
+  "cardTitle": "Zion NP",
+  "date": "2018-04",
+  "dateLabel": "April 2018",
+  "year": "2018",
+  "location": "Zion National Park, Utah",
+  "country": "United States",
+  "coords": [
+   37.3,
+   -113
+  ],
+  "tags": [
+   "national-park",
+   "hiking",
+   "desert",
+   "night-sky"
+  ],
+  "photos": 22,
+  "href": "blog/pages/zion.html",
+  "card": [
+   {
+    "src": "assets/images/derived/zion/c48421d2-480.webp",
+    "w": 480,
+    "h": 321
+   },
+   {
+    "src": "assets/images/derived/zion/c48421d2-960.webp",
+    "w": 960,
+    "h": 641
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/zion/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/zion/cover-1600.webp",
+    "w": 1600,
+    "h": 1069
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "arizona-hot-springs",
+  "title": "Arizona Hot Springs",
+  "cardTitle": "Arizona Hot Springs",
+  "date": "2018-01",
+  "dateLabel": "January 2018",
+  "year": "2018",
+  "location": "Black Canyon of the Colorado River, Arizona/Nevada",
+  "country": "United States",
+  "coords": [
+   36,
+   -114.7
+  ],
+  "tags": [
+   "backpacking",
+   "desert",
+   "hiking",
+   "night-sky"
+  ],
+  "photos": 15,
+  "href": "blog/pages/arizona-hot-springs.html",
+  "card": [
+   {
+    "src": "assets/images/derived/arizona-hot-springs/a4778c71-480.webp",
+    "w": 480,
+    "h": 360
+   },
+   {
+    "src": "assets/images/derived/arizona-hot-springs/a4778c71-960.webp",
+    "w": 960,
+    "h": 720
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/arizona-hot-springs/cover-960.webp",
+    "w": 960,
+    "h": 640
+   },
+   {
+    "src": "assets/images/derived/arizona-hot-springs/cover-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "moapa-peak",
+  "title": "Moapa Peak, NV",
+  "cardTitle": "Moapa Peak, NV",
+  "date": "2018-01",
+  "dateLabel": "January 2018",
+  "year": "2018",
+  "location": "Mormon Mountains Wilderness, Nevada",
+  "country": "United States",
+  "coords": [
+   36.9,
+   -114.5
+  ],
+  "tags": [
+   "hiking",
+   "desert",
+   "mountains"
+  ],
+  "photos": 14,
+  "href": "blog/pages/moapa-peak.html",
+  "card": [
+   {
+    "src": "assets/images/derived/moapa-peak/9476b08e-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/moapa-peak/9476b08e-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/moapa-peak/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/moapa-peak/cover-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "gulfport",
+  "title": "Gulfport, MS",
+  "cardTitle": "Gulfport, MS",
+  "date": "2017-10",
+  "dateLabel": "October 2017",
+  "year": "2017",
+  "location": "Gulfport, Mississippi",
+  "country": "United States",
+  "coords": [
+   30.4,
+   -89.1
+  ],
+  "tags": [
+   "city",
+   "coast",
+   "lakes"
+  ],
+  "photos": 10,
+  "href": "blog/pages/gulfport.html",
+  "card": [
+   {
+    "src": "assets/images/derived/gulfport/1a8d63c6-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/gulfport/1a8d63c6-960.webp",
+    "w": 960,
+    "h": 639
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/gulfport/cover-960.webp",
+    "w": 960,
+    "h": 642
+   },
+   {
+    "src": "assets/images/derived/gulfport/cover-1600.webp",
+    "w": 1600,
+    "h": 1070
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "colorado-2017",
+  "title": "Red, White and Teal",
+  "cardTitle": "Red, White and Teal",
+  "date": "2017-04",
+  "dateLabel": "April & August 2017",
+  "year": "2017",
+  "location": "Front Range & Glenwood Canyon, Colorado",
+  "country": "United States",
+  "coords": [
+   39.6,
+   -107.2
+  ],
+  "tags": [
+   "forest",
+   "hiking",
+   "lakes",
+   "snow",
+   "state-park",
+   "waterfalls"
+  ],
+  "photos": 17,
+  "href": "blog/pages/colorado-2017.html",
+  "card": [
+   {
+    "src": "assets/images/derived/colorado-2017/874c70a3-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/colorado-2017/874c70a3-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/colorado-2017/cover-960.webp",
+    "w": 960,
+    "h": 641
+   },
+   {
+    "src": "assets/images/derived/colorado-2017/cover-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "legacy": false
+ },
+ {
+  "slug": "sbrockies",
+  "title": "Snowboarding the Rockies",
+  "cardTitle": "Snowboarding the Rockies",
+  "date": "2017-01",
+  "dateLabel": "January 2017",
+  "year": "2017",
+  "location": "Summit County, Colorado",
+  "country": "United States",
+  "coords": [
+   39.6,
+   -106
+  ],
+  "tags": [
+   "mountains",
+   "snow"
+  ],
+  "photos": 12,
+  "href": "blog/pages/sbrockies.html",
+  "card": [
+   {
+    "src": "assets/images/derived/sbrockies/IMG_2126-480.webp",
+    "w": 480,
+    "h": 600
+   },
+   {
+    "src": "assets/images/derived/sbrockies/IMG_2126-960.webp",
+    "w": 960,
+    "h": 1200
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/sbrockies/background-960.webp",
+    "w": 960,
+    "h": 507
+   },
+   {
+    "src": "assets/images/derived/sbrockies/background-1600.webp",
+    "w": 1600,
+    "h": 845
+   }
+  ],
+  "legacy": true
+ },
+ {
+  "slug": "rmnp",
+  "title": "Rocky Mountains National Park",
+  "cardTitle": "Rocky Mountains NP",
+  "date": "2016-12",
+  "dateLabel": "December 2016",
+  "year": "2016",
+  "location": "Rocky Mountain National Park, Colorado",
+  "country": "United States",
+  "coords": [
+   40.3,
+   -105.7
+  ],
+  "tags": [
+   "national-park",
+   "mountains"
+  ],
+  "photos": 18,
+  "href": "blog/pages/rmnp.html",
+  "card": [
+   {
+    "src": "assets/images/derived/RMNP/DSC_9893-480.webp",
+    "w": 480,
+    "h": 321
+   },
+   {
+    "src": "assets/images/derived/RMNP/DSC_9893-960.webp",
+    "w": 960,
+    "h": 641
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/RMNP/DSC06026-960.webp",
+    "w": 960,
+    "h": 686
+   },
+   {
+    "src": "assets/images/derived/RMNP/DSC06026-1600.webp",
+    "w": 1600,
+    "h": 1143
+   }
+  ],
+  "legacy": true
+ },
+ {
+  "slug": "aspen",
+  "title": "Aspen, CO",
+  "cardTitle": "Aspen, CO",
+  "date": "2016-11",
+  "dateLabel": "November 2016",
+  "year": "2016",
+  "location": "Maroon Bells, Colorado",
+  "country": "United States",
+  "coords": [
+   39.1,
+   -106.9
+  ],
+  "tags": [
+   "mountains",
+   "backpacking"
+  ],
+  "photos": 21,
+  "href": "blog/pages/aspen.html",
+  "card": [
+   {
+    "src": "assets/images/derived/aspen/DSC_7140-480.webp",
+    "w": 480,
+    "h": 480
+   },
+   {
+    "src": "assets/images/derived/aspen/DSC_7140-960.webp",
+    "w": 960,
+    "h": 960
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/aspen/cover-960.webp",
+    "w": 960,
+    "h": 507
+   },
+   {
+    "src": "assets/images/derived/aspen/cover-1600.webp",
+    "w": 1600,
+    "h": 845
+   }
+  ],
+  "legacy": true
+ },
+ {
+  "slug": "denver",
+  "title": "Denver, CO",
+  "cardTitle": "Denver, CO",
+  "date": "2016-10",
+  "dateLabel": "October 2016",
+  "year": "2016",
+  "location": "Denver, Colorado",
+  "country": "United States",
+  "coords": [
+   39.7,
+   -105
+  ],
+  "tags": [
+   "city"
+  ],
+  "photos": 21,
+  "href": "blog/pages/denver.html",
+  "card": [
+   {
+    "src": "assets/images/derived/denver/wallpaper_valleyclimb-39-480.webp",
+    "w": 480,
+    "h": 321
+   },
+   {
+    "src": "assets/images/derived/denver/wallpaper_valleyclimb-39-960.webp",
+    "w": 960,
+    "h": 641
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/denver/cover-960.webp",
+    "w": 960,
+    "h": 507
+   },
+   {
+    "src": "assets/images/derived/denver/cover-1600.webp",
+    "w": 1600,
+    "h": 845
+   }
+  ],
+  "legacy": true
+ },
+ {
+  "slug": "denversp",
+  "title": "Denver State Parks",
+  "cardTitle": "Denver State Parks",
+  "date": "2016-09",
+  "dateLabel": "September 2016",
+  "year": "2016",
+  "location": "Front Range, Colorado",
+  "country": "United States",
+  "coords": [
+   39.5,
+   -105.1
+  ],
+  "tags": [
+   "state-park",
+   "hiking"
+  ],
+  "photos": 21,
+  "href": "blog/pages/denversp.html",
+  "card": [
+   {
+    "src": "assets/images/derived/denversp/Enlight18-480.webp",
+    "w": 480,
+    "h": 640
+   },
+   {
+    "src": "assets/images/derived/denversp/Enlight18-960.webp",
+    "w": 960,
+    "h": 1280
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/denversp/cover-960.webp",
+    "w": 960,
+    "h": 507
+   },
+   {
+    "src": "assets/images/derived/denversp/cover-1600.webp",
+    "w": 1600,
+    "h": 845
+   }
+  ],
+  "legacy": true
+ },
+ {
+  "slug": "smokyrainier",
+  "title": "Smoky Rainier",
+  "cardTitle": "Smoky Rainier",
+  "date": "2016-08",
+  "dateLabel": "August 2016",
+  "year": "2016",
+  "location": "Mount Rainier, Washington",
+  "country": "United States",
+  "coords": [
+   46.8,
+   -121.7
+  ],
+  "tags": [
+   "national-park",
+   "mountains",
+   "backpacking"
+  ],
+  "photos": 27,
+  "href": "blog/pages/smokyrainier.html",
+  "card": [
+   {
+    "src": "assets/images/derived/smokyrainier/DSC_8388-480.webp",
+    "w": 480,
+    "h": 321
+   },
+   {
+    "src": "assets/images/derived/smokyrainier/DSC_8388-960.webp",
+    "w": 960,
+    "h": 641
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/smokyrainier/cover-960.webp",
+    "w": 960,
+    "h": 507
+   },
+   {
+    "src": "assets/images/derived/smokyrainier/cover-1600.webp",
+    "w": 1600,
+    "h": 845
+   }
+  ],
+  "legacy": true
+ },
+ {
+  "slug": "guadalupe",
+  "title": "Guadalupe Mountains",
+  "cardTitle": "Guadalupe Mountains",
+  "date": "2016-07",
+  "dateLabel": "July 2016",
+  "year": "2016",
+  "location": "Guadalupe Mountains, Texas",
+  "country": "United States",
+  "coords": [
+   31.9,
+   -104.9
+  ],
+  "tags": [
+   "national-park",
+   "desert"
+  ],
+  "photos": 33,
+  "href": "blog/pages/guadalupe.html",
+  "card": [
+   {
+    "src": "assets/images/derived/guadalupe/DSC_5062-480.webp",
+    "w": 480,
+    "h": 321
+   },
+   {
+    "src": "assets/images/derived/guadalupe/DSC_5062-960.webp",
+    "w": 960,
+    "h": 641
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/guadalupe/cover-960.webp",
+    "w": 960,
+    "h": 507
+   },
+   {
+    "src": "assets/images/derived/guadalupe/cover-1600.webp",
+    "w": 1600,
+    "h": 845
+   }
+  ],
+  "legacy": true
+ },
+ {
+  "slug": "rainiernp",
+  "title": "Mount Rainier NP",
+  "cardTitle": "Mount Rainier NP",
+  "date": "2016-06",
+  "dateLabel": "June 2016",
+  "year": "2016",
+  "location": "Mount Rainier, Washington",
+  "country": "United States",
+  "coords": [
+   46.9,
+   -121.6
+  ],
+  "tags": [
+   "national-park",
+   "mountains",
+   "backpacking"
+  ],
+  "photos": 27,
+  "href": "blog/pages/rainiernp.html",
+  "card": [
+   {
+    "src": "assets/images/derived/rainierNP/DSC_7502-480.webp",
+    "w": 480,
+    "h": 321
+   },
+   {
+    "src": "assets/images/derived/rainierNP/DSC_7502-960.webp",
+    "w": 960,
+    "h": 641
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/rainierNP/cover-960.webp",
+    "w": 960,
+    "h": 507
+   },
+   {
+    "src": "assets/images/derived/rainierNP/cover-1600.webp",
+    "w": 1600,
+    "h": 845
+   }
+  ],
+  "legacy": true
+ },
+ {
+  "slug": "seattle",
+  "title": "Seattle, WA",
+  "cardTitle": "Seattle, WA",
+  "date": "2016-05",
+  "dateLabel": "May 2016",
+  "year": "2016",
+  "location": "Seattle, Washington",
+  "country": "United States",
+  "coords": [
+   47.6,
+   -122.3
+  ],
+  "tags": [
+   "city"
+  ],
+  "photos": 24,
+  "href": "blog/pages/seattle.html",
+  "card": [
+   {
+    "src": "assets/images/derived/seattle/DSC06051-480.webp",
+    "w": 480,
+    "h": 161
+   },
+   {
+    "src": "assets/images/derived/seattle/DSC06051-960.webp",
+    "w": 960,
+    "h": 321
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/seattle/cover-960.webp",
+    "w": 960,
+    "h": 507
+   },
+   {
+    "src": "assets/images/derived/seattle/cover-1600.webp",
+    "w": 1600,
+    "h": 845
+   }
+  ],
+  "legacy": true
+ },
+ {
+  "slug": "houston",
+  "title": "Houston, TX",
+  "cardTitle": "Houston, TX",
+  "date": "2016-04",
+  "dateLabel": "April 2016",
+  "year": "2016",
+  "location": "Houston, Texas",
+  "country": "United States",
+  "coords": [
+   29.8,
+   -95.4
+  ],
+  "tags": [
+   "city"
+  ],
+  "photos": 21,
+  "href": "blog/pages/houston.html",
+  "card": [
+   {
+    "src": "assets/images/derived/houston/IMG_3070-480.webp",
+    "w": 480,
+    "h": 363
+   },
+   {
+    "src": "assets/images/derived/houston/IMG_3070-960.webp",
+    "w": 960,
+    "h": 725
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/houston/cover-960.webp",
+    "w": 960,
+    "h": 507
+   },
+   {
+    "src": "assets/images/derived/houston/cover-1600.webp",
+    "w": 1600,
+    "h": 845
+   }
+  ],
+  "legacy": true
+ },
+ {
+  "slug": "london",
+  "title": "London, UK",
+  "cardTitle": "London, UK",
+  "date": "2016-03",
+  "dateLabel": "March 2016",
+  "year": "2016",
+  "location": "London, England",
+  "country": "United Kingdom",
+  "coords": [
+   51.5,
+   -0.1
+  ],
+  "tags": [
+   "city",
+   "abroad"
+  ],
+  "photos": 45,
+  "href": "blog/pages/london.html",
+  "card": [
+   {
+    "src": "assets/images/derived/london/DSC_8869-480.webp",
+    "w": 480,
+    "h": 321
+   },
+   {
+    "src": "assets/images/derived/london/DSC_8869-960.webp",
+    "w": 960,
+    "h": 641
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/london/cover-960.webp",
+    "w": 960,
+    "h": 507
+   },
+   {
+    "src": "assets/images/derived/london/cover-1600.webp",
+    "w": 1600,
+    "h": 845
+   }
+  ],
+  "legacy": true
+ },
+ {
+  "slug": "paris",
+  "title": "Paris, FR",
+  "cardTitle": "Paris, FR",
+  "date": "2016-02",
+  "dateLabel": "February 2016",
+  "year": "2016",
+  "location": "Paris, France",
+  "country": "France",
+  "coords": [
+   48.9,
+   2.3
+  ],
+  "tags": [
+   "city",
+   "abroad"
+  ],
+  "photos": 33,
+  "href": "blog/pages/paris.html",
+  "card": [
+   {
+    "src": "assets/images/derived/paris/DSCF1090-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/paris/DSCF1090-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/paris/cover-960.webp",
+    "w": 960,
+    "h": 507
+   },
+   {
+    "src": "assets/images/derived/paris/cover-1600.webp",
+    "w": 1600,
+    "h": 845
+   }
+  ],
+  "legacy": true
+ },
+ {
+  "slug": "amsterdam",
+  "title": "Amsterdam, NL",
+  "cardTitle": "Amsterdam, NL",
+  "date": "2016-01",
+  "dateLabel": "January 2016",
+  "year": "2016",
+  "location": "Amsterdam, Netherlands",
+  "country": "Netherlands",
+  "coords": [
+   52.4,
+   4.9
+  ],
+  "tags": [
+   "city",
+   "abroad"
+  ],
+  "photos": 39,
+  "href": "blog/pages/amsterdam.html",
+  "card": [
+   {
+    "src": "assets/images/derived/amsterdam/DSCF0859-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/amsterdam/DSCF0859-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/amsterdam/cover-960.webp",
+    "w": 960,
+    "h": 507
+   },
+   {
+    "src": "assets/images/derived/amsterdam/cover-1600.webp",
+    "w": 1600,
+    "h": 845
+   }
+  ],
+  "legacy": true
+ },
+ {
+  "slug": "austin",
+  "title": "Austin, TX",
+  "cardTitle": "Austin, TX",
+  "date": "2015-12",
+  "dateLabel": "December 2015",
+  "year": "2015",
+  "location": "Austin, Texas",
+  "country": "United States",
+  "coords": [
+   30.3,
+   -97.7
+  ],
+  "tags": [
+   "city"
+  ],
+  "photos": 54,
+  "href": "blog/pages/austin.html",
+  "card": [
+   {
+    "src": "assets/images/derived/austin/sm_austin-26-480.webp",
+    "w": 480,
+    "h": 320
+   },
+   {
+    "src": "assets/images/derived/austin/sm_austin-26-960.webp",
+    "w": 960,
+    "h": 640
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/austin/cover-960.webp",
+    "w": 960,
+    "h": 507
+   },
+   {
+    "src": "assets/images/derived/austin/cover-1600.webp",
+    "w": 1600,
+    "h": 845
+   }
+  ],
+  "legacy": true
+ },
+ {
+  "slug": "bigbend",
+  "title": "Big Bend NP",
+  "cardTitle": "Big Bend NP",
+  "date": "2015-07",
+  "dateLabel": "July 2015",
+  "year": "2015",
+  "location": "Big Bend National Park, Texas",
+  "country": "United States",
+  "coords": [
+   29.3,
+   -103.2
+  ],
+  "tags": [
+   "national-park",
+   "desert"
+  ],
+  "photos": 30,
+  "href": "blog/pages/bigbend.html",
+  "card": [
+   {
+    "src": "assets/images/derived/bigbend/2DS_1699-480.webp",
+    "w": 480,
+    "h": 321
+   },
+   {
+    "src": "assets/images/derived/bigbend/2DS_1699-960.webp",
+    "w": 960,
+    "h": 641
+   }
+  ],
+  "cover": [
+   {
+    "src": "assets/images/derived/bigbend/cover-960.webp",
+    "w": 960,
+    "h": 507
+   },
+   {
+    "src": "assets/images/derived/bigbend/cover-1600.webp",
+    "w": 1600,
+    "h": 845
+   }
+  ],
+  "legacy": true
+ }
+]

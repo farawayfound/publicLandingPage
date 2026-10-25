@@ -1,0 +1,325 @@
+{
+ "slug": "guadalupe",
+ "title": "Guadalupe Mountains",
+ "cardTitle": "Guadalupe Mountains",
+ "date": "2016-07",
+ "dateLabel": "July 2016",
+ "location": "Guadalupe Mountains, Texas",
+ "country": "United States",
+ "coords": [
+  31.9,
+  -104.9
+ ],
+ "tags": [
+  "national-park",
+  "desert"
+ ],
+ "sectionTitle": "Power of Time",
+ "paragraphs": [
+  "All mountains are formed by techtonic activity, geologic events, and weathering. It takes millions of years to form any topography, and the Guadalupe Mountains have their own way of showing their ancient history. Hiking through the caves and ridges of the mountain, one can't help but marvel at the power of time.",
+  "We decided to visit the Carlsbad Caverns before backpacking the mountains. The caves had astounding, alien looking formations which seemingly grew out of the rocks. It's hard to imagine that moisture, which strip and deposit microscopic amounts of minerals one drop at a time, form these gigantic statues buried deep in the mountains. The range is formed from fossilized reefs, which is the largest in the world. Pressure compressed the reefs into layers of rock, geologic events pushed up the seafloor to the roof of texas, and time stripped away the sediments around the reef to reveal the mountain range."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/guadalupe/cover.jpg",
+ "card": "assets/images/guadalupe/thumbs/DSC_5062.jpg",
+ "photos": [
+  {
+   "src": "assets/images/guadalupe/DJI_0044.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DJI_0044.jpg",
+   "w": 1600,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "birds eye"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC_4127.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC_4127.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "lonely fence"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC_4141.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC_4141.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "approach"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC03900.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC03900.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "abandoned"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC_4163.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC_4163.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "mood"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC_4193.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC_4193.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Green Desert"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC_4200.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC_4200.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "steps"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC_4206.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC_4206.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "mountaintop canyon"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC_4212.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC_4212.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "spire"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC_4219.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC_4219.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "split"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC_4225.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC_4225.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "shelter"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC_4969.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC_4969.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "ElCapitan"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC_4972.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC_4972.jpg",
+   "w": 1680,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Sunrise at elcap"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC_4995.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC_4995.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "thirst"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC_5015.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC_5015.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Spotting"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC_5051.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC_5051.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "the range"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC_5040.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC_5040.jpg",
+   "w": 1680,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Reef"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC_5075.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC_5075.jpg",
+   "w": 1797,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "full moon"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC_5079.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC_5079.jpg",
+   "w": 1797,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "cap top"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC_5114.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC_5114.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "sunrise over texas"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC_7962.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC_7962.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "like Cali, but dryier"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC_8010.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC_8010.jpg",
+   "w": 1680,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "sweet nectar"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC_8210.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC_8210.jpg",
+   "w": 1500,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "chandelier"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC_8225.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC_8225.jpg",
+   "w": 1200,
+   "h": 1798,
+   "tw": 600,
+   "th": 392,
+   "caption": "mound"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC03942.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC03942.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "columns"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC03962.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC03962.jpg",
+   "w": 1200,
+   "h": 1800,
+   "tw": 600,
+   "th": 392,
+   "caption": "mirror pond"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC03977.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC03977.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "alien"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC03984.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC03984.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "adorn"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC04014.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC04014.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "roof of texas"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC04017.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC04017.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "summit view"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC04026.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC04026.jpg",
+   "w": 2133,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "night ascent"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC04054.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC04054.jpg",
+   "w": 1500,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "fallen"
+  },
+  {
+   "src": "assets/images/guadalupe/DSC04049.jpg",
+   "thumb": "assets/images/guadalupe/thumbs/DSC04049.jpg",
+   "w": 2133,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "quite the view"
+  }
+ ],
+ "legacy": true
+}

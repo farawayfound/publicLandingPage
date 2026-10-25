@@ -1,0 +1,100 @@
+{
+ "slug": "evergreen-lake",
+ "title": "Evergreen Reflections",
+ "cardTitle": "Evergreen Reflections",
+ "date": "2025-08",
+ "dateLabel": "August 2025",
+ "location": "Evergreen Lake, Evergreen, Colorado",
+ "country": "United States",
+ "coords": [
+  39.6,
+  -105.3
+ ],
+ "tags": [
+  "lakes",
+  "mountains",
+  "forest"
+ ],
+ "sectionTitle": "Slow Burn",
+ "paragraphs": [
+  "One August evening, Evergreen Lake had two skies. One hung overhead and the other lay upside down on the water, so still that I couldn't tell where one ended and the other began. A little before eight, the sky was only a pale peach. A line of dark red buoys ran across the lake like a dotted line drawn on a mirror, and beyond them a rounded, rocky dome of a mountain stood in front of layers of blue ridges. It was just the opening act.",
+  "The main act came about a quarter hour later, once the sun had slipped behind the ridge. High streaks of cirrus, miles above the lake, were still catching sunlight that no longer reached the ground, so they glowed orange and gold while the water and the forest sank into shade. Don't leave when the sun does. That's when the clouds do their best work. The buoys went from red to nearly black, and the lake soaked up the sky's colors. I filmed it in short phone clips, so the frames below are stills pulled from video and a little soft. The color was gone within minutes, but the lake kept it a little longer than the sky did."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/evergreen-lake/cover.webp",
+ "card": "assets/images/evergreen-lake/thumbs/ff628b4e-2433.webp",
+ "photos": [
+  {
+   "src": "assets/images/evergreen-lake/12b20271-2588.webp",
+   "thumb": "assets/images/evergreen-lake/thumbs/12b20271-2588.webp",
+   "w": 1312,
+   "h": 984,
+   "tw": 800,
+   "th": 600,
+   "caption": "Before the Show",
+   "alt": "Pale peach dusk sky over a rounded forested mountain and a still lake, with a lakeside building on the far shore"
+  },
+  {
+   "src": "assets/images/evergreen-lake/2e094db9-2376.webp",
+   "thumb": "assets/images/evergreen-lake/thumbs/2e094db9-2376.webp",
+   "w": 984,
+   "h": 1312,
+   "tw": 600,
+   "th": 800,
+   "caption": "Dotted Line",
+   "alt": "Vertical view of a calm lake at dusk with a line of red buoys, forested hills and a pale gold sky mirrored in the water"
+  },
+  {
+   "src": "assets/images/evergreen-lake/83dd0791-2178.webp",
+   "thumb": "assets/images/evergreen-lake/thumbs/83dd0791-2178.webp",
+   "w": 1312,
+   "h": 984,
+   "tw": 800,
+   "th": 600,
+   "caption": "Buoyant",
+   "alt": "Wide dusk view across a mirror-still lake with red buoys, dark forested hills and gold clouds in a blue sky"
+  },
+  {
+   "src": "assets/images/evergreen-lake/ae860d38-1838.webp",
+   "thumb": "assets/images/evergreen-lake/thumbs/ae860d38-1838.webp",
+   "w": 1312,
+   "h": 984,
+   "tw": 800,
+   "th": 600,
+   "caption": "Shore Thing",
+   "alt": "Lake at sunset with a low golden sunburst and streaky clouds, red buoys on the water, and rocks and a leafy plant on the near shore"
+  },
+  {
+   "src": "assets/images/evergreen-lake/ff628b4e-2433.webp",
+   "thumb": "assets/images/evergreen-lake/thumbs/ff628b4e-2433.webp",
+   "w": 1312,
+   "h": 984,
+   "tw": 800,
+   "th": 600,
+   "caption": "Red Alert",
+   "alt": "Fiery orange sky over a rounded mountain and dark forest, with two red buoys floating in the glowing water"
+  },
+  {
+   "src": "assets/images/evergreen-lake/65bda778-2329.webp",
+   "thumb": "assets/images/evergreen-lake/thumbs/65bda778-2329.webp",
+   "w": 984,
+   "h": 1312,
+   "tw": 600,
+   "th": 800,
+   "caption": "Ember Sky",
+   "alt": "Vertical frame of deep orange clouds over dark hills, with a single buoy at the bottom of the frame reflecting the glow"
+  },
+  {
+   "src": "assets/images/evergreen-lake/399619fa-1693.webp",
+   "thumb": "assets/images/evergreen-lake/thumbs/399619fa-1693.webp",
+   "w": 1312,
+   "h": 984,
+   "tw": 800,
+   "th": 600,
+   "caption": "Twice as Nice",
+   "alt": "Orange and gold streaked sky over dark forested ridges, perfectly mirrored in the still lake"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 85%"
+}

@@ -1,0 +1,160 @@
+{
+ "slug": "tokyo-disney",
+ "title": "Tokyo Disney, JP",
+ "cardTitle": "Tokyo Disney, JP",
+ "date": "2025-01",
+ "dateLabel": "January 2025",
+ "location": "Tokyo Disney Resort, Chiba, Japan",
+ "country": "Japan",
+ "coords": [
+  35.6,
+  139.9
+ ],
+ "tags": [
+  "city",
+  "abroad"
+ ],
+ "sectionTitle": "Color Theory",
+ "paragraphs": [
+  "After sunset on January 7th, Cinderella Castle turned into a canvas: sapphire blue, rose pink, violet, back to gold again, with laser lines slicing through the clouds behind it. We had spent a few days in Tokyo before giving Tokyo Disney Resort two days, out at Maihama on the Chiba side of Tokyo Bay, and this was the first, at Tokyo Disneyland. My phone's timestamps put the whole batch of photos inside roughly eight minutes, all from one spot in front of the castle. Dozens of near-identical frames, and I regret none of them. Every shot is a slightly different castle.",
+  "The fireworks came in layers. Sparks crowned the spires first, then rockets climbed in a line and trailed smoke up into the dark, and pink and teal bursts left the whole sky glowing behind the towers. It's all choreographed to the second, every beam and burst on a timer, and it worked on me anyway. Maybe wonder doesn't care where it comes from. Stand in front of the castle and stay put, because nearly everything happens overhead. All of these came off a phone, which still feels a little like cheating.",
+  "The next day we went to Tokyo DisneySea, which has no twin anywhere else in the world. Where Disneyland runs on fairy tales, DisneySea runs on the ocean and the romance of exploration, and after dark it leans into the adventure. A stone temple glowed blue among the palms, fire licking up its steps, a carved face staring down from the top like it had seen worse. Elsewhere in the park, a curving lavender-and-gold building with oval windows looked as if it had grown there rather than been built. Different park, same trick: it makes you look up."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/tokyo-disney/cover.webp",
+ "card": "assets/images/tokyo-disney/thumbs/7c3cfe44.webp",
+ "photos": [
+  {
+   "src": "assets/images/tokyo-disney/25790d35.webp",
+   "thumb": "assets/images/tokyo-disney/thumbs/25790d35.webp",
+   "w": 2048,
+   "h": 1306,
+   "tw": 800,
+   "th": 510,
+   "caption": "Lamplight",
+   "alt": "Cinderella Castle glowing gold at night between two ornate lamp posts, blue laser lines crossing the sky"
+  },
+  {
+   "src": "assets/images/tokyo-disney/4b2a0f74.webp",
+   "thumb": "assets/images/tokyo-disney/thumbs/4b2a0f74.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Sapphire",
+   "alt": "Close view of the castle's spires lit bright blue against a dark sky"
+  },
+  {
+   "src": "assets/images/tokyo-disney/7c3cfe44.webp",
+   "thumb": "assets/images/tokyo-disney/thumbs/7c3cfe44.webp",
+   "w": 2048,
+   "h": 1306,
+   "tw": 800,
+   "th": 510,
+   "caption": "Rose Gold",
+   "alt": "Pink-lit castle with streaks of blue laser light across the clouds"
+  },
+  {
+   "src": "assets/images/tokyo-disney/80c250cb.webp",
+   "thumb": "assets/images/tokyo-disney/thumbs/80c250cb.webp",
+   "w": 2048,
+   "h": 1306,
+   "tw": 800,
+   "th": 510,
+   "caption": "Coronation",
+   "alt": "Sparks showering above the castle spires, with lamp posts at the edges of the frame"
+  },
+  {
+   "src": "assets/images/tokyo-disney/217d8572.webp",
+   "thumb": "assets/images/tokyo-disney/thumbs/217d8572.webp",
+   "w": 1807,
+   "h": 2048,
+   "tw": 706,
+   "th": 800,
+   "caption": "High Five",
+   "alt": "Five fireworks rockets rising in a row above the castle under a sky crossed by blue lasers"
+  },
+  {
+   "src": "assets/images/tokyo-disney/00feb11d.webp",
+   "thumb": "assets/images/tokyo-disney/thumbs/00feb11d.webp",
+   "w": 1807,
+   "h": 2048,
+   "tw": 706,
+   "th": 800,
+   "caption": "Rocket Trails",
+   "alt": "Colorful rockets trailing smoke above the castle towers"
+  },
+  {
+   "src": "assets/images/tokyo-disney/31227ed1.webp",
+   "thumb": "assets/images/tokyo-disney/thumbs/31227ed1.webp",
+   "w": 1807,
+   "h": 2048,
+   "tw": 706,
+   "th": 800,
+   "caption": "Cotton Candy",
+   "alt": "Pink fireworks and purple smoke rising behind the castle"
+  },
+  {
+   "src": "assets/images/tokyo-disney/49366dc0.webp",
+   "thumb": "assets/images/tokyo-disney/thumbs/49366dc0.webp",
+   "w": 1807,
+   "h": 2048,
+   "tw": 706,
+   "th": 800,
+   "caption": "Cool Mint",
+   "alt": "Teal fireworks smoke billowing over the castle"
+  },
+  {
+   "src": "assets/images/tokyo-disney/f71f4316.webp",
+   "thumb": "assets/images/tokyo-disney/thumbs/f71f4316.webp",
+   "w": 1807,
+   "h": 2048,
+   "tw": 706,
+   "th": 800,
+   "caption": "Smoke Veil",
+   "alt": "Firework sparks and smoke hanging above the castle like a curtain"
+  },
+  {
+   "src": "assets/images/tokyo-disney/37a598e2.webp",
+   "thumb": "assets/images/tokyo-disney/thumbs/37a598e2.webp",
+   "w": 1807,
+   "h": 2048,
+   "tw": 706,
+   "th": 800,
+   "caption": "Laser Tag",
+   "alt": "Blue laser lines crossing the night sky over the castle"
+  },
+  {
+   "src": "assets/images/tokyo-disney/bd20f2d6.webp",
+   "thumb": "assets/images/tokyo-disney/thumbs/bd20f2d6.webp",
+   "w": 2048,
+   "h": 1306,
+   "tw": 800,
+   "th": 510,
+   "caption": "Smoke Break",
+   "alt": "Castle half-hidden in glowing smoke with a bright flare at its right tower"
+  },
+  {
+   "src": "assets/images/tokyo-disney/41315ec4.webp",
+   "thumb": "assets/images/tokyo-disney/thumbs/41315ec4.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Lost River",
+   "alt": "Stone temple with a carved face at the top and fire burning along blue-lit steps at night"
+  },
+  {
+   "src": "assets/images/tokyo-disney/3b7d2bfd.webp",
+   "thumb": "assets/images/tokyo-disney/thumbs/3b7d2bfd.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Flourish",
+   "alt": "Curving lavender-and-gold building with oval windows and a thin gold spire, lit up at night behind a low fence"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "48% 100%"
+}

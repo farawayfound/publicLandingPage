@@ -1,0 +1,171 @@
+{
+ "slug": "moapa-peak",
+ "title": "Moapa Peak, NV",
+ "cardTitle": "Moapa Peak, NV",
+ "date": "2018-01",
+ "dateLabel": "January 2018",
+ "location": "Mormon Mountains Wilderness, Nevada",
+ "country": "United States",
+ "coords": [
+  36.9,
+  -114.5
+ ],
+ "tags": [
+  "hiking",
+  "desert",
+  "mountains"
+ ],
+ "sectionTitle": "Sharp Relief",
+ "paragraphs": [
+  "Winter is the best time to hike in the Mojave. On the first Sunday of 2018 I headed out to Moapa Peak in the Mormon Mountains Wilderness, northeast of Las Vegas. The dirt road in is rough, so you will want a high-clearance vehicle. The hike began at a turnout among the Joshua trees just as first light reached the ridges and turned them gold and rust against a pale blue sky streaked with cirrus and jet contrails. On a crisp January morning, the desert was showing off.",
+  "Moapa Peak tops out a little over 6,400 feet, which isn't tall as mountains go, but it is known for its knife-edge summit ridge. The way up is steep rubble and cliff bands, much of it in cold shade. Higher up, the mountain narrows into a crest of jagged gray limestone, in places only a couple of feet wide, with a long drop on both sides. The whole thing is fins, towers and shattered blocks. It is a scramble rather than technical climbing, but you will be using your hands, so save the sightseeing for the spots where you can stand still. Near the top I spotted a little olive green box wedged between the rocks. It looked a lot like a summit register.",
+  "From the top, Nevada went on forever. Far below, the basin floors lay bleached and glaring, and the alluvial fans were striped with shadow. A few lone buttes stood up out of the flats, and behind them range after range grew fainter and bluer until the farthest dissolved into haze. This is Basin and Range country, where the crust has been stretched until it cracked into long, tilted blocks. The mountains line up in parallel rows with a dry flat between each pair, and from a high ridge you can read the whole pattern at once. It is hard to take yourself too seriously on a ridge that narrow above a plain that wide."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/moapa-peak/cover.webp",
+ "card": "assets/images/moapa-peak/thumbs/9476b08e.webp",
+ "photos": [
+  {
+   "src": "assets/images/moapa-peak/dbb809cf.webp",
+   "thumb": "assets/images/moapa-peak/thumbs/dbb809cf.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "First Light",
+   "alt": "First light on gold and russet ridges above a wide desert valley, with a yucca and dry shrubs in the foreground and thin cirrus overhead."
+  },
+  {
+   "src": "assets/images/moapa-peak/e77fea32.webp",
+   "thumb": "assets/images/moapa-peak/thumbs/e77fea32.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Russet",
+   "alt": "A russet ridge glowing in low sun above dry grass, shrubs and a small cactus, with a thin contrail across the pale sky."
+  },
+  {
+   "src": "assets/images/moapa-peak/6675df80.webp",
+   "thumb": "assets/images/moapa-peak/thumbs/6675df80.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Tiger Stripes",
+   "alt": "Warm morning light on a rocky peak, with long diagonal shadows and spiky desert plants across the slope below."
+  },
+  {
+   "src": "assets/images/moapa-peak/5909e17f.webp",
+   "thumb": "assets/images/moapa-peak/thumbs/5909e17f.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Looming",
+   "alt": "Steep gray cliffs towering over a rocky slope and a deep drainage, with a hazy desert basin and streaks of cirrus beyond."
+  },
+  {
+   "src": "assets/images/moapa-peak/9762dba0.webp",
+   "thumb": "assets/images/moapa-peak/thumbs/9762dba0.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Chalk Line",
+   "alt": "A distant butte and layered ranges across a hazy desert basin, with a long contrail drawn across the blue sky."
+  },
+  {
+   "src": "assets/images/moapa-peak/fc31a927.webp",
+   "thumb": "assets/images/moapa-peak/thumbs/fc31a927.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Stacked",
+   "alt": "A ridge streaked with rock layers beside a shadowed slope, with layered desert ranges fading into the distance."
+  },
+  {
+   "src": "assets/images/moapa-peak/b6db6ca6.webp",
+   "thumb": "assets/images/moapa-peak/thumbs/b6db6ca6.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Knife's Edge",
+   "alt": "A narrow ridge crest dropping into a shadowed basin, with a gray rock peak ahead and a pale rock wall at the right."
+  },
+  {
+   "src": "assets/images/moapa-peak/a5d719d6.webp",
+   "thumb": "assets/images/moapa-peak/thumbs/a5d719d6.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Iceberg",
+   "alt": "A pale gray peak with bands of rock layers and a long shadow, rising beside a bright white plain."
+  },
+  {
+   "src": "assets/images/moapa-peak/9476b08e.webp",
+   "thumb": "assets/images/moapa-peak/thumbs/9476b08e.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Rook",
+   "alt": "A tower of broken gray rock on the summit ridge above a pale desert basin."
+  },
+  {
+   "src": "assets/images/moapa-peak/6a51a3e8.webp",
+   "thumb": "assets/images/moapa-peak/thumbs/6a51a3e8.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Sheer",
+   "alt": "A sheer gray rock fin beside a wide view of desert ranges under a clear blue sky."
+  },
+  {
+   "src": "assets/images/moapa-peak/3e93f874.webp",
+   "thumb": "assets/images/moapa-peak/thumbs/3e93f874.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Tightrope",
+   "alt": "A sharp rock fin on the ridge crest with a pale dead shrub in front and the desert far below."
+  },
+  {
+   "src": "assets/images/moapa-peak/a3e149e1.webp",
+   "thumb": "assets/images/moapa-peak/thumbs/a3e149e1.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Guest Book",
+   "alt": "A small olive green box wedged between dark rocks and dry grass near the summit."
+  },
+  {
+   "src": "assets/images/moapa-peak/6304acf1.webp",
+   "thumb": "assets/images/moapa-peak/thumbs/6304acf1.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Basin and Range",
+   "alt": "Summit rocks and pale shrubs overlooking a wide desert basin and distant ranges."
+  },
+  {
+   "src": "assets/images/moapa-peak/b24ca3f7.webp",
+   "thumb": "assets/images/moapa-peak/thumbs/b24ca3f7.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Backbone",
+   "alt": "A pointed rock summit in front of layered desert ranges fading into blue haze."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 50%"
+}

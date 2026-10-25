@@ -1,0 +1,193 @@
+{
+ "slug": "four-corners",
+ "title": "Four Corners",
+ "cardTitle": "Four Corners",
+ "date": "2018-08",
+ "dateLabel": "August 2018",
+ "location": "Four Corners Region, Southwestern United States",
+ "country": "United States",
+ "coords": [
+  37.0,
+  -110.0
+ ],
+ "tags": [
+  "road-trip",
+  "desert",
+  "national-park",
+  "mountains"
+ ],
+ "sectionTitle": "Storm Light",
+ "paragraphs": [
+  "Four states meet at a single point in the desert, and the last leg of my nine-day road trip wandered through the country around it. After days of red rock, Telluride was a shock of green. The town sits at the head of a glacier-carved box canyon, and from high above it I watched the valley run off toward blue ridges under a sky full of fat summer clouds. Then the road dropped south, out of the mountains and onto the plateau.",
+  "Mesa Verde is Spanish for “green table,” and the name fits: a flat, forested plateau sliced open by deep canyons. The real surprise hides under the rims. In the late 1100s and 1200s the Ancestral Puebloans built whole villages of sandstone blocks beneath the overhangs, and by about 1300 they had moved on. Cliff Palace, the largest of them, has around 150 rooms and 23 kivas, the round sunken chambers used for ceremonies and gatherings. You can only go inside on a ranger-led tour, so get tickets early. I stood at the edge of one kiva and looked down into it, and it floored me that the village had already been empty for nearly two centuries before Columbus ever sailed. What will be left of our own towns in eight hundred years?",
+  "After the close quarters of the canyons, Monument Valley felt like someone had taken the ceiling off. The tribal park straddles the Utah-Arizona line inside the Navajo Nation. Its buttes are the leftovers of a plateau that wind and water have been carrying off for millions of years, and they rise straight out of a flat red desert, each one far bigger than the postcards let on. A pale haze, probably wildfire smoke, softened everything behind them, and the far mesas faded layer by layer into pink. By evening a storm was building. The sun slipped under the cloud deck and lit its belly orange, and the buttes (West Mitten and Merrick Butte, I think) went from red to brown to black cutouts against the sky.",
+  "The next day brought two more famous holes in the ground. At Horseshoe Bend, outside Page, Arizona, the Colorado River swings around a sandstone peninsula in a tight U, roughly a thousand feet below the rim. When I went there was no railing, only bare rock and a very long way down! The Grand Canyon came next, its far rim dissolving into the same haze while the near walls stayed striped in cream, rust and pink. Then the road bent west toward Las Vegas. Five stops in three days was far too fast. Each of them deserves a week."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/four-corners/cover.webp",
+ "card": "assets/images/four-corners/thumbs/39f4225b.webp",
+ "photos": [
+  {
+   "src": "assets/images/four-corners/9be00fa4.webp",
+   "thumb": "assets/images/four-corners/thumbs/9be00fa4.webp",
+   "w": 2048,
+   "h": 1366,
+   "tw": 800,
+   "th": 533,
+   "caption": "Telluride",
+   "alt": "Green mountain valley seen from high above, with a red cliff face at the left, a few buildings on the valley floor far below and blue ridges under a cloudy sky"
+  },
+  {
+   "src": "assets/images/four-corners/9f7365a6.webp",
+   "thumb": "assets/images/four-corners/thumbs/9f7365a6.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Box Canyon",
+   "alt": "A huge pale cliff face above forested slopes, with the valley opening out to the right under a cloudy sky"
+  },
+  {
+   "src": "assets/images/four-corners/3674251f.webp",
+   "thumb": "assets/images/four-corners/thumbs/3674251f.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Thin Veil",
+   "alt": "A thin waterfall streaking down a tall rock face with a small white building at the top, surrounded by evergreen forest"
+  },
+  {
+   "src": "assets/images/four-corners/6d6f57c8.webp",
+   "thumb": "assets/images/four-corners/thumbs/6d6f57c8.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Green Table",
+   "alt": "A forested mesa edge with a pale sandstone cliff face dropping into a canyon under a bright sky"
+  },
+  {
+   "src": "assets/images/four-corners/4594d9c0.webp",
+   "thumb": "assets/images/four-corners/thumbs/4594d9c0.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Under the Overhang",
+   "alt": "A huge curved sandstone overhang arching above the stone rooms, towers and kivas of a cliff dwelling, with green trees in the foreground and blue sky at the upper right"
+  },
+  {
+   "src": "assets/images/four-corners/ce3dfff4.webp",
+   "thumb": "assets/images/four-corners/thumbs/ce3dfff4.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Cliff Palace",
+   "alt": "Close view of a cliff dwelling with a tall square tower, stacked stone rooms and a wooden ladder beneath a sandstone alcove"
+  },
+  {
+   "src": "assets/images/four-corners/485272a7.webp",
+   "thumb": "assets/images/four-corners/thumbs/485272a7.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Kiva",
+   "alt": "Looking down into a round stone kiva with a wooden frame in its floor, with ruined walls and a stone path beyond"
+  },
+  {
+   "src": "assets/images/four-corners/bb415213.webp",
+   "thumb": "assets/images/four-corners/thumbs/bb415213.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Stone Frame",
+   "alt": "A forested canyon and distant mesa seen past the edge of an old masonry wall under a blue sky with white clouds"
+  },
+  {
+   "src": "assets/images/four-corners/bb4eb819.webp",
+   "thumb": "assets/images/four-corners/thumbs/bb4eb819.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Merrick Butte",
+   "alt": "Merrick Butte and a smaller sandstone butte rising from a red desert under a pale hazy sky, with a dirt road curving across the plain"
+  },
+  {
+   "src": "assets/images/four-corners/4e3bf3b5.webp",
+   "thumb": "assets/images/four-corners/thumbs/4e3bf3b5.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Brewing",
+   "alt": "Heavy storm clouds building over the buttes of Monument Valley, with blue sky and sunlit clouds at the right"
+  },
+  {
+   "src": "assets/images/four-corners/b3761e91.webp",
+   "thumb": "assets/images/four-corners/thumbs/b3761e91.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Slow Burn",
+   "alt": "Dusk over Monument Valley, with the dark edge of a mesa beneath storm clouds, an orange glow on the horizon and a patch of blue sky"
+  },
+  {
+   "src": "assets/images/four-corners/e16d3662.webp",
+   "thumb": "assets/images/four-corners/thumbs/e16d3662.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Afterglow",
+   "alt": "Two dark buttes outlined against glowing orange and pink clouds at sunset in Monument Valley"
+  },
+  {
+   "src": "assets/images/four-corners/4b540775.webp",
+   "thumb": "assets/images/four-corners/thumbs/4b540775.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Rim Shot",
+   "alt": "A red sandstone rim and shadowed gorge with the Colorado River at lower left, a flat desert plateau and blue sky beyond"
+  },
+  {
+   "src": "assets/images/four-corners/858a1460.webp",
+   "thumb": "assets/images/four-corners/thumbs/858a1460.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Long Way Down",
+   "alt": "A sheer red sandstone cliff dropping away to the blue-green Colorado River, which curves around the foot of a pale sandstone peninsula at the upper left"
+  },
+  {
+   "src": "assets/images/four-corners/49b47284.webp",
+   "thumb": "assets/images/four-corners/thumbs/49b47284.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Smoky Rim",
+   "alt": "A pale layered sandstone pillar on the canyon rim with hazy ridges of the Grand Canyon fading into the distance"
+  },
+  {
+   "src": "assets/images/four-corners/55345650.webp",
+   "thumb": "assets/images/four-corners/thumbs/55345650.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Layer Cake",
+   "alt": "Layered red and cream buttes of the Grand Canyon under a blue sky with scattered clouds"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "68% 50%"
+}

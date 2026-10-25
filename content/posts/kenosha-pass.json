@@ -1,0 +1,161 @@
+{
+ "slug": "kenosha-pass",
+ "title": "Kenosha Pass",
+ "cardTitle": "Kenosha Pass",
+ "date": "2023-10",
+ "dateLabel": "October 2023",
+ "location": "Kenosha Pass, Colorado",
+ "country": "United States",
+ "coords": [
+  39.4,
+  -105.8
+ ],
+ "tags": [
+  "forest",
+  "mountains",
+  "snow"
+ ],
+ "sectionTitle": "Wide Open",
+ "paragraphs": [
+  "From the high ground near Kenosha Pass, South Park lies open below you, a basin so flat it looks ironed, with a long blue range along the far side and one road drawn straight across the grass. In Colorado, a “park” isn’t a lawn with picnic tables. It’s a huge, high mountain valley, and this is one of the biggest. (Yes, the cartoon borrowed its name from here.) On the first of October I spent the afternoon up there on my mountain bike, right as the aspens hit peak gold. The pass is famous for it.",
+  "I kept stopping, because the trail kept handing me another view. Hillsides were patched with gold between bands of dark spruce, and rocky outcrops stuck out of the forest under big drifting clouds. Down in the groves the trunks were bright white and the leaves so yellow they lit up the shade. Somewhere along the way I found a toppled tree, long dead, its roots flung into the air and weathered to copper and silver. I photographed it from every side, even with all that gold begging for attention!",
+  "Late in the day the light went warm, and even the groves along the highway glowed against the dark slopes. Peak color is a short window, and you can’t book it ahead. Exactly four weeks later, the road near Keystone ran through fresh snow, the spruce frosted white on both sides of the wet black pavement. The mountains had traded gold for white, and both look good on them."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/kenosha-pass/cover.webp",
+ "card": "assets/images/kenosha-pass/thumbs/509f3d4d.webp",
+ "photos": [
+  {
+   "src": "assets/images/kenosha-pass/d134932b.webp",
+   "thumb": "assets/images/kenosha-pass/thumbs/d134932b.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Branching Out",
+   "alt": "Bare branches frame a hillside of golden aspens under big white clouds and blue sky."
+  },
+  {
+   "src": "assets/images/kenosha-pass/75dd619e.webp",
+   "thumb": "assets/images/kenosha-pass/thumbs/75dd619e.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Gold Leaf",
+   "alt": "Sunlit golden aspens above dry grass, with a bare tree, a wide basin and a long blue mountain range beyond."
+  },
+  {
+   "src": "assets/images/kenosha-pass/47b68236.webp",
+   "thumb": "assets/images/kenosha-pass/thumbs/47b68236.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Pit Stop",
+   "alt": "A mountain bike parked at a trail overlook, with forested ridges and patches of golden aspens beyond."
+  },
+  {
+   "src": "assets/images/kenosha-pass/509f3d4d.webp",
+   "thumb": "assets/images/kenosha-pass/thumbs/509f3d4d.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Blue and Gold",
+   "alt": "A grassy ridge under a big blue sky and white clouds, with a forested valley flecked with gold and a distant range."
+  },
+  {
+   "src": "assets/images/kenosha-pass/12a86fb9.webp",
+   "thumb": "assets/images/kenosha-pass/thumbs/12a86fb9.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Rock Solid",
+   "alt": "Rocky outcrops and dark spruce on a mountainside, with golden aspens in the foreground and a high ridge beyond."
+  },
+  {
+   "src": "assets/images/kenosha-pass/8ddc3593.webp",
+   "thumb": "assets/images/kenosha-pass/thumbs/8ddc3593.webp",
+   "w": 2048,
+   "h": 1153,
+   "tw": 800,
+   "th": 450,
+   "caption": "Patchwork",
+   "alt": "Rolling hills patched with golden aspens and dark spruce under a hazy sky, with two pines in the foreground."
+  },
+  {
+   "src": "assets/images/kenosha-pass/06b21437.webp",
+   "thumb": "assets/images/kenosha-pass/thumbs/06b21437.webp",
+   "w": 1153,
+   "h": 2048,
+   "tw": 450,
+   "th": 800,
+   "caption": "Deadfall",
+   "alt": "Fallen logs and branches on a shaded hillside below a slope of golden aspens and a blue sky streaked with cloud."
+  },
+  {
+   "src": "assets/images/kenosha-pass/1e58654a.webp",
+   "thumb": "assets/images/kenosha-pass/thumbs/1e58654a.webp",
+   "w": 1153,
+   "h": 2048,
+   "tw": 450,
+   "th": 800,
+   "caption": "Copper Roots",
+   "alt": "A weathered, toppled tree with twisted copper-colored roots against a blue sky."
+  },
+  {
+   "src": "assets/images/kenosha-pass/f6d55cbb.webp",
+   "thumb": "assets/images/kenosha-pass/thumbs/f6d55cbb.webp",
+   "w": 2048,
+   "h": 1153,
+   "tw": 800,
+   "th": 450,
+   "caption": "Uprooted",
+   "alt": "A toppled tree with twisted roots in the air and a bleached log beside it on a hillside, with golden aspens and blue sky behind."
+  },
+  {
+   "src": "assets/images/kenosha-pass/12e93726.webp",
+   "thumb": "assets/images/kenosha-pass/thumbs/12e93726.webp",
+   "w": 1153,
+   "h": 2048,
+   "tw": 450,
+   "th": 800,
+   "caption": "Burnished",
+   "alt": "Close-up of weathered, twisting wood in shades of copper and silver."
+  },
+  {
+   "src": "assets/images/kenosha-pass/d0d2026a.webp",
+   "thumb": "assets/images/kenosha-pass/thumbs/d0d2026a.webp",
+   "w": 1153,
+   "h": 2048,
+   "tw": 450,
+   "th": 800,
+   "caption": "Trunk Show",
+   "alt": "White-trunked aspens with golden leaves on a mountainside, with a rocky valley and a distant peak behind."
+  },
+  {
+   "src": "assets/images/kenosha-pass/1f5f91a5.webp",
+   "thumb": "assets/images/kenosha-pass/thumbs/1f5f91a5.webp",
+   "w": 2048,
+   "h": 1153,
+   "tw": 800,
+   "th": 450,
+   "caption": "Late Light",
+   "alt": "A wall of golden aspens in front of a dark spruce-covered slope."
+  },
+  {
+   "src": "assets/images/kenosha-pass/75eb6b1a.webp",
+   "thumb": "assets/images/kenosha-pass/thumbs/75eb6b1a.webp",
+   "w": 2048,
+   "h": 1153,
+   "tw": 800,
+   "th": 450,
+   "caption": "Dusting",
+   "alt": "A wet mountain highway with a double yellow line, spruce and a slope dusted with snow, and a red vehicle hood at the bottom of the frame."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 30%"
+}

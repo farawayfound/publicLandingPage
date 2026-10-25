@@ -1,0 +1,120 @@
+{
+ "slug": "seattle-2025",
+ "title": "Seattle, Again",
+ "cardTitle": "Seattle, Again",
+ "date": "2025-12",
+ "dateLabel": "December 2025",
+ "location": "Seattle, Washington",
+ "country": "United States",
+ "coords": [
+  47.6,
+  -122.3
+ ],
+ "tags": [
+  "city",
+  "coast"
+ ],
+ "sectionTitle": "Gray Matters",
+ "paragraphs": [
+  "The trip began in an airport parking garage, where the sun was setting behind the Front Range in streaks of orange and slate. That same night I was back at Pike Place Market, watching the red PUBLIC MARKET neon glow above Elliott Bay, with strings of white bulbs running along the awning beside it. A STREET CLOSED sign hung on the lamp post out front. The neon, at least, was open for business!",
+  "Saturday began at first light on a working pier. Across the bay, the arches of Lumen Field and the port's red cranes sat under a long, dark bank of cloud, with a sliver of moon still up. Turn toward downtown and the picture changed: fog had swallowed the towers from the top down, and the teal building stamped with a giant white 66 was the only splash of color. Down the waterfront, the Seattle Aquarium's Ocean Pavilion, which opened in 2024, hangs a tropical reef over its entrance. An oval window in the underside lets anyone walking by stand beneath it and look up into the water, no ticket needed, so that is what I did, head tipped back. Coral crowds the rim, fish cross the rippling blue, and the whole thing glows like a skylight into a warmer ocean.",
+  "Sunday settled into steel gray and stayed there. A ferry crossed the bay in front of the container cranes while gulls worked the air above it, and the Great Wheel stood against the clouds with a red crane showing through its spokes. The water looked far too calm to have a past, but during the last ice age this whole bay lay under roughly half a mile of glacier. Everything I could see, the ferry, the cranes, even the Wheel, is a very recent arrival on the scale of that story."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/seattle-2025/cover.webp",
+ "card": "assets/images/seattle-2025/thumbs/1100e384.webp",
+ "photos": [
+  {
+   "src": "assets/images/seattle-2025/0d190c9c.webp",
+   "thumb": "assets/images/seattle-2025/thumbs/0d190c9c.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Home Range",
+   "alt": "Orange and slate clouds glow above a long, dark mountain ridge at sunset, with parked trucks and cars silhouetted in the foreground."
+  },
+  {
+   "src": "assets/images/seattle-2025/1100e384.webp",
+   "thumb": "assets/images/seattle-2025/thumbs/1100e384.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Red Letter Night",
+   "alt": "Red neon letters spelling PUBLIC MARKET glow in the night above a dark bay, with a STREET CLOSED sign on a lamp post, strings of white bulbs along an awning, an orange pedestrian signal and a crosswalk in the foreground."
+  },
+  {
+   "src": "assets/images/seattle-2025/09384d23.webp",
+   "thumb": "assets/images/seattle-2025/thumbs/09384d23.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "First Shift",
+   "alt": "Dawn over a working pier, with dark pilings and yellow bollards in the foreground and, across the water, the arches of Lumen Field and red container cranes under a long bank of dark cloud, with a gull and a thin crescent moon above."
+  },
+  {
+   "src": "assets/images/seattle-2025/e32e524a.webp",
+   "thumb": "assets/images/seattle-2025/thumbs/e32e524a.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Missing Skyline",
+   "alt": "Fog swallows the tops of glass towers behind a teal waterfront building marked with a giant white 66."
+  },
+  {
+   "src": "assets/images/seattle-2025/896ecd60.webp",
+   "thumb": "assets/images/seattle-2025/thumbs/896ecd60.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Reef Above",
+   "alt": "Seen from below, a lit oval window in a dark ceiling opens onto an aquarium reef, with coral along the rim and fish crossing rippling blue water."
+  },
+  {
+   "src": "assets/images/seattle-2025/3572602f.webp",
+   "thumb": "assets/images/seattle-2025/thumbs/3572602f.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Ferry Tale",
+   "alt": "A white passenger ferry crosses a calm gray bay in front of pale container cranes, with two gulls in flight overhead."
+  },
+  {
+   "src": "assets/images/seattle-2025/a9d53a38.webp",
+   "thumb": "assets/images/seattle-2025/thumbs/a9d53a38.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Flyover",
+   "alt": "Four gulls wheel across a gray sky above the bay, with white container cranes at the left and a ferry crossing at the right."
+  },
+  {
+   "src": "assets/images/seattle-2025/ab93272a.webp",
+   "thumb": "assets/images/seattle-2025/thumbs/ab93272a.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Great Wheel",
+   "alt": "The Seattle Great Wheel against a slate-gray sky, its small cabins ringing the rim and a red port crane showing through the spokes behind its base."
+  },
+  {
+   "src": "assets/images/seattle-2025/6f86e8c6.webp",
+   "thumb": "assets/images/seattle-2025/thumbs/6f86e8c6.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Masthead",
+   "alt": "A calm gray bay between two forested headlands, with a gull perched on a tall mast at the right and the dark roof of a pier building at the lower left."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "70% 30%"
+}

@@ -1,0 +1,172 @@
+{
+ "slug": "crested-butte",
+ "title": "Crested Butte, CO",
+ "cardTitle": "Crested Butte, CO",
+ "date": "2021-06",
+ "dateLabel": "June 2021",
+ "location": "Crested Butte & Kebler Pass, Colorado",
+ "country": "United States",
+ "coords": [
+  38.9,
+  -107.0
+ ],
+ "tags": [
+  "forest",
+  "lakes",
+  "mountains",
+  "road-trip"
+ ],
+ "sectionTitle": "Summer's Doorstep",
+ "paragraphs": [
+  "I came to Crested Butte to ride, and the first day went to the singletrack above town, where I kept laying the bike down in the sage and lupine to take pictures. In mid-June the high country here has one foot in each season. Far up the Slate River valley the peaks still wore their snow, while down below the meadows were green and speckled with yellow flowers, and the river, fed by that melt, looped through its gravel bars. Crested Butte is known as the wildflower capital of Colorado, and even this early in the season I could see why. By afternoon the cumulus were building over the valley.",
+  "By evening the sky had turned heavy and the light a soft golden gray. A moose was feeding in a beaver pond just outside town, only a small dark shape at the foot of a steep, bare bluff, but I shot it anyway. Then I went back to the overlook where I'd leaned the bike against a signpost that afternoon. Someone had thoughtfully put benches there, all facing the rust-colored butte itself. Against all those clouds, its cliffs looked almost gold.",
+  "The second morning came in gray and flat, which suited a drive up the Kebler Pass road with the bikes on the rack. Around Lake Irwin the beaver ponds turned into mirrors for the spruce and the dead snags standing in the water. Beavers do most of the landscaping out here. Their dams slow the snowmelt and spread it across the meadows, and the ponds that result make a pretty good dinner table for a moose. By midday the clouds had thinned, and the lake sat ringed by spruce with the red-brown Ruby Range behind it, still flecked with snow. The real wildflower show comes later in the summer; this was only the early bloom."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/crested-butte/cover.webp",
+ "card": "assets/images/crested-butte/thumbs/bd6680ac.webp",
+ "photos": [
+  {
+   "src": "assets/images/crested-butte/abb48b9e.webp",
+   "thumb": "assets/images/crested-butte/thumbs/abb48b9e.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Singletrack",
+   "alt": "A cream-colored mountain bike lying at the edge of a dirt singletrack that winds past purple lupine and a green hillside, under a blue sky with cumulus clouds"
+  },
+  {
+   "src": "assets/images/crested-butte/9984915c.webp",
+   "thumb": "assets/images/crested-butte/thumbs/9984915c.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Sage Advice",
+   "alt": "A cream-colored mountain bike lying on dirt among sagebrush and purple lupine, with green slopes and a pyramid-shaped peak down the valley"
+  },
+  {
+   "src": "assets/images/crested-butte/cf9287a3.webp",
+   "thumb": "assets/images/crested-butte/thumbs/cf9287a3.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Early Bloom",
+   "alt": "A meadow dotted with yellow flowers in the foreground, a river curving past gravel bars below a forested peak, and a pine at the left under a blue sky"
+  },
+  {
+   "src": "assets/images/crested-butte/30c8aa1a.webp",
+   "thumb": "assets/images/crested-butte/thumbs/30c8aa1a.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Lean on Me",
+   "alt": "A mountain bike leaning against an interpretive signpost, with the rust-colored cliffs of Crested Butte rising behind green meadows"
+  },
+  {
+   "src": "assets/images/crested-butte/7241f509.webp",
+   "thumb": "assets/images/crested-butte/thumbs/7241f509.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Spot the Moose",
+   "alt": "A dark moose feeding in a beaver pond at the foot of a steep gray bluff"
+  },
+  {
+   "src": "assets/images/crested-butte/b029e09f.webp",
+   "thumb": "assets/images/crested-butte/thumbs/b029e09f.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Lodge Neighbor",
+   "alt": "A moose wading in a beaver pond beside a stick lodge, below a gray bluff"
+  },
+  {
+   "src": "assets/images/crested-butte/bd6680ac.webp",
+   "thumb": "assets/images/crested-butte/thumbs/bd6680ac.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Box Seats",
+   "alt": "Wooden benches on a concrete overlook facing the rust-colored Crested Butte peak under heavy evening clouds"
+  },
+  {
+   "src": "assets/images/crested-butte/3e98c023.webp",
+   "thumb": "assets/images/crested-butte/thumbs/3e98c023.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Red Rover",
+   "alt": "A red Jeep pickup with mountain bikes on the rack, parked on a sandy pull-off beside a lake"
+  },
+  {
+   "src": "assets/images/crested-butte/a71ca97b.webp",
+   "thumb": "assets/images/crested-butte/thumbs/a71ca97b.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Dam Good",
+   "alt": "A beaver pond with a small stick dam in a green meadow, beneath spruce-dotted hills and an overcast sky"
+  },
+  {
+   "src": "assets/images/crested-butte/4b9294fd.webp",
+   "thumb": "assets/images/crested-butte/thumbs/4b9294fd.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Glass",
+   "alt": "Still water in a beaver pond reflecting dead snags and spruce under gray clouds"
+  },
+  {
+   "src": "assets/images/crested-butte/209da0af.webp",
+   "thumb": "assets/images/crested-butte/thumbs/209da0af.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Rust and Snow",
+   "alt": "Spruce trees framing a red-brown peak streaked with snow"
+  },
+  {
+   "src": "assets/images/crested-butte/845d7bbf.webp",
+   "thumb": "assets/images/crested-butte/thumbs/845d7bbf.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Clear Run",
+   "alt": "A clear stream running over rocks between green undergrowth and spruce forest"
+  },
+  {
+   "src": "assets/images/crested-butte/696df3ff.webp",
+   "thumb": "assets/images/crested-butte/thumbs/696df3ff.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Lake Irwin",
+   "alt": "Rippled water of Lake Irwin framed by a large spruce at the left, with a snow-flecked peak behind"
+  },
+  {
+   "src": "assets/images/crested-butte/e4d4ca27.webp",
+   "thumb": "assets/images/crested-butte/thumbs/e4d4ca27.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Ruby Range",
+   "alt": "Rippled water of Lake Irwin with spruce trees and the snow-flecked, red-brown Ruby Range behind"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 55%"
+}

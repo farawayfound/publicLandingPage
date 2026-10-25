@@ -1,0 +1,92 @@
+{
+ "slug": "frozen-bear-creek",
+ "title": "Frozen Bear Creek",
+ "cardTitle": "Frozen Bear Creek",
+ "date": "2022-01",
+ "dateLabel": "January 2022",
+ "location": "Upper Bear Creek, near Evergreen, Colorado",
+ "country": "United States",
+ "coords": [
+  39.6,
+  -105.4
+ ],
+ "tags": [
+  "hiking",
+  "snow",
+  "forest",
+  "mountains"
+ ],
+ "sectionTitle": "Powder Hush",
+ "paragraphs": [
+  "Snow turns the volume down. Evergreen is a short drive west of Denver, but a little way up Bear Creek it feels like another world: a deep blue sky, a packed trail winding between pine and fir, and a creek hushed under its ice. The snow was soft and deep, and by midday the sun was throwing long blue shadows across every drift. In winter, bring traction. A trail this well trodden turns to ice in a hurry.",
+  "The trail stayed close to the creek, and the rock was the main attraction. Boulders stacked on the bank, granite I think, wore thick caps of snow, their faces streaked with what looked like orange lichen. The dog in the blue jacket had other priorities. It sprinted ahead until it was a speck between the trees, doubled back at full speed, then flopped into powder and rolled over completely, as if snow angels were serious business.",
+  "Further along, the trail edged out onto a ledge. I looked down through the pine boughs into a cleft of rock packed full of snow and stood there a while. It doesn't take a fourteener to feel small. A frozen creek and a pile of old granite will do just fine. Then I retraced the footprints back out, already hoping to return when the ice lets go and I can hear what this creek actually sounds like."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/frozen-bear-creek/cover.webp",
+ "card": "assets/images/frozen-bear-creek/thumbs/32d87faa.webp",
+ "photos": [
+  {
+   "src": "assets/images/frozen-bear-creek/4a59df65.webp",
+   "thumb": "assets/images/frozen-bear-creek/thumbs/4a59df65.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Pine Corridor",
+   "alt": "A footprinted snow trail running through tall pine trunks with the sun flaring between them"
+  },
+  {
+   "src": "assets/images/frozen-bear-creek/3a823add.webp",
+   "thumb": "assets/images/frozen-bear-creek/thumbs/3a823add.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Lead Dog",
+   "alt": "A small dog in a blue jacket bounding toward the camera along a snowy trail"
+  },
+  {
+   "src": "assets/images/frozen-bear-creek/f99d522f.webp",
+   "thumb": "assets/images/frozen-bear-creek/thumbs/f99d522f.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Snow Bath",
+   "alt": "A dog in a blue jacket rolling in deep powder beside a pine trunk"
+  },
+  {
+   "src": "assets/images/frozen-bear-creek/63515993.webp",
+   "thumb": "assets/images/frozen-bear-creek/thumbs/63515993.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Balancing Act",
+   "alt": "Snow-capped granite boulders stacked on a steep slope beneath tall pines and a deep blue sky"
+  },
+  {
+   "src": "assets/images/frozen-bear-creek/32d87faa.webp",
+   "thumb": "assets/images/frozen-bear-creek/thumbs/32d87faa.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Rust on Snow",
+   "alt": "Close view of a large granite boulder with orange lichen and a thick cap of snow"
+  },
+  {
+   "src": "assets/images/frozen-bear-creek/4008d49d.webp",
+   "thumb": "assets/images/frozen-bear-creek/thumbs/4008d49d.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Over the Ledge",
+   "alt": "Looking down through pine boughs into a snow-filled rocky cleft in the gorge"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 6%"
+}

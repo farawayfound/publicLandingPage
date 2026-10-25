@@ -1,0 +1,130 @@
+{
+ "slug": "grays-torreys",
+ "title": "Torreys Peak, CO",
+ "cardTitle": "Torreys Peak, CO",
+ "date": "2021-09",
+ "dateLabel": "September 2021",
+ "location": "Torreys Peak, Colorado",
+ "country": "United States",
+ "coords": [
+  39.6,
+  -105.8
+ ],
+ "tags": [
+  "hiking",
+  "mountains"
+ ],
+ "sectionTitle": "Higher Ground",
+ "paragraphs": [
+  "I started up Torreys Peak around sunrise, with the valley still in shadow and only the ridgetops catching the light. It was the third week of September, and the high country was already rust and gold. Torreys is a 14,267-foot fourteener near Georgetown, and it shares a saddle with its slightly taller neighbor, Grays, which is why the two are so often climbed together. A creek ran beside the trail through yellow willows and dark spruce. Farther up, the willows gave way to tundra, and the trail led into a huge bowl of rock still sitting in shadow.",
+  "Above the saddle the trail turns steep and loose. At 14,000 feet there is about 40 percent less oxygen than at sea level, so you climb in short bursts, and every pause rewards you with a wider view. At the top the sky was a deep, clean blue with only thin bands of cloud along the horizon. A basin of gold and rust lay far below, faint trails threading across its slope. I stayed a while. A botanist gave these mountains their names. In 1861 Charles Parry made the first recorded climbs and named the peaks for two fellow botanists, Asa Gray and John Torrey. Gray didn't see his mountain until eleven years later. With this much color on the tundra, it seems fitting!",
+  "Coming down, the willows I had passed in shadow that morning were practically glowing. Same creek, same trail, and a few hours of sun had changed everything. It makes you wonder what else you walk past in the shade. The next afternoon I stopped at Loveland Pass, only a few miles from the peaks, where the highway curled through gold tundra and the ski runs across the valley lay bare, for now."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/grays-torreys/cover.webp",
+ "card": "assets/images/grays-torreys/thumbs/fc126849.webp",
+ "photos": [
+  {
+   "src": "assets/images/grays-torreys/8d11f82e.webp",
+   "thumb": "assets/images/grays-torreys/thumbs/8d11f82e.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Head Start",
+   "alt": "A rocky creek winding through yellowing willows below dark spruce at dawn, with a bare mountain ridge above catching the first light"
+  },
+  {
+   "src": "assets/images/grays-torreys/9c3cd401.webp",
+   "thumb": "assets/images/grays-torreys/thumbs/9c3cd401.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Marbled",
+   "alt": "A pale mountainside veined with white rock above a long scree fan, under a deep blue sky"
+  },
+  {
+   "src": "assets/images/grays-torreys/fc126849.webp",
+   "thumb": "assets/images/grays-torreys/thumbs/fc126849.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Cutting Edge",
+   "alt": "A dark pyramid-shaped ridge with a sunlit golden flank and a shadowed rocky face, with layered ranges and a band of white cloud beyond"
+  },
+  {
+   "src": "assets/images/grays-torreys/a6d3652a.webp",
+   "thumb": "assets/images/grays-torreys/thumbs/a6d3652a.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Shifting Ground",
+   "alt": "A steep slope of loose scree rising to a rocky summit cone against a deep blue sky"
+  },
+  {
+   "src": "assets/images/grays-torreys/445c65cb.webp",
+   "thumb": "assets/images/grays-torreys/thumbs/445c65cb.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Trail Mix",
+   "alt": "A slope of broken boulders in the foreground with a band of clouds above distant mountain ranges"
+  },
+  {
+   "src": "assets/images/grays-torreys/d05cf442.webp",
+   "thumb": "assets/images/grays-torreys/thumbs/d05cf442.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Rust Bucket",
+   "alt": "Rust-colored slopes dropping to a small dark tarn, with a hazy valley and jagged distant peaks under scattered clouds"
+  },
+  {
+   "src": "assets/images/grays-torreys/e6ccd157.webp",
+   "thumb": "assets/images/grays-torreys/thumbs/e6ccd157.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Top of Torreys",
+   "alt": "A view from the summit rocks down into a vast basin of gold and rust tundra, ringed by dark ridges under a deep blue sky"
+  },
+  {
+   "src": "assets/images/grays-torreys/6bfd1e53.webp",
+   "thumb": "assets/images/grays-torreys/thumbs/6bfd1e53.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Autumn Run",
+   "alt": "A rocky creek bed lined with yellow willows and dark spruce below a gray mountain wall and white clouds"
+  },
+  {
+   "src": "assets/images/grays-torreys/bd7222e2.webp",
+   "thumb": "assets/images/grays-torreys/thumbs/bd7222e2.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Pass Time",
+   "alt": "A wide mountain pass of golden tundra with a gravel footpath in the foreground, a highway curving in the distance and big white clouds over the range"
+  },
+  {
+   "src": "assets/images/grays-torreys/e6d6e9e6.webp",
+   "thumb": "assets/images/grays-torreys/thumbs/e6d6e9e6.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Waiting Room",
+   "alt": "A treeless brown ridge crossed by ski runs and lift towers above a highway and a hillside of golden tundra, under big white clouds"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 40%"
+}

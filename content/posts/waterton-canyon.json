@@ -1,0 +1,150 @@
+{
+ "slug": "waterton-canyon",
+ "title": "Waterton Canyon, CO",
+ "cardTitle": "Waterton Canyon",
+ "date": "2018-10",
+ "dateLabel": "October 2018 – October 2022",
+ "location": "Waterton Canyon, Colorado",
+ "country": "United States",
+ "coords": [
+  39.5,
+  -105.1
+ ],
+ "tags": [
+  "hiking",
+  "mountains"
+ ],
+ "sectionTitle": "Right of Way",
+ "paragraphs": [
+  "One clear October morning in 2018, on a visit back to Colorado, the road in front of me belonged to a herd of bighorn sheep. They had claimed the gravel in what I'm fairly sure was Waterton Canyon, southwest of Denver. Rams lined up along the road in a slow procession, curled horns swinging and pale rump patches flashing, while ewes grazed the golden grass beside them and rabbitbrush blazed yellow along the verge. It was probably the start of rut season, when rams settle who is boss by charging and crashing their horns together, and I caught one pair mid-argument while the rest kept right on eating. Nobody was in any hurry to move.",
+  "I came back in June 2022 and the canyon had traded its autumn straw for green. A wide, low dam spilled a white veil of water across the river, and farther along the current slowed into a calm green pool beside the dirt road, under steep rock walls and puffy clouds above the rim. One bighorn ewe stood among the shrubs by the road, her coat patchy, as if she were partway through shedding her winter wool, and watched me with total calm.",
+  "By October the canyon had turned to gold again. The sheep were back on the hillsides, grazing above a big water pipeline and its railed catwalk as if neither were there. Farther along, cottonwoods glowed yellow beside the river and patches of orange climbed the slopes, and the water broke into white rapids before settling into a still pool, with powerlines draped across the gorge overhead. Water for Denver flows through here, so it is very much a working canyon: a dam, pipes and wires threaded through it, and the sheep simply carry on. I find that comforting. A short drive from the suburbs there is still a road where the locals have priority, and I'm happy to yield."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/waterton-canyon/cover.webp",
+ "card": "assets/images/waterton-canyon/thumbs/5c01afaf.webp",
+ "photos": [
+  {
+   "src": "assets/images/waterton-canyon/a5d3c2e5.webp",
+   "thumb": "assets/images/waterton-canyon/thumbs/a5d3c2e5.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Road Block",
+   "alt": "A group of bighorn sheep standing on a dirt road in a V-shaped canyon under a deep blue sky"
+  },
+  {
+   "src": "assets/images/waterton-canyon/c1db9cc9.webp",
+   "thumb": "assets/images/waterton-canyon/thumbs/c1db9cc9.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Traffic Cop",
+   "alt": "A bighorn ram facing the camera in the middle of a dirt road with other sheep behind it and canyon walls beyond"
+  },
+  {
+   "src": "assets/images/waterton-canyon/cc8234eb.webp",
+   "thumb": "assets/images/waterton-canyon/thumbs/cc8234eb.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Head to Head",
+   "alt": "Two bighorn rams locking heads beside a dirt road while a third stands by, below a rocky canyon wall"
+  },
+  {
+   "src": "assets/images/waterton-canyon/5f3b6b2b.webp",
+   "thumb": "assets/images/waterton-canyon/thumbs/5f3b6b2b.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Grass Level",
+   "alt": "A bighorn ram with a white rump patch walking through tall golden grass, other sheep behind it and rocky hills beyond"
+  },
+  {
+   "src": "assets/images/waterton-canyon/5c01afaf.webp",
+   "thumb": "assets/images/waterton-canyon/thumbs/5c01afaf.webp",
+   "w": 2048,
+   "h": 2048,
+   "tw": 800,
+   "th": 800,
+   "caption": "Staring Contest",
+   "alt": "A bighorn ram with heavy curled horns facing the camera through tall dry grass, with a ewe beside him and a canyon behind"
+  },
+  {
+   "src": "assets/images/waterton-canyon/c54423a2.webp",
+   "thumb": "assets/images/waterton-canyon/thumbs/c54423a2.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Spillway",
+   "alt": "A wide low dam with water spilling over it, framed by green leaves and a rocky canyon wall"
+  },
+  {
+   "src": "assets/images/waterton-canyon/65692b1f.webp",
+   "thumb": "assets/images/waterton-canyon/thumbs/65692b1f.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Welcome Committee",
+   "alt": "A bighorn ewe with a mottled coat standing among green shrubs beside a gravel road"
+  },
+  {
+   "src": "assets/images/waterton-canyon/6d320e27.webp",
+   "thumb": "assets/images/waterton-canyon/thumbs/6d320e27.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Salad Bar",
+   "alt": "Several bighorn sheep grazing on a dry grassy hillside with yellow rabbitbrush"
+  },
+  {
+   "src": "assets/images/waterton-canyon/e7761ec1.webp",
+   "thumb": "assets/images/waterton-canyon/thumbs/e7761ec1.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "King of the Hill",
+   "alt": "A bighorn ram with heavy curled horns standing on a grassy slope"
+  },
+  {
+   "src": "assets/images/waterton-canyon/4b028f81.webp",
+   "thumb": "assets/images/waterton-canyon/thumbs/4b028f81.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Water Works",
+   "alt": "A bighorn ram in shade below a large pipeline and railed catwalk, with more sheep on the hillside above"
+  },
+  {
+   "src": "assets/images/waterton-canyon/2871e4fa.webp",
+   "thumb": "assets/images/waterton-canyon/thumbs/2871e4fa.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Crossed Wires",
+   "alt": "Powerlines crossing a sunlit rocky gorge with orange and yellow autumn foliage and a river below"
+  },
+  {
+   "src": "assets/images/waterton-canyon/fb47d56f.webp",
+   "thumb": "assets/images/waterton-canyon/thumbs/fb47d56f.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Cottonwood Gold",
+   "alt": "A river running through a deep canyon, with golden trees reflected in a still pool and rapids beyond"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 55%"
+}

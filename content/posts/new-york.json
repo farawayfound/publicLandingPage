@@ -1,0 +1,219 @@
+{
+ "slug": "new-york",
+ "title": "New York, NY",
+ "cardTitle": "New York, NY",
+ "date": "2019-10",
+ "dateLabel": "October 2019 – May 2022",
+ "location": "New York City, New York",
+ "country": "United States",
+ "coords": [
+  40.7,
+  -74.0
+ ],
+ "tags": [
+  "city"
+ ],
+ "sectionTitle": "Granite and Glass",
+ "paragraphs": [
+  "My long weekend in October 2019 started in the dark at Newark Airport's own train station, and from there it was a short ride into Manhattan. The whole trip was a lesson in how much ground you can cover on foot and by transit when a city is built for it. Central Park was overcast and dim that first day, with the supertall towers of Billionaires' Row looming over the trees. One of them was as thin as a needle and still had a construction crane perched on its tip!",
+  "Walk across the Brooklyn Bridge, of course, but also go down to the water. From a low pier on the East River you can see the whole thing, stone towers and steel cables, with the Manhattan Bridge waiting its turn behind. It opened in 1883 as the longest suspension bridge in the world, and those Gothic arches look more like cathedral doors than engineering. Nearby, the Municipal Building rises over its own triumphal arch, and in Midtown the clock at Grand Central keeps time at the feet of Mercury. Even Lady Liberty made an appearance, a speck across the harbor. Between landmarks I kept tilting my head back at the black glass towers. They make a kind of canyon too, except that these walls were stacked by people, one floor at a time.",
+  "I went back in May 2022 and the city had a different mood. It was gray and wet. Paper lanterns hung over Bayard Street in Chinatown, and from the Brooklyn Bridge walkway a heavy purple sky pressed down on Midtown. In Central Park the trees had gone spring green, and wisteria trunks twisted around the posts of a pergola like rope. Even a city this dense finds room for that. From Rat Rock I could see the needle again, and the crane was gone. On the flight out, Lower Manhattan sat small on a pale horizon."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/new-york/cover.webp",
+ "card": "assets/images/new-york/thumbs/6950661e.webp",
+ "photos": [
+  {
+   "src": "assets/images/new-york/e9fae8fa.webp",
+   "thumb": "assets/images/new-york/thumbs/e9fae8fa.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Iron Lace",
+   "alt": "A plank-decked cast-iron footbridge with ornate railings leading into dark trees in Central Park."
+  },
+  {
+   "src": "assets/images/new-york/8cb9fdd8.webp",
+   "thumb": "assets/images/new-york/thumbs/8cb9fdd8.webp",
+   "w": 1369,
+   "h": 2048,
+   "tw": 535,
+   "th": 800,
+   "caption": "Billionaires' Row",
+   "alt": "Slender skyscrapers, one with a crane on top, rising behind trees and a rock outcrop at the south end of Central Park under an overcast sky."
+  },
+  {
+   "src": "assets/images/new-york/d927bb9a.webp",
+   "thumb": "assets/images/new-york/thumbs/d927bb9a.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Craned Neck",
+   "alt": "Looking up at a glass skyscraper and a construction crane beside a dark brick building against a pale sky."
+  },
+  {
+   "src": "assets/images/new-york/8cadb31c.webp",
+   "thumb": "assets/images/new-york/thumbs/8cadb31c.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Autumn Belfry",
+   "alt": "A domed church bell tower topped with a cross, framed by red-orange autumn leaves."
+  },
+  {
+   "src": "assets/images/new-york/1ea6e262.webp",
+   "thumb": "assets/images/new-york/thumbs/1ea6e262.webp",
+   "w": 2048,
+   "h": 464,
+   "tw": 800,
+   "th": 181,
+   "caption": "Two Bridges",
+   "alt": "Wide panorama of the Manhattan Bridge and the Brooklyn Bridge across the gray East River, with blue pier columns at left."
+  },
+  {
+   "src": "assets/images/new-york/6c52fa9d.webp",
+   "thumb": "assets/images/new-york/thumbs/6c52fa9d.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Underbelly",
+   "alt": "The underside of the Brooklyn Bridge in silhouette beside its stone tower, with the Manhattan Bridge at left and sparkling water below."
+  },
+  {
+   "src": "assets/images/new-york/6b53b788.webp",
+   "thumb": "assets/images/new-york/thumbs/6b53b788.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Municipal Building",
+   "alt": "Looking up through the arch and columns of the Manhattan Municipal Building toward a deep blue sky."
+  },
+  {
+   "src": "assets/images/new-york/a19c1be4.webp",
+   "thumb": "assets/images/new-york/thumbs/a19c1be4.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Mercury Rising",
+   "alt": "The gilded clock and sculpture group above the 42nd Street facade of Grand Central Terminal, with a glass tower behind."
+  },
+  {
+   "src": "assets/images/new-york/db108952.webp",
+   "thumb": "assets/images/new-york/thumbs/db108952.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Monolith",
+   "alt": "A black glass skyscraper rising into the clouds, seen from the street, with a tower crane at the edge of the frame."
+  },
+  {
+   "src": "assets/images/new-york/e7429b91.webp",
+   "thumb": "assets/images/new-york/thumbs/e7429b91.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Lightsaber",
+   "alt": "A bright vertical flare of sunlight between two dark glass towers."
+  },
+  {
+   "src": "assets/images/new-york/12fca909.webp",
+   "thumb": "assets/images/new-york/thumbs/12fca909.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Lady Liberty",
+   "alt": "The Statue of Liberty as a tiny silhouette across the wide gray-green harbor under scattered clouds."
+  },
+  {
+   "src": "assets/images/new-york/cb0fa365.webp",
+   "thumb": "assets/images/new-york/thumbs/cb0fa365.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Verdigris",
+   "alt": "An ornate loft building with a green copper cornice and fire escapes against a white sky."
+  },
+  {
+   "src": "assets/images/new-york/99a123a8.webp",
+   "thumb": "assets/images/new-york/thumbs/99a123a8.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Bayard Street",
+   "alt": "Paper lanterns and a yellow dragon banner hanging along a brick Chinatown building with zigzag fire escapes."
+  },
+  {
+   "src": "assets/images/new-york/fb9d14a0.webp",
+   "thumb": "assets/images/new-york/thumbs/fb9d14a0.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Purple Haze",
+   "alt": "A hazy Midtown skyline above brick housing towers and the Manhattan Bridge, with a tan railing in the foreground under heavy purple-gray clouds."
+  },
+  {
+   "src": "assets/images/new-york/e992fb84.webp",
+   "thumb": "assets/images/new-york/thumbs/e992fb84.webp",
+   "w": 1318,
+   "h": 2048,
+   "tw": 515,
+   "th": 800,
+   "caption": "Wisteria Walk",
+   "alt": "A long pergola with twisted wisteria trunks, green benches and a damp stone path."
+  },
+  {
+   "src": "assets/images/new-york/0295b061.webp",
+   "thumb": "assets/images/new-york/thumbs/0295b061.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Twisted",
+   "alt": "Close-up of a thick twisted wisteria trunk on a pergola, with a green bench and damp walkway beyond."
+  },
+  {
+   "src": "assets/images/new-york/915b3b3f.webp",
+   "thumb": "assets/images/new-york/thumbs/915b3b3f.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Rat Rock",
+   "alt": "A mossy rock outcrop with gnarled tree roots and a dirt path in Central Park, with glass towers rising beyond the trees."
+  },
+  {
+   "src": "assets/images/new-york/2185621e.webp",
+   "thumb": "assets/images/new-york/thumbs/2185621e.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Thread the Needle",
+   "alt": "A needle-thin skyscraper rising above spring trees and a slate-roofed park building with a small spire."
+  },
+  {
+   "src": "assets/images/new-york/45b6e282.webp",
+   "thumb": "assets/images/new-york/thumbs/45b6e282.webp",
+   "w": 2048,
+   "h": 1534,
+   "tw": 800,
+   "th": 599,
+   "caption": "Wheels Up",
+   "alt": "Aerial view from a plane window over Queens and Brooklyn toward the Lower Manhattan skyline on a hazy horizon."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "60% 45%"
+}

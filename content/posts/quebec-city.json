@@ -1,0 +1,131 @@
+{
+ "slug": "quebec-city",
+ "title": "Québec City, CA",
+ "cardTitle": "Québec City, CA",
+ "date": "2022-06",
+ "dateLabel": "June 2022",
+ "location": "Québec City & Montmorency Falls, Quebec",
+ "country": "Canada",
+ "coords": [
+  46.8,
+  -71.2
+ ],
+ "tags": [
+  "city",
+  "abroad",
+  "waterfalls"
+ ],
+ "sectionTitle": "Walled City",
+ "paragraphs": [
+  "The ship tied up at the foot of a cliff, and on top of that cliff sat a castle. The Château Frontenac, all copper-green turrets and red brick, looks like it wandered over from France and forgot to go home. The cruise gave me one day in port, so I climbed up into the Old Town first. Québec is the only city north of Mexico that still has its walls, and its streets were laid out centuries before anyone imagined cars, so it is a city made for walking. Just wear good shoes, because few of those streets are flat. I kept stopping for stone houses with dormer windows, iron lanterns, even a stop sign that says ARRÊT, and then a crenellated gate cut straight through the wall. Black cannons stand guard along the ramparts, and in early June the tulips were still in bloom beside the old stone.",
+  "By late morning I had left the walls behind and made for Montmorency Falls. A waterfall taller than Niagara sits right outside Québec. It drops 83 metres to meet the St. Lawrence, and in June it was running high with spring flow, a thick, creamy curtain that threw up so much mist the bottom disappeared. Below it the gorge winds off between steep banks of forest, with a tangle of logs floating at the foot of the falls. Watching all that water, I kept thinking about the walls back in town. People build walls to make something last. The water got there first, with no stonemasons and no budget, and it is still carving away.",
+  "By late afternoon I was back on the ship, and the St. Lawrence took over the show. The falls shrank to a pale line on the far shore. Three steel pylons stood on a rocky shoal out in the river, and as evening came on the water went calm under a hazy, pink-tinged sky. A day that began with a castle ended with a small red-and-white lighthouse keeping watch beside a green buoy."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/quebec-city/cover.webp",
+ "card": "assets/images/quebec-city/thumbs/a43f52c2.webp",
+ "photos": [
+  {
+   "src": "assets/images/quebec-city/a43f52c2.webp",
+   "thumb": "assets/images/quebec-city/thumbs/a43f52c2.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Home Base",
+   "alt": "Cruise ship docked at a pier below the old town, seen over green treetops and rooftops, with the wide river and a forested far shore under a cloudy sky."
+  },
+  {
+   "src": "assets/images/quebec-city/895dc5a8.webp",
+   "thumb": "assets/images/quebec-city/thumbs/895dc5a8.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Uphill Both Ways",
+   "alt": "Quiet sloping street between old stone houses with dormer windows, an iron lantern on the wall and a red stop sign ahead."
+  },
+  {
+   "src": "assets/images/quebec-city/0f4d18d7.webp",
+   "thumb": "assets/images/quebec-city/thumbs/0f4d18d7.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Late Bloomers",
+   "alt": "Red and orange tulips in a garden bed against a dry-stone wall, with grey stone row houses and a tall tower behind."
+  },
+  {
+   "src": "assets/images/quebec-city/d922e1aa.webp",
+   "thumb": "assets/images/quebec-city/thumbs/d922e1aa.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Gatekeeper",
+   "alt": "Crenellated stone city gate with a round arch and a green-roofed turret beneath tree branches."
+  },
+  {
+   "src": "assets/images/quebec-city/2da727e1.webp",
+   "thumb": "assets/images/quebec-city/thumbs/2da727e1.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "On Guard",
+   "alt": "Black cannons on white carriages lined up along a grassy rampart beside a stone wall, with a low blue-grey building at left and green trees behind."
+  },
+  {
+   "src": "assets/images/quebec-city/8fd779a5.webp",
+   "thumb": "assets/images/quebec-city/thumbs/8fd779a5.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Café au Lait",
+   "alt": "Wide curtain of cream-coloured water pouring over a dark cliff and wrapped in mist, seen from below."
+  },
+  {
+   "src": "assets/images/quebec-city/b84a04af.webp",
+   "thumb": "assets/images/quebec-city/thumbs/b84a04af.webp",
+   "w": 1369,
+   "h": 2048,
+   "tw": 535,
+   "th": 800,
+   "caption": "Green Gorge",
+   "alt": "Mist rising from the base of a waterfall in a deep forested gorge, seen from above through evergreen branches, with a tangle of logs below."
+  },
+  {
+   "src": "assets/images/quebec-city/454a5e0b.webp",
+   "thumb": "assets/images/quebec-city/thumbs/454a5e0b.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Parting Glance",
+   "alt": "A pale waterfall dropping through forest on the far shore of a wide grey river, with blue-grey hills beyond under heavy cloud."
+  },
+  {
+   "src": "assets/images/quebec-city/8cb5819c.webp",
+   "thumb": "assets/images/quebec-city/thumbs/8cb5819c.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "High Tension",
+   "alt": "Three tall steel pylons standing on a rocky shoal in the river, with a wooded shore behind and a blue sky with white clouds."
+  },
+  {
+   "src": "assets/images/quebec-city/a7c2e649.webp",
+   "thumb": "assets/images/quebec-city/thumbs/a7c2e649.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Evening Watch",
+   "alt": "A small red-and-white lighthouse on a rocky shoal beside a green buoy, with a forested hillside behind and a hazy sky tinged with pink."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 85%"
+}

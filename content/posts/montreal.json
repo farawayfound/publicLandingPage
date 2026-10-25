@@ -1,0 +1,160 @@
+{
+ "slug": "montreal",
+ "title": "Montréal, CA",
+ "cardTitle": "Montréal, CA",
+ "date": "2022-06",
+ "dateLabel": "June 2022",
+ "location": "Montréal, Quebec",
+ "country": "Canada",
+ "coords": [
+  45.5,
+  -73.6
+ ],
+ "tags": [
+  "abroad",
+  "city"
+ ],
+ "sectionTitle": "Familiar Skyline",
+ "paragraphs": [
+  "I was raised in Montréal, and I came back for two days before a ship carried me down the St. Lawrence. French was in the air again, the native tongue I somehow forgot. It's strange to be a visitor in the city you grew up in. I started on the mountain. At just 764 feet, Mount Royal wouldn't turn a head in the Rockies, but in Montréal it's simply the mountain, and the whole city takes its name from it. From the lookout, downtown rose beyond a thicket of green sumac.",
+  "The first day was all green, which is not what you expect of a city this big. In the woods, white wildflowers were scattered across the ground around the fallen logs. Between the trees sat a pair of peaked glass pavilions in black frames, sharp-edged and modern against all that foliage. A pale green dome rose above the treetops. Later, in a dim chapel, a statue stood watch over a stepped bank of red candles, lit from above by a ring of blue light.",
+  "The second day belonged to the river. Parc Jean-Drapeau covers a pair of islands in the St. Lawrence, and the metro runs straight out to it, which is the kind of thing I love in a city. The Biosphère rose above the trees. Buckminster Fuller designed it as the American pavilion for Expo 67, and a fire burned off its acrylic skin in 1976, so it has been see-through ever since. Nearby, white allium globes bloomed beside a plaza. The river also gave me a new angle on the city. From high above the water, a long freight train ran along the quay past the Molson brewery's brick tower, downtown stood beyond it, and the green hump of the mountain rose behind. I had stood on that hump the day before, looking down at all of this. Now I was looking back at it from over the water. Cities change and people move away, but the mountain keeps its shape."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/montreal/cover.webp",
+ "card": "assets/images/montreal/thumbs/dc6ddd0d.webp",
+ "photos": [
+  {
+   "src": "assets/images/montreal/b7fe4116.webp",
+   "thumb": "assets/images/montreal/thumbs/b7fe4116.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Royal View",
+   "alt": "Downtown Montréal towers rising above a foreground of green sumac leaves under a sky of white clouds."
+  },
+  {
+   "src": "assets/images/montreal/91b986d5.webp",
+   "thumb": "assets/images/montreal/thumbs/91b986d5.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Understory",
+   "alt": "Sunlit woodland with white wildflowers around fallen logs beneath tall green trees."
+  },
+  {
+   "src": "assets/images/montreal/be20fad2.webp",
+   "thumb": "assets/images/montreal/thumbs/be20fad2.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Clearing",
+   "alt": "Tall trees over a bright green lawn with a small glass pavilion in the distance."
+  },
+  {
+   "src": "assets/images/montreal/7a7a931a.webp",
+   "thumb": "assets/images/montreal/thumbs/7a7a931a.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Glass Pavilion",
+   "alt": "Peaked black-framed glass pavilion beside a wooden boardwalk, with a second pavilion among the trees behind it."
+  },
+  {
+   "src": "assets/images/montreal/b3b0b74e.webp",
+   "thumb": "assets/images/montreal/thumbs/b3b0b74e.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Green Dome",
+   "alt": "Pale green church dome topped with a cross, seen through dark foliage against a white sky."
+  },
+  {
+   "src": "assets/images/montreal/46a39542.webp",
+   "thumb": "assets/images/montreal/thumbs/46a39542.webp",
+   "w": 1368,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Votive Glow",
+   "alt": "Statue beneath a glowing blue circular ceiling above rows of red votive candles in a dark chapel."
+  },
+  {
+   "src": "assets/images/montreal/554ac638.webp",
+   "thumb": "assets/images/montreal/thumbs/554ac638.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Mirror Pool",
+   "alt": "Still pool reflecting green trees and sky, with a stone-paved edge in the foreground and a small arched bridge among the trees beyond."
+  },
+  {
+   "src": "assets/images/montreal/7cf6cdcb.webp",
+   "thumb": "assets/images/montreal/thumbs/7cf6cdcb.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "White Arch",
+   "alt": "White arched footbridge above a rock-lined pond, with reeds and lush green foliage around it."
+  },
+  {
+   "src": "assets/images/montreal/dc6ddd0d.webp",
+   "thumb": "assets/images/montreal/thumbs/dc6ddd0d.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Biosphère",
+   "alt": "Geodesic steel dome rising behind green trees under a blue sky with white clouds, with white event tents beside a path."
+  },
+  {
+   "src": "assets/images/montreal/941fb633.webp",
+   "thumb": "assets/images/montreal/thumbs/941fb633.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Steel Skeleton",
+   "alt": "Small waterfall spilling into a pool beside a pale slatted wall, with a white steel lattice frame seen through the leaves."
+  },
+  {
+   "src": "assets/images/montreal/828fc126.webp",
+   "thumb": "assets/images/montreal/thumbs/828fc126.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Starburst",
+   "alt": "Large white allium flower heads in the foreground, with a paved plaza and blue sky behind."
+  },
+  {
+   "src": "assets/images/montreal/d3028d4a.webp",
+   "thumb": "assets/images/montreal/thumbs/d3028d4a.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "St. Lawrence",
+   "alt": "Wide blue river under a clear sky, with the downtown skyline and the Old Port along the far shore at right."
+  },
+  {
+   "src": "assets/images/montreal/81f84c34.webp",
+   "thumb": "assets/images/montreal/thumbs/81f84c34.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Old Port",
+   "alt": "City skyline and a long stone quay across blue water, with a green mountain rising behind the buildings."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 70%"
+}

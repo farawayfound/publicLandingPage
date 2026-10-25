@@ -1,0 +1,110 @@
+{
+ "slug": "valley-of-fire",
+ "title": "Valley of Fire, NV",
+ "cardTitle": "Valley of Fire, NV",
+ "date": "2020-01",
+ "dateLabel": "January & April 2020",
+ "location": "Valley of Fire State Park, Nevada",
+ "country": "United States",
+ "coords": [
+  36.4,
+  -114.5
+ ],
+ "tags": [
+  "desert",
+  "road-trip",
+  "state-park"
+ ],
+ "sectionTitle": "Lit From Within",
+ "paragraphs": [
+  "An hour's drive from the Las Vegas Strip, the glow comes from the rocks instead of the neon. The red sandstone of Valley of Fire State Park is another set of petrified dunes, and erosion has been turning it back into sand ever since. I visited on a cloudless January day, with blue sky over orange stone. The paved road wound between towering red walls and past domes the wind had honeycombed, an easy drive for any car. The dog posted up on a sunny ledge like the park's newest ranger. The Jeep's red hood crept into a few frames, but it matches the rocks so well that I let it stay!",
+  "April was for the dirt roads. The pavement ended, the Jeep got to stretch its legs, and the washes led me into canyons with maroon walls under wispy clouds. Red sandstone fins tilted at steep angles, and the sun flared across my lens. Rutted tracks threaded on through green-brown hills, and later the badlands turned gold in the low light, all fluted gullies and a flat-topped mesa above the scrub. Every ridge and wash out there was here long before the first road, and it will be here long after the last one."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/valley-of-fire/cover.webp",
+ "card": "assets/images/valley-of-fire/thumbs/48952241.webp",
+ "photos": [
+  {
+   "src": "assets/images/valley-of-fire/105d49a4.webp",
+   "thumb": "assets/images/valley-of-fire/thumbs/105d49a4.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Into the Fire",
+   "alt": "A paved road with a double yellow line curving between steep red sandstone walls under a deep blue sky, with a Jeep's red hood at the bottom of the frame"
+  },
+  {
+   "src": "assets/images/valley-of-fire/edff8df3.webp",
+   "thumb": "assets/images/valley-of-fire/thumbs/edff8df3.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Sundial",
+   "alt": "A paved road running past a tall rounded orange sandstone dome with a large dark shadow across it, seen over a Jeep's red hood"
+  },
+  {
+   "src": "assets/images/valley-of-fire/5e8ac0c7.webp",
+   "thumb": "assets/images/valley-of-fire/thumbs/5e8ac0c7.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Top Dog",
+   "alt": "A blue merle dog wearing a red pack stands on a sunlit sandstone ledge in front of orange domes pocked with holes"
+  },
+  {
+   "src": "assets/images/valley-of-fire/f507a3fc.webp",
+   "thumb": "assets/images/valley-of-fire/thumbs/f507a3fc.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Rock Face",
+   "alt": "Close-up of wind-carved red sandstone with a round hollow above a dark alcove, together resembling a face peering out of the rock"
+  },
+  {
+   "src": "assets/images/valley-of-fire/48952241.webp",
+   "thumb": "assets/images/valley-of-fire/thumbs/48952241.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Pavement Ends",
+   "alt": "A wide dirt wash running into a red rock canyon with maroon walls under streaky clouds"
+  },
+  {
+   "src": "assets/images/valley-of-fire/80ef3365.webp",
+   "thumb": "assets/images/valley-of-fire/thumbs/80ef3365.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Slant of Light",
+   "alt": "Tilted red sandstone fins above desert scrub, with a diagonal streak of sun flare across a cloudy blue sky"
+  },
+  {
+   "src": "assets/images/valley-of-fire/3a37f97b.webp",
+   "thumb": "assets/images/valley-of-fire/thumbs/3a37f97b.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Next Ridge",
+   "alt": "A rutted dirt track running through green-brown desert hills under a pale cloudy sky, seen over the red hood of a Jeep"
+  },
+  {
+   "src": "assets/images/valley-of-fire/32169eaa.webp",
+   "thumb": "assets/images/valley-of-fire/thumbs/32169eaa.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Corduroy",
+   "alt": "Tan, fluted badlands cliffs in warm golden light with a long flat-topped mesa, above a scrubby desert floor and under layered clouds"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "40% 60%"
+}

@@ -1,0 +1,174 @@
+{
+ "slug": "indian-peaks",
+ "title": "Indian Peaks",
+ "cardTitle": "Indian Peaks",
+ "date": "2021-05",
+ "dateLabel": "May 2021",
+ "location": "Indian Peaks, Colorado",
+ "country": "United States",
+ "coords": [
+  40.0,
+  -105.6
+ ],
+ "tags": [
+  "backpacking",
+  "hiking",
+  "mountains",
+  "lakes",
+  "waterfalls",
+  "snow"
+ ],
+ "sectionTitle": "Winter Lets Go",
+ "paragraphs": [
+  "At the end of May I headed into the mountains west of Nederland with a tent and an Australian Shepherd, right as the snowpack was melting out. On the way in I passed an old wooden cabin that had mostly given up. Its boards lay heaped among the still-bare aspens, next to a weathered shed that somehow remained standing. I couldn't help wondering who lived there and how many winters of snow it took to bring the rest of it down. A little further on, the creeks ran loud and white, and the cascades poured over dark boulders beneath spruce and fir. I spent that evening beside them, holding the shutter open until all that noise turned to silk.",
+  "I pitched the tent on the rocky shore of an alpine lake, with snow still lying on the slopes behind it. After dark a campfire flickered beneath the stars, and a red light made for a little light painting. By morning the lake was ice-free and a deep blue, with a long snowy ridge above it and a single puffy cloud for company. The Aussie went after every leftover snowbank! From a viewpoint above the valley, the forest rolled out below me with a small lake at the bottom. In late May, expect snow on the shady stretches of trail and creek crossings running high and cold.",
+  "Farther down the trail, a plank boardwalk skirted a still pond that held the trees and clouds in its reflection, and not far off what looked like a beaver dam was holding back the stream. Before the trip was over there was one more waterfall, a staircase of whitewater dropping into sand the color of rust. The Indian Peaks sit right on the Continental Divide, and in late May a whole winter's worth of snow was deciding which way to run. It felt good to be back in the Rockies, and better still to have them this close to home."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/indian-peaks/cover.webp",
+ "card": "assets/images/indian-peaks/thumbs/5b8404aa.webp",
+ "photos": [
+  {
+   "src": "assets/images/indian-peaks/5c7993d5.webp",
+   "thumb": "assets/images/indian-peaks/thumbs/5c7993d5.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Still Standing",
+   "alt": "A weathered wooden shed beside a collapsed cabin among bare aspen trees"
+  },
+  {
+   "src": "assets/images/indian-peaks/60e93b37.webp",
+   "thumb": "assets/images/indian-peaks/thumbs/60e93b37.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Upstream",
+   "alt": "A fast snowmelt creek running between spruce trees below a forested hillside"
+  },
+  {
+   "src": "assets/images/indian-peaks/ad14edb2.webp",
+   "thumb": "assets/images/indian-peaks/thumbs/ad14edb2.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Spring Break",
+   "alt": "Long-exposure whitewater pouring over dark boulders beneath spruce trees"
+  },
+  {
+   "src": "assets/images/indian-peaks/0dd46f75.webp",
+   "thumb": "assets/images/indian-peaks/thumbs/0dd46f75.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Spring Rush",
+   "alt": "A rushing creek tumbling down rocks between spruce trees, with snow on a boulder"
+  },
+  {
+   "src": "assets/images/indian-peaks/5b8404aa.webp",
+   "thumb": "assets/images/indian-peaks/thumbs/5b8404aa.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Fire and Ice",
+   "alt": "A glowing dome tent beside a campfire under a starry sky, with snow patches on the slope behind"
+  },
+  {
+   "src": "assets/images/indian-peaks/af9a340a.webp",
+   "thumb": "assets/images/indian-peaks/thumbs/af9a340a.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Night Vision",
+   "alt": "A lit tent on a lake shore at night with a red light streak looping above it"
+  },
+  {
+   "src": "assets/images/indian-peaks/69dc7571.webp",
+   "thumb": "assets/images/indian-peaks/thumbs/69dc7571.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Lakefront Property",
+   "alt": "A grey and lime tent on a rocky shore beside a lake, with snow patches and a sunlit hillside beyond"
+  },
+  {
+   "src": "assets/images/indian-peaks/8be61fe1.webp",
+   "thumb": "assets/images/indian-peaks/thumbs/8be61fe1.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Big Picture",
+   "alt": "A forested valley with a small lake below a snow-streaked ridge"
+  },
+  {
+   "src": "assets/images/indian-peaks/c73b3855.webp",
+   "thumb": "assets/images/indian-peaks/thumbs/c73b3855.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Lone Cloud",
+   "alt": "A deep blue alpine lake below a snowy ridge with a single puffy cloud"
+  },
+  {
+   "src": "assets/images/indian-peaks/53084437.webp",
+   "thumb": "assets/images/indian-peaks/thumbs/53084437.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Walk the Plank",
+   "alt": "A plank boardwalk beside a still pond reflecting trees and sky"
+  },
+  {
+   "src": "assets/images/indian-peaks/2970fccc.webp",
+   "thumb": "assets/images/indian-peaks/thumbs/2970fccc.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Civil Engineers",
+   "alt": "A low stick dam across a clear stream in a spruce-lined meadow under a cloudy sky"
+  },
+  {
+   "src": "assets/images/indian-peaks/c1aaacff.webp",
+   "thumb": "assets/images/indian-peaks/thumbs/c1aaacff.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Happy Camper",
+   "alt": "An Australian Shepherd standing in a rushing creek with its tongue out"
+  },
+  {
+   "src": "assets/images/indian-peaks/f1d743c6.webp",
+   "thumb": "assets/images/indian-peaks/thumbs/f1d743c6.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Staircase",
+   "alt": "Whitewater spilling down a rocky staircase between boulders and patches of snow"
+  },
+  {
+   "src": "assets/images/indian-peaks/a55f443b.webp",
+   "thumb": "assets/images/indian-peaks/thumbs/a55f443b.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Parting Gift",
+   "alt": "A slender waterfall dropping beside a rocky outcrop onto rust-red sand"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 40%"
+}

@@ -1,0 +1,272 @@
+{
+ "slug": "smokyrainier",
+ "title": "Smoky Rainier",
+ "cardTitle": "Smoky Rainier",
+ "date": "2016-08",
+ "dateLabel": "August 2016",
+ "location": "Mount Rainier, Washington",
+ "country": "United States",
+ "coords": [
+  46.8,
+  -121.7
+ ],
+ "tags": [
+  "national-park",
+  "mountains",
+  "backpacking"
+ ],
+ "sectionTitle": "Among the Clouds",
+ "paragraphs": [
+  "I couldn't help but come back to Rainier. It's been on my mind every day since my last visit. This time, the snow melted away at the Paradise trails. We made the drive to Rainier when Will got off work and finally arrived well after nightfall, so it we were cold and hungry by the time we arrived. Regardless, my excitement could not be contained when I hopped out the car! We decided to hike to our first lakeside campsite in the dark before setting up camp and eating dinner.",
+  "The next morning, we woke up in a new world. It was quite a surprise because we didn't have much visibility last night. The crystal clear lake and glorious forest basked in the golden sunrise. It was cloudy that weekend, so we never got a good look at Mount Rainier. I was a little dissapointe at first. However, the clouds created a dreamy atmosphere ripe for photography, and there is something truly magical about setting up a hammock in the rain. As the raindrops drum their gentle beat upon my tarp, I could smell the wet earth and see the clouds float over the mountaintop lake. I was at last in Paradise."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/smokyrainier/cover.jpg",
+ "card": "assets/images/smokyrainier/thumbs/DSC_8388.jpg",
+ "photos": [
+  {
+   "src": "assets/images/smokyrainier/DSC06976.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC06976.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "V"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC07418.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC07418.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Mystery"
+  },
+  {
+   "src": "assets/images/smokyrainier/wallpaper_valleyclimb.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/wallpaper_valleyclimb.jpg",
+   "w": 1920,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Expanse"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC_6762.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC_6762.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Birds Eye"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC_6804.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC_6804.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Camp One"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC_6924.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC_6924.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Fallen"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC_6927.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC_6927.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Surmount"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC_7328.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC_7328.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Endless"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC_7336.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC_7336.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Framed"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC_8388.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC_8388.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Paradise"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC_8583.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC_8583.jpg",
+   "w": 1200,
+   "h": 1500,
+   "tw": 600,
+   "th": 392,
+   "caption": "Eye Contact"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC_8398.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC_8398.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Among"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC_8449.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC_8449.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Isolation"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC_8471.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC_8471.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "In the Valley"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC_8495.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC_8495.jpg",
+   "w": 1553,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Valley"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC_8504.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC_8504.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Flight"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC_8531.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC_8531.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Scurry"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC_8595.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC_8595.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Oasis"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC_8609.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC_8609.jpg",
+   "w": 1200,
+   "h": 1500,
+   "tw": 600,
+   "th": 392,
+   "caption": "Forward"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC00736.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC00736.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Dew"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC00750.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC00750.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Unforgiving"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC06909.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC06909.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Throne"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC06927.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC06927.jpg",
+   "w": 1553,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Monochrome"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC06937.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC06937.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Compass"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC06943.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC06943.jpg",
+   "w": 1500,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Camp Two"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC_8359.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC_8359.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Awake"
+  },
+  {
+   "src": "assets/images/smokyrainier/DSC07423.jpg",
+   "thumb": "assets/images/smokyrainier/thumbs/DSC07423.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Break"
+  }
+ ],
+ "legacy": true
+}

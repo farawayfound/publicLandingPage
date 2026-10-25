@@ -1,0 +1,112 @@
+{
+ "slug": "red-rocks",
+ "title": "Red Rocks, CO",
+ "cardTitle": "Red Rocks, CO",
+ "date": "2025-02",
+ "dateLabel": "February 2025",
+ "location": "Red Rocks Park, Morrison, Colorado",
+ "country": "United States",
+ "coords": [
+  39.7,
+  -105.2
+ ],
+ "tags": [
+  "state-park",
+  "hiking",
+  "snow",
+  "mountains"
+ ],
+ "sectionTitle": "Warm Stone",
+ "paragraphs": [
+  "By late February the foothills are mostly straw-colored grass and patches of old snow, under a sky that can't decide between gray and blue. Then a wall of red sandstone takes over. The slabs here are pocked with hollows like honeycomb and freckled with yellow-green lichen. They tell the same story as Roxborough's fins, tipped on edge when the modern Rockies pushed up behind them. The rust, pink and faint purple come from iron in the stone.",
+  "I wasn't the only one admiring the wall. A herd of mule deer, five or six at least, was grazing the dry grass at its foot, right beside a trail sign. Their enormous ears swiveled like satellite dishes, and still they paid me no attention. One by one they strolled along the dirt path as if it were their own sidewalk, which in fairness it is. A zoom lens is the polite way to do this.",
+  "The evening before, I think, the color had run the other way. On a mountain highway at dusk there were plowed snowbanks, dark spruce, a high ridge holding the last of the light and a pair of tail lights up ahead. Further on, the sky faded to deep blue and then to a thin glow over a black ridgeline. Cold blue one day, warm stone the next."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/red-rocks/cover.webp",
+ "card": "assets/images/red-rocks/thumbs/3d502445.webp",
+ "photos": [
+  {
+   "src": "assets/images/red-rocks/63043154.webp",
+   "thumb": "assets/images/red-rocks/thumbs/63043154.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Honeycomb",
+   "alt": "Mule deer grazing on dry grass below pitted red sandstone slabs, with patches of snow in the foreground and a bare tree on the ridge."
+  },
+  {
+   "src": "assets/images/red-rocks/3d502445.webp",
+   "thumb": "assets/images/red-rocks/thumbs/3d502445.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Right of Way",
+   "alt": "Mule deer walking along a dirt path beside a trail sign at the foot of a red sandstone wall."
+  },
+  {
+   "src": "assets/images/red-rocks/f431ec02.webp",
+   "thumb": "assets/images/red-rocks/thumbs/f431ec02.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Spotted",
+   "alt": "Four mule deer on a grassy slope below a tall pink sandstone outcrop, one looking toward the camera."
+  },
+  {
+   "src": "assets/images/red-rocks/554f25bb.webp",
+   "thumb": "assets/images/red-rocks/thumbs/554f25bb.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Red Giant",
+   "alt": "Mule deer on a dry grass slope beneath a tall red sandstone buttress, with snow in the foreground."
+  },
+  {
+   "src": "assets/images/red-rocks/747c4e13-273667.webp",
+   "thumb": "assets/images/red-rocks/thumbs/747c4e13-273667.webp",
+   "w": 2048,
+   "h": 1152,
+   "tw": 800,
+   "th": 450,
+   "caption": "Cold Corridor",
+   "alt": "A plowed mountain highway at dusk between snowbanks and dark spruce, with a snowy peak glowing ahead and a vehicle's lights in the distance."
+  },
+  {
+   "src": "assets/images/red-rocks/747c4e13-232623.webp",
+   "thumb": "assets/images/red-rocks/thumbs/747c4e13-232623.webp",
+   "w": 2048,
+   "h": 1152,
+   "tw": 800,
+   "th": 450,
+   "caption": "Tail Lights",
+   "alt": "A snowy mountain road at blue hour with plowed snowbanks, evergreen forest, a pale peak and a car's tail lights ahead."
+  },
+  {
+   "src": "assets/images/red-rocks/a1105c80-191044.webp",
+   "thumb": "assets/images/red-rocks/thumbs/a1105c80-191044.webp",
+   "w": 2048,
+   "h": 1152,
+   "tw": 800,
+   "th": 450,
+   "caption": "Red Lights Ahead",
+   "alt": "A curving two-lane road beneath a blue-lit snowfield dotted with spruce, with tail lights ahead."
+  },
+  {
+   "src": "assets/images/red-rocks/7fb99c3a-143502.webp",
+   "thumb": "assets/images/red-rocks/thumbs/7fb99c3a-143502.webp",
+   "w": 2048,
+   "h": 1152,
+   "tw": 800,
+   "th": 450,
+   "caption": "Dusk Ridges",
+   "alt": "Dark silhouetted ridgelines under a deep blue sky with a faint glow along the horizon."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 60%"
+}

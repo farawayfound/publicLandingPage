@@ -1,0 +1,164 @@
+{
+ "slug": "death-valley",
+ "title": "Death Valley NP",
+ "cardTitle": "Death Valley NP",
+ "date": "2018-04",
+ "dateLabel": "April 2018 – July 2019",
+ "location": "Death Valley National Park, California",
+ "country": "United States",
+ "coords": [
+  36.5,
+  -117.1
+ ],
+ "tags": [
+  "national-park",
+  "desert",
+  "mountains",
+  "hiking",
+  "night-sky",
+  "road-trip"
+ ],
+ "sectionTitle": "Salt and Starlight",
+ "paragraphs": [
+  "Death Valley is the hottest, driest and lowest national park in the country, so the snow still clinging to its peaks in April felt like a typo. The wrinkled hills of Zabriskie Point turned gold in the low sun, and Manly Beacon stood dark against ridges stacked in peach and violet haze while a green flare bloomed across my lens. Those badlands began as mud on the bottom of a lake that dried up millions of years ago, and the few rains this place gets have been carving them into folds ever since. Out on the Mesquite Flat dunes, the wind had rippled the sand into crisp lines, with bare mountains behind and a heavy sky overhead.",
+  "Higher up, in what I believe is the Panamint Range, the desert gives way to forest and snow. Dark conifers blanket the slopes. A cactus bristling with pale spines sits right beside shaggy green shrubs, and white patches linger on the peaks. Ridge after ridge fades into the haze, and far below, the salt flats braid white across the valley floor. Up among the conifers, the dunes and the badlands might as well belong to a different park.",
+  "I came back more than a year later, in July, rolling in from the Sierra past red and ochre hills in the evening light. The dog and I stopped at an overlook where the road wound down to a pale valley, and near Wildrose three wild burros eyed me from the rabbitbrush. Then the road climbed into pinyon and juniper, thousands of feet above the valley floor and its furnace, which is the sane way to spend a summer night in Death Valley. I photographed the Milky Way from about ten o'clock until nearly two in the morning. The bright heart of the galaxy hung low in the south, with Jupiter blazing beside it and red Antares not far off, and a tent glowed like a lantern at the edge of the trees. Some of that light set out before anyone had invented writing, and here it was, landing on my sensor. Death Valley is a terrible name for a place with this much going on!"
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/death-valley/cover.webp",
+ "card": "assets/images/death-valley/thumbs/a643fc11.webp",
+ "photos": [
+  {
+   "src": "assets/images/death-valley/c74bf96f.webp",
+   "thumb": "assets/images/death-valley/thumbs/c74bf96f.webp",
+   "w": 1582,
+   "h": 2048,
+   "tw": 618,
+   "th": 800,
+   "caption": "Raking Light",
+   "alt": "Pale golden badlands with deep curving shadows folding down toward a dry wash, under a cloudy blue sky."
+  },
+  {
+   "src": "assets/images/death-valley/a643fc11.webp",
+   "thumb": "assets/images/death-valley/thumbs/a643fc11.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Manly Beacon",
+   "alt": "A dark pyramid-shaped peak rising from layered, hazy ridges glowing peach and violet, with the low sun glowing at upper left and a green-gold lens flare."
+  },
+  {
+   "src": "assets/images/death-valley/da9179fa.webp",
+   "thumb": "assets/images/death-valley/thumbs/da9179fa.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Mesquite Flat",
+   "alt": "Black and white view across rippled sand dunes with a few desert shrubs, a band of pale badlands and dark mountains under a heavy sky."
+  },
+  {
+   "src": "assets/images/death-valley/e050019c.webp",
+   "thumb": "assets/images/death-valley/thumbs/e050019c.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Floor Plan",
+   "alt": "A wide valley seen from a high ridge, with pale salt flats on the floor and layers of hazy mountain ranges beyond dark foreground slopes."
+  },
+  {
+   "src": "assets/images/death-valley/4fefe82c.webp",
+   "thumb": "assets/images/death-valley/thumbs/4fefe82c.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Wave After Wave",
+   "alt": "Black and white view of hazy ridges fading into the distance above dark conifer-covered slopes, with a soft vignette."
+  },
+  {
+   "src": "assets/images/death-valley/af02dd3e.webp",
+   "thumb": "assets/images/death-valley/thumbs/af02dd3e.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Hell Freezes Over",
+   "alt": "A white-spined cactus and green desert shrubs in the foreground, with a snow-patched peak under a hazy sky behind."
+  },
+  {
+   "src": "assets/images/death-valley/bbec44f8.webp",
+   "thumb": "assets/images/death-valley/thumbs/bbec44f8.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Ochre Road",
+   "alt": "A paved road winding down through red and ochre hills toward a pale desert valley, with a distant mountain range under a clear blue sky."
+  },
+  {
+   "src": "assets/images/death-valley/028da62e.webp",
+   "thumb": "assets/images/death-valley/thumbs/028da62e.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Dog Days",
+   "alt": "A dog walking across a gravel overlook with desert shrubs, shadowed hills and a pale hazy mountain range behind."
+  },
+  {
+   "src": "assets/images/death-valley/3bbf18e7.webp",
+   "thumb": "assets/images/death-valley/thumbs/3bbf18e7.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Three Amigos",
+   "alt": "Three wild burros standing among pale rabbitbrush and green shrubs on a desert hillside."
+  },
+  {
+   "src": "assets/images/death-valley/ccf51fde.webp",
+   "thumb": "assets/images/death-valley/thumbs/ccf51fde.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Horizon Glow",
+   "alt": "The Milky Way standing above a dark ridgeline, with an orange glow on the horizon and a bright planet beside the galactic core."
+  },
+  {
+   "src": "assets/images/death-valley/54425bd8.webp",
+   "thumb": "assets/images/death-valley/thumbs/54425bd8.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Amethyst Sky",
+   "alt": "A purple-tinted Milky Way arching over pine and juniper trees, with a small glowing tent at the lower right."
+  },
+  {
+   "src": "assets/images/death-valley/502151c7.webp",
+   "thumb": "assets/images/death-valley/thumbs/502151c7.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Lantern",
+   "alt": "A vertical view of the Milky Way core with a bright planet above dark tree silhouettes and a small glowing tent at the lower right."
+  },
+  {
+   "src": "assets/images/death-valley/620f99d4.webp",
+   "thumb": "assets/images/death-valley/thumbs/620f99d4.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Core Sample",
+   "alt": "A tall column of the Milky Way with dark dust lanes and a bright planet, above treetops silhouetted at the bottom."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "74% 42%"
+}

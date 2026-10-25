@@ -1,0 +1,131 @@
+{
+ "slug": "acadia",
+ "title": "Acadia NP",
+ "cardTitle": "Acadia NP",
+ "date": "2022-06",
+ "dateLabel": "June 2022",
+ "location": "Acadia National Park, Maine",
+ "country": "United States",
+ "coords": [
+  44.3,
+  -68.2
+ ],
+ "tags": [
+  "coast",
+  "lakes",
+  "national-park"
+ ],
+ "sectionTitle": "Rose-Colored Coast",
+ "paragraphs": [
+  "Acadia's coast steps down to the sea in great blocks of pink granite, with the Atlantic waiting at the bottom. Bar Harbor was the last port of call on my Canada and New England cruise and the gateway to Acadia National Park, which fills much of Mount Desert Island (pronounced like dessert, not the Sahara!). Samuel de Champlain gave the island that name back in 1604, for its bare mountaintops. The ship anchored out in Frenchman Bay, a tender ferried me ashore, and I had one clear blue day to see as much of the island as I could.",
+  "Start with the rock. Acadia's granite formed as molten rock that hardened far below the surface, and glaciers later ground the mountains down into the rounded shapes you see today. Now the ocean takes its turn. Spruce trees cling to the ledges right down to the waterline while the surf pounds away below them. At Thunder Hole, the sea squeezes into a narrow chasm and surges back out in a rush of white foam. It is named for the boom the waves make when they slam in, and it puts on its best show on a rising tide, so plan around the tides. Watch that much water hit that much rock and you feel a little temporary.",
+  "Inland, everything slows down. Jordan Pond is so clear you can see the stones on its bottom. At the far end sit the Bubbles, two round granite mountains that look about as threatening as their name, with a pair of round clouds floating above them as if to match. Late that afternoon a tender carried me back out to the ship. The cruise ended in Boston the next day, and by sunset I was on a plane home, watching the clouds turn the same pink as the granite."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/acadia/cover.webp",
+ "card": "assets/images/acadia/thumbs/3d83874e.webp",
+ "photos": [
+  {
+   "src": "assets/images/acadia/a24060ae.webp",
+   "thumb": "assets/images/acadia/thumbs/a24060ae.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Offshore",
+   "alt": "A small, dark green wooded island on the horizon of a deep blue sea under a clear sky."
+  },
+  {
+   "src": "assets/images/acadia/0a032a5c.webp",
+   "thumb": "assets/images/acadia/thumbs/0a032a5c.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Thunder Hole",
+   "alt": "White water surging along a narrow chasm between dark granite walls."
+  },
+  {
+   "src": "assets/images/acadia/263908f1.webp",
+   "thumb": "assets/images/acadia/thumbs/263908f1.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Sea Steps",
+   "alt": "Blocky pink granite ledges on either side of a narrow channel opening onto the deep blue Atlantic."
+  },
+  {
+   "src": "assets/images/acadia/a687e0de.webp",
+   "thumb": "assets/images/acadia/thumbs/a687e0de.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Deep End",
+   "alt": "Looking straight down from a cliff at emerald-green water breaking around grey granite ledges."
+  },
+  {
+   "src": "assets/images/acadia/ba32577c.webp",
+   "thumb": "assets/images/acadia/thumbs/ba32577c.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Salt Spray",
+   "alt": "A dark granite headland with surf breaking at its base and a spruce-topped point beyond."
+  },
+  {
+   "src": "assets/images/acadia/889c4caf.webp",
+   "thumb": "assets/images/acadia/thumbs/889c4caf.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Down East",
+   "alt": "A rocky granite shoreline lined with spruce above bright blue-green water, seen from a high viewpoint."
+  },
+  {
+   "src": "assets/images/acadia/3d83874e.webp",
+   "thumb": "assets/images/acadia/thumbs/3d83874e.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Jordan Pond",
+   "alt": "Jordan Pond with clear, stony shallows and the two rounded Bubbles beneath puffy white clouds."
+  },
+  {
+   "src": "assets/images/acadia/da74fd17.webp",
+   "thumb": "assets/images/acadia/thumbs/da74fd17.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Bald Spot",
+   "alt": "A forested mountain with a bare granite summit above a blue lake, with a flock of white birds on the water."
+  },
+  {
+   "src": "assets/images/acadia/4359bf90.webp",
+   "thumb": "assets/images/acadia/thumbs/4359bf90.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Mothership",
+   "alt": "The dark hull and white upper decks of the cruise ship Zaandam seen from the water, its name in dark lettering above a row of lifeboats."
+  },
+  {
+   "src": "assets/images/acadia/71b6950f.webp",
+   "thumb": "assets/images/acadia/thumbs/71b6950f.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Homebound",
+   "alt": "Pink and orange clouds at sunset beyond an airplane wing, with a small moon in the sky above."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 30%"
+}

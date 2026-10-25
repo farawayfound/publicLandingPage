@@ -1,0 +1,122 @@
+{
+ "slug": "yosemite",
+ "title": "Yosemite NP",
+ "cardTitle": "Yosemite NP",
+ "date": "2019-07",
+ "dateLabel": "July 2019",
+ "location": "Yosemite National Park, California",
+ "country": "United States",
+ "coords": [
+  37.7,
+  -119.6
+ ],
+ "tags": [
+  "national-park",
+  "mountains",
+  "waterfalls",
+  "road-trip"
+ ],
+ "sectionTitle": "Hanging Valleys",
+ "paragraphs": [
+  "The road to Yosemite started under a nearly full moon. Night one was a gravel campsite below a wall of fluted desert cliffs, with the new Jeep parked in the dust. The moon photobombed several of my night shots, but the stars still came through in the ones where it behaved. Then came the valley. At Tunnel View, El Capitan rises on the left and Bridalveil Fall slips down the wall on the right, with Half Dome far back in the haze between them.",
+  "Down in the valley, the scale gets ridiculous. Half Dome stood crisp against the blue, almost a mile above the valley floor. The Merced raced clear and fast over its boulders, with the top of El Capitan peeking out above the trees. Yosemite Falls was still thundering in mid-July, high above golden meadows and yellow wildflowers! The waterfalls here leap straight off the cliffs because glaciers carved the main valley so deep that the side creeks were left hanging high on the walls. Geologists call them hanging valleys. For the falls at full strength, go in spring or early summer; by late summer they can shrink to a trickle.",
+  "I ended up at the foot of El Capitan, in a boulder field dotted with dead trees, staring up at about 3,000 feet of granite striped with long dark streaks. A contrail slanted toward the rim, as if the plane had a very tall wall to clear. Too many of my pictures from the valley point straight up, because that is where everything is. A contrail lasts a few minutes. A waterfall lasts a season. El Capitan has stood here for millions of years."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/yosemite/cover.webp",
+ "card": "assets/images/yosemite/thumbs/ca050b97.webp",
+ "photos": [
+  {
+   "src": "assets/images/yosemite/548e8a25.webp",
+   "thumb": "assets/images/yosemite/thumbs/548e8a25.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Moonlighting",
+   "alt": "A Jeep parked on a gravel road below tall, fluted desert cliffs at night, with a bright moon flaring in the upper left and faint stars across a deep blue sky."
+  },
+  {
+   "src": "assets/images/yosemite/85f5652f.webp",
+   "thumb": "assets/images/yosemite/thumbs/85f5652f.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Tunnel View",
+   "alt": "Hazy view of Yosemite Valley from a stone-walled overlook, with El Capitan on the left, a distant Half Dome in the middle and Bridalveil Fall on the right behind a lone pine."
+  },
+  {
+   "src": "assets/images/yosemite/385ea29b.webp",
+   "thumb": "assets/images/yosemite/thumbs/385ea29b.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Merced Run",
+   "alt": "The Merced River rushing over boulders through a pine forest, with the rounded top of El Capitan rising above the trees."
+  },
+  {
+   "src": "assets/images/yosemite/1c71d817.webp",
+   "thumb": "assets/images/yosemite/thumbs/1c71d817.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Meadow Gold",
+   "alt": "A golden-green meadow with yellow wildflowers below forested slopes and a granite wall where Yosemite Falls drops, under a clear blue sky."
+  },
+  {
+   "src": "assets/images/yosemite/ca4c03eb.webp",
+   "thumb": "assets/images/yosemite/thumbs/ca4c03eb.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Yosemite Falls",
+   "alt": "Yosemite Falls pouring down a huge pale granite wall with dark shaded gullies, pines along the bottom of the frame."
+  },
+  {
+   "src": "assets/images/yosemite/ca050b97.webp",
+   "thumb": "assets/images/yosemite/thumbs/ca050b97.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Half Dome",
+   "alt": "Close view of Half Dome's smooth granite face rising above pines, beside a steep cliff, against a deep blue sky."
+  },
+  {
+   "src": "assets/images/yosemite/923bf5c2.webp",
+   "thumb": "assets/images/yosemite/thumbs/923bf5c2.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Spotlight",
+   "alt": "Yosemite Falls backlit by the sun, glowing white against a dark granite wall under a hazy blue sky."
+  },
+  {
+   "src": "assets/images/yosemite/faa49fe2.webp",
+   "thumb": "assets/images/yosemite/thumbs/faa49fe2.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Big Wall",
+   "alt": "El Capitan's sheer granite prow rising above a forest and a boulder field scattered with dead trees, under a deep blue sky."
+  },
+  {
+   "src": "assets/images/yosemite/760e2b6b.webp",
+   "thumb": "assets/images/yosemite/thumbs/760e2b6b.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Flight Path",
+   "alt": "The rim of El Capitan's grey granite face seen from below, with a long white contrail slanting across the pale blue sky."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "70% 5%"
+}

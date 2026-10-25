@@ -1,0 +1,224 @@
+{
+ "slug": "high-sierra",
+ "title": "High Sierra",
+ "cardTitle": "High Sierra",
+ "date": "2019-07",
+ "dateLabel": "July 2019",
+ "location": "Eastern Sierra, California",
+ "country": "United States",
+ "coords": [
+  37.1,
+  -118.5
+ ],
+ "tags": [
+  "mountains",
+  "lakes",
+  "waterfalls",
+  "snow",
+  "hiking",
+  "forest"
+ ],
+ "sectionTitle": "Range of Light",
+ "paragraphs": [
+  "Independence Day in Independence, CA. I couldn't have written a better joke. The town sits on the floor of the Owens Valley, with the Sierra rising more than 10,000 feet behind it in about a dozen miles. After a huge winter, the range was still holding on to its snow. I spent the morning of the Fourth hiking up to a string of alpine lakes above town, each one ringed with pines and patches of white. The dog came along, red pack strapped on, and stood on every boulder with a view. After lunch I drove north to Big Pine Creek and set up camp in the canyon beneath tall red-barked Jeffrey pines, with a tiny wood-burning stove to cook on.",
+  "Friday was the main event. The crests above camp turned orange at first light, and I was on the North Fork trail a little after six. Big Pine Creek was loud from the first step, a whole winter of snow coming down at once! White water poured over granite and piled up against logs and boulders, with fresh green willows crowding the banks. Above the willows, snowfields still lay across the trail in July. Then the pines parted and Temple Crag appeared: a wall of dark, spired granite, one foot shy of 13,000 feet, with tongues of snow spilling down its flanks. First Lake sat at its foot, so shallow and clear that I could see every rounded stone on the bottom. The dog walked a fallen log and went for a swim, and I stayed a good while.",
+  "John Muir, whose name this wilderness carries, called the Sierra the Range of Light. At midday, with the sun bouncing off snow and pale granite and not a cloud in the sky, it was easy to see why. The snow becomes the creek, the creek runs out to the desert, and the granite follows, just on a much slower schedule. I followed all that roaring water back down the canyon, cascade after cascade, and reached the trailhead by late afternoon. I did it as a long day hike. Wilderness permits for sleeping up at the lakes go fast, so book early to see the ones higher up the basin."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/high-sierra/cover.webp",
+ "card": "assets/images/high-sierra/thumbs/1ec4581e.webp",
+ "photos": [
+  {
+   "src": "assets/images/high-sierra/19f272db.webp",
+   "thumb": "assets/images/high-sierra/thumbs/19f272db.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Independence Day",
+   "alt": "Jagged granite peaks streaked with snow above a forested slope, with a snowmelt cascade running down through the pines under a clear blue sky."
+  },
+  {
+   "src": "assets/images/high-sierra/044b62a1.webp",
+   "thumb": "assets/images/high-sierra/thumbs/044b62a1.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Still Water",
+   "alt": "A calm blue alpine lake under a clear sky, with pines along the far shore and willow shrubs in the foreground."
+  },
+  {
+   "src": "assets/images/high-sierra/34bc2155.webp",
+   "thumb": "assets/images/high-sierra/thumbs/34bc2155.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Pinstripes",
+   "alt": "A pyramid-shaped granite peak streaked with snow gullies above a green valley of pines."
+  },
+  {
+   "src": "assets/images/high-sierra/156ff9d4.webp",
+   "thumb": "assets/images/high-sierra/thumbs/156ff9d4.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Angel Hair",
+   "alt": "A long-exposure waterfall pouring in silky white strands over dark rocks beside bright green leaves."
+  },
+  {
+   "src": "assets/images/high-sierra/e838130c.webp",
+   "thumb": "assets/images/high-sierra/thumbs/e838130c.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Basecamp",
+   "alt": "A gray-green dome tent pitched on sandy ground between two tall pine trunks."
+  },
+  {
+   "src": "assets/images/high-sierra/e740881a.webp",
+   "thumb": "assets/images/high-sierra/thumbs/e740881a.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Camp Kitchen",
+   "alt": "A small steel stove with a tall flame, a metal pot and a fuel canister at the base of a large pine."
+  },
+  {
+   "src": "assets/images/high-sierra/73141fa3.webp",
+   "thumb": "assets/images/high-sierra/thumbs/73141fa3.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Camp Silhouette",
+   "alt": "Tall pines silhouetted against a twilight sky, with a small tent at their base and orange light on a distant crest."
+  },
+  {
+   "src": "assets/images/high-sierra/cad0e8ab.webp",
+   "thumb": "assets/images/high-sierra/thumbs/cad0e8ab.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "North Fork",
+   "alt": "A V-shaped mountain valley with a snow-streaked peak above pine forest and green shrubs, and a talus slope on the right."
+  },
+  {
+   "src": "assets/images/high-sierra/56a92990.webp",
+   "thumb": "assets/images/high-sierra/thumbs/56a92990.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Granite Slide",
+   "alt": "White water sliding down a slanted granite slab between green shrubs and pines."
+  },
+  {
+   "src": "assets/images/high-sierra/7852f1dc.webp",
+   "thumb": "assets/images/high-sierra/thumbs/7852f1dc.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Whitewater",
+   "alt": "A steep rocky gorge with a snowmelt creek rushing past boulders and a log lying across the stream."
+  },
+  {
+   "src": "assets/images/high-sierra/9f790c89.webp",
+   "thumb": "assets/images/high-sierra/thumbs/9f790c89.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Leftover Winter",
+   "alt": "Snowfields and a jagged granite crest above a dark pine forest under a deep blue sky."
+  },
+  {
+   "src": "assets/images/high-sierra/9f1d7273.webp",
+   "thumb": "assets/images/high-sierra/thumbs/9f1d7273.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Snow Day",
+   "alt": "A dog in a red pack lying on a snowfield, with pine trees and a rocky peak behind."
+  },
+  {
+   "src": "assets/images/high-sierra/1ec4581e.webp",
+   "thumb": "assets/images/high-sierra/thumbs/1ec4581e.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "First Glimpse",
+   "alt": "Temple Crag's dark spired granite rising above a band of pine trees, with patches of snow on its flanks."
+  },
+  {
+   "src": "assets/images/high-sierra/5403c51d.webp",
+   "thumb": "assets/images/high-sierra/thumbs/5403c51d.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Pack Leader",
+   "alt": "A dog in a red pack standing on a granite boulder above a teal lake, with snow-streaked slopes behind."
+  },
+  {
+   "src": "assets/images/high-sierra/575544bc.webp",
+   "thumb": "assets/images/high-sierra/thumbs/575544bc.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Deep Teal",
+   "alt": "A teal alpine lake seen from a granite overlook between pine trees, with rocky shores and trees standing in the water on the far side."
+  },
+  {
+   "src": "assets/images/high-sierra/002f41d3.webp",
+   "thumb": "assets/images/high-sierra/thumbs/002f41d3.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Glass Bottom",
+   "alt": "Crystal-clear lake water over rounded stones in the foreground, with Temple Crag and its snowfields rising above the far shore."
+  },
+  {
+   "src": "assets/images/high-sierra/b53634c8.webp",
+   "thumb": "assets/images/high-sierra/thumbs/b53634c8.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "First Lake",
+   "alt": "Clear shallow lake water with a submerged log in the foreground and pines along the far shore under a blue sky."
+  },
+  {
+   "src": "assets/images/high-sierra/c8e76b78.webp",
+   "thumb": "assets/images/high-sierra/thumbs/c8e76b78.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Downstream",
+   "alt": "White water tumbling over boulders and fallen logs in a mountain creek, with snow still piled on the rocks."
+  },
+  {
+   "src": "assets/images/high-sierra/da93855e.webp",
+   "thumb": "assets/images/high-sierra/thumbs/da93855e.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Flood Stage",
+   "alt": "A powerful waterfall pouring over boulders beneath green trees."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "30% 30%"
+}

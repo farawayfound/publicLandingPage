@@ -1,0 +1,152 @@
+{
+ "slug": "grand-canyon",
+ "title": "Grand Canyon NP",
+ "cardTitle": "Grand Canyon NP",
+ "date": "2019-08",
+ "dateLabel": "August 2019",
+ "location": "Grand Canyon National Park & Diamond Creek, Arizona",
+ "country": "United States",
+ "coords": [
+  36.1,
+  -112.1
+ ],
+ "tags": [
+  "desert",
+  "national-park",
+  "night-sky",
+  "road-trip"
+ ],
+ "sectionTitle": "Below the Rim",
+ "paragraphs": [
+  "At the South Rim, pinyon and juniper crowd the edge, and past them there is nothing but air, then red and purple rock stepping down in ledges to what looks like the Tonto Platform, where a thin line of trail cuts across the flat. A few ridges out, everything fades into haze. The rock records almost two billion years of Earth's history, oldest at the bottom and youngest at the rim. Along the edge, a flat-capped boulder balances on a pale stem. The dog, in a red bandana, panted through all of it.",
+  "From the rim I drove the Jeep out to Peach Springs, a Hualapai town on old Route 66, to get into the canyon through a different door. Diamond Creek Road runs through tribal land, so you need a permit from the Hualapai Tribe. It is also one of the very few roads that lets you drive down to the Colorado River inside the Grand Canyon. It is dirt the whole way, following the creek between walls that squeeze closer with every mile, jagged dark rock down low and layered tan cliffs above. The road crosses the creek, and afternoon storms are common in August, so check the sky before you drop in. A storm upstream can fill that wash in minutes.",
+  "Twilight set the ridge tips glowing and turned the sky peach. The camp was a gravel flat with a timber ramada and an outhouse with a better view than most hotel rooms! An old pickup's headlights lit the ramada like a porch light, and once the color left the walls, the sky filled in star by star. The Milky Way slid across the gap between the cliffs, and long exposures pulled out its dark dust lanes. The Jeep's lights turned a butte orange, and even the creek crossing glowed red under the stars. From the rim the canyon looked endless. From the bottom, with the galaxy stretched over its walls, it looked like a small notch in something much bigger."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/grand-canyon/cover.webp",
+ "card": "assets/images/grand-canyon/thumbs/b1f8aafb.webp",
+ "photos": [
+  {
+   "src": "assets/images/grand-canyon/0c725e35.webp",
+   "thumb": "assets/images/grand-canyon/thumbs/0c725e35.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "South Rim",
+   "alt": "Wide hazy view across layered red and tan canyon walls from the South Rim, with a faint smoke plume on the horizon"
+  },
+  {
+   "src": "assets/images/grand-canyon/b1f8aafb.webp",
+   "thumb": "assets/images/grand-canyon/thumbs/b1f8aafb.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Stacked Stone",
+   "alt": "A large terraced butte of red and tan rock below the rim, with pine branches in the foreground and a small green patch in the canyon"
+  },
+  {
+   "src": "assets/images/grand-canyon/53b16cf2.webp",
+   "thumb": "assets/images/grand-canyon/thumbs/53b16cf2.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Top Heavy",
+   "alt": "A large flat-topped boulder perched on a narrow pale stem beside pinyon and juniper at the canyon rim"
+  },
+  {
+   "src": "assets/images/grand-canyon/87232dd2.webp",
+   "thumb": "assets/images/grand-canyon/thumbs/87232dd2.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Edge Case",
+   "alt": "A fluffy blue-merle dog in a red bandana with its tongue out, the canyon blurred behind"
+  },
+  {
+   "src": "assets/images/grand-canyon/202b673b.webp",
+   "thumb": "assets/images/grand-canyon/thumbs/202b673b.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Canyon Road",
+   "alt": "A pale dirt road curving beneath a tall craggy canyon wall at twilight"
+  },
+  {
+   "src": "assets/images/grand-canyon/64d4ae3a.webp",
+   "thumb": "assets/images/grand-canyon/thumbs/64d4ae3a.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Fully Loaded",
+   "alt": "A red Jeep pickup parked on gravel with red jerry cans and a blue jug in the bed, a peach-lit canyon valley ahead"
+  },
+  {
+   "src": "assets/images/grand-canyon/370c7956.webp",
+   "thumb": "assets/images/grand-canyon/thumbs/370c7956.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Peach Sky",
+   "alt": "The red hood of a Jeep in the foreground with a canyon valley and a peach twilight sky beyond"
+  },
+  {
+   "src": "assets/images/grand-canyon/96f89d1e.webp",
+   "thumb": "assets/images/grand-canyon/thumbs/96f89d1e.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Throne Room",
+   "alt": "Dark jagged canyon walls forming a V under a hazy glowing sky, with a small outhouse at lower left"
+  },
+  {
+   "src": "assets/images/grand-canyon/54a95880.webp",
+   "thumb": "assets/images/grand-canyon/thumbs/54a95880.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Porch Light",
+   "alt": "A timber ramada glowing in a dark canyon under a starry sky, lit by an old pickup's headlights"
+  },
+  {
+   "src": "assets/images/grand-canyon/00441c81.webp",
+   "thumb": "assets/images/grand-canyon/thumbs/00441c81.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Redshift",
+   "alt": "A red Jeep pickup at a creek crossing at night, its taillights glowing red and reflecting in the water under a starry sky"
+  },
+  {
+   "src": "assets/images/grand-canyon/33c3e389.webp",
+   "thumb": "assets/images/grand-canyon/thumbs/33c3e389.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Floodlit",
+   "alt": "A butte lit orange by headlights above a dirt road under a starry sky"
+  },
+  {
+   "src": "assets/images/grand-canyon/0199b984.webp",
+   "thumb": "assets/images/grand-canyon/thumbs/0199b984.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Night Drive",
+   "alt": "A dirt road winding into a canyon at night beneath the Milky Way and a bright star, with the dark red hood of a Jeep in the foreground"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 85%"
+}

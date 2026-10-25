@@ -1,0 +1,272 @@
+{
+ "slug": "rainiernp",
+ "title": "Mount Rainier NP",
+ "cardTitle": "Mount Rainier NP",
+ "date": "2016-06",
+ "dateLabel": "June 2016",
+ "location": "Mount Rainier, Washington",
+ "country": "United States",
+ "coords": [
+  46.9,
+  -121.6
+ ],
+ "tags": [
+  "national-park",
+  "mountains",
+  "backpacking"
+ ],
+ "sectionTitle": "Perfect Refuge",
+ "paragraphs": [
+  "Words and pictures can hardly describe this place. We made our way to Mount Rainier National Park by following the prominent peak like a compass. The volcano is an omnipresent sight from Seattle on a sunny day. Perhaps it contributes to the environmental friendly attitude of the city, a constant reminder of the beauty and power of mother nature. We initially wanted to go to Paradise, but at that time of the year, it was still inaccessible to backpackers without snowshoes and 4WD vehicles. The ranger recommended us Crystal lake/peak instead, and we took her advice!",
+  "A beautiful mountain stream and log bridge welcomed us at the trailhead. As we crossed the bridge, we were engulfed by the wilderness and isolated from civilized society. Nature has a way of making you forget about your problems at home. It wasn't a distraction from stresses, it was a profound realization that they don't matter. Surrounded by so much life, I embraced being alive. I embraced the present, soaking in the sights, sounds, and smells of the mountain. The world we built aims to isolate us from nature, stripping the senses to only what we chose to feed ourselves. I was in the perfect refuge from humanity."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/rainierNP/cover.jpg",
+ "card": "assets/images/rainierNP/thumbs/DSC_7502.jpg",
+ "photos": [
+  {
+   "src": "assets/images/rainiernp/DSC_7248.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC_7248.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Closer"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC03514.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC03514.jpg",
+   "w": 1350,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Trailhead"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC_9312.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC_9312.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "First Steps"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC_0410.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC_0410.jpg",
+   "w": 1920,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Astounding"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC_7357.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC_7357.jpg",
+   "w": 900,
+   "h": 1349,
+   "tw": 600,
+   "th": 392,
+   "caption": "Flank"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC_7453.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC_7453.jpg",
+   "w": 1349,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Misty"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC03675.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC03675.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Falls"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC_7569.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC_7569.jpg",
+   "w": 1349,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Free Refills"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC_9602.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC_9602.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Flare"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC03593.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC03593.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Lower Crystal"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC_9939.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC_9939.jpg",
+   "w": 1348,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Pine"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC_9952.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC_9952.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Summer Snow"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC_9969.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC_9969.jpg",
+   "w": 1553,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Good Company"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC03538.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC03538.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Cold Cider"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC_7297.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC_7297.jpg",
+   "w": 1349,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Solar"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC_7328.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC_7328.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Infinite"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC_7336.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC_7336.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Rising Star"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC_7474.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC_7474.jpg",
+   "w": 1349,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Shoot"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC_7502.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC_7502.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Rainier"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC_7498.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC_7498.jpg",
+   "w": 1349,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Valley"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC03651.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC03651.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Blue"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC_7493.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC_7493.jpg",
+   "w": 1349,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Home Far Away"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC_0005.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC_0005.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Over There"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC_0042.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC_0042.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Goodnight"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC_7561.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC_7561.jpg",
+   "w": 1349,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Insomnia"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC_7550.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC_7550.jpg",
+   "w": 1680,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Polaris"
+  },
+  {
+   "src": "assets/images/rainiernp/DSC_9318.jpg",
+   "thumb": "assets/images/rainiernp/thumbs/DSC_9318.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Skywards"
+  }
+ ],
+ "legacy": true
+}

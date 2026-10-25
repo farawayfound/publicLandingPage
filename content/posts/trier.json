@@ -1,0 +1,160 @@
+{
+ "slug": "trier",
+ "title": "Trier, DE",
+ "cardTitle": "Trier, DE",
+ "date": "2023-06",
+ "dateLabel": "June 2023",
+ "location": "Trier, Germany",
+ "country": "Germany",
+ "coords": [
+  49.8,
+  6.6
+ ],
+ "tags": [
+  "abroad",
+  "city"
+ ],
+ "sectionTitle": "Roman Holiday",
+ "paragraphs": [
+  "Western Germany is a long way from Rome, but in the fourth century Trier was one of the Roman Empire’s capitals, with emperors in residence, and they built on a scale to match. A surprising amount of it is still standing, enough to fill a bright June afternoon. I started at the Porta Nigra, Latin for “black gate,” a second-century city gate made of enormous sandstone blocks that have darkened with age. Up close the stone is rough and pitted, patched here and there with brick. The blocks were fitted without mortar and held together with iron clamps, and it is hard to imagine anyone lifting even one, let alone building a whole gate out of them. Inside, I climbed to the upper floor, where a barrel-vaulted gallery was striped with sunlight and arched windows framed the old town and a church spire.",
+  "Later that afternoon I made my way across town to the Kaiserthermen, the fourth-century imperial baths. A wide lawn in front of the ruins was the color of straw. Closer in, the brick walls still tower overhead, with rows of arched windows curving into a great apse and grass growing along the tops. Then I went underground. Brick service tunnels run beneath the baths, some so narrow that you could nearly touch both walls, with a bright patch of daylight waiting at the far end. They were built so the staff could tend the furnaces and move supplies without being seen by the bathers. Back at the surface, one stretch of wall stood behind scaffolding. Even ruins need upkeep.",
+  "Walls that have outlasted the empire that built them make the word “permanent” look optimistic, and the grass up on top seems perfectly at home! Anyone on the Mosel should give Trier a full day. The old town is compact and the Roman sights are an easy stroll apart. Walkable history is the best kind."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/trier/cover.webp",
+ "card": "assets/images/trier/thumbs/e4fb9358.webp",
+ "photos": [
+  {
+   "src": "assets/images/trier/2a4a4e31.webp",
+   "thumb": "assets/images/trier/thumbs/2a4a4e31.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Porta Nigra",
+   "alt": "A tall arched opening in the rough sandstone blocks of the Porta Nigra, with a drainpipe on the left and a patch of brickwork in the pillar."
+  },
+  {
+   "src": "assets/images/trier/e4fb9358.webp",
+   "thumb": "assets/images/trier/thumbs/e4fb9358.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Barrel Vault",
+   "alt": "A barrel-vaulted stone gallery with arched openings on one side and stripes of sunlight across the floor, leading to a bright archway at the far end."
+  },
+  {
+   "src": "assets/images/trier/6960966f.webp",
+   "thumb": "assets/images/trier/thumbs/6960966f.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Ornate",
+   "alt": "A deep arched window beside a tall carved relief panel on a stone wall, with a sunlit sill and rooftops and a church tower beyond."
+  },
+  {
+   "src": "assets/images/trier/ee4e2524.webp",
+   "thumb": "assets/images/trier/thumbs/ee4e2524.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Pillar Talk",
+   "alt": "Looking through a dark stone window at slate rooftops, copper-green dormers and an ornate gabled facade, with carved column capitals at the left."
+  },
+  {
+   "src": "assets/images/trier/9df70fc3.webp",
+   "thumb": "assets/images/trier/thumbs/9df70fc3.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Dry Spell",
+   "alt": "The ruins of the imperial baths rising beyond a wide, dry straw-colored lawn under a cloudy sky, with wooded hills and houses behind."
+  },
+  {
+   "src": "assets/images/trier/dc1f7259.webp",
+   "thumb": "assets/images/trier/thumbs/dc1f7259.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Cobbles",
+   "alt": "A cobbled lane between a tall old stone wall and a modern red-brick building, leading toward the brick ruins of the imperial baths under a blue sky with big white clouds."
+  },
+  {
+   "src": "assets/images/trier/98fde5a1.webp",
+   "thumb": "assets/images/trier/thumbs/98fde5a1.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Rooftop Garden",
+   "alt": "Tall ruin walls of red brick and stone bands with grass and moss on their tops, curving into a row of arched windows against a cloudy sky."
+  },
+  {
+   "src": "assets/images/trier/2505e3b3.webp",
+   "thumb": "assets/images/trier/thumbs/2505e3b3.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Narrow Escape",
+   "alt": "A very narrow brick tunnel with mossy walls and a pale floor, with a series of arches leading toward a bright opening."
+  },
+  {
+   "src": "assets/images/trier/dab7d710.webp",
+   "thumb": "assets/images/trier/thumbs/dab7d710.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Arch to Sky",
+   "alt": "Looking up from a stone and brick passage through an arch to blue sky, with a metal railing and another arch beyond."
+  },
+  {
+   "src": "assets/images/trier/9b1a4138.webp",
+   "thumb": "assets/images/trier/thumbs/9b1a4138.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Staff Only",
+   "alt": "A dark brick tunnel with a rounded vault opening onto a stone chamber and a bright arched window beyond."
+  },
+  {
+   "src": "assets/images/trier/c2f64f60.webp",
+   "thumb": "assets/images/trier/thumbs/c2f64f60.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Under Repair",
+   "alt": "Brick ruin walls with arched windows rising behind a green lawn, with a scaffold wrapped in printed mesh on the right and big white clouds above."
+  },
+  {
+   "src": "assets/images/trier/d5c0d016.webp",
+   "thumb": "assets/images/trier/thumbs/d5c0d016.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Over the Wall",
+   "alt": "A tall brick ruin with moss and grass on its wall tops behind a curved low stone wall, under a blue sky with thin clouds."
+  },
+  {
+   "src": "assets/images/trier/7ef206a0.webp",
+   "thumb": "assets/images/trier/thumbs/7ef206a0.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Brick by Brick",
+   "alt": "Looking down onto the brick arches and mossy wall tops of the imperial baths, with a patch of green grass and a cobbled floor below."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 30%"
+}

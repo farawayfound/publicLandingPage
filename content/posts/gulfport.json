@@ -1,0 +1,131 @@
+{
+ "slug": "gulfport",
+ "title": "Gulfport, MS",
+ "cardTitle": "Gulfport, MS",
+ "date": "2017-10",
+ "dateLabel": "October 2017",
+ "location": "Gulfport, Mississippi",
+ "country": "United States",
+ "coords": [
+  30.4,
+  -89.1
+ ],
+ "tags": [
+  "city",
+  "coast",
+  "lakes"
+ ],
+ "sectionTitle": "High-Water Mark",
+ "paragraphs": [
+  "On the Mississippi Gulf Coast in the fall of 2017 I found hot rods and floodwater, three weeks apart, and the hot rods came first. On October 1st, downtown Gulfport closed off its streets for Cruisin’ the Coast, the classic car festival that rolls along the shore every fall, and the parking lots filled up with chrome. Hoods were popped open everywhere, and I wandered from car to car with my camera. A yellow T-bucket, basically a Model T stripped down to its bones, sat in the sun with its engine out in the open and nothing to hide. A late-’60s Mercury Cougar had its hood propped up like a yawning big cat, with a “Road Closed” sign behind it that looked like part of the exhibit. A week later, as the festival wound down, Hurricane Nate came ashore near Biloxi, right next door.",
+  "Nate blew through in a night, but two weeks later a lakeside park nearby was still mostly underwater, probably thanks to the storm. Picnic tables stood in tea-colored water up to their benches, the pavilions kept their maroon roofs dry, and a lone table sat out in the middle of the lake as if it were waiting for a boat. A sign reading “Catch and Release Only” rose out of the flood, its post swallowed by the lake. Then I looked closer. Floating on the surface was a reddish-brown mat of thousands of ants, fire ants I think, all clinging to one another, with their pale brood and a single blade of grass along for the ride. When their mound floods, fire ants link legs and jaws and float as one living raft until the water drops. Alone, each one is smaller than a grain of rice. Together, they float.",
+  "The great egrets didn’t seem to mind the extra water. They waded between the bald cypress trunks and lifted off across the lake, and as the sun dropped, the water turned pink and lavender, mirroring the sky. I stayed until the pines turned to silhouettes against the last magenta clouds. A flooded picnic area has no business being this beautiful."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/gulfport/cover.webp",
+ "card": "assets/images/gulfport/thumbs/1a8d63c6.webp",
+ "photos": [
+  {
+   "src": "assets/images/gulfport/53929acb.webp",
+   "thumb": "assets/images/gulfport/thumbs/53929acb.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Mellow Yellow",
+   "alt": "A yellow T-bucket hot rod with an exposed engine and chrome wheels parked on asphalt beside a red classic car and an orange traffic cone."
+  },
+  {
+   "src": "assets/images/gulfport/65d27edd.webp",
+   "thumb": "assets/images/gulfport/thumbs/65d27edd.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Open Wide",
+   "alt": "Front end of a pale-blue Mercury Cougar with its hood raised and a Road Closed sign behind it."
+  },
+  {
+   "src": "assets/images/gulfport/1a8d63c6.webp",
+   "thumb": "assets/images/gulfport/thumbs/1a8d63c6.webp",
+   "w": 1803,
+   "h": 1200,
+   "tw": 800,
+   "th": 532,
+   "caption": "Picnic Area",
+   "alt": "A concrete picnic table and benches standing in dark floodwater in front of maroon-roofed pavilions."
+  },
+  {
+   "src": "assets/images/gulfport/531690d4.webp",
+   "thumb": "assets/images/gulfport/thumbs/531690d4.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Round Table",
+   "alt": "A concrete picnic table with curved benches standing in floodwater, with pavilions behind it."
+  },
+  {
+   "src": "assets/images/gulfport/e0d228b3.webp",
+   "thumb": "assets/images/gulfport/thumbs/e0d228b3.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Colony",
+   "alt": "Close-up of a dense mat of reddish-brown ants floating on the water."
+  },
+  {
+   "src": "assets/images/gulfport/b48d673f.webp",
+   "thumb": "assets/images/gulfport/thumbs/b48d673f.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Life Raft",
+   "alt": "Close-up of floating ants with pale brood and a green blade of grass."
+  },
+  {
+   "src": "assets/images/gulfport/f584fe8a.webp",
+   "thumb": "assets/images/gulfport/thumbs/f584fe8a.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Great Expectations",
+   "alt": "A great egret standing in still, pink-tinted water beside a bald cypress trunk in the evening light."
+  },
+  {
+   "src": "assets/images/gulfport/7d203a55.webp",
+   "thumb": "assets/images/gulfport/thumbs/7d203a55.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Liftoff",
+   "alt": "A great egret lifting off from the water with wings spread, beside a bald cypress trunk."
+  },
+  {
+   "src": "assets/images/gulfport/a6fedaba.webp",
+   "thumb": "assets/images/gulfport/thumbs/a6fedaba.webp",
+   "w": 1369,
+   "h": 2048,
+   "tw": 535,
+   "th": 800,
+   "caption": "Sign of the Times",
+   "alt": "A pale-blue house across a flooded pond under tall pines and a lilac sky, with a Catch and Release Only sign standing in the water."
+  },
+  {
+   "src": "assets/images/gulfport/617a7336.webp",
+   "thumb": "assets/images/gulfport/thumbs/617a7336.webp",
+   "w": 1803,
+   "h": 1200,
+   "tw": 800,
+   "th": 532,
+   "caption": "Nightfall",
+   "alt": "Pine trees in black silhouette against a dark purple evening sky."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 20%"
+}

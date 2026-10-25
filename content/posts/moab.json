@@ -1,0 +1,243 @@
+{
+ "slug": "moab",
+ "title": "Moab, UT",
+ "cardTitle": "Moab, UT",
+ "date": "2018-08",
+ "dateLabel": "August 2018",
+ "location": "Canyonlands & Arches National Parks, Utah",
+ "country": "United States",
+ "coords": [
+  38.6,
+  -109.6
+ ],
+ "tags": [
+  "national-park",
+  "desert",
+  "hiking",
+  "road-trip"
+ ],
+ "sectionTitle": "Windows in Stone",
+ "paragraphs": [
+  "The road across the Island in the Sky district of Canyonlands National Park is flat and ordinary right up to the edge. You park, walk a few steps, and the ground just stops! The mesa sits more than a thousand feet above the canyons around it, which explains the name. From the rim the land falls away in giant stairs: red cliffs, a pale bench of sandstone, more cliffs, and far below, the Green River looping around a butte, bright green against all that red. The Shafer Trail looks like someone doodled switchbacks down the canyon wall. A thin haze hung over everything, and the farthest canyons faded from red to lavender and gray.",
+  "Moab was my base for two days in the middle of that Southwest road trip, and the mesa came first. There is no food or fuel up there, so stock up in town. A short but steep trail led to the rim of Upheaval Dome, a crater roughly three miles wide where the rock layers have been twisted into stripes of cream, pink and chocolate. Geologists still argue about how it got there: a meteorite, or a bubble of salt that pushed up from below and has since eroded away. Elsewhere on the mesa, red towers wear white caps, and one sunlit wall glowed gold.",
+  "Arches National Park had a different mood altogether. Dark clouds loomed over Devils Garden, where Landscape Arch spans 306 feet and narrows to a ribbon of sandstone just six feet thick. How is that still standing? Other arches along the trail work as windows, each one framing a different slice of desert, and a gnarled old juniper grows at the mouth of one. Out among the fins, a curtain of rain hung on the horizon.",
+  "The park holds more than two thousand arches, and most began as sandstone fins that the weather slowly drilled through. The hike to Delicate Arch is a steady climb across bare sandstone, and the reward is an arch standing alone at the lip of a stone bowl. I framed it through yet another window of rock. Every arch is on a slow countdown, and I feel lucky to have caught them standing."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/moab/cover.webp",
+ "card": "assets/images/moab/thumbs/33460057.webp",
+ "photos": [
+  {
+   "src": "assets/images/moab/dfef004d.webp",
+   "thumb": "assets/images/moab/thumbs/dfef004d.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Table for Two",
+   "alt": "Two flat-topped buttes rising above a scrubby desert plateau under a blue sky"
+  },
+  {
+   "src": "assets/images/moab/2cda6b45.webp",
+   "thumb": "assets/images/moab/thumbs/2cda6b45.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Terracotta",
+   "alt": "Sunlit red-orange cliff blocks above a canyon with a long mesa wall behind"
+  },
+  {
+   "src": "assets/images/moab/d48ccd2c.webp",
+   "thumb": "assets/images/moab/thumbs/d48ccd2c.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Shafer Trail",
+   "alt": "A dirt road zigzagging in tight switchbacks down a red canyon wall"
+  },
+  {
+   "src": "assets/images/moab/6f7cb760.webp",
+   "thumb": "assets/images/moab/thumbs/6f7cb760.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Crumple Zone",
+   "alt": "Folded orange sandstone ridges dotted with green shrubs under a pale, hazy sky"
+  },
+  {
+   "src": "assets/images/moab/20fa7daa.webp",
+   "thumb": "assets/images/moab/thumbs/20fa7daa.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Upheaval Dome",
+   "alt": "A pale cream ridge inside a rocky crater beneath scattered clouds"
+  },
+  {
+   "src": "assets/images/moab/c9257815.webp",
+   "thumb": "assets/images/moab/thumbs/c9257815.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Neapolitan",
+   "alt": "Twisted stripes of cream, pink and brown rock layers below a red cliff"
+  },
+  {
+   "src": "assets/images/moab/dcde0310.webp",
+   "thumb": "assets/images/moab/thumbs/dcde0310.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Amber",
+   "alt": "Golden sunlight on one layered sandstone cliff above a hazy canyon"
+  },
+  {
+   "src": "assets/images/moab/cddc6118.webp",
+   "thumb": "assets/images/moab/thumbs/cddc6118.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "The Drop",
+   "alt": "A tall red cliff beside a vast empty basin with distant mesas in haze"
+  },
+  {
+   "src": "assets/images/moab/1b6f19b5.webp",
+   "thumb": "assets/images/moab/thumbs/1b6f19b5.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Green River",
+   "alt": "A bright green river looping around a butte far below the canyon rim"
+  },
+  {
+   "src": "assets/images/moab/da5f0f62.webp",
+   "thumb": "assets/images/moab/thumbs/da5f0f62.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Chapters",
+   "alt": "Layered canyon walls with pale caps stacked like steps"
+  },
+  {
+   "src": "assets/images/moab/f95d1f56.webp",
+   "thumb": "assets/images/moab/thumbs/f95d1f56.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Capstones",
+   "alt": "Red cliff towers topped with white sandstone caps"
+  },
+  {
+   "src": "assets/images/moab/5e792fdc.webp",
+   "thumb": "assets/images/moab/thumbs/5e792fdc.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Watchtower",
+   "alt": "A tall red rock pillar in the foreground with a distant butte across a hazy canyon"
+  },
+  {
+   "src": "assets/images/moab/6f405c24.webp",
+   "thumb": "assets/images/moab/thumbs/6f405c24.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Lavender Haze",
+   "alt": "Distant flat-topped mesas fading into blue-gray haze"
+  },
+  {
+   "src": "assets/images/moab/e62b6d44.webp",
+   "thumb": "assets/images/moab/thumbs/e62b6d44.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Landscape Arch",
+   "alt": "Landscape Arch, a thin sandstone span stretching beneath dramatic clouds"
+  },
+  {
+   "src": "assets/images/moab/adc45bcc.webp",
+   "thumb": "assets/images/moab/thumbs/adc45bcc.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Viewfinder",
+   "alt": "A large sandstone arch framing a wide desert view and cloudy sky"
+  },
+  {
+   "src": "assets/images/moab/ddf43f58.webp",
+   "thumb": "assets/images/moab/thumbs/ddf43f58.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Doorman",
+   "alt": "A gnarled juniper tree in front of a sandy alcove beneath a large sandstone arch"
+  },
+  {
+   "src": "assets/images/moab/9195d2e5.webp",
+   "thumb": "assets/images/moab/thumbs/9195d2e5.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Double Take",
+   "alt": "A sandstone span arching between red rock walls, with a small round hole at right and junipers in front"
+  },
+  {
+   "src": "assets/images/moab/b268fe23.webp",
+   "thumb": "assets/images/moab/thumbs/b268fe23.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Rain Check",
+   "alt": "Red rock fins under dark clouds with a curtain of rain on the horizon"
+  },
+  {
+   "src": "assets/images/moab/769063d2.webp",
+   "thumb": "assets/images/moab/thumbs/769063d2.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Stone Flames",
+   "alt": "Jagged red sandstone fins and spires rising above green shrubs"
+  },
+  {
+   "src": "assets/images/moab/33460057.webp",
+   "thumb": "assets/images/moab/thumbs/33460057.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Delicate Arch",
+   "alt": "Delicate Arch, a freestanding red sandstone arch against distant hills"
+  },
+  {
+   "src": "assets/images/moab/c976c6b5.webp",
+   "thumb": "assets/images/moab/thumbs/c976c6b5.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Frame Arch",
+   "alt": "Delicate Arch in the distance seen through a nearby window in the rock"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 35%"
+}

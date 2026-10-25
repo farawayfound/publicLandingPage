@@ -1,0 +1,100 @@
+{
+ "slug": "vero-beach",
+ "title": "Vero Beach, FL",
+ "cardTitle": "Vero Beach, FL",
+ "date": "2022-04",
+ "dateLabel": "April 2022",
+ "location": "Vero Beach & Sebastian Inlet, Florida",
+ "country": "United States",
+ "coords": [
+  27.8,
+  -80.4
+ ],
+ "tags": [
+  "coast",
+  "state-park"
+ ],
+ "sectionTitle": "Island Time",
+ "paragraphs": [
+  "I spent Easter weekend on Florida's Treasure Coast, and the pelicans did not take the holiday off. The coast is named for a fleet of Spanish treasure ships that a hurricane wrecked just offshore in 1715, and beachcombers still turn up the occasional coin after a storm. The only gold I saw was the sunset. At Vero Beach the Atlantic was a muted teal under a flat gray sky, and brown pelicans glided low over the surf. Every so often one would fold its wings and drop headfirst into the water.",
+  "That evening I crossed the barrier island to the Indian River. Despite the name, it isn't a river at all! It's a shallow lagoon that runs roughly 150 miles behind Florida's barrier islands. A lone sailboat sat at anchor as the sun sank beside a long arched bridge, laying a single bright column across the water. A kayak rested on the shore under the mangroves, the sun burning through the leaves behind it. As the light turned from gold to copper, what looked like dolphins began to surface, just fins and backs rolling slowly through the glow.",
+  "Saturday took me north to Sebastian Inlet State Park, a short drive up the coast and a favorite with surfers and anglers. The inlet water was the kind of teal you expect on a postcard, with small mangrove islands out in it and boats anchored off their shores. At the fishing spot, brown pelicans had lined up along a leaning white railing, as if waiting for a table. A great egret glided past with its wings stretched wide. In the late 1800s the hat trade's hunger for plumes nearly wiped these birds out, and the outrage helped kick-start the Audubon movement, which took the great egret as its symbol. Later, a wood stork picked its way across a sandy, shell-flecked flat on pink toes. Easter or not, the tide kept its own hours, and for one weekend I kept them too."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/vero-beach/cover.webp",
+ "card": "assets/images/vero-beach/thumbs/fef34cb7.webp",
+ "photos": [
+  {
+   "src": "assets/images/vero-beach/dcc86591.webp",
+   "thumb": "assets/images/vero-beach/thumbs/dcc86591.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Wingmen",
+   "alt": "Two brown pelicans gliding over the open Atlantic under a flat, gray-blue sky."
+  },
+  {
+   "src": "assets/images/vero-beach/74633b6b.webp",
+   "thumb": "assets/images/vero-beach/thumbs/74633b6b.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Indian River",
+   "alt": "The sun setting beside a long arched bridge on the Indian River Lagoon, with a sailboat at anchor and a swirl on the dark water in the foreground."
+  },
+  {
+   "src": "assets/images/vero-beach/118e96bb.webp",
+   "thumb": "assets/images/vero-beach/thumbs/118e96bb.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Shore Leave",
+   "alt": "The setting sun glowing through mangrove leaves over the lagoon, with a sailboat at anchor beyond a yellow-and-red kayak resting on the shore."
+  },
+  {
+   "src": "assets/images/vero-beach/0ae8cd22.webp",
+   "thumb": "assets/images/vero-beach/thumbs/0ae8cd22.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Dusk Patrol",
+   "alt": "Orange dusk over the lagoon with waterfront buildings and palms in silhouette and a single dolphin fin breaking the surface."
+  },
+  {
+   "src": "assets/images/vero-beach/68fc0e2e.webp",
+   "thumb": "assets/images/vero-beach/thumbs/68fc0e2e.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Departures",
+   "alt": "Brown pelicans on shoreline rocks beside a leaning white railing at Sebastian Inlet, one pelican flying off over teal water."
+  },
+  {
+   "src": "assets/images/vero-beach/bd9d78ff.webp",
+   "thumb": "assets/images/vero-beach/thumbs/bd9d78ff.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Great Egret",
+   "alt": "A great egret flying low over blue-green inlet water with a green island on the horizon."
+  },
+  {
+   "src": "assets/images/vero-beach/6a1dc3b4.webp",
+   "thumb": "assets/images/vero-beach/thumbs/6a1dc3b4.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Saturday Stroll",
+   "alt": "A wood stork walking across a sandy flat dotted with rocks and shells."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "72% 65%"
+}

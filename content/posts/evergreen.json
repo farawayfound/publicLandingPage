@@ -1,0 +1,110 @@
+{
+ "slug": "evergreen",
+ "title": "Evergreen, CO",
+ "cardTitle": "Evergreen, CO",
+ "date": "2022-10",
+ "dateLabel": "October 2022",
+ "location": "Evergreen, Colorado",
+ "country": "United States",
+ "coords": [
+  39.6,
+  -105.3
+ ],
+ "tags": [
+  "forest",
+  "mountains"
+ ],
+ "sectionTitle": "Fleeting Gold",
+ "paragraphs": [
+  "Fall in the Colorado foothills is a lot like a good sunset: spectacular, and gone before you're ready for it. So on a Sunday in early October I drove up to Evergreen, a mountain town west of Denver at a little over 7,000 feet, to catch it while I could. I started on a rocky perch above the trees, where a granite dome pokes out of the pine and fir and the far ridges turn blue with distance.",
+  "Then I wandered into the aspens, which is a little ironic in a town called Evergreen. Their chalk-white trunks climbed toward a clean blue sky, and the leaves overhead ran from lime to lemon. Along the road a few groves had already hit full yellow, while the one I walked through was still halfway there. That yellow isn't new. It was in the leaves all summer, hidden under the green, and it only shows once the trees stop making chlorophyll. The leaves are thin enough that low sun shines right through them, so for photos, put the sun behind the grove and shoot toward it.",
+  "By late afternoon the light had turned honey-colored. Long shadows crept across a meadow of straw-gold grass, and on the far side of it stood what looked like a timber barn with a red metal roof, so of course I stopped. Then, as the light faded, I found a herd of elk grazing beside a creek in town, right up against the road, like they owned the place! It was still rut season, when bulls get testy, so keep your distance; I shot from the car window. The gold only lasts a week or two, and for one Sunday I got to stand in it."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/evergreen/cover.webp",
+ "card": "assets/images/evergreen/thumbs/d6465b1a.webp",
+ "photos": [
+  {
+   "src": "assets/images/evergreen/d57a07e8.webp",
+   "thumb": "assets/images/evergreen/thumbs/d57a07e8.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Granite Crown",
+   "alt": "A rounded granite dome rising above a sea of pine forest, with layered blue ridges fading into a hazy sky."
+  },
+  {
+   "src": "assets/images/evergreen/85289e4b.webp",
+   "thumb": "assets/images/evergreen/thumbs/85289e4b.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Granite Fin",
+   "alt": "A pale granite fin beside tall pines, with forested ridges and big white clouds over a blue sky."
+  },
+  {
+   "src": "assets/images/evergreen/7062f7fe.webp",
+   "thumb": "assets/images/evergreen/thumbs/7062f7fe.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Backlit",
+   "alt": "White aspen trunks and glowing yellow-green leaves lit from behind, with patches of blue sky overhead."
+  },
+  {
+   "src": "assets/images/evergreen/861410b2.webp",
+   "thumb": "assets/images/evergreen/thumbs/861410b2.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Into the Grove",
+   "alt": "A grove of white-trunked aspens with green and yellow leaves, fallen logs and golden leaf litter on the forest floor."
+  },
+  {
+   "src": "assets/images/evergreen/1ea120b9.webp",
+   "thumb": "assets/images/evergreen/thumbs/1ea120b9.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Leaf Peeping",
+   "alt": "Looking straight up through white aspen trunks and green-yellow leaves to a deep blue sky."
+  },
+  {
+   "src": "assets/images/evergreen/718ee56b.webp",
+   "thumb": "assets/images/evergreen/thumbs/718ee56b.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Peak Yellow",
+   "alt": "Aspens in full yellow beside a dark granite boulder, with a forested hillside and blue sky behind."
+  },
+  {
+   "src": "assets/images/evergreen/d6465b1a.webp",
+   "thumb": "assets/images/evergreen/thumbs/d6465b1a.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Spun Gold",
+   "alt": "A timber barn with a red metal roof and stacked dormers in a meadow of straw-gold grass under a deep blue sky, with pines behind."
+  },
+  {
+   "src": "assets/images/evergreen/3f444036.webp",
+   "thumb": "assets/images/evergreen/thumbs/3f444036.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Curbside Dining",
+   "alt": "A cow elk grazing on roadside grass beside a black-and-yellow hazard marker, with more elk and a stone-lined creek behind and a car's side mirror in the corner of the frame."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "70% 35%"
+}

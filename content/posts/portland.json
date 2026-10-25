@@ -1,0 +1,274 @@
+{
+ "slug": "portland",
+ "title": "Portland, OR",
+ "cardTitle": "Portland, OR",
+ "date": "2021-06",
+ "dateLabel": "June 2021 – May 2023",
+ "location": "Portland, Oregon",
+ "country": "United States",
+ "coords": [
+  45.5,
+  -122.7
+ ],
+ "tags": [
+  "city",
+  "forest",
+  "hiking",
+  "mountains",
+  "waterfalls"
+ ],
+ "sectionTitle": "City of Roses",
+ "paragraphs": [
+  "Oregon greeted me from a window seat. The Cascades unrolled beneath the wing in layers of blue, and a lone snow-capped volcano floated above the clouds. That afternoon I wandered through Lan Su Chinese Garden, where carved lattice doors opened onto a whitewashed courtyard of miniature trees. A koi glided beneath a burgundy shrub, and an office tower peeking over the wall reminded me that this garden sits in the middle of downtown. By evening I was down at the Willamette, watching the lift towers of the Hawthorne Bridge rise above a marina in the low sun.",
+  "The next day belonged to Washington Park, up the hill from downtown. The International Rose Test Garden was at peak bloom, every bed overflowing with blushing pinks, striped oranges, lavenders and buttery yellows, with the bees hard at work. It dates to 1917, when it became a safe haven for European rose hybrids during World War I. Portland has long called itself the City of Roses, and in early June the nickname needs no defending.",
+  "A short climb away, the Portland Japanese Garden slowed everything down. A moss-draped waterfall trickled through a ravine of ferns and azaleas. Bronze birds stood at the edge of a still pond, and a five-tiered stone lantern kept watch beneath the conifers. From a wooden veranda I looked out over raked gravel and little islands of moss. Elsewhere, a few weathered stones sat in white sand, and somehow that was enough to quiet the mind. At one point Mount Hood hovered above the downtown towers, still heavy with snow.",
+  "The day after, I wandered Hoyt Arboretum, where a circular garden sinks into a sweeping lawn ringed by conifers. Nearly two years later, in late May of 2023, I returned for a short visit with the Columbia River Gorge on the list. Bridal Veil Falls dropped in two tiers through a narrow, mossy ravine, and Multnomah Falls slid down a wall of ochre basalt in one long, thin plume. Both sit just off the old Columbia River Highway, so one morning covers them. The next day, back in the city, I followed a trail beneath towering redwoods, pointing the lens skyward. A city that keeps a snowy volcano on its skyline and redwoods in its parks is easy to love."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/portland/cover.webp",
+ "card": "assets/images/portland/thumbs/710f94bd.webp",
+ "photos": [
+  {
+   "src": "assets/images/portland/cc6f0a4c.webp",
+   "thumb": "assets/images/portland/thumbs/cc6f0a4c.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Final Approach",
+   "alt": "A snow-capped volcano on the horizon beyond the colorful winglet of an airplane."
+  },
+  {
+   "src": "assets/images/portland/1b967231.webp",
+   "thumb": "assets/images/portland/thumbs/1b967231.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Cloud Banks",
+   "alt": "Low clouds drifting over a forested river valley with a snowy peak in the distance."
+  },
+  {
+   "src": "assets/images/portland/99c856ba.webp",
+   "thumb": "assets/images/portland/thumbs/99c856ba.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Threshold",
+   "alt": "Carved black lattice doors opening onto a whitewashed courtyard with bonsai and an office tower behind."
+  },
+  {
+   "src": "assets/images/portland/548b5fd0.webp",
+   "thumb": "assets/images/portland/thumbs/548b5fd0.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Pond Life",
+   "alt": "An orange koi and a turtle in a green pond beneath a burgundy shrub."
+  },
+  {
+   "src": "assets/images/portland/710f94bd.webp",
+   "thumb": "assets/images/portland/thumbs/710f94bd.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Hawthorne Bridge",
+   "alt": "The steel lift towers of the Hawthorne Bridge crossing the Willamette River above a small marina."
+  },
+  {
+   "src": "assets/images/portland/a2f728a7.webp",
+   "thumb": "assets/images/portland/thumbs/a2f728a7.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Peak Bloom",
+   "alt": "A cream and pink rose edged in red."
+  },
+  {
+   "src": "assets/images/portland/e08a702d.webp",
+   "thumb": "assets/images/portland/thumbs/e08a702d.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Marmalade",
+   "alt": "Orange roses, one striped with cream."
+  },
+  {
+   "src": "assets/images/portland/dfe27688.webp",
+   "thumb": "assets/images/portland/thumbs/dfe27688.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Lavender",
+   "alt": "A pale lavender rose with a small striped insect hovering near its edge."
+  },
+  {
+   "src": "assets/images/portland/b244ae32.webp",
+   "thumb": "assets/images/portland/thumbs/b244ae32.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Sunshine",
+   "alt": "A bright yellow rose with a honeybee at its center among dark green leaves."
+  },
+  {
+   "src": "assets/images/portland/e3223f8e.webp",
+   "thumb": "assets/images/portland/thumbs/e3223f8e.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Living Roof",
+   "alt": "A brick building with a moss and fern covered roof beside a burgundy Japanese maple."
+  },
+  {
+   "src": "assets/images/portland/20facef9.webp",
+   "thumb": "assets/images/portland/thumbs/20facef9.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Mount Hood",
+   "alt": "Snow-covered Mount Hood framed by maple leaves and fir boughs above the downtown towers."
+  },
+  {
+   "src": "assets/images/portland/ffb7ba47.webp",
+   "thumb": "assets/images/portland/thumbs/ffb7ba47.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Raked Gravel",
+   "alt": "View from a wooden veranda across raked gravel with moss islands toward clipped shrubs and conifers."
+  },
+  {
+   "src": "assets/images/portland/b009b4d0.webp",
+   "thumb": "assets/images/portland/thumbs/b009b4d0.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Sentries",
+   "alt": "Two bronze cranes at the edge of a still pond ringed by Japanese maples and tall conifers."
+  },
+  {
+   "src": "assets/images/portland/ce19e2ab.webp",
+   "thumb": "assets/images/portland/thumbs/ce19e2ab.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Swim Lane",
+   "alt": "An orange and white koi in a narrow channel lined with moss and ferns."
+  },
+  {
+   "src": "assets/images/portland/5a92ed6b.webp",
+   "thumb": "assets/images/portland/thumbs/5a92ed6b.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Five Tiers",
+   "alt": "A five-tiered stone lantern beside a tall conifer and a clipped hedge."
+  },
+  {
+   "src": "assets/images/portland/550f031c.webp",
+   "thumb": "assets/images/portland/thumbs/550f031c.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Azalea Bank",
+   "alt": "Pink azaleas in the foreground of a lush garden pond ringed by bright green maples."
+  },
+  {
+   "src": "assets/images/portland/74fcf69f.webp",
+   "thumb": "assets/images/portland/thumbs/74fcf69f.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Sand and Stone",
+   "alt": "Raked white sand with a few weathered stones in front of a low plaster wall and tall trees."
+  },
+  {
+   "src": "assets/images/portland/d354b09c.webp",
+   "thumb": "assets/images/portland/thumbs/d354b09c.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Fern Falls",
+   "alt": "A moss-draped waterfall tumbling through ferns and flowering shrubs."
+  },
+  {
+   "src": "assets/images/portland/7005f9c4.webp",
+   "thumb": "assets/images/portland/thumbs/7005f9c4.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Buzz",
+   "alt": "A bumblebee at the center of white azalea blossoms."
+  },
+  {
+   "src": "assets/images/portland/c86a8358.webp",
+   "thumb": "assets/images/portland/thumbs/c86a8358.webp",
+   "w": 1152,
+   "h": 2048,
+   "tw": 450,
+   "th": 800,
+   "caption": "Tiny Forest",
+   "alt": "A bonsai grove of small conifers on a wooden stand in front of a slatted screen."
+  },
+  {
+   "src": "assets/images/portland/391639f4.webp",
+   "thumb": "assets/images/portland/thumbs/391639f4.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Bridal Veil Falls",
+   "alt": "A waterfall dropping in two tiers through a narrow, mossy gorge."
+  },
+  {
+   "src": "assets/images/portland/ec003012.webp",
+   "thumb": "assets/images/portland/thumbs/ec003012.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Multnomah",
+   "alt": "A tall, thin waterfall pouring over an ochre basalt cliff streaked with moss."
+  },
+  {
+   "src": "assets/images/portland/05b04ff8.webp",
+   "thumb": "assets/images/portland/thumbs/05b04ff8.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Redwood Path",
+   "alt": "A gravel trail with a split-rail fence curving through tall redwoods and ferns."
+  },
+  {
+   "src": "assets/images/portland/68398dd4.webp",
+   "thumb": "assets/images/portland/thumbs/68398dd4.webp",
+   "w": 1100,
+   "h": 2048,
+   "tw": 430,
+   "th": 800,
+   "caption": "Tall Order",
+   "alt": "Looking straight up through a ring of tall redwoods with sunlight between the trunks."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 40%"
+}

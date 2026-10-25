@@ -1,0 +1,155 @@
+{
+ "slug": "glacier-np",
+ "title": "Glacier NP",
+ "cardTitle": "Glacier NP",
+ "date": "2018-06",
+ "dateLabel": "June 2018",
+ "location": "Glacier National Park, Montana",
+ "country": "United States",
+ "coords": [
+  48.5,
+  -113.4
+ ],
+ "tags": [
+  "national-park",
+  "mountains",
+  "backpacking",
+  "hiking",
+  "lakes",
+  "waterfalls",
+  "snow"
+ ],
+ "sectionTitle": "Painted Peaks",
+ "paragraphs": [
+  "Winter hadn't finished with Glacier in mid-June. Snow clung to nearly every slope of the Two Medicine valley on the park's east side, and avalanche chutes ran all the way down to the lakeshore. What stopped me was the color of the rock. Much of it is argillite, mud from the floor of an ancient shallow sea that hardened into stone more than a billion years ago, and the iron in it rusted the layers red and purple. Sinopah, the big pyramid above Two Medicine Lake, is banded like a layer cake, and the snow was the frosting!",
+  "I had two days and a tent. (Backcountry camping in Glacier takes a permit and a designated site, so plan ahead.) I hiked up the valley toward Upper Two Medicine Lake, and by the time I got there the evening sun had turned a horn of rock above the trees gold. The water was so still it held a perfect copy of the cliffs. At the outlet lay a gigantic jam of bleached logs, heaped like pick-up sticks. Avalanche chutes run right down to that water, so I'd guess winter keeps adding to the pile. Between those ancient cliffs and a woodpile that took who knows how many winters to build, two days barely register. I pitched my tent and watched the last gold leave the cliffs.",
+  "I woke to low cloud and drizzle, and the valley changed its mood overnight. Dark clouds gathered behind a spire of rock, and mist hung in the spruce. With all that snow melting, the creeks were running hard. On the way out, the trail passed waterfalls pouring between mossy ledges, one with a fallen log spanning the top like a footbridge I wouldn't trust. Even the creek stones were that same red. Glacier covers more than a million acres, and this was one valley of it."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/glacier-np/cover.webp",
+ "card": "assets/images/glacier-np/thumbs/2bc537b6.webp",
+ "photos": [
+  {
+   "src": "assets/images/glacier-np/cad79d91.webp",
+   "thumb": "assets/images/glacier-np/thumbs/cad79d91.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Embers",
+   "alt": "A narrow dirt trail winds through a green meadow dotted with bleached snags toward a snow-streaked mountainside glowing orange in the evening light"
+  },
+  {
+   "src": "assets/images/glacier-np/6548dc8d.webp",
+   "thumb": "assets/images/glacier-np/thumbs/6548dc8d.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Log Jam",
+   "alt": "A pile of bleached logs in the foreground of a still lake that reflects a red-purple cliff streaked with snow"
+  },
+  {
+   "src": "assets/images/glacier-np/3eebf746.webp",
+   "thumb": "assets/images/glacier-np/thumbs/3eebf746.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Golden Horn",
+   "alt": "A gold-lit rocky horn above a dark spruce forest and a small pond, with snow patches on the slopes and big clouds overhead"
+  },
+  {
+   "src": "assets/images/glacier-np/aa16449c.webp",
+   "thumb": "assets/images/glacier-np/thumbs/aa16449c.webp",
+   "w": 1920,
+   "h": 1440,
+   "tw": 800,
+   "th": 600,
+   "caption": "Blue Hour",
+   "alt": "A tangle of bleached logs in the foreground of a dark lake at dusk, with snowy peaks reflected in the still water"
+  },
+  {
+   "src": "assets/images/glacier-np/4cd5671f.webp",
+   "thumb": "assets/images/glacier-np/thumbs/4cd5671f.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Heavy Sky",
+   "alt": "A rippled gray lake under heavy cloud, with a pile of bleached logs in the foreground, a pointed snowy peak ahead and a red-purple cliff on the right"
+  },
+  {
+   "src": "assets/images/glacier-np/f2e67439.webp",
+   "thumb": "assets/images/glacier-np/thumbs/f2e67439.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Winter Coat",
+   "alt": "A teal lake below a steep mountainside plastered with snow and scattered conifers"
+  },
+  {
+   "src": "assets/images/glacier-np/428d82e9.webp",
+   "thumb": "assets/images/glacier-np/thumbs/428d82e9.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Brooding",
+   "alt": "Dark storm clouds over a rocky spire and a snow-streaked forested slope above a lake"
+  },
+  {
+   "src": "assets/images/glacier-np/c0dcfe63.webp",
+   "thumb": "assets/images/glacier-np/thumbs/c0dcfe63.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Fallen Bridge",
+   "alt": "A waterfall pouring between dark mossy rock with a fallen log spanning its top"
+  },
+  {
+   "src": "assets/images/glacier-np/01b2282b.webp",
+   "thumb": "assets/images/glacier-np/thumbs/01b2282b.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Silk",
+   "alt": "A long cascade tumbling down a mossy rock wall into a rushing creek, with spruce and green shrubs on both banks"
+  },
+  {
+   "src": "assets/images/glacier-np/f9460a9c.webp",
+   "thumb": "assets/images/glacier-np/thumbs/f9460a9c.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Argillite",
+   "alt": "A shallow creek trickling over red-purple stones"
+  },
+  {
+   "src": "assets/images/glacier-np/1414a836.webp",
+   "thumb": "assets/images/glacier-np/thumbs/1414a836.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Snowmelt",
+   "alt": "Thin waterfalls trickling down a rocky cliff band above a patch of melting snow on a green slope"
+  },
+  {
+   "src": "assets/images/glacier-np/2bc537b6.webp",
+   "thumb": "assets/images/glacier-np/thumbs/2bc537b6.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Sinopah",
+   "alt": "A pyramid-shaped mountain of purple-red banded rock with snow in its gullies above a dark forest and a sliver of blue lake"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "40% 35%"
+}

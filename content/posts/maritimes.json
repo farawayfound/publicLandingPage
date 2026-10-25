@@ -1,0 +1,142 @@
+{
+ "slug": "maritimes",
+ "title": "Maritime Spring",
+ "cardTitle": "Maritime Spring",
+ "date": "2022-06",
+ "dateLabel": "June 2022",
+ "location": "Charlottetown, Prince Edward Island & Halifax, Nova Scotia",
+ "country": "Canada",
+ "coords": [
+  45.4,
+  -63.4
+ ],
+ "tags": [
+  "abroad",
+  "coast",
+  "city"
+ ],
+ "sectionTitle": "Rust and Bloom",
+ "paragraphs": [
+  "The first thing you notice about Prince Edward Island, gliding toward it by ship, is how red it is. Low cliffs of soft red sandstone ran along the shore under dark spruce, and the water was so still that every bluff had a twin hanging beneath it. A lone fishing boat cut across the glassy water, trailing a long wake, and then the lighthouses began. A white tower with a red lantern stood on one bluff, and at the end of a rubble-stone point a candy-striped one sat beside a house with white chairs set out on a little dock.",
+  "In the harbor at Charlottetown, I think, a jellyfish drifted past with a mane of tentacles that would make Medusa jealous! Then I wandered into St. Dunstan's Basilica. Green ribs fan across a golden vaulted ceiling, and a rose window sits above the altar. Pointed arches climb past hanging lanterns to rows of tall windows, and the stained glass glows in the aisles below. After all that open water and sky, the dim, gilded interior felt like stepping into another century.",
+  "Two days later, Halifax greeted the ship with fog. A small island with a lighthouse barely held its outline out in the harbor, and the world shrank to whatever was right in front of me. Up on Citadel Hill, I walked the old fort's dry moat between tall stone walls and found a brick-vaulted casemate with a cannon aimed at the window. The fort was built for an attack that never came, which strikes me as the best thing a fortress can say for itself.",
+  "The Public Gardens came next, a Victorian park in full bloom. Azaleas blazed in pink, orange and yellow beside scalloped bird baths, and a white footbridge arched over a pond with a tiny fountain. The sky stayed gray, which suited me fine, because overcast is the best light for flowers: soft, with no harsh shadows to fight. The sandstone under Prince Edward Island took ages to form, and these azaleas last a few weeks. I was lucky to catch both in the same week."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/maritimes/cover.webp",
+ "card": "assets/images/maritimes/thumbs/448e6489.webp",
+ "photos": [
+  {
+   "src": "assets/images/maritimes/ef7e8931.webp",
+   "thumb": "assets/images/maritimes/thumbs/ef7e8931.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Wake",
+   "alt": "A small white fishing boat with a blue stripe trailing a long wake across calm water, with red sandstone cliffs and dark spruce behind it."
+  },
+  {
+   "src": "assets/images/maritimes/8b74610b.webp",
+   "thumb": "assets/images/maritimes/thumbs/8b74610b.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Candy Cane",
+   "alt": "A red-and-white striped lighthouse at the end of a rock-lined point beside a gray shingled house with white chairs on a dock."
+  },
+  {
+   "src": "assets/images/maritimes/c33f56da.webp",
+   "thumb": "assets/images/maritimes/thumbs/c33f56da.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Adrift",
+   "alt": "A jellyfish with a pale bell and a long mane of dark red tentacles drifting in murky green water."
+  },
+  {
+   "src": "assets/images/maritimes/6a33e398.webp",
+   "thumb": "assets/images/maritimes/thumbs/6a33e398.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Gothic Light",
+   "alt": "Pointed Gothic arches with gilded capitals, hanging lanterns, green vault ribs and stained glass windows inside a dim basilica."
+  },
+  {
+   "src": "assets/images/maritimes/3a3a8176.webp",
+   "thumb": "assets/images/maritimes/thumbs/3a3a8176.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Pea Soup",
+   "alt": "A low island with a small white tower fading into thick fog over dark water."
+  },
+  {
+   "src": "assets/images/maritimes/fbc1bb7a.webp",
+   "thumb": "assets/images/maritimes/thumbs/fbc1bb7a.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Dry Moat",
+   "alt": "A grass-floored ditch between two tall dressed-stone fort walls, with a doorway at the far end under a gray sky."
+  },
+  {
+   "src": "assets/images/maritimes/c096deb7.webp",
+   "thumb": "assets/images/maritimes/thumbs/c096deb7.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Fire Away",
+   "alt": "A black cannon on a pale carriage on a wooden platform inside a brick-vaulted stone room, aimed at a bright window."
+  },
+  {
+   "src": "assets/images/maritimes/448e6489.webp",
+   "thumb": "assets/images/maritimes/thumbs/448e6489.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Sherbet",
+   "alt": "A bed of azaleas with orange, pink and yellow blossoms beside a green lawn."
+  },
+  {
+   "src": "assets/images/maritimes/80e3b79c.webp",
+   "thumb": "assets/images/maritimes/thumbs/80e3b79c.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Bubblegum",
+   "alt": "A bush of bright pink azaleas with white rhododendron flowers and green trees behind it."
+  },
+  {
+   "src": "assets/images/maritimes/057ccaba.webp",
+   "thumb": "assets/images/maritimes/thumbs/057ccaba.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Spa Day",
+   "alt": "Two white scalloped bird baths among pink azaleas, white rhododendrons and green shrubs in a garden."
+  },
+  {
+   "src": "assets/images/maritimes/ac55b5cf.webp",
+   "thumb": "assets/images/maritimes/thumbs/ac55b5cf.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Storybook",
+   "alt": "A pond with a small fountain on a rocky islet, a white arched footbridge and lush green planting."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "25% 40%"
+}

@@ -1,0 +1,273 @@
+{
+ "slug": "zion-windows",
+ "title": "Zion Windows",
+ "cardTitle": "Zion Windows",
+ "date": "2019-05",
+ "dateLabel": "May 2019",
+ "location": "Zion National Park, Utah",
+ "country": "United States",
+ "coords": [
+  37.2,
+  -112.9
+ ],
+ "tags": [
+  "national-park",
+  "desert",
+  "hiking",
+  "mountains",
+  "road-trip"
+ ],
+ "sectionTitle": "Through the Arch",
+ "paragraphs": [
+  "I had been to Zion before, and this time I spent my two days on the east side of the park. There the Zion-Mount Carmel Highway climbs out of the canyon in a series of switchbacks, past red stone parapets and a little arched bridge, then disappears straight into the mountain. In early May the trees were a fresh spring green against the red rock, and every pullout offered another cream, pink and vermilion tower against a bright blue sky. Then came the tunnel. Finished in 1930, it has windows cut right through the canyon wall, and each one frames the cliffs like a painting in a gallery. Who puts windows in a tunnel? I'm glad someone did. Stopping inside is not allowed, so you take what you can from the car as the arches roll past.",
+  "Past the tunnel, the canyon walls give way to smooth, striped slickrock that rolls off in every direction, with ponderosa and pinyon pines rooted wherever a crack holds a little soil. I know those stripes by now: sand dunes turned to Navajo Sandstone. I still have trouble believing that I walked across a desert no person ever saw. Up at the viewpoints, narrow gorges cut deep between overhanging ledges, and across the way a giant alcove had been scooped out of a cliff, the Great Arch of Zion, I believe. Even the small things stood out. Down by my feet, a single white daisy was growing out of dry, rocky ground.",
+  "By evening the low sun had turned the slickrock gold and filled the gorges with shadow. Camp that night was a tent hung between the trees and a campfire in a pit of orange sand. The next day the tunnel offered its windows again, and the same cliffs looked different through every one."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/zion-windows/cover.webp",
+ "card": "assets/images/zion-windows/thumbs/90541e4e.webp",
+ "photos": [
+  {
+   "src": "assets/images/zion-windows/c03b88c7.webp",
+   "thumb": "assets/images/zion-windows/thumbs/c03b88c7.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Mount Carmel Highway",
+   "alt": "A road with a double yellow line runs past roadside boulders and green shrubs beneath a red and white sandstone mountain."
+  },
+  {
+   "src": "assets/images/zion-windows/f490841f.webp",
+   "thumb": "assets/images/zion-windows/thumbs/f490841f.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Stone Bridge",
+   "alt": "A curving road along a hillside leads to a stone-walled bridge, with a dark red peak and bright sun above."
+  },
+  {
+   "src": "assets/images/zion-windows/1420d941.webp",
+   "thumb": "assets/images/zion-windows/thumbs/1420d941.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Cream and Vermilion",
+   "alt": "Distant cream and white-capped sandstone towers above a green valley, with a huge red cliff rising on the right."
+  },
+  {
+   "src": "assets/images/zion-windows/573a7e2c.webp",
+   "thumb": "assets/images/zion-windows/thumbs/573a7e2c.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Spring Green",
+   "alt": "Bright green leaves in the foreground, with a sunlit red sandstone peak capped in white rising behind."
+  },
+  {
+   "src": "assets/images/zion-windows/c1d1b355.webp",
+   "thumb": "assets/images/zion-windows/thumbs/c1d1b355.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Gallery",
+   "alt": "Inside the tunnel, a stone-walled sill beneath an arched window that opens onto sunlit red cliffs."
+  },
+  {
+   "src": "assets/images/zion-windows/5b827d68.webp",
+   "thumb": "assets/images/zion-windows/thumbs/5b827d68.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Postcard",
+   "alt": "A rounded tunnel window framing a lone pine and a row of red and cream sandstone cliffs against a blue sky."
+  },
+  {
+   "src": "assets/images/zion-windows/e1816e57.webp",
+   "thumb": "assets/images/zion-windows/thumbs/e1816e57.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Cathedral Window",
+   "alt": "An arched tunnel window framing a tall red sandstone peak with a pale cap, above a stone sill and a concrete road edge."
+  },
+  {
+   "src": "assets/images/zion-windows/9408b640.webp",
+   "thumb": "assets/images/zion-windows/thumbs/9408b640.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Capstone",
+   "alt": "A flat-topped peak with a red cap rock above a slope of pine and juniper under a clear blue sky."
+  },
+  {
+   "src": "assets/images/zion-windows/ae0e7f06.webp",
+   "thumb": "assets/images/zion-windows/thumbs/ae0e7f06.webp",
+   "w": 2048,
+   "h": 659,
+   "tw": 800,
+   "th": 257,
+   "caption": "Slickrock Country",
+   "alt": "Panorama of pale and rust-colored slickrock hills dotted with pine trees under scattered clouds."
+  },
+  {
+   "src": "assets/images/zion-windows/0c7dd0ed.webp",
+   "thumb": "assets/images/zion-windows/thumbs/0c7dd0ed.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Great Arch",
+   "alt": "A huge arch-shaped alcove scooped out of a striped sandstone cliff, with small pines clinging to the slope."
+  },
+  {
+   "src": "assets/images/zion-windows/96420a9b.webp",
+   "thumb": "assets/images/zion-windows/thumbs/96420a9b.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Small Wonder",
+   "alt": "A single white daisy with a yellow center growing from dry rocky soil beside a weathered piece of wood."
+  },
+  {
+   "src": "assets/images/zion-windows/e869fa93.webp",
+   "thumb": "assets/images/zion-windows/thumbs/e869fa93.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Tight Squeeze",
+   "alt": "A narrow sandstone gorge with overhanging ledges, swirled rock slabs and a few small pines under a blue sky."
+  },
+  {
+   "src": "assets/images/zion-windows/53db0af1.webp",
+   "thumb": "assets/images/zion-windows/thumbs/53db0af1.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Sun Catcher",
+   "alt": "Looking up at a twisted pine backlit by the sun, beside red sandstone ledges."
+  },
+  {
+   "src": "assets/images/zion-windows/086e476d.webp",
+   "thumb": "assets/images/zion-windows/thumbs/086e476d.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Frozen Dunes",
+   "alt": "A smooth, swirled sandstone slab beneath an overhanging cliff, with a distant ridge across the gorge."
+  },
+  {
+   "src": "assets/images/zion-windows/0accd0b7.webp",
+   "thumb": "assets/images/zion-windows/thumbs/0accd0b7.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Beehive",
+   "alt": "A rounded dome of layered orange sandstone with a few small pines on top, in a gorge below tall cliff walls."
+  },
+  {
+   "src": "assets/images/zion-windows/56917926.webp",
+   "thumb": "assets/images/zion-windows/thumbs/56917926.webp",
+   "w": 2048,
+   "h": 545,
+   "tw": 800,
+   "th": 213,
+   "caption": "Snag",
+   "alt": "Panorama of a rugged ridge of red and white sandstone, with a gnarled dead tree standing in the foreground."
+  },
+  {
+   "src": "assets/images/zion-windows/cace87fb.webp",
+   "thumb": "assets/images/zion-windows/thumbs/cace87fb.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Freckled",
+   "alt": "A pale sandstone pinnacle dotted with shrubs rising above red slickrock, with pines and desert brush in the foreground."
+  },
+  {
+   "src": "assets/images/zion-windows/a8c7c71b.webp",
+   "thumb": "assets/images/zion-windows/thumbs/a8c7c71b.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Sand Steps",
+   "alt": "Layered sandstone ledges with drifts of pale sand, a tall pine trunk and a pine-covered cliff behind."
+  },
+  {
+   "src": "assets/images/zion-windows/d6c7db4f.webp",
+   "thumb": "assets/images/zion-windows/thumbs/d6c7db4f.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Golden Hour",
+   "alt": "Late golden light on a deep gorge of layered slickrock, framed by a bare gnarled tree at the left."
+  },
+  {
+   "src": "assets/images/zion-windows/9287895f.webp",
+   "thumb": "assets/images/zion-windows/thumbs/9287895f.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Treehouse",
+   "alt": "A tent suspended between trees with orange straps, above a pale rock slab and green shrubs."
+  },
+  {
+   "src": "assets/images/zion-windows/9d2e5324.webp",
+   "thumb": "assets/images/zion-windows/thumbs/9d2e5324.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Hearth",
+   "alt": "A campfire burning in a shallow pit on pale sandy rock at dusk, with dry branches nearby and a tent hanging in the trees behind."
+  },
+  {
+   "src": "assets/images/zion-windows/7a2f0867.webp",
+   "thumb": "assets/images/zion-windows/thumbs/7a2f0867.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Lean-To",
+   "alt": "A bare pine limb with tufts of green needles lies across a pale green and yellow camp shelter in a flashlight beam at night."
+  },
+  {
+   "src": "assets/images/zion-windows/3dbccdd5.webp",
+   "thumb": "assets/images/zion-windows/thumbs/3dbccdd5.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Campfire",
+   "alt": "Bright flames rising from a campfire in a shallow pit of orange sand at night."
+  },
+  {
+   "src": "assets/images/zion-windows/2042169f.webp",
+   "thumb": "assets/images/zion-windows/thumbs/2042169f.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Parting Shot",
+   "alt": "A tunnel window framing a red sandstone cliff with vertical grooves and a pale-capped peak against a deep blue sky."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "5% 30%"
+}

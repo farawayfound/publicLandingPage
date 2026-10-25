@@ -1,0 +1,140 @@
+{
+ "slug": "luxembourg",
+ "title": "Luxembourg, LU",
+ "cardTitle": "Luxembourg, LU",
+ "date": "2019-12",
+ "dateLabel": "December 2019",
+ "location": "Vianden & Luxembourg City, Luxembourg",
+ "country": "Luxembourg",
+ "coords": [
+  49.9,
+  6.2
+ ],
+ "tags": [
+  "abroad",
+  "city"
+ ],
+ "sectionTitle": "Old World Winter",
+ "paragraphs": [
+  "Christmas 2019 began with a sunset just past the wing of a plane. By the next night I was craning my neck at the Römerberg, Frankfurt's old town square, where half-timbered houses glowed russet and cream beside a green copper spire. They look medieval, but most of the old town was destroyed in 1944, so these houses are a rebuild. The slate-and-timber courtyard nearby is newer still, part of a quarter finished in 2018. History with a fresh coat of paint. After the holiday I crossed into Luxembourg, a country so small you can drive from Vianden's castle to the capital in about an hour.",
+  "Everything in Vianden seems built to make you look up. The castle appeared through bare branches: a pale round tower under a pointed slate cap, stepped gables, and a wooded crag holding it all above the Our river. Nearby, a lookout tower had a cliff all to itself. There was no snow, just gray sky and wet stone, which suited a castle. Construction ran from the 11th century to the 14th, and the style changes as you walk through: a round-arched Romanesque arcade in the courtyard, Gothic windows in the great hall, set in walls so thick they come with their own stone seats. The chapel's columns were banded in black and gold beneath warm-lit vaults. I even found a loophole, the real kind! A mossy slit with a view of the valley.",
+  "Luxembourg City sits on sandstone cliffs above the Alzette and Pétrusse valleys, which made it one of Europe's great fortresses, known as the Gibraltar of the North. The 1867 Treaty of London ordered the fortifications torn down, but enough survived to make the old quarter a UNESCO World Heritage Site. The Winterlights Christmas market glowed along the top of the ramparts, with fairy-lit trees and the golden Gëlle Fra (Luxembourgish for Golden Lady) on her obelisk, not far from the dark spires of Notre-Dame. Walls built to keep armies out now hold up a Ferris wheel. I'd call that progress. Then, on the 28th, the sky finally cleared. The sun lit up the slate roofs of the Grund, the old lower town, and from a tall window I could see a stone viaduct stepping across the valley. After all that gray, it felt like a send-off."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/luxembourg/cover.webp",
+ "card": "assets/images/luxembourg/thumbs/84973137.webp",
+ "photos": [
+  {
+   "src": "assets/images/luxembourg/738c4b72.webp",
+   "thumb": "assets/images/luxembourg/thumbs/738c4b72.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Eastbound",
+   "alt": "Airplane wing against an orange sunset sky"
+  },
+  {
+   "src": "assets/images/luxembourg/927892de.webp",
+   "thumb": "assets/images/luxembourg/thumbs/927892de.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "New Old Town",
+   "alt": "Courtyard of rebuilt houses with gray slate walls, wooden galleries and a round slate tower"
+  },
+  {
+   "src": "assets/images/luxembourg/c9398129.webp",
+   "thumb": "assets/images/luxembourg/thumbs/c9398129.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Gingerbread Row",
+   "alt": "Half-timbered gabled houses floodlit at night beside a green copper church spire"
+  },
+  {
+   "src": "assets/images/luxembourg/f05cbe7f.webp",
+   "thumb": "assets/images/luxembourg/thumbs/f05cbe7f.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Two Towers",
+   "alt": "Wooded ridge above Vianden with a pointed lookout tower on a crag and the castle beyond under a gray sky"
+  },
+  {
+   "src": "assets/images/luxembourg/eea2acca.webp",
+   "thumb": "assets/images/luxembourg/thumbs/eea2acca.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Arcade",
+   "alt": "Castle courtyard with a Romanesque arcade, stone walls and a glass pyramid skylight"
+  },
+  {
+   "src": "assets/images/luxembourg/f7f0317f.webp",
+   "thumb": "assets/images/luxembourg/thumbs/f7f0317f.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Black and Gold",
+   "alt": "Chapel interior with black and gold banded columns beneath warm-lit orange vaults"
+  },
+  {
+   "src": "assets/images/luxembourg/72da0764.webp",
+   "thumb": "assets/images/luxembourg/thumbs/72da0764.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Great Hall",
+   "alt": "Great hall with three arched windows and stone window seats looking onto green hills"
+  },
+  {
+   "src": "assets/images/luxembourg/acf15618.webp",
+   "thumb": "assets/images/luxembourg/thumbs/acf15618.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Loophole",
+   "alt": "Mossy stone loophole framing a wooded valley"
+  },
+  {
+   "src": "assets/images/luxembourg/bfd96a5f.webp",
+   "thumb": "assets/images/luxembourg/thumbs/bfd96a5f.webp",
+   "w": 1369,
+   "h": 2048,
+   "tw": 535,
+   "th": 800,
+   "caption": "Notre-Dame",
+   "alt": "Dark spires and a green copper lantern of Notre-Dame cathedral beside bare branches under an overcast sky"
+  },
+  {
+   "src": "assets/images/luxembourg/84973137.webp",
+   "thumb": "assets/images/luxembourg/thumbs/84973137.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Lower Town",
+   "alt": "Slender slate church spire above the sunlit rooftops of the Grund, with sandstone cliffs and the upper city beyond"
+  },
+  {
+   "src": "assets/images/luxembourg/05aff529.webp",
+   "thumb": "assets/images/luxembourg/thumbs/05aff529.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "One Last Look",
+   "alt": "Tall paned window looking out over a wooded valley and an old stone viaduct"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "40% 55%"
+}

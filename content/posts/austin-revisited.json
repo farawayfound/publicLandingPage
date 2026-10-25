@@ -1,0 +1,91 @@
+{
+ "slug": "austin-revisited",
+ "title": "Austin, Revisited",
+ "cardTitle": "Austin, Revisited",
+ "date": "2019-06",
+ "dateLabel": "June 2019",
+ "location": "Austin and Enchanted Rock, Texas",
+ "country": "United States",
+ "coords": [
+  30.3,
+  -97.8
+ ],
+ "tags": [
+  "city",
+  "state-park",
+  "hiking"
+ ],
+ "sectionTitle": "Visiting Hours",
+ "paragraphs": [
+  "I once wrote that I would be back in Austin as a visitor, not a resident. In June 2019, I was. One evening of that visit took me to Enchanted Rock, about two hours west of the city, where a bald dome of pink granite rises roughly 425 feet out of the Hill Country. The granite is about a billion years old, and after dark the dome creaks and groans as the stone cools from the day's heat. The Tonkawa believed ghost fires flickered on top. Little wonder it's called Enchanted Rock. In summer, go late. There is hardly any shade up there, and the bare rock soaks up the sun all day.",
+  "I climbed up in the low evening light. The Hill Country rolled out below to a hazy horizon, with a few more granite outcrops poking up through the trees. Anywhere a crack or hollow had caught a little soil, something was growing: wildflowers, prickly pear, a glowing yellow-green carpet. As the sky faded from soft blue to cream, a pale dove stood beside a pink boulder like it paid rent.",
+  "Later that night I was on the south shore of Lady Bird Lake, looking across at downtown. Low clouds hung over the towers, lit from below by the city, and the lights stretched toward me over the dark water in long, shivering lines. Isn't it strange how a place that was home for four years can look like a postcard once you're only visiting?"
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/austin-revisited/cover.webp",
+ "card": "assets/images/austin-revisited/thumbs/f5548672.webp",
+ "photos": [
+  {
+   "src": "assets/images/austin-revisited/561d2233.webp",
+   "thumb": "assets/images/austin-revisited/thumbs/561d2233.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Hill Country",
+   "alt": "View from the granite dome over wooded Hill Country, with distant rocky outcrops and scattered clouds."
+  },
+  {
+   "src": "assets/images/austin-revisited/36b3fe92.webp",
+   "thumb": "assets/images/austin-revisited/thumbs/36b3fe92.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Rock Garden",
+   "alt": "Backlit wildflowers and tall grass growing in a hollow on bare granite under a hazy sky."
+  },
+  {
+   "src": "assets/images/austin-revisited/c577222e.webp",
+   "thumb": "assets/images/austin-revisited/thumbs/c577222e.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Prickly Pear",
+   "alt": "Prickly pear cactus and yellow wildflowers above a glowing yellow-green carpet in low sun."
+  },
+  {
+   "src": "assets/images/austin-revisited/0306e4ef.webp",
+   "thumb": "assets/images/austin-revisited/thumbs/0306e4ef.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Granite Pate",
+   "alt": "Bare granite dome with a crest of scrub under a pale blue sky that glows cream at the horizon."
+  },
+  {
+   "src": "assets/images/austin-revisited/643207c7.webp",
+   "thumb": "assets/images/austin-revisited/thumbs/643207c7.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Rock Dove",
+   "alt": "A pale dove standing beside a pink granite boulder on dark granite."
+  },
+  {
+   "src": "assets/images/austin-revisited/f5548672.webp",
+   "thumb": "assets/images/austin-revisited/thumbs/f5548672.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Lady Bird Lake",
+   "alt": "Austin skyline lit up at night across Lady Bird Lake, with low glowing clouds and reflections on the water."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 100%"
+}

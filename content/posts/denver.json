@@ -1,0 +1,216 @@
+{
+ "slug": "denver",
+ "title": "Denver, CO",
+ "cardTitle": "Denver, CO",
+ "date": "2016-10",
+ "dateLabel": "October 2016",
+ "location": "Denver, Colorado",
+ "country": "United States",
+ "coords": [
+  39.7,
+  -105.0
+ ],
+ "tags": [
+  "city"
+ ],
+ "sectionTitle": "Mile High City",
+ "paragraphs": [
+  "I knew I loved Colorado before the plane even touched down. From the little porthole I gazed upon the mountains stretching out as far as the horizon west of the city. Denver was to be my home for the next few months, and it was over all too fast.",
+  "I wandered around downtown seeking the best shots and found more than what I was looking for. The friendly locals, progressive culture, and dispensaries were a few of the highlights. Its plentiful State Parks and trails deserve a gallery of their own. Until I find my home in the Pacific Northwest, I will think of Denver as home."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/denver/cover.jpg",
+ "card": "assets/images/denver/thumbs/wallpaper_valleyclimb-39.jpg",
+ "photos": [
+  {
+   "src": "assets/images/denver/Enlight25.jpg",
+   "thumb": "assets/images/denver/thumbs/Enlight25.jpg",
+   "w": 1200,
+   "h": 1600,
+   "tw": 600,
+   "th": 392,
+   "caption": "look up"
+  },
+  {
+   "src": "assets/images/denver/DSC05440.jpg",
+   "thumb": "assets/images/denver/thumbs/DSC05440.jpg",
+   "w": 3323,
+   "h": 3323,
+   "tw": 600,
+   "th": 392,
+   "caption": "davita"
+  },
+  {
+   "src": "assets/images/denver/DSC_0206.jpg",
+   "thumb": "assets/images/denver/thumbs/DSC_0206.jpg",
+   "w": 1500,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "rush hour"
+  },
+  {
+   "src": "assets/images/denver/wallpaper_valleyclimb-40.jpg",
+   "thumb": "assets/images/denver/thumbs/wallpaper_valleyclimb-40.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Union Station Face"
+  },
+  {
+   "src": "assets/images/denver/wallpaper_valleyclimb-39.jpg",
+   "thumb": "assets/images/denver/thumbs/wallpaper_valleyclimb-39.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "city bloodline"
+  },
+  {
+   "src": "assets/images/denver/DSC_7685.jpg",
+   "thumb": "assets/images/denver/thumbs/DSC_7685.jpg",
+   "w": 1200,
+   "h": 1680,
+   "tw": 600,
+   "th": 392,
+   "caption": "New Beginnings"
+  },
+  {
+   "src": "assets/images/denver/DSC_7675.jpg",
+   "thumb": "assets/images/denver/thumbs/DSC_7675.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "traincar"
+  },
+  {
+   "src": "assets/images/denver/wallpaper_valleyclimb-33.jpg",
+   "thumb": "assets/images/denver/thumbs/wallpaper_valleyclimb-33.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "bloom"
+  },
+  {
+   "src": "assets/images/denver/wallpaper_valleyclimb-22.jpg",
+   "thumb": "assets/images/denver/thumbs/wallpaper_valleyclimb-22.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Damn good tacos"
+  },
+  {
+   "src": "assets/images/denver/DSC_7617.jpg",
+   "thumb": "assets/images/denver/thumbs/DSC_7617.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "The Source"
+  },
+  {
+   "src": "assets/images/denver/wallpaper_valleyclimb-19.jpg",
+   "thumb": "assets/images/denver/thumbs/wallpaper_valleyclimb-19.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "glass house"
+  },
+  {
+   "src": "assets/images/denver/wallpaper_valleyclimb-18.jpg",
+   "thumb": "assets/images/denver/thumbs/wallpaper_valleyclimb-18.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "treasury"
+  },
+  {
+   "src": "assets/images/denver/wallpaper_valleyclimb-14.jpg",
+   "thumb": "assets/images/denver/thumbs/wallpaper_valleyclimb-14.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Alley"
+  },
+  {
+   "src": "assets/images/denver/wallpaper_valleyclimb-13.jpg",
+   "thumb": "assets/images/denver/thumbs/wallpaper_valleyclimb-13.jpg",
+   "w": 1553,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "high on the job"
+  },
+  {
+   "src": "assets/images/denver/wallpaper_valleyclimb-11.jpg",
+   "thumb": "assets/images/denver/thumbs/wallpaper_valleyclimb-11.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Salute"
+  },
+  {
+   "src": "assets/images/denver/wallpaper_valleyclimb-10.jpg",
+   "thumb": "assets/images/denver/thumbs/wallpaper_valleyclimb-10.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Lost and Found"
+  },
+  {
+   "src": "assets/images/denver/wallpaper_valleyclimb-9.jpg",
+   "thumb": "assets/images/denver/thumbs/wallpaper_valleyclimb-9.jpg",
+   "w": 1500,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Pass Through"
+  },
+  {
+   "src": "assets/images/denver/wallpaper_valleyclimb-4.jpg",
+   "thumb": "assets/images/denver/thumbs/wallpaper_valleyclimb-4.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Capitol Trail"
+  },
+  {
+   "src": "assets/images/denver/Untitled2.jpg",
+   "thumb": "assets/images/denver/thumbs/Untitled2.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "overlook"
+  },
+  {
+   "src": "assets/images/denver/Unionstation1.jpg",
+   "thumb": "assets/images/denver/thumbs/Unionstation1.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "sunrise over tracks"
+  },
+  {
+   "src": "assets/images/denver/DSC_0173.jpg",
+   "thumb": "assets/images/denver/thumbs/DSC_0173.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "good morning"
+  }
+ ],
+ "legacy": true
+}

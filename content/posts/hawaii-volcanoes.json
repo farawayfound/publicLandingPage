@@ -1,0 +1,202 @@
+{
+ "slug": "hawaii-volcanoes",
+ "title": "Hawaii Volcanoes NP",
+ "cardTitle": "Hawaii Volcanoes NP",
+ "date": "2021-10",
+ "dateLabel": "October 2021",
+ "location": "Hawaii Volcanoes National Park, Hawaii",
+ "country": "United States",
+ "coords": [
+  19.4,
+  -155.3
+ ],
+ "tags": [
+  "coast",
+  "national-park",
+  "road-trip"
+ ],
+ "sectionTitle": "Unfinished Earth",
+ "paragraphs": [
+  "The Big Island is still under construction. I got my first hint from the plane window, where a volcanic summit poked through the cloud deck and the coast below was black lava fields with one bright white-sand cove at the edge. My first full day took me to Puuhonua o Honaunau on the Kona coast, the old place of refuge, where black shelves of lava run straight into the sea and a still pond mirrors a row of coconut palms. Even the bare-looking rock at the water's edge had a green mat of plants clinging to it. Life moves in fast.",
+  "Further south, the Kau coast shows you how the island gets built. Black lava cools into shelves that crack into jigsaw pieces, and the Pacific spends all day taking the puzzle apart. The waves came in turquoise and gray-green and went off like cannons against the rock, leaving spray hanging in the air. Palms fringe the shore, and one lucky picnic table had a front-row seat to all of it.",
+  "Then the summit. Kilauea is one of the most active volcanoes in the world, and from the rim you look across a caldera so wide and flat that the plume rising from Halemaumau, the crater inside it, seems small. It isn't! In 2018 the summit collapsed and the floor of Halemaumau sank some 1,600 feet, and a new lava lake had started filling it again only days before I arrived. Over at Kilauea Iki, a gray crater floor lies below a rust-red cinder cone. In 1959 that floor was a lake of molten lava, and fountains up to 1,900 feet high built the cone. After dark, the sky above the crater glowed a deep orange.",
+  "Chain of Craters Road runs from the summit down to the sea, curving along the flank of the volcano toward a blue haze. The only traffic jam I hit was a pair of nene, Hawaii's state bird, strolling across the double yellow line and taking their time. Hunting and introduced predators had cut them down to about thirty birds by the 1950s, so I figure they've earned the right of way. Below the road, a black lava plain rolls out to the sea under puffy white clouds. Ground that is still being made does odd things to your sense of time. The map will probably be wrong again by my next visit."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/hawaii-volcanoes/cover.webp",
+ "card": "assets/images/hawaii-volcanoes/cover.webp",
+ "photos": [
+  {
+   "src": "assets/images/hawaii-volcanoes/992fc474.webp",
+   "thumb": "assets/images/hawaii-volcanoes/thumbs/992fc474.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Cloud Deck",
+   "alt": "A dark volcanic summit rising through a bank of clouds over the ocean, seen from the air"
+  },
+  {
+   "src": "assets/images/hawaii-volcanoes/4219d716.webp",
+   "thumb": "assets/images/hawaii-volcanoes/thumbs/4219d716.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Pocket Beach",
+   "alt": "Aerial view of a small white-sand cove with turquoise water along a coast of black lava fields"
+  },
+  {
+   "src": "assets/images/hawaii-volcanoes/87ec86da.webp",
+   "thumb": "assets/images/hawaii-volcanoes/thumbs/87ec86da.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Jigsaw",
+   "alt": "A black lava shelf broken into cracked plates running out to the sea"
+  },
+  {
+   "src": "assets/images/hawaii-volcanoes/cb801aa0.webp",
+   "thumb": "assets/images/hawaii-volcanoes/thumbs/cb801aa0.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Foothold",
+   "alt": "A green mat of plants growing on cracked black lava beside the sea"
+  },
+  {
+   "src": "assets/images/hawaii-volcanoes/51687d63.webp",
+   "thumb": "assets/images/hawaii-volcanoes/thumbs/51687d63.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Lava Pond",
+   "alt": "A still, clear pond between black lava rocks, with a row of coconut palms along the far shore under a gray sky"
+  },
+  {
+   "src": "assets/images/hawaii-volcanoes/ef6f7ea2.webp",
+   "thumb": "assets/images/hawaii-volcanoes/thumbs/ef6f7ea2.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Island's Edge",
+   "alt": "Turquoise waves breaking over black lava rocks edged with yellow-green algae under a pale cloudy sky"
+  },
+  {
+   "src": "assets/images/hawaii-volcanoes/ff931f78.webp",
+   "thumb": "assets/images/hawaii-volcanoes/thumbs/ff931f78.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Splash Zone",
+   "alt": "A wave bursting into spray against black lava rock under a blue sky"
+  },
+  {
+   "src": "assets/images/hawaii-volcanoes/1e886f99.webp",
+   "thumb": "assets/images/hawaii-volcanoes/thumbs/1e886f99.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Ribbon Falls",
+   "alt": "Water streaming down a dark lava cliff in soft white ribbons"
+  },
+  {
+   "src": "assets/images/hawaii-volcanoes/637f3842.webp",
+   "thumb": "assets/images/hawaii-volcanoes/thumbs/637f3842.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Reserved Seating",
+   "alt": "A green wooden picnic table beside a low green shrub on black sand, with surf and lava points beyond"
+  },
+  {
+   "src": "assets/images/hawaii-volcanoes/a35bcdca.webp",
+   "thumb": "assets/images/hawaii-volcanoes/thumbs/a35bcdca.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Halemaumau",
+   "alt": "A wide view across the flat floor of Kilauea's caldera to a plume of steam rising from Halemaumau, framed by green leaves under a blue sky, with the long slope of Mauna Loa on the horizon"
+  },
+  {
+   "src": "assets/images/hawaii-volcanoes/37320547.webp",
+   "thumb": "assets/images/hawaii-volcanoes/thumbs/37320547.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Smoke Signal",
+   "alt": "A plume of steam rising from the floor of a large volcanic crater beneath towering clouds, seen through leafy branches"
+  },
+  {
+   "src": "assets/images/hawaii-volcanoes/fa26b6c1.webp",
+   "thumb": "assets/images/hawaii-volcanoes/thumbs/fa26b6c1.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Exhale",
+   "alt": "White steam rising from a vent at the base of the layered walls of a volcanic crater"
+  },
+  {
+   "src": "assets/images/hawaii-volcanoes/02325b83.webp",
+   "thumb": "assets/images/hawaii-volcanoes/thumbs/02325b83.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Kilauea Iki",
+   "alt": "The flat gray floor of Kilauea Iki crater below a green rim and a rust-red cinder cone, under a bright blue sky with large clouds"
+  },
+  {
+   "src": "assets/images/hawaii-volcanoes/b9361b63.webp",
+   "thumb": "assets/images/hawaii-volcanoes/thumbs/b9361b63.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Nightlight",
+   "alt": "A deep orange glow from a lava lake lighting the night sky above dark silhouetted trees"
+  },
+  {
+   "src": "assets/images/hawaii-volcanoes/29b335a6.webp",
+   "thumb": "assets/images/hawaii-volcanoes/thumbs/29b335a6.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Seaward",
+   "alt": "A road with a double yellow line curving down a green slope toward a hazy blue coastline"
+  },
+  {
+   "src": "assets/images/hawaii-volcanoes/135a028a.webp",
+   "thumb": "assets/images/hawaii-volcanoes/thumbs/135a028a.webp",
+   "w": 1616,
+   "h": 1080,
+   "tw": 800,
+   "th": 535,
+   "caption": "Jaywalkers",
+   "alt": "Two nene geese walking across a paved road and its double yellow line, with a lava hill behind"
+  },
+  {
+   "src": "assets/images/hawaii-volcanoes/e81b6d3b.webp",
+   "thumb": "assets/images/hawaii-volcanoes/thumbs/e81b6d3b.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "New Land",
+   "alt": "A black lava plain stretching to the ocean beneath blue sky and white cumulus clouds"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "75% 62%"
+}

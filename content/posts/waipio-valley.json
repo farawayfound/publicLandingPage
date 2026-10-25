@@ -1,0 +1,190 @@
+{
+ "slug": "waipio-valley",
+ "title": "Waipio Valley, HI",
+ "cardTitle": "Waipio Valley, HI",
+ "date": "2021-10",
+ "dateLabel": "October 2021",
+ "location": "Waipio Valley, Hawaii",
+ "country": "United States",
+ "coords": [
+  20.1,
+  -155.6
+ ],
+ "tags": [
+  "coast",
+  "road-trip"
+ ],
+ "sectionTitle": "Valley of Kings",
+ "paragraphs": [
+  "Highway 240 on the Big Island's Hamakua Coast ends at a lookout, and just past it the land falls nearly a thousand feet to the sea. That is Waipio Valley. It's about a mile wide at the shore and runs six miles back into the mountains, with emerald walls that plunge straight down to a black sand beach. At that height the surf was only a pale seam along the base of the cliffs. Waipio was home to Hawaiian royalty for centuries, which earned it the name Valley of the Kings, and after one look at the size of it I understood why. None of my pictures from the lookout hold the scale.",
+  "The road down to the valley floor is so steep that, when I visited, only four-wheel-drive vehicles were allowed on it. Plan the way back up before you go down. At the bottom, a river spread across the black sand to meet the sea, thin waterfalls streaked the walls, and palms and tall trees lined the shore. Then the weather turned. Clouds stacked up over the ridge until the whole valley went the gray of wet slate, and the surf, already big, hammered the foot of the cliffs until the air turned to mist. I kept shooting for a long while. A faint rainbow even showed up over the water for a moment, as if the sky had second thoughts!",
+  "A bleached log lay stranded in the river, and under the trees a couple of horses grazed in the ferns and paid the surf no attention. Kings came and went here, but the cliffs outlasted every one of them. Waipio is what a lava island looks like after water has had a very long time to work on it, and I only got an afternoon. On the drive afterward, a red-flecked cinder cone sat in a dry pasture, the other half of the story."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/waipio-valley/cover.webp",
+ "card": "assets/images/waipio-valley/thumbs/0aa1869a.webp",
+ "photos": [
+  {
+   "src": "assets/images/waipio-valley/4ea58133.webp",
+   "thumb": "assets/images/waipio-valley/thumbs/4ea58133.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "First Look",
+   "alt": "View from a grassy lookout over a tall green sea cliff and the blue Pacific, with a lone tree at the right."
+  },
+  {
+   "src": "assets/images/waipio-valley/0aa1869a.webp",
+   "thumb": "assets/images/waipio-valley/thumbs/0aa1869a.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Through the Leaves",
+   "alt": "A leafy branch frames a tall sea cliff dropping into deep blue water with a thin line of surf."
+  },
+  {
+   "src": "assets/images/waipio-valley/868f1408.webp",
+   "thumb": "assets/images/waipio-valley/thumbs/868f1408.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Cliff Notes",
+   "alt": "Layered dark green sea cliffs plunging into a wide blue ocean and fading into haze."
+  },
+  {
+   "src": "assets/images/waipio-valley/bb3ce024.webp",
+   "thumb": "assets/images/waipio-valley/thumbs/bb3ce024.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Curving Shore",
+   "alt": "Looking down on a curving beach with white surf below a steep green cliff and deep blue water."
+  },
+  {
+   "src": "assets/images/waipio-valley/d6a0fc6a.webp",
+   "thumb": "assets/images/waipio-valley/thumbs/d6a0fc6a.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "River Meets Sea",
+   "alt": "A shallow stream crossing dark sand toward the surf below a huge green cliff and a cloudy sky."
+  },
+  {
+   "src": "assets/images/waipio-valley/8185e655.webp",
+   "thumb": "assets/images/waipio-valley/thumbs/8185e655.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Basalt Beach",
+   "alt": "Surf breaking on a beach of black boulders below a tall sea cliff and clouds."
+  },
+  {
+   "src": "assets/images/waipio-valley/47a1748a.webp",
+   "thumb": "assets/images/waipio-valley/thumbs/47a1748a.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Storm Wall",
+   "alt": "A massive dark sea cliff above breaking waves under heavy clouds."
+  },
+  {
+   "src": "assets/images/waipio-valley/5c21e6b8.webp",
+   "thumb": "assets/images/waipio-valley/thumbs/5c21e6b8.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Incoming",
+   "alt": "A large wave breaking in front of a dark headland under storm clouds."
+  },
+  {
+   "src": "assets/images/waipio-valley/2e5afe65.webp",
+   "thumb": "assets/images/waipio-valley/thumbs/2e5afe65.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Ribbons",
+   "alt": "Thin waterfalls streaking a green cliff behind churning surf."
+  },
+  {
+   "src": "assets/images/waipio-valley/0c3f97c3.webp",
+   "thumb": "assets/images/waipio-valley/thumbs/0c3f97c3.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Over the Rainbow",
+   "alt": "A faint rainbow above breaking waves and a forested headland under a gray sky."
+  },
+  {
+   "src": "assets/images/waipio-valley/fa6d2e5d.webp",
+   "thumb": "assets/images/waipio-valley/thumbs/fa6d2e5d.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Sea Mist",
+   "alt": "Mist over a dark sand beach below a green cliff, with a driftwood log in the shallows."
+  },
+  {
+   "src": "assets/images/waipio-valley/5bfa8ed1.webp",
+   "thumb": "assets/images/waipio-valley/thumbs/5bfa8ed1.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Washed Up",
+   "alt": "A bleached driftwood log in a shallow river with misty green hills behind."
+  },
+  {
+   "src": "assets/images/waipio-valley/3e3cc0a8.webp",
+   "thumb": "assets/images/waipio-valley/thumbs/3e3cc0a8.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Up Valley",
+   "alt": "Palm trees and cloud-wrapped mountain walls rising above a river in the valley."
+  },
+  {
+   "src": "assets/images/waipio-valley/10db0ed3.webp",
+   "thumb": "assets/images/waipio-valley/thumbs/10db0ed3.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "The Locals",
+   "alt": "Two brown horses grazing among ferns on a forested slope."
+  },
+  {
+   "src": "assets/images/waipio-valley/5eabfb84.webp",
+   "thumb": "assets/images/waipio-valley/thumbs/5eabfb84.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Looking Back",
+   "alt": "Green sea cliff and ocean beneath dark clouds, seen past a leafy branch."
+  },
+  {
+   "src": "assets/images/waipio-valley/4187bc5c.webp",
+   "thumb": "assets/images/waipio-valley/thumbs/4187bc5c.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Cinder Cone",
+   "alt": "A red-flecked cinder cone rising from a dry pasture beneath a bank of clouds."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 40%"
+}

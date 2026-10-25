@@ -1,2 +1,6 @@
 docs/deploy-private.md
 *.local.md
+
+# test suite dependencies (npm install inside tests/)
+node_modules/
+tests/node_modules/

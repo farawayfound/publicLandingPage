@@ -1,0 +1,244 @@
+{
+ "slug": "sky-islands",
+ "title": "Sky Islands",
+ "cardTitle": "Sky Islands",
+ "date": "2018-05",
+ "dateLabel": "May 2018 – December 2019",
+ "location": "Spring Mountains, Nevada",
+ "country": "United States",
+ "coords": [
+  36.3,
+  -115.7
+ ],
+ "tags": [
+  "mountains",
+  "hiking",
+  "backpacking",
+  "desert",
+  "forest",
+  "snow"
+ ],
+ "sectionTitle": "Above the Heat",
+ "paragraphs": [
+  "Summers in Las Vegas are brutal, so when I was stationed there I learned to head for the hills. About an hour from the Strip, the Spring Mountains climb to nearly 12,000 feet. Ecologists call ranges like this sky islands: forested peaks stranded in a sea of desert, cool enough up high to grow pines and aspens that could never survive below. They are so isolated that some of their plants and butterflies exist nowhere else on earth. One night in May I strung my hammock between two pines at the edge of a steep drop-off and watched a dark storm cell drag its rain across the hazy valley far below. Snow still streaked the gullies of the high peak. Around camp, the ridges were full of silver snags, as if an old fire had swept through, with fresh green already pushing up between them.",
+  "In September I came back for the summit of Charleston Peak, 11,916 feet and the highest point in the range. The sky was a deep, dry blue, and the American and Nevada flags on the summit mast were snapping straight out in the wind, so pack layers if you go. Below, the Mojave stretched to a pale dry lakebed on the far side of the basin. It was a little funny to stand on a bare gray summit and watch the desert I had been hiding from all summer spread out to the horizon. On the way down, the aspens were just starting to turn, patches of gold between bone-white snags, and in the dim light a deer was browsing the rabbitbrush beside the trail.",
+  "Then, in December 2019, a winter storm turned the same range white. Yes, it snows near Las Vegas! Cliffs dissolved into the clouds and snow sifted down through the pines. The dog dove into every drift in reach. Beside the trail, someone had stacked fallen branches into a lean-to, and the dog sat in front of it like a guard. Same range, three seasons, all a day trip from the city. The valley can keep its summers. I'll take the island."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/sky-islands/cover.webp",
+ "card": "assets/images/sky-islands/thumbs/26b0828a.webp",
+ "photos": [
+  {
+   "src": "assets/images/sky-islands/c09886cd.webp",
+   "thumb": "assets/images/sky-islands/thumbs/c09886cd.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Snow in May",
+   "alt": "Snow-streaked mountain peak under scattered clouds, framed by pine branches in the foreground."
+  },
+  {
+   "src": "assets/images/sky-islands/aaac3a06.webp",
+   "thumb": "assets/images/sky-islands/thumbs/aaac3a06.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Crow's Nest",
+   "alt": "A blue and violet hammock with a white rainfly strung among pines on a steep slope above a hazy valley, with a dark storm cloud on the horizon."
+  },
+  {
+   "src": "assets/images/sky-islands/447ffe68.webp",
+   "thumb": "assets/images/sky-islands/thumbs/447ffe68.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Penthouse",
+   "alt": "Close view of a violet and teal hammock under a silver-white rainfly between two pine trunks, with a wide desert valley behind."
+  },
+  {
+   "src": "assets/images/sky-islands/9b28359d.webp",
+   "thumb": "assets/images/sky-islands/thumbs/9b28359d.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Mojave Haze",
+   "alt": "Hazy blue ridgelines and a wide desert valley seen through pine branches."
+  },
+  {
+   "src": "assets/images/sky-islands/39c9facf.webp",
+   "thumb": "assets/images/sky-islands/thumbs/39c9facf.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Driftwood",
+   "alt": "Twisted, silver-gray roots of a dead tree stump beside pine trunks on the forest floor."
+  },
+  {
+   "src": "assets/images/sky-islands/30596877.webp",
+   "thumb": "assets/images/sky-islands/thumbs/30596877.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Skylight",
+   "alt": "A rocky ridge crest dotted with gray standing dead trees and a small natural window in the rock."
+  },
+  {
+   "src": "assets/images/sky-islands/fe49b614.webp",
+   "thumb": "assets/images/sky-islands/thumbs/fe49b614.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Heartwood",
+   "alt": "A weathered stump with orange heartwood wedged against gray limestone boulders."
+  },
+  {
+   "src": "assets/images/sky-islands/423d4c2d.webp",
+   "thumb": "assets/images/sky-islands/thumbs/423d4c2d.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Sentinel",
+   "alt": "A weathered gray dead tree in the foreground above a broad, grayish-green valley floor."
+  },
+  {
+   "src": "assets/images/sky-islands/26b0828a.webp",
+   "thumb": "assets/images/sky-islands/thumbs/26b0828a.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Twin Peaks",
+   "alt": "Twin limestone summits rising against a deep blue sky, with a pine tree in the foreground."
+  },
+  {
+   "src": "assets/images/sky-islands/8fbb76ab.webp",
+   "thumb": "assets/images/sky-islands/thumbs/8fbb76ab.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Canyon Shadows",
+   "alt": "A deep, shadowed canyon lined with dark conifers, with hazy ridgelines in the distance."
+  },
+  {
+   "src": "assets/images/sky-islands/6c9af2f6.webp",
+   "thumb": "assets/images/sky-islands/thumbs/6c9af2f6.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Gold Rush",
+   "alt": "Bone-white dead trees in front of a mountainside streaked with golden aspens under a deep blue sky."
+  },
+  {
+   "src": "assets/images/sky-islands/a99da17c.webp",
+   "thumb": "assets/images/sky-islands/thumbs/a99da17c.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Flying Colors",
+   "alt": "American and Nevada flags streaming from a metal mast on a bare summit, with a hazy desert basin far below."
+  },
+  {
+   "src": "assets/images/sky-islands/0ce533b4.webp",
+   "thumb": "assets/images/sky-islands/thumbs/0ce533b4.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Big Sky",
+   "alt": "A wide view from a gravelly ridge across rugged mountains toward the desert, under a deep blue sky."
+  },
+  {
+   "src": "assets/images/sky-islands/6b43acb5.webp",
+   "thumb": "assets/images/sky-islands/thumbs/6b43acb5.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Dry Sea",
+   "alt": "A hazy desert basin with a pale dry lakebed and distant mountain ranges, seen from high above."
+  },
+  {
+   "src": "assets/images/sky-islands/613ee20f.webp",
+   "thumb": "assets/images/sky-islands/thumbs/613ee20f.webp",
+   "w": 1369,
+   "h": 2048,
+   "tw": 535,
+   "th": 800,
+   "caption": "Aspen Alley",
+   "alt": "A dirt trail winding through turning aspens and bone-white snags beneath a pale limestone cliff."
+  },
+  {
+   "src": "assets/images/sky-islands/f7bea025.webp",
+   "thumb": "assets/images/sky-islands/thumbs/f7bea025.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Neighbor",
+   "alt": "A deer browsing among yellow-flowering rabbitbrush beside a pine trunk in dim light."
+  },
+  {
+   "src": "assets/images/sky-islands/4481b832.webp",
+   "thumb": "assets/images/sky-islands/thumbs/4481b832.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Veiled",
+   "alt": "A snow-dusted peak half hidden in fog above yellow-brown scrub oak."
+  },
+  {
+   "src": "assets/images/sky-islands/748468ef.webp",
+   "thumb": "assets/images/sky-islands/thumbs/748468ef.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Vanishing Point",
+   "alt": "A gray cliff face dissolving into falling snow, with snow-laden pines at the bottom."
+  },
+  {
+   "src": "assets/images/sky-islands/a3149305.webp",
+   "thumb": "assets/images/sky-islands/thumbs/a3149305.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Powdered Sugar",
+   "alt": "Snow-covered evergreens in front of a pale cliff fading into the storm."
+  },
+  {
+   "src": "assets/images/sky-islands/ea8846e2.webp",
+   "thumb": "assets/images/sky-islands/thumbs/ea8846e2.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Watchdog",
+   "alt": "A dog sitting in fresh snow in front of a lean-to made of stacked branches."
+  },
+  {
+   "src": "assets/images/sky-islands/b9d06131.webp",
+   "thumb": "assets/images/sky-islands/thumbs/b9d06131.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Powder Hound",
+   "alt": "A dog bounding toward the camera along a snowy trail."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 45%"
+}

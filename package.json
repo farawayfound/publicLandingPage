@@ -1,0 +1,12 @@
+{
+  "name": "farawayfound",
+  "private": true,
+  "description": "FarawayFound static site: content/*.json + templates/ -> Public_html/ (no runtime dependencies).",
+  "scripts": {
+    "build": "node scripts/build-site.js",
+    "check": "node scripts/build-site.js --check",
+    "serve": "node tests/serve.js --port 8765",
+    "test": "cd tests && node run-all.js"
+  },
+  "engines": { "node": ">=18" }
+}

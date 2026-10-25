@@ -1,0 +1,132 @@
+{
+ "slug": "webster-pass",
+ "title": "Webster Pass",
+ "cardTitle": "Webster Pass",
+ "date": "2025-07",
+ "dateLabel": "July 2025",
+ "location": "Webster Pass, Colorado",
+ "country": "United States",
+ "coords": [
+  39.6,
+  -105.8
+ ],
+ "tags": [
+  "aerial",
+  "lakes",
+  "mountains",
+  "snow"
+ ],
+ "sectionTitle": "Iron Basin",
+ "paragraphs": [
+  "Mountains can rust. I learned that over the Fourth of July weekend, camped in the high basins east of Montezuma, an old mining town just up the valley from Keystone. A rough 4x4 road climbs toward Webster Pass (leave the sedan at home), and up there the slopes turn red, orange and ocher. The color is iron: rain and snowmelt slowly rust the rock, and the stain runs downhill until it meets water. Near camp sat a tarn, a small mountain lake whose water was clear and green-turquoise, with shallows that glowed orange along the edge. I assume that's more of the same iron.",
+  "The drone showed me the rest, and every photo below is a still pulled from its video. From the air the road zigzagged across a rust-brown mountainside beneath a snow-streaked peak. Snow still clung to the shaded faces, and one long white tongue of it ran down a green ridge, in July! A stream spilled down terraces of maroon rock, ringed by spruce. Off to one side, a storm cloud dragged rain across the far ranges in long gray streaks, and on the horizon a flat silver glint might have been Dillon Reservoir. I flew until the light went low and warm.",
+  "After dark the sky over the tarn filled with sharp stars. The road is a pencil line, the tarn a green coin, and the iron has been rusting these slopes for far longer than anyone has driven up them. The snow will probably wander off down the Snake River past Keystone and into the reservoir. The red isn't going anywhere."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/webster-pass/cover.webp",
+ "card": "assets/images/webster-pass/thumbs/86e687cc-8240.webp",
+ "photos": [
+  {
+   "src": "assets/images/webster-pass/299d66d9-5632.webp",
+   "thumb": "assets/images/webster-pass/thumbs/299d66d9-5632.webp",
+   "w": 2048,
+   "h": 1152,
+   "tw": 800,
+   "th": 450,
+   "caption": "Hairpins",
+   "alt": "A 4x4 road switchbacking across a rust-brown mountainside with snow patches, under a distant snow-streaked peak and cumulus clouds"
+  },
+  {
+   "src": "assets/images/webster-pass/9afc2bbf-6510.webp",
+   "thumb": "assets/images/webster-pass/thumbs/9afc2bbf-6510.webp",
+   "w": 2048,
+   "h": 1152,
+   "tw": 800,
+   "th": 450,
+   "caption": "High Meadow",
+   "alt": "Green alpine meadow and spruce forest below a steep slope with snow patches and red scree, lit by low evening sun"
+  },
+  {
+   "src": "assets/images/webster-pass/86e687cc-12387.webp",
+   "thumb": "assets/images/webster-pass/thumbs/86e687cc-12387.webp",
+   "w": 2048,
+   "h": 1152,
+   "tw": 800,
+   "th": 450,
+   "caption": "The Tarn",
+   "alt": "Spruce trees on the shore of a green alpine tarn beneath a rust-red slope dotted with snow"
+  },
+  {
+   "src": "assets/images/webster-pass/f3668291-9176.webp",
+   "thumb": "assets/images/webster-pass/thumbs/f3668291-9176.webp",
+   "w": 2048,
+   "h": 1152,
+   "tw": 800,
+   "th": 450,
+   "caption": "Orange Shallows",
+   "alt": "Top-down view of clear green-turquoise tarn water with an orange iron-stained shoreline and spruce branches along the bottom edge"
+  },
+  {
+   "src": "assets/images/webster-pass/29588f35-21069.webp",
+   "thumb": "assets/images/webster-pass/thumbs/29588f35-21069.webp",
+   "w": 2048,
+   "h": 1152,
+   "tw": 800,
+   "th": 450,
+   "caption": "Rust Terraces",
+   "alt": "A maroon and rust-colored terraced rock shelf with water running across it, ringed by spruce forest under a blue sky"
+  },
+  {
+   "src": "assets/images/webster-pass/ed1a29d8-2326.webp",
+   "thumb": "assets/images/webster-pass/thumbs/ed1a29d8-2326.webp",
+   "w": 2048,
+   "h": 1152,
+   "tw": 800,
+   "th": 450,
+   "caption": "Winter Leftovers",
+   "alt": "A brown and green ridge streaked with long snow patches in July, with layered mountain ranges fading into haze behind it"
+  },
+  {
+   "src": "assets/images/webster-pass/2f1b2112-83570.webp",
+   "thumb": "assets/images/webster-pass/thumbs/2f1b2112-83570.webp",
+   "w": 2048,
+   "h": 1152,
+   "tw": 800,
+   "th": 450,
+   "caption": "Rain Curtain",
+   "alt": "Dark storm clouds and a gray curtain of rain over distant ranges, seen past a pale rounded ridge in the foreground"
+  },
+  {
+   "src": "assets/images/webster-pass/2e8f22a6-34378.webp",
+   "thumb": "assets/images/webster-pass/thumbs/2e8f22a6-34378.webp",
+   "w": 2048,
+   "h": 1152,
+   "tw": 800,
+   "th": 450,
+   "caption": "Red Planet",
+   "alt": "Aerial view of a red-orange ridge with a long snowfield, with a dirt road winding through the green valley below"
+  },
+  {
+   "src": "assets/images/webster-pass/620002fc-273470.webp",
+   "thumb": "assets/images/webster-pass/thumbs/620002fc-273470.webp",
+   "w": 2048,
+   "h": 1152,
+   "tw": 800,
+   "th": 450,
+   "caption": "Evening Haze",
+   "alt": "Layered mountain ranges and a forested valley in soft golden haze, with a dark brown, snow-flecked peak on the right"
+  },
+  {
+   "src": "assets/images/webster-pass/b4da33af-16638.webp",
+   "thumb": "assets/images/webster-pass/thumbs/b4da33af-16638.webp",
+   "w": 2048,
+   "h": 1152,
+   "tw": 800,
+   "th": 450,
+   "caption": "Far Water",
+   "alt": "Blue mountain ranges receding down a valley to a faint glint of water on the horizon, with a snow-streaked ridge in the foreground"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "70% 40%"
+}

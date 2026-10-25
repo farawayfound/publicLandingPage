@@ -1,0 +1,170 @@
+{
+ "slug": "bordeaux",
+ "title": "Bordeaux, FR",
+ "cardTitle": "Bordeaux, FR",
+ "date": "2022-11",
+ "dateLabel": "November 2022",
+ "location": "Bordeaux, France",
+ "country": "France",
+ "coords": [
+  44.8,
+  -0.6
+ ],
+ "tags": [
+  "abroad",
+  "city"
+ ],
+ "sectionTitle": "Port of the Moon",
+ "paragraphs": [
+  "Until I got there, Bordeaux was just a label on a wine bottle. I met the city through a window high above the Garonne on my first evening, as the sky went pink and orange over the red-brick apartment blocks and a tram rolled along tracks laid in grass. Already my kind of city! Below, the river ran wide and muddy brown toward the Pont Chaban-Delmas, a lift bridge whose middle span rises straight up between four towers whenever a tall ship needs to pass. Bordeaux's old nickname is the Port of the Moon, for the crescent the Garonne bends around it. The river is tidal this far inland, so the moon still has a say in things.",
+  "The next day I set out on foot through the old town, where the streets are narrow and the stone turns the color of honey when the low sun hits it. Cathédrale Saint-André is the big one. Inside, a rose window shines through the haze above the doors and stained glass glows red, blue and gold. The Gothic vaults climb higher than seems reasonable for stone. Outside, a spire was wrapped in scaffolding, which is fair enough for a cathedral consecrated in 1096! By dusk I had wandered to the Place des Quinconces, one of the largest city squares in Europe, where the Monument aux Girondins rises over a fountain of rearing sea horses and tritons. It remembers the Girondins, revolutionary deputies from this region, many of whom were guillotined.",
+  "The following day I headed to the Jardin Public, an English-style garden in the heart of the city, and found it in full autumn color. Go in late November like I did, because the colors were at their peak. Star-shaped leaves lay in golden carpets with a pigeon picking through them. Rust-red cypresses, conifers that shed their needles every fall, towered over the lake. Another tree had been pruned into green clouds, small iron bridges crossed the water, and a gondola-style boat called the Petit Mousse sat at its little dock. Even the bamboo grove stayed green."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/bordeaux/cover.webp",
+ "card": "assets/images/bordeaux/thumbs/3d793bbc.webp",
+ "photos": [
+  {
+   "src": "assets/images/bordeaux/9d066df2.webp",
+   "thumb": "assets/images/bordeaux/thumbs/9d066df2.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Chaban-Delmas",
+   "alt": "Two pairs of tall towers rise from a lift bridge across the wide, muddy-brown Garonne under a cloudy dusk sky."
+  },
+  {
+   "src": "assets/images/bordeaux/a3c0c65a.webp",
+   "thumb": "assets/images/bordeaux/thumbs/a3c0c65a.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Shafts of Light",
+   "alt": "A rose window and four tall, narrow windows glow through hazy light inside the cathedral, above a wooden door."
+  },
+  {
+   "src": "assets/images/bordeaux/061e8c1a.webp",
+   "thumb": "assets/images/bordeaux/thumbs/061e8c1a.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "High Vaults",
+   "alt": "Looking up the inside of a Gothic cathedral at tall stone arches and clerestory windows."
+  },
+  {
+   "src": "assets/images/bordeaux/c433e94e.webp",
+   "thumb": "assets/images/bordeaux/thumbs/c433e94e.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Choir",
+   "alt": "Ribbed stone vaults rise over the cathedral choir, with stained glass windows glowing in the apse above a carved wooden screen."
+  },
+  {
+   "src": "assets/images/bordeaux/1da4af81.webp",
+   "thumb": "assets/images/bordeaux/thumbs/1da4af81.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Jewel Tones",
+   "alt": "A tall stained glass window glowing red, blue and gold inside a Gothic stone arch."
+  },
+  {
+   "src": "assets/images/bordeaux/11821a7c.webp",
+   "thumb": "assets/images/bordeaux/thumbs/11821a7c.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Scaffolded",
+   "alt": "Warm low sunlight on a Gothic cathedral's stone spire, its lower half wrapped in steel scaffolding, beside a gable with a large traceried window against a clear blue sky."
+  },
+  {
+   "src": "assets/images/bordeaux/5e4bba42.webp",
+   "thumb": "assets/images/bordeaux/thumbs/5e4bba42.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Girondins",
+   "alt": "The tall stone column of the Girondins monument rising behind the sculpted horses of its fountain against a deep blue evening sky."
+  },
+  {
+   "src": "assets/images/bordeaux/8bc00aba.webp",
+   "thumb": "assets/images/bordeaux/thumbs/8bc00aba.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Sea Horses",
+   "alt": "Sculpted sea horses and tritons of the Girondins fountain lit by warm evening light."
+  },
+  {
+   "src": "assets/images/bordeaux/3d793bbc.webp",
+   "thumb": "assets/images/bordeaux/thumbs/3d793bbc.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Ember",
+   "alt": "Rust-red cypress trees beside a small iron footbridge over a pond, with a carousel pavilion at the left and a blue sky above."
+  },
+  {
+   "src": "assets/images/bordeaux/6f28d226.webp",
+   "thumb": "assets/images/bordeaux/thumbs/6f28d226.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Cloud Nine",
+   "alt": "A tree pruned into rounded green clouds in front of a pond ringed by orange and yellow autumn trees."
+  },
+  {
+   "src": "assets/images/bordeaux/b8ff737f.webp",
+   "thumb": "assets/images/bordeaux/thumbs/b8ff737f.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Petit Mousse",
+   "alt": "A blue and white gondola-style boat moored at a small dock beside a pond reflecting autumn trees."
+  },
+  {
+   "src": "assets/images/bordeaux/8e101222.webp",
+   "thumb": "assets/images/bordeaux/thumbs/8e101222.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Fallen Gold",
+   "alt": "A carpet of golden fallen leaves beneath a backlit autumn branch, with a pond beyond."
+  },
+  {
+   "src": "assets/images/bordeaux/61564b05.webp",
+   "thumb": "assets/images/bordeaux/thumbs/61564b05.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Leaf Peeper",
+   "alt": "A pigeon standing among fallen star-shaped autumn leaves, with a boat on the water behind."
+  },
+  {
+   "src": "assets/images/bordeaux/c4ecd0a0.webp",
+   "thumb": "assets/images/bordeaux/thumbs/c4ecd0a0.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Still Green",
+   "alt": "A sandy path winding through a sunlit green and golden bamboo grove."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 55%"
+}

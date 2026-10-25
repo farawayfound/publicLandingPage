@@ -1,0 +1,236 @@
+{
+ "slug": "alpine-lakes",
+ "title": "Alpine Lakes Wilderness",
+ "cardTitle": "Alpine Lakes",
+ "date": "2021-06",
+ "dateLabel": "June 2021",
+ "location": "Alpine Lakes Wilderness, Washington",
+ "country": "United States",
+ "coords": [
+  47.4,
+  -121.5
+ ],
+ "tags": [
+  "backpacking",
+  "forest",
+  "hiking",
+  "lakes",
+  "mountains",
+  "night-sky",
+  "snow",
+  "waterfalls"
+ ],
+ "sectionTitle": "Late Thaw",
+ "paragraphs": [
+  "The Alpine Lakes Wilderness has hundreds of lakes, and in late June the snowfields around them refused to quit. It stretches north from I-90 at Snoqualmie Pass, about an hour east of Seattle, and I spent three days and two nights hiking a loop through its southern end. I started in the city at Kerry Park, where Mount Rainier floats over the skyline, Space Needle and all, then headed east to Exit 47 and into the trees. The Pratt Lake trail climbs through old-growth forest where the trees wear so much moss that the whole place feels padded, and a creek stair-steps down beside it. That evening, at Olallie Lake, I set up a hammock under a tarp, with a strand of string lights between two giant trunks and the moon on its way up.",
+  "The moon came up full, and the lake was calm enough to give me a second one. It is hard to feel important with one moon above you and another at your feet. In the morning a ridge above the lake gave me Rainier again, a white dome over the fir boughs with Olallie shining blue below. From there the trail wound through a boulder field to a big blue lake, which I think was Pratt Lake, and on to Lower Tuscohatchie. Bleached logs lay half-sunk there in water so clear it hardly seemed to be there, and rugged peaks rose behind them, still streaked with snow.",
+  "Pack for snow if you do this loop in June. The calendar said summer, but on the climb to Melakwa the trail was buried in places, and the lake was still ringed with snow and ice when I got there. Melakwa comes from the Chinook Jargon word for mosquito, which sounds like a joke when the shoreline is buried in snow! I camped under jagged peaks that turned gold as the sun went down. On the last morning I followed Denny Creek downhill past Keekwulee Falls, where the creek plunged down a granite cliff in two tiers with a patch of snow still hanging above it. Lower down, the ferns were only just unfurling, and somewhere on the way out I walked from winter into spring."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/alpine-lakes/cover.webp",
+ "card": "assets/images/alpine-lakes/thumbs/17ffc3b9.webp",
+ "photos": [
+  {
+   "src": "assets/images/alpine-lakes/9f5ee704.webp",
+   "thumb": "assets/images/alpine-lakes/thumbs/9f5ee704.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Emerald City",
+   "alt": "Seattle skyline with the Space Needle and a snowy Mount Rainier on the horizon"
+  },
+  {
+   "src": "assets/images/alpine-lakes/ed68217d.webp",
+   "thumb": "assets/images/alpine-lakes/thumbs/ed68217d.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Moss Back",
+   "alt": "Moss-covered old-growth trees above broad green leaves on a forest floor"
+  },
+  {
+   "src": "assets/images/alpine-lakes/6808a263.webp",
+   "thumb": "assets/images/alpine-lakes/thumbs/6808a263.webp",
+   "w": 2048,
+   "h": 1368,
+   "tw": 800,
+   "th": 534,
+   "caption": "Shelf Life",
+   "alt": "Mossy log with shelf fungus growing from its side"
+  },
+  {
+   "src": "assets/images/alpine-lakes/51611fab.webp",
+   "thumb": "assets/images/alpine-lakes/thumbs/51611fab.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Step by Step",
+   "alt": "Small creek cascading down mossy rock steps in a green forest"
+  },
+  {
+   "src": "assets/images/alpine-lakes/7148f8fb.webp",
+   "thumb": "assets/images/alpine-lakes/thumbs/7148f8fb.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Neon Moss",
+   "alt": "Bright green moss on boulders in a flowing stream"
+  },
+  {
+   "src": "assets/images/alpine-lakes/7eb6a788.webp",
+   "thumb": "assets/images/alpine-lakes/thumbs/7eb6a788.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Two Moons",
+   "alt": "Full moon above a dark forested ridge, reflected in a still lake"
+  },
+  {
+   "src": "assets/images/alpine-lakes/234fc8fd.webp",
+   "thumb": "assets/images/alpine-lakes/thumbs/234fc8fd.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Rainier Again",
+   "alt": "Snowy Mount Rainier above forested ridges, seen through fir branches with a blue lake below"
+  },
+  {
+   "src": "assets/images/alpine-lakes/d3106483.webp",
+   "thumb": "assets/images/alpine-lakes/thumbs/d3106483.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Boulder Field",
+   "alt": "Boulder field spilling down a forested mountainside under a blue sky"
+  },
+  {
+   "src": "assets/images/alpine-lakes/9336ccfd.webp",
+   "thumb": "assets/images/alpine-lakes/thumbs/9336ccfd.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Big Blue",
+   "alt": "Deep blue lake beneath a forested ridge and a slope of gray rubble"
+  },
+  {
+   "src": "assets/images/alpine-lakes/68605edf.webp",
+   "thumb": "assets/images/alpine-lakes/thumbs/68605edf.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Jagged Edge",
+   "alt": "Jagged mountain peaks with snow patches above a fir forest"
+  },
+  {
+   "src": "assets/images/alpine-lakes/1be97f67.webp",
+   "thumb": "assets/images/alpine-lakes/thumbs/1be97f67.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Clear as Glass",
+   "alt": "Two bleached logs slanting into clear lake water with forested ridges beyond"
+  },
+  {
+   "src": "assets/images/alpine-lakes/e3756168.webp",
+   "thumb": "assets/images/alpine-lakes/thumbs/e3756168.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Rapids",
+   "alt": "Creek rushing around rocks and weathered logs beneath evergreens"
+  },
+  {
+   "src": "assets/images/alpine-lakes/b83b8808.webp",
+   "thumb": "assets/images/alpine-lakes/thumbs/b83b8808.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "June Snow",
+   "alt": "Snow-covered trail winding between tall fir trees"
+  },
+  {
+   "src": "assets/images/alpine-lakes/8f834961.webp",
+   "thumb": "assets/images/alpine-lakes/thumbs/8f834961.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Silver Thread",
+   "alt": "Thin waterfall over rock above a snowfield and fir trees"
+  },
+  {
+   "src": "assets/images/alpine-lakes/17ffc3b9.webp",
+   "thumb": "assets/images/alpine-lakes/thumbs/17ffc3b9.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Melakwa Mirror",
+   "alt": "Rocky peak and snow patches reflected in a still, snow-ringed lake"
+  },
+  {
+   "src": "assets/images/alpine-lakes/f56ec14f.webp",
+   "thumb": "assets/images/alpine-lakes/thumbs/f56ec14f.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Evening Gold",
+   "alt": "Snow slope and fir trunks with distant peaks lit gold by the evening sun"
+  },
+  {
+   "src": "assets/images/alpine-lakes/dc1a964d.webp",
+   "thumb": "assets/images/alpine-lakes/thumbs/dc1a964d.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Bedroom Ceiling",
+   "alt": "View up a tall furrowed tree trunk into the canopy, with string lights glowing beside a dark tarp"
+  },
+  {
+   "src": "assets/images/alpine-lakes/8b0e597e.webp",
+   "thumb": "assets/images/alpine-lakes/thumbs/8b0e597e.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "The Way Down",
+   "alt": "Distant waterfall in a forested valley below a jagged peak"
+  },
+  {
+   "src": "assets/images/alpine-lakes/1181de23.webp",
+   "thumb": "assets/images/alpine-lakes/thumbs/1181de23.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Keekwulee Falls",
+   "alt": "Waterfall plunging down a granite cliff with a second cascade above"
+  },
+  {
+   "src": "assets/images/alpine-lakes/aa5b1020.webp",
+   "thumb": "assets/images/alpine-lakes/thumbs/aa5b1020.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Unfurling",
+   "alt": "Young fern frond curling open in a field of green ferns with a forest behind"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 40%"
+}

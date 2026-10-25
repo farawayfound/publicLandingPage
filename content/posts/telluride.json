@@ -1,0 +1,202 @@
+{
+ "slug": "telluride",
+ "title": "Telluride, CO",
+ "cardTitle": "Telluride, CO",
+ "date": "2020-09",
+ "dateLabel": "September 2020",
+ "location": "Telluride, Colorado",
+ "country": "United States",
+ "coords": [
+  37.9,
+  -107.8
+ ],
+ "tags": [
+  "hiking",
+  "mountains",
+  "road-trip",
+  "waterfalls"
+ ],
+ "sectionTitle": "Veiled in Gold",
+ "paragraphs": [
+  "Telluride is built where the valley runs out. Deep in Colorado's San Juan Mountains, red-brown cliffs close in on three sides, the old mining town fills the floor between them, and at the very back of the canyon a narrow white plume of water drops off the rim. My wife and I rolled in partway through our honeymoon road trip, in late September, just as the aspens were turning. Even the view from our window was hard to beat, with golden trees along the river path and morning light on the peaks. Out on the trail, every slope was striped with dark spruce and gold, and from high on the canyon wall the town shrank to a scatter of rooftops in a very big valley.",
+  "The strangest thing at the head of the canyon is a small white house perched at the top of the falls, right on the edge of a 365-foot drop. It turns out to be a hydroelectric power house, built by a mining company in 1907 to run its mines, and it still makes electricity for the town. From the foot of the falls it looks like a dollhouse. The falls are called Bridal Veil, which is a bit on the nose for a honeymoon. They are also the tallest free-falling waterfall in Colorado, and a rough road zigzags up the canyon wall toward the house for anyone with the legs or the four-wheel drive. Up on the ledge, a stretch of old rails clings to the cliff and the whole valley opens out below.",
+  "The smaller falls among the trees are gentler. A creek trail follows a string of cascades that step down dark rock into green pools, with sunlight flaring through the spray and white-trunked aspens crowding the boulders along the way. The water was pouring off that rim long before anyone thought to harness it, and every autumn the aspens drop their gold and start over. More than a century on, that little house is still hanging on up there. I'm taking it as a good sign."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/telluride/cover.webp",
+ "card": "assets/images/telluride/thumbs/a3d36f6b.webp",
+ "photos": [
+  {
+   "src": "assets/images/telluride/d220e605.webp",
+   "thumb": "assets/images/telluride/thumbs/d220e605.webp",
+   "w": 1639,
+   "h": 2048,
+   "tw": 640,
+   "th": 800,
+   "caption": "Room With a View",
+   "alt": "View from a balcony opening onto golden trees along a stream and dirt path, with forested mountains beyond."
+  },
+  {
+   "src": "assets/images/telluride/246443a0.webp",
+   "thumb": "assets/images/telluride/thumbs/246443a0.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Bridge Ahead",
+   "alt": "A narrow creek runs between spruce and yellowing trees toward a small bridge."
+  },
+  {
+   "src": "assets/images/telluride/c5b2ca1c.webp",
+   "thumb": "assets/images/telluride/thumbs/c5b2ca1c.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Teal Pond",
+   "alt": "A teal pond below a hillside of golden aspen and spruce, with sheer cliffs above."
+  },
+  {
+   "src": "assets/images/telluride/f6d2a4bb.webp",
+   "thumb": "assets/images/telluride/thumbs/f6d2a4bb.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Aspen Grove",
+   "alt": "White aspen trunks and large boulders on a sunlit hillside."
+  },
+  {
+   "src": "assets/images/telluride/c2223874.webp",
+   "thumb": "assets/images/telluride/thumbs/c2223874.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Mother Lode",
+   "alt": "Golden aspen leaves crowd a rocky trail beneath a hazy, sunlit cliff wall."
+  },
+  {
+   "src": "assets/images/telluride/10b2d51e.webp",
+   "thumb": "assets/images/telluride/thumbs/10b2d51e.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Sunlit Spray",
+   "alt": "A tall cascade falling into a green pool, with sunlight flaring through the spray."
+  },
+  {
+   "src": "assets/images/telluride/e2a9a130.webp",
+   "thumb": "assets/images/telluride/thumbs/e2a9a130.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Giant Steps",
+   "alt": "A cascade steps down dark rock ledges through a gorge of golden aspen and spruce."
+  },
+  {
+   "src": "assets/images/telluride/f79941f7.webp",
+   "thumb": "assets/images/telluride/thumbs/f79941f7.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Satin",
+   "alt": "A long, silky cascade descending a dark rock face in steps."
+  },
+  {
+   "src": "assets/images/telluride/3263400b.webp",
+   "thumb": "assets/images/telluride/thumbs/3263400b.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Liquid Copper",
+   "alt": "Water rushing over rust-coloured bedrock beneath a small cascade."
+  },
+  {
+   "src": "assets/images/telluride/dd6c8089.webp",
+   "thumb": "assets/images/telluride/thumbs/dd6c8089.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Trail Boss",
+   "alt": "A small striped chipmunk on a gravel path among grey rocks."
+  },
+  {
+   "src": "assets/images/telluride/23458390.webp",
+   "thumb": "assets/images/telluride/thumbs/23458390.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Bridal Veil",
+   "alt": "Bridal Veil Falls dropping down a rust-streaked cliff above boulders, driftwood and a small cascade."
+  },
+  {
+   "src": "assets/images/telluride/5acd0156.webp",
+   "thumb": "assets/images/telluride/thumbs/5acd0156.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Rusty Rails",
+   "alt": "Old rusted rails and timber ties along a cliff ledge, with the valley and distant peaks beyond under a deep blue sky."
+  },
+  {
+   "src": "assets/images/telluride/631cb4db.webp",
+   "thumb": "assets/images/telluride/thumbs/631cb4db.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Small Town",
+   "alt": "The town of Telluride small on a green valley floor, with golden aspen slopes and a hazy ridge beyond."
+  },
+  {
+   "src": "assets/images/telluride/a3d36f6b.webp",
+   "thumb": "assets/images/telluride/thumbs/a3d36f6b.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Cliffside Property",
+   "alt": "A white power house perched on the edge of a red-brown cliff, with thin waterfalls streaking down the rock below."
+  },
+  {
+   "src": "assets/images/telluride/1153c07d.webp",
+   "thumb": "assets/images/telluride/thumbs/1153c07d.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Zigzag",
+   "alt": "A dirt road zigzags across a golden aspen slope in a deep mountain valley."
+  },
+  {
+   "src": "assets/images/telluride/f2883b31.webp",
+   "thumb": "assets/images/telluride/thumbs/f2883b31.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Canyon Head",
+   "alt": "A white power house on a cliff at the head of a V-shaped canyon beneath a jagged peak and clouds."
+  },
+  {
+   "src": "assets/images/telluride/1dabbd1c.webp",
+   "thumb": "assets/images/telluride/thumbs/1dabbd1c.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Stubborn",
+   "alt": "A lone pine growing from a sunlit cliff, with a narrow ledge path cut across the rock."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 65%"
+}

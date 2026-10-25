@@ -1,0 +1,217 @@
+{
+ "slug": "aspen",
+ "title": "Aspen, CO",
+ "cardTitle": "Aspen, CO",
+ "date": "2016-11",
+ "dateLabel": "November 2016",
+ "location": "Maroon Bells, Colorado",
+ "country": "United States",
+ "coords": [
+  39.1,
+  -106.9
+ ],
+ "tags": [
+  "mountains",
+  "backpacking"
+ ],
+ "sectionTitle": "Fall's Embrace",
+ "paragraphs": [
+  "The Maroon Bells are an icon of the Rockies. Many say that they are the most photographed peaks in the world, and now I understand why. Sure, they look great from Maroon Lake near the roadside trailhead, but not many folks who visit wander far into the trail where treasures are hidden.",
+  "We backpacked at the edge of the treeline and spent a night hammock camping in freezing temperatures. The campsite we selected was incredible; not only did it have amazing views, but it was well furnished as well! There was already a fire pit and fallen trunks which made good seats. We stayed up deep into the night to stargaze, and slept sounder than any night indoors."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/aspen/cover.jpg",
+ "card": "assets/images/aspen/thumbs/DSC_7140.jpg",
+ "photos": [
+  {
+   "src": "assets/images/aspen/coverphotoemeraldlake-2.jpg",
+   "thumb": "assets/images/aspen/thumbs/coverphotoemeraldlake-2.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "stargazing"
+  },
+  {
+   "src": "assets/images/aspen/coverphotoemeraldlake-3.jpg",
+   "thumb": "assets/images/aspen/thumbs/coverphotoemeraldlake-3.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "good morning"
+  },
+  {
+   "src": "assets/images/aspen/DSC_7163.jpg",
+   "thumb": "assets/images/aspen/thumbs/DSC_7163.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "all we need"
+  },
+  {
+   "src": "assets/images/aspen/DSC_7089.jpg",
+   "thumb": "assets/images/aspen/thumbs/DSC_7089.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "sunrise"
+  },
+  {
+   "src": "assets/images/aspen/DSC_7090.jpg",
+   "thumb": "assets/images/aspen/thumbs/DSC_7090.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "passing by"
+  },
+  {
+   "src": "assets/images/aspen/DSC_7092.jpg",
+   "thumb": "assets/images/aspen/thumbs/DSC_7092.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "road to Aspen"
+  },
+  {
+   "src": "assets/images/aspen/DSC_7095.jpg",
+   "thumb": "assets/images/aspen/thumbs/DSC_7095.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "tread easy"
+  },
+  {
+   "src": "assets/images/aspen/DSC_7140.jpg",
+   "thumb": "assets/images/aspen/thumbs/DSC_7140.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "reflections"
+  },
+  {
+   "src": "assets/images/aspen/DSC_7158.jpg",
+   "thumb": "assets/images/aspen/thumbs/DSC_7158.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "set off"
+  },
+  {
+   "src": "assets/images/aspen/DSC_7195.jpg",
+   "thumb": "assets/images/aspen/thumbs/DSC_7195.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "companion"
+  },
+  {
+   "src": "assets/images/aspen/DSC_7220.jpg",
+   "thumb": "assets/images/aspen/thumbs/DSC_7220.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "on top of it"
+  },
+  {
+   "src": "assets/images/aspen/DSC_7321.jpg",
+   "thumb": "assets/images/aspen/thumbs/DSC_7321.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "take flight"
+  },
+  {
+   "src": "assets/images/aspen/DSC_7326.jpg",
+   "thumb": "assets/images/aspen/thumbs/DSC_7326.jpg",
+   "w": 1500,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "take it easy"
+  },
+  {
+   "src": "assets/images/aspen/DSC_7351.jpg",
+   "thumb": "assets/images/aspen/thumbs/DSC_7351.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "foot of a giant"
+  },
+  {
+   "src": "assets/images/aspen/DSC_7567.jpg",
+   "thumb": "assets/images/aspen/thumbs/DSC_7567.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "ridgeline"
+  },
+  {
+   "src": "assets/images/aspen/DSC_8696.jpg",
+   "thumb": "assets/images/aspen/thumbs/DSC_8696.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "trailhead"
+  },
+  {
+   "src": "assets/images/aspen/DSC_8703.jpg",
+   "thumb": "assets/images/aspen/thumbs/DSC_8703.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "mirror"
+  },
+  {
+   "src": "assets/images/aspen/DSC_8929.jpg",
+   "thumb": "assets/images/aspen/thumbs/DSC_8929.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "upper Maroon lake"
+  },
+  {
+   "src": "assets/images/aspen/DSC_9351.jpg",
+   "thumb": "assets/images/aspen/thumbs/DSC_9351.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "sawtooth"
+  },
+  {
+   "src": "assets/images/aspen/DSC_9437.jpg",
+   "thumb": "assets/images/aspen/thumbs/DSC_9437.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "berries"
+  },
+  {
+   "src": "assets/images/aspen/DSC07519.jpg",
+   "thumb": "assets/images/aspen/thumbs/DSC07519.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "crossing"
+  }
+ ],
+ "legacy": true
+}

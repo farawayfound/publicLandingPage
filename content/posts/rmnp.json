@@ -1,0 +1,190 @@
+{
+ "slug": "rmnp",
+ "title": "Rocky Mountains National Park",
+ "cardTitle": "Rocky Mountains NP",
+ "date": "2016-12",
+ "dateLabel": "December 2016",
+ "location": "Rocky Mountain National Park, Colorado",
+ "country": "United States",
+ "coords": [
+  40.3,
+  -105.7
+ ],
+ "tags": [
+  "national-park",
+  "mountains"
+ ],
+ "sectionTitle": "Thin Air",
+ "paragraphs": [
+  "The sun sets behind the mountains every day in Denver, as if inviting me to chase it into the valleys. There are endless adventures to be had in the rockies, one could easily spend a lifetime exploring them.",
+  "Rocky Mountain National Park is an excellent sampler plate to everything the rockies have to offer. Crystal clear alpine lakes, 14 thousand feet peaks that caress the clouds, creeks that chime into the night are just some of the gifts of the mountains. The mountains are addicting, and climbing each one doesn't quench my thirst, but makes me hungry for more."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/RMNP/DSC06026.jpg",
+ "card": "assets/images/RMNP/thumbs/DSC_9893.jpg",
+ "photos": [
+  {
+   "src": "assets/images/RMNP/DSC06026.jpg",
+   "thumb": "assets/images/RMNP/thumbs/DSC06026.jpg",
+   "w": 1680,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "skyscraper"
+  },
+  {
+   "src": "assets/images/RMNP/DSC05967.jpg",
+   "thumb": "assets/images/RMNP/thumbs/DSC05967.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "eroded"
+  },
+  {
+   "src": "assets/images/RMNP/DSC05466.jpg",
+   "thumb": "assets/images/RMNP/thumbs/DSC05466.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "mountain dwellers"
+  },
+  {
+   "src": "assets/images/RMNP/DSC_9710.jpg",
+   "thumb": "assets/images/RMNP/thumbs/DSC_9710.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "dawn"
+  },
+  {
+   "src": "assets/images/RMNP/DSC_9893.jpg",
+   "thumb": "assets/images/RMNP/thumbs/DSC_9893.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "midnight"
+  },
+  {
+   "src": "assets/images/RMNP/DSC_0001.jpg",
+   "thumb": "assets/images/RMNP/thumbs/DSC_0001.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "dusk"
+  },
+  {
+   "src": "assets/images/RMNP/coverphotoemeraldlake-2.jpg",
+   "thumb": "assets/images/RMNP/thumbs/coverphotoemeraldlake-2.jpg",
+   "w": 3260,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "emerald lake"
+  },
+  {
+   "src": "assets/images/RMNP/DSC_9003.jpg",
+   "thumb": "assets/images/RMNP/thumbs/DSC_9003.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "emerald sunrise"
+  },
+  {
+   "src": "assets/images/RMNP/DSC_8979.jpg",
+   "thumb": "assets/images/RMNP/thumbs/DSC_8979.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "follow me"
+  },
+  {
+   "src": "assets/images/RMNP/DSC_9457.jpg",
+   "thumb": "assets/images/RMNP/thumbs/DSC_9457.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "lunch break"
+  },
+  {
+   "src": "assets/images/RMNP/DSC_9011.jpg",
+   "thumb": "assets/images/RMNP/thumbs/DSC_9011.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Smiles"
+  },
+  {
+   "src": "assets/images/RMNP/DSC08872.jpg",
+   "thumb": "assets/images/RMNP/thumbs/DSC08872.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "slippery slopes"
+  },
+  {
+   "src": "assets/images/RMNP/DSC08896.jpg",
+   "thumb": "assets/images/RMNP/thumbs/DSC08896.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "sunset"
+  },
+  {
+   "src": "assets/images/RMNP/DSC08920.jpg",
+   "thumb": "assets/images/RMNP/thumbs/DSC08920.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "icefall"
+  },
+  {
+   "src": "assets/images/RMNP/DSC08936.jpg",
+   "thumb": "assets/images/RMNP/thumbs/DSC08936.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "skypond"
+  },
+  {
+   "src": "assets/images/RMNP/DSC08940.jpg",
+   "thumb": "assets/images/RMNP/thumbs/DSC08940.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "embrace"
+  },
+  {
+   "src": "assets/images/RMNP/DSC08953.jpg",
+   "thumb": "assets/images/RMNP/thumbs/DSC08953.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "cliffhanger"
+  },
+  {
+   "src": "assets/images/RMNP/DSC08966.jpg",
+   "thumb": "assets/images/RMNP/thumbs/DSC08966.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "let's go"
+  }
+ ],
+ "legacy": true
+}

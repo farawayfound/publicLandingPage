@@ -1,0 +1,182 @@
+{
+ "slug": "arizona-hot-springs",
+ "title": "Arizona Hot Springs",
+ "cardTitle": "Arizona Hot Springs",
+ "date": "2018-01",
+ "dateLabel": "January 2018",
+ "location": "Black Canyon of the Colorado River, Arizona/Nevada",
+ "country": "United States",
+ "coords": [
+  36.0,
+  -114.7
+ ],
+ "tags": [
+  "backpacking",
+  "desert",
+  "hiking",
+  "night-sky"
+ ],
+ "sectionTitle": "Still Waters",
+ "paragraphs": [
+  "The road to Arizona Hot Springs is anything but wild: high-voltage towers and dry grass, until the hills turn red in the late light. The springs sit in Black Canyon, the narrow gorge the Colorado River cut through volcanic rock just below Hoover Dam. By dusk on a Saturday in late January I was making my way down the trail, with the sky going pink and orange behind a flat-topped mesa and the path winding through dark volcanic rubble. Camp went up after dark on a gravel bar beside the river, beneath a gnarled bare tree and clouds glowing with moonlight.",
+  "Sunday morning was cold and perfectly still. The river had turned to glass, doubling the rust-red walls and the blue sky above them. The Colorado runs cold here all year, because the dam upstream releases water from deep in Lake Mead, which makes it even stranger that hot water seeps out of the rock nearby! Somewhere underground, groundwater gets heated by the earth and finds its way back up through the cracks. A dry wash between narrow walls leads to the springs, where a pool is held in by sandbags beneath a wall streaked with minerals. Go in winter, like I did. Hot water is a gift on a cold morning.",
+  "The moon that lit up camp went full a few nights later and slid into Earth's shadow as a super blue blood moon: a supermoon, a blue moon and a total lunar eclipse all at once. I caught one frame of it, copper against the black. Two weeks after the hot springs I spent another night on the water, this time by kayak. By day the water curled between rust-brown and black cliffs. After dark the walls went to pure silhouette, and three kayaks sat pulled up on a pebble beach beneath a dead shrub while the clouds glowed orange. I'm pretty sure that glow was Las Vegas, two million people reduced to a smudge on the clouds. Somehow a place this quiet sits a short drive from the Strip."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/arizona-hot-springs/cover.webp",
+ "card": "assets/images/arizona-hot-springs/thumbs/a4778c71.webp",
+ "photos": [
+  {
+   "src": "assets/images/arizona-hot-springs/b7b0a0a1-13354.webp",
+   "thumb": "assets/images/arizona-hot-springs/thumbs/b7b0a0a1-13354.webp",
+   "w": 1920,
+   "h": 1080,
+   "tw": 800,
+   "th": 450,
+   "caption": "Live Wire",
+   "alt": "A high-voltage transmission tower and power lines rising over dry desert brush and tan and red-brown hills."
+  },
+  {
+   "src": "assets/images/arizona-hot-springs/76d0f114-169584.webp",
+   "thumb": "assets/images/arizona-hot-springs/thumbs/76d0f114-169584.webp",
+   "w": 1920,
+   "h": 1080,
+   "tw": 800,
+   "th": 450,
+   "caption": "Red Hills",
+   "alt": "Red volcanic hills glowing in low sun above a highway, with a transmission tower on the ridge."
+  },
+  {
+   "src": "assets/images/arizona-hot-springs/6b4b5a65.webp",
+   "thumb": "assets/images/arizona-hot-springs/thumbs/6b4b5a65.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Dusk Descent",
+   "alt": "A pale gravel trail winding down through dark volcanic rubble toward a flat-topped mesa under a pink and orange sunset sky."
+  },
+  {
+   "src": "assets/images/arizona-hot-springs/c72bb216.webp",
+   "thumb": "assets/images/arizona-hot-springs/thumbs/c72bb216.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Vacancy",
+   "alt": "An empty gravel bar beside the river at night, with a gnarled bare tree, boulders and moonlit clouds above dark canyon walls."
+  },
+  {
+   "src": "assets/images/arizona-hot-springs/ed76a0d9.webp",
+   "thumb": "assets/images/arizona-hot-springs/thumbs/ed76a0d9.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "No Vacancy",
+   "alt": "A green dome tent glowing from inside on the gravel bar, with a bare tree, canyon walls and moonlit clouds behind it."
+  },
+  {
+   "src": "assets/images/arizona-hot-springs/996827e7.webp",
+   "thumb": "assets/images/arizona-hot-springs/thumbs/996827e7.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Night Light",
+   "alt": "A tent and a glaring orange lantern light on a gravel bar at night, with a bare tree lit orange and faint stars over dark canyon walls."
+  },
+  {
+   "src": "assets/images/arizona-hot-springs/a4778c71.webp",
+   "thumb": "assets/images/arizona-hot-springs/thumbs/a4778c71.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Window Seat",
+   "alt": "View from inside a tent door of a rust-red canyon wall across a calm river, with a compact camera on the tent floor."
+  },
+  {
+   "src": "assets/images/arizona-hot-springs/e5b6fb33.webp",
+   "thumb": "assets/images/arizona-hot-springs/thumbs/e5b6fb33.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Mirror Image",
+   "alt": "A still river between rust-red canyon walls reflecting the rock under a deep blue sky, seen from a gravel beach."
+  },
+  {
+   "src": "assets/images/arizona-hot-springs/909a1a43-294634.webp",
+   "thumb": "assets/images/arizona-hot-springs/thumbs/909a1a43-294634.webp",
+   "w": 1920,
+   "h": 1080,
+   "tw": 800,
+   "th": 450,
+   "caption": "Side Canyon",
+   "alt": "Narrow walls of dark and rust-colored rock framing a sandy wash with a green tree."
+  },
+  {
+   "src": "assets/images/arizona-hot-springs/fed849f0-99529.webp",
+   "thumb": "assets/images/arizona-hot-springs/thumbs/fed849f0-99529.webp",
+   "w": 1920,
+   "h": 1080,
+   "tw": 800,
+   "th": 450,
+   "caption": "Dam Good Soak",
+   "alt": "Gray sandbags edging a still pool beneath a rock wall streaked with minerals."
+  },
+  {
+   "src": "assets/images/arizona-hot-springs/10368e3f.webp",
+   "thumb": "assets/images/arizona-hot-springs/thumbs/10368e3f.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Flare Up",
+   "alt": "A rust-red rock tower backlit by hazy sun in a canyon, with a purple lens flare at the right."
+  },
+  {
+   "src": "assets/images/arizona-hot-springs/290b437f.webp",
+   "thumb": "assets/images/arizona-hot-springs/thumbs/290b437f.webp",
+   "w": 1927,
+   "h": 1927,
+   "tw": 800,
+   "th": 800,
+   "caption": "Blood Moon",
+   "alt": "A lunar eclipse: a copper-orange moon against a black sky."
+  },
+  {
+   "src": "assets/images/arizona-hot-springs/455703e4.webp",
+   "thumb": "assets/images/arizona-hot-springs/thumbs/455703e4.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "River Bend",
+   "alt": "The Colorado River bending between dark rust-brown canyon cliffs under pastel clouds."
+  },
+  {
+   "src": "assets/images/arizona-hot-springs/5ca4290e.webp",
+   "thumb": "assets/images/arizona-hot-springs/thumbs/5ca4290e.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Beached",
+   "alt": "Blue, orange and red kayaks pulled up on a pebble beach beneath a bare shrub and an orange-glowing sky."
+  },
+  {
+   "src": "assets/images/arizona-hot-springs/101ce824.webp",
+   "thumb": "assets/images/arizona-hot-springs/thumbs/101ce824.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Sodium Sky",
+   "alt": "A dark canyon ridge silhouetted against a glowing orange cloud deck above a still river and a pebble shore."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "35% 65%"
+}

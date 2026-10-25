@@ -1,0 +1,123 @@
+{
+ "slug": "capitol-reef",
+ "title": "Capitol Reef NP",
+ "cardTitle": "Capitol Reef NP",
+ "date": "2018-08",
+ "dateLabel": "August 2018",
+ "location": "Capitol Reef National Park, Utah",
+ "country": "United States",
+ "coords": [
+  38.3,
+  -111.3
+ ],
+ "tags": [
+  "national-park",
+  "desert",
+  "hiking",
+  "night-sky",
+  "road-trip"
+ ],
+ "sectionTitle": "Wrinkle in Time",
+ "paragraphs": [
+  "There is a reef in the Utah desert, hundreds of miles from the nearest ocean. The name comes from two things early travelers saw: white sandstone domes on the skyline that looked like the dome of the U.S. Capitol, and a long wall of cliffs that blocked the way like a reef blocks a ship. That wall is the Waterpocket Fold, a wrinkle in the earth's crust nearly a hundred miles long. Its rock layers buckled upward like a rug draped over a step, then eroded into cliffs, domes and canyons. Fill up in Torrey before you go, because there is no gas inside the park.",
+  "The night before I went in, I made camp on the edge of a mesa, with the lights of a faraway town strung along the horizon. The Milky Way poured through a break in the clouds, the trees glowed red, and the tent lit up green like a spaceship that had touched down. In the morning, the road in was all layers. Red cliffs rose over slopes the color of mint ice cream, a fluted maroon mesa wore a cream-colored cap, and a pale haze turned the farthest walls lavender. A gravel road curled past a rock balanced on a hilltop, ready to topple at the next gust of wind. Around Fruita, the Fremont River drew a green line through all that red, and the cottonwoods were a shade of green that looked almost fake in a place this dry! White domes stacked up behind them.",
+  "I climbed up out of the valley onto the slickrock, and a striped pyramid of stone appeared between the gnarled trees. From the top of the climb, the whole Fold unrolled: a long red wall running off toward the horizon past a field of pale, rounded domes. At one ledge the ground simply ended, and a thin road lay far below. Those cliffs held hundreds of millions of years, stacked like pages, and I was a bookmark at best."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/capitol-reef/cover.webp",
+ "card": "assets/images/capitol-reef/thumbs/cff8b6d4.webp",
+ "photos": [
+  {
+   "src": "assets/images/capitol-reef/e6eb1751.webp",
+   "thumb": "assets/images/capitol-reef/thumbs/e6eb1751.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Hot and Cold",
+   "alt": "Red sandstone cliffs rising over pale turquoise slopes in hazy light, with desert scrub in the foreground."
+  },
+  {
+   "src": "assets/images/capitol-reef/34183bec.webp",
+   "thumb": "assets/images/capitol-reef/thumbs/34183bec.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Fluted Mesa",
+   "alt": "A cream-capped mesa above fluted maroon cliffs and pink badland slopes under a blue sky."
+  },
+  {
+   "src": "assets/images/capitol-reef/6858c7fa.webp",
+   "thumb": "assets/images/capitol-reef/thumbs/6858c7fa.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Tipping Point",
+   "alt": "Pale gravel road curving past a balanced rock on a red hilltop, with hazy blue cliffs behind."
+  },
+  {
+   "src": "assets/images/capitol-reef/cff8b6d4.webp",
+   "thumb": "assets/images/capitol-reef/thumbs/cff8b6d4.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Green Belt",
+   "alt": "Road winding through bright green cottonwoods below white sandstone domes and a red cliff."
+  },
+  {
+   "src": "assets/images/capitol-reef/f2d0b317.webp",
+   "thumb": "assets/images/capitol-reef/thumbs/f2d0b317.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Peak-a-Boo",
+   "alt": "Pyramid-shaped peak of striped stone framed by gnarled tree branches under a hazy sky."
+  },
+  {
+   "src": "assets/images/capitol-reef/3d166de3.webp",
+   "thumb": "assets/images/capitol-reef/thumbs/3d166de3.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Pyramid Scheme",
+   "alt": "Pyramid-shaped peak above pale rounded slickrock domes and a deep, tree-dotted canyon."
+  },
+  {
+   "src": "assets/images/capitol-reef/1b4d4dbe.webp",
+   "thumb": "assets/images/capitol-reef/thumbs/1b4d4dbe.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "The Reef",
+   "alt": "Long red cliff wall of the Waterpocket Fold beyond pale sandstone boulders."
+  },
+  {
+   "src": "assets/images/capitol-reef/3053c14d.webp",
+   "thumb": "assets/images/capitol-reef/thumbs/3053c14d.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Sheer Drop",
+   "alt": "Sheer red sandstone cliff above a hazy desert valley, with a thin road far below."
+  },
+  {
+   "src": "assets/images/capitol-reef/6edb19d9.webp",
+   "thumb": "assets/images/capitol-reef/thumbs/6edb19d9.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Close Encounter",
+   "alt": "A green-glowing tent strung between red-lit trees with a pickup parked beneath it, under the Milky Way and a cloudy night sky."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 40%"
+}

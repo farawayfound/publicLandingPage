@@ -1,0 +1,182 @@
+{
+ "slug": "bryce-canyon",
+ "title": "Bryce Canyon NP",
+ "cardTitle": "Bryce Canyon NP",
+ "date": "2018-08",
+ "dateLabel": "August 2018",
+ "location": "Bryce Canyon National Park, Utah",
+ "country": "United States",
+ "coords": [
+  37.6,
+  -112.2
+ ],
+ "tags": [
+  "national-park",
+  "desert",
+  "hiking",
+  "road-trip"
+ ],
+ "sectionTitle": "Standing Ovation",
+ "paragraphs": [
+  "Bryce Canyon isn't actually a canyon. It wasn't carved by a river. The edge of a high plateau has simply been eaten away into a string of enormous natural amphitheaters, and thousands of stone spires called hoodoos fill the seats in shades of salmon, orange and cream, with dark pines rooted wherever they can find a foothold. The sculptor here is frost. Water seeps into the cracks, freezes and pries the rock apart a little more, then thaws and does it all over again on well over a hundred days a year. Give that enough winters and a plateau turns into a stadium.",
+  "Bryce was an early stop on a nine-day road trip through the Southwest. A night or so earlier, I'd slept in a hammock strung between two ponderosa pines in a sandy wash, about as far from a hotel as you can get. At the rim, the amphitheater appeared through a gap in the pines like a curtain being pulled back, and from up there it all melted into one rosy sweep of stone. Then I hiked down into it and the scale flipped. The spires that had looked like an audience became towers over my head, and the orange walls squeezed together into narrow gateways. One long cliff was pierced by natural windows. A short passage through a fin of rock framed the amphitheater beyond. Fair warning: every step down is a step you have to climb back out, and the rim sits at 8,000 feet and up, so bring more water than you think you need.",
+  "The sky never sat still. Blue turned to hazy white, then clouds built over the plateau until a dark storm sky hung over the whole amphitheater, with patches of sun lighting up the orange rock. August is monsoon season in this corner of Utah. Every hoodoo here is losing a slow argument with the frost, and the one behind it is already next in line."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/bryce-canyon/cover.webp",
+ "card": "assets/images/bryce-canyon/thumbs/9f3ba2e1.webp",
+ "photos": [
+  {
+   "src": "assets/images/bryce-canyon/36a43ae3.webp",
+   "thumb": "assets/images/bryce-canyon/thumbs/36a43ae3.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Hang Time",
+   "alt": "Blue hammock under a tarp strung between two pine trunks in a sandy wash, with pale sandstone cliffs behind."
+  },
+  {
+   "src": "assets/images/bryce-canyon/045b76ba.webp",
+   "thumb": "assets/images/bryce-canyon/thumbs/045b76ba.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Pink Cliffs",
+   "alt": "Pink hoodoo cliffs rising above a forest of pines under a blue sky with white clouds."
+  },
+  {
+   "src": "assets/images/bryce-canyon/bbd4ae39.webp",
+   "thumb": "assets/images/bryce-canyon/thumbs/bbd4ae39.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Curtain Up",
+   "alt": "View across the amphitheater framed by two pines, with a hazy plateau on the horizon."
+  },
+  {
+   "src": "assets/images/bryce-canyon/25fd4034.webp",
+   "thumb": "assets/images/bryce-canyon/thumbs/25fd4034.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Standing Room Only",
+   "alt": "A tall hoodoo with a pale cap rising above rows of orange spires and pines."
+  },
+  {
+   "src": "assets/images/bryce-canyon/611d774c.webp",
+   "thumb": "assets/images/bryce-canyon/thumbs/611d774c.webp",
+   "w": 2048,
+   "h": 1152,
+   "tw": 800,
+   "th": 450,
+   "caption": "Swiss Cheese",
+   "alt": "A pale cliff pitted with caves and alcoves under a line of pines on the rim."
+  },
+  {
+   "src": "assets/images/bryce-canyon/0c02751a.webp",
+   "thumb": "assets/images/bryce-canyon/thumbs/0c02751a.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Downtown",
+   "alt": "Looking down on a dense field of orange and cream hoodoos with dark pines in the gaps."
+  },
+  {
+   "src": "assets/images/bryce-canyon/49b78ca2.webp",
+   "thumb": "assets/images/bryce-canyon/thumbs/49b78ca2.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Labyrinth",
+   "alt": "Orange rock fins and spires dropping into a gully, with a pale sandy trail curving through the foreground."
+  },
+  {
+   "src": "assets/images/bryce-canyon/549967eb.webp",
+   "thumb": "assets/images/bryce-canyon/thumbs/549967eb.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Green Divide",
+   "alt": "A green valley of pines winding between ridges of hoodoos, with distant mesas on the horizon."
+  },
+  {
+   "src": "assets/images/bryce-canyon/c8f0cc82.webp",
+   "thumb": "assets/images/bryce-canyon/thumbs/c8f0cc82.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Window Shopping",
+   "alt": "A long wall of orange and cream hoodoos pierced by natural windows near the top."
+  },
+  {
+   "src": "assets/images/bryce-canyon/9f3ba2e1.webp",
+   "thumb": "assets/images/bryce-canyon/thumbs/9f3ba2e1.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Headliners",
+   "alt": "Orange hoodoo spires against a deep blue sky, seen from below with scrub and pines on the slope."
+  },
+  {
+   "src": "assets/images/bryce-canyon/bcb960c9.webp",
+   "thumb": "assets/images/bryce-canyon/thumbs/bcb960c9.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Gateway",
+   "alt": "A view between two orange rock walls toward a pale cliff under a cloudy sky."
+  },
+  {
+   "src": "assets/images/bryce-canyon/48b2125b.webp",
+   "thumb": "assets/images/bryce-canyon/thumbs/48b2125b.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Old Timer",
+   "alt": "A tall orange rock tower flanked by pines, with clouds above."
+  },
+  {
+   "src": "assets/images/bryce-canyon/e3308812.webp",
+   "thumb": "assets/images/bryce-canyon/thumbs/e3308812.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Organ Pipes",
+   "alt": "A long wall of orange hoodoo fins with a line of pines along the rim under a pale grey sky."
+  },
+  {
+   "src": "assets/images/bryce-canyon/88c6a78a.webp",
+   "thumb": "assets/images/bryce-canyon/thumbs/88c6a78a.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Sun Break",
+   "alt": "A massive orange rock tower in front of a hoodoo-filled amphitheater under a moody sky."
+  },
+  {
+   "src": "assets/images/bryce-canyon/30b4712c.webp",
+   "thumb": "assets/images/bryce-canyon/thumbs/30b4712c.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Curtain Call",
+   "alt": "View through a rock tunnel across the amphitheater, with a sandy floor and a pale sky."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 30%"
+}

@@ -1,0 +1,130 @@
+{
+ "slug": "cheyenne-mountain-zoo",
+ "title": "Cheyenne Mountain Zoo, CO",
+ "cardTitle": "Cheyenne Mountain Zoo",
+ "date": "2026-02",
+ "dateLabel": "February 2026",
+ "location": "Cheyenne Mountain Zoo, Colorado",
+ "country": "United States",
+ "coords": [
+  38.7,
+  -104.8
+ ],
+ "tags": [
+  "mountains",
+  "snow"
+ ],
+ "sectionTitle": "Winter Stripes",
+ "paragraphs": [
+  "Most zoos are built on flat ground. Cheyenne Mountain Zoo is built on a mountain! It's every bit as steep as that sounds, so wear shoes you trust. The paths climb and drop along the slope above Colorado Springs, and now and then the pines open up to a view across the city to the foothills. High on a granite bluff above it all stands a lone stone tower, the Shrine of the Sun, a memorial from the 1930s. I went on a bright day in late February, with patches of snow still on the ground and the trees still bare.",
+  "Every bend in the path seemed to land me on a different continent. An African elephant stood in a sandy yard patched with snow, a big carved log beside it and a green ball sitting nearby. In the walk-through aviary, dozens of budgies in blue, green, yellow and white crowded the bare branches, and one would occasionally peel off in a blur of wings and land somewhere new. Wild budgies roam the Australian outback in flocks of thousands, so this was a small crowd by their standards. A gibbon walked along a log on two legs, one hand on a strap, the other arm in the air, in a room crisscrossed with ropes. Two wallabies lounged in the sunlight beside a hanging sack of hay, looking like they had nowhere to be.",
+  "Then there was the tiger. Amur tigers, also called Siberian tigers, are among the biggest cats on Earth, and they come from the snowy forests of Russia's Far East, so a Colorado February is nothing to them. This one's coat was thick, and in the sun its stripes lit up against the snow-patched rocks. It paced the slope, rested in the dirt, and at one point rose onto its hind legs against a stucco wall to stretch out to its full height. It's a strange thing to meet an animal from the far side of the planet on a Colorado hillside, and a sobering one when you remember that fewer than a thousand are left in the wild."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/cheyenne-mountain-zoo/9e52c0bf.webp",
+ "card": "assets/images/cheyenne-mountain-zoo/thumbs/9e52c0bf.webp",
+ "photos": [
+  {
+   "src": "assets/images/cheyenne-mountain-zoo/1116f968.webp",
+   "thumb": "assets/images/cheyenne-mountain-zoo/thumbs/1116f968.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Shrine of the Sun",
+   "alt": "A tall stone tower on a rocky bluff above a pine-covered mountainside under a blue sky with thin wisps of cloud"
+  },
+  {
+   "src": "assets/images/cheyenne-mountain-zoo/dc896f91.webp",
+   "thumb": "assets/images/cheyenne-mountain-zoo/thumbs/dc896f91.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Playground",
+   "alt": "An African elephant standing in a sandy yard with patches of snow, beside a large carved log and a green ball"
+  },
+  {
+   "src": "assets/images/cheyenne-mountain-zoo/9030f615.webp",
+   "thumb": "assets/images/cheyenne-mountain-zoo/thumbs/9030f615.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Technicolor",
+   "alt": "Dozens of blue, green, yellow and white budgies perched on bare branches beneath a bright light in the roof"
+  },
+  {
+   "src": "assets/images/cheyenne-mountain-zoo/739ad9e6.webp",
+   "thumb": "assets/images/cheyenne-mountain-zoo/thumbs/739ad9e6.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Usual Suspects",
+   "alt": "Budgies lined up along bare branches in an aviary, a white budgie among them and a beaded toy hanging below"
+  },
+  {
+   "src": "assets/images/cheyenne-mountain-zoo/f5c76718.webp",
+   "thumb": "assets/images/cheyenne-mountain-zoo/thumbs/f5c76718.webp",
+   "w": 1912,
+   "h": 1440,
+   "tw": 800,
+   "th": 603,
+   "caption": "Jungle Gym",
+   "alt": "A brown gibbon standing on a log with its arms raised and one hand on a strap, beside a big teal toy"
+  },
+  {
+   "src": "assets/images/cheyenne-mountain-zoo/94643e5c.webp",
+   "thumb": "assets/images/cheyenne-mountain-zoo/thumbs/94643e5c.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Sunbathers",
+   "alt": "Two grey wallabies resting in patches of sunlight in front of a stone wall, one stretched out on a raised white cot, with a hanging sack of hay and a black tub nearby"
+  },
+  {
+   "src": "assets/images/cheyenne-mountain-zoo/4bd2cdae.webp",
+   "thumb": "assets/images/cheyenne-mountain-zoo/thumbs/4bd2cdae.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Catnap",
+   "alt": "A tiger lying on dry ground beside a stucco wall, with a snowy slope and chain-link fence behind"
+  },
+  {
+   "src": "assets/images/cheyenne-mountain-zoo/03c3149f.webp",
+   "thumb": "assets/images/cheyenne-mountain-zoo/thumbs/03c3149f.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Game Face",
+   "alt": "A tiger stepping out from behind a stucco wall with snow-dusted rocks in the foreground"
+  },
+  {
+   "src": "assets/images/cheyenne-mountain-zoo/e0c0cbc1.webp",
+   "thumb": "assets/images/cheyenne-mountain-zoo/thumbs/e0c0cbc1.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Full Stretch",
+   "alt": "A tiger standing on its hind legs with its front paws against a stucco wall above a snowy slope"
+  },
+  {
+   "src": "assets/images/cheyenne-mountain-zoo/9aeed661.webp",
+   "thumb": "assets/images/cheyenne-mountain-zoo/thumbs/9aeed661.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Tail End",
+   "alt": "A tiger walking away across a snow-patched slope in the sun, seen from behind"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 55%"
+}

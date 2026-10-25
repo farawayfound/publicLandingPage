@@ -1,0 +1,154 @@
+{
+ "slug": "smoky-rockies",
+ "title": "Smoky Rockies",
+ "cardTitle": "Smoky Rockies",
+ "date": "2020-10",
+ "dateLabel": "October 2020",
+ "location": "Estes Park and Rocky Mountain National Park, Colorado",
+ "country": "United States",
+ "coords": [
+  40.4,
+  -105.6
+ ],
+ "tags": [
+  "hiking",
+  "lakes",
+  "mountains",
+  "national-park",
+  "road-trip",
+  "waterfalls"
+ ],
+ "sectionTitle": "Antlers and Embers",
+ "paragraphs": [
+  "At the end of September, Estes Park belongs to the elk. It's the rut, when bulls gather harems of cows, bugle at their rivals and go wherever they please. I found them wading into the lake and grazing across the town ball field, as if the game had been called on account of elk! The National Park Service asks visitors to stay at least 75 feet back, about two bus lengths, because a bull in the rut is not in a sharing mood. This was the last stop of our honeymoon, and it felt right to end it somewhere this wild. We spent the evening at the Stanley Hotel (yes, the one that inspired The Shining), watching the sky turn pink over the peaks from the balcony.",
+  "The next morning we headed up the Bear Lake corridor in Rocky Mountain National Park. I knew the park from a December visit, so seeing it in autumn felt like discovering a different place. Gold had settled into the willows and aspens along the trail, and a thin haze of wildfire smoke softened the ridges. Dream Lake was calm beneath Hallett Peak's broad granite face, with a gnarled pine gripping the rocks at the water's edge. Emerald Lake sits higher still, in a rocky bowl. Across the valley, Longs Peak, the park's only 14,000-foot peak, rose out of the haze. Lower down, a stream tumbled over boulders, and farther along, aspens lined a dry creek bed with their leaves scattered across the stones.",
+  "By sunset the whole valley was glowing. Smoke had reduced the sun to a small blood-orange disc, and beams of light fanned out across a golden meadow and a lone pine. Elk dotted the far side, still grazing. Colorado saved its strangest light for last. 2020 turned out to be the worst fire season in the state's recorded history, so I'm still not sure whether to call that sunset beautiful or worrying. I'll say both."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/smoky-rockies/cover.webp",
+ "card": "assets/images/smoky-rockies/thumbs/b663164f.webp",
+ "photos": [
+  {
+   "src": "assets/images/smoky-rockies/9451fd5f.webp",
+   "thumb": "assets/images/smoky-rockies/thumbs/9451fd5f.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Shoreline Patrol",
+   "alt": "A bull elk walks along a sandy lakeshore, with granite crags and lakeside houses across the blue water."
+  },
+  {
+   "src": "assets/images/smoky-rockies/bb2d2a34.webp",
+   "thumb": "assets/images/smoky-rockies/thumbs/bb2d2a34.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Knee Deep",
+   "alt": "A bull elk wades through shallow lake water beside rocks and dry grass."
+  },
+  {
+   "src": "assets/images/smoky-rockies/20eaf57f.webp",
+   "thumb": "assets/images/smoky-rockies/thumbs/20eaf57f.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Bugle Call",
+   "alt": "A bull elk with tall antlers and an open mouth stands on a green ball field beside grazing cows and calves, with a fence and forested hill behind."
+  },
+  {
+   "src": "assets/images/smoky-rockies/d1a9801e.webp",
+   "thumb": "assets/images/smoky-rockies/thumbs/d1a9801e.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Outfield",
+   "alt": "A bull elk with tall antlers stands on the grass beside two other elk in front of a ball field fence and distant mountains."
+  },
+  {
+   "src": "assets/images/smoky-rockies/97245f8a.webp",
+   "thumb": "assets/images/smoky-rockies/thumbs/97245f8a.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Blush",
+   "alt": "A pink dusk sky glows over a hazy mountain peak, seen past a balcony column and railing."
+  },
+  {
+   "src": "assets/images/smoky-rockies/aef7ef7d.webp",
+   "thumb": "assets/images/smoky-rockies/thumbs/aef7ef7d.webp",
+   "w": 1369,
+   "h": 2048,
+   "tw": 535,
+   "th": 800,
+   "caption": "Rocky Road",
+   "alt": "A rocky trail winds up past boulders and a golden aspen under pine branches and blue sky."
+  },
+  {
+   "src": "assets/images/smoky-rockies/21ad4781.webp",
+   "thumb": "assets/images/smoky-rockies/thumbs/21ad4781.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Dream Lake",
+   "alt": "A gnarled pine trunk frames a calm alpine lake and a broad granite peak under a pale sky."
+  },
+  {
+   "src": "assets/images/smoky-rockies/d799e770.webp",
+   "thumb": "assets/images/smoky-rockies/thumbs/d799e770.webp",
+   "w": 1369,
+   "h": 2048,
+   "tw": 535,
+   "th": 800,
+   "caption": "Carved by Ice",
+   "alt": "A still, dark green alpine lake lies beneath granite cliffs and a jagged rock spire under a clear blue sky."
+  },
+  {
+   "src": "assets/images/smoky-rockies/f69f0d1f.webp",
+   "thumb": "assets/images/smoky-rockies/thumbs/f69f0d1f.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Longs Peak",
+   "alt": "Hazy granite slopes and the flat summit of Longs Peak rise above a forested valley under a smoke-softened sky."
+  },
+  {
+   "src": "assets/images/smoky-rockies/44b06963.webp",
+   "thumb": "assets/images/smoky-rockies/thumbs/44b06963.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Tumble",
+   "alt": "A narrow waterfall spills through boulders in a forested mountain creek."
+  },
+  {
+   "src": "assets/images/smoky-rockies/139434cf.webp",
+   "thumb": "assets/images/smoky-rockies/thumbs/139434cf.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Dry Run",
+   "alt": "White-trunked aspens and fallen logs beside a dry, boulder-filled creek bed in autumn."
+  },
+  {
+   "src": "assets/images/smoky-rockies/4be00cf0.webp",
+   "thumb": "assets/images/smoky-rockies/thumbs/4be00cf0.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Lone Pine",
+   "alt": "A small orange sun glows through smoky haze above layered ridgelines and a golden meadow with a lone pine."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "20% 25%"
+}

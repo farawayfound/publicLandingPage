@@ -1,0 +1,172 @@
+{
+ "slug": "whistler",
+ "title": "Whistler, BC",
+ "cardTitle": "Whistler, BC",
+ "date": "2019-04",
+ "dateLabel": "April 2019",
+ "location": "Whistler, British Columbia",
+ "country": "Canada",
+ "coords": [
+  50.1,
+  -122.9
+ ],
+ "tags": [
+  "abroad",
+  "mountains",
+  "road-trip",
+  "snow"
+ ],
+ "sectionTitle": "Sea to Sky",
+ "paragraphs": [
+  "You can go from salt water to snow in a single drive. Will and I left Seattle on a Friday, crossed the border (bring your passport!), and rolled across the Lions Gate Bridge in flat gray light. Past the bridge, the Sea-to-Sky Highway hugs the shore of Howe Sound, a fjord that glaciers carved out of the Coast Mountains. The clouds sat on the forested ridges at first, then broke into patches of blue as we followed the water north. At Squamish the Stawamus Chief stepped out of the trees, a wall of granite roughly two thousand feet tall that the ice left standing at the head of the sound. A snow-capped peak waited at the end of the road. Garibaldi, I think.",
+  "Whistler Village is car-free, so park once and walk. More places should try it. In late April the last strip of snow at the foot of the mountain was slowly giving up on the plaza. Then we rode the lifts up, and just like that it was winter again! Wind-crusted drifts lay over black rock, and wide snowfields stretched away toward glaciated peaks. The weather tried a little of everything: clouds built over the ridges, a squall veiled the valley, and then the sun broke through and lit up the whole range.",
+  "On Sunday we followed the sound back south, the water bright in the sun and a small boat out on it, and drove down into spring. The ice that shaped Howe Sound has shrunk back a long way, and what is left of it holds out on the peaks above Whistler. In one weekend we had gone from where the ice was to where it still is."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/whistler/cover.webp",
+ "card": "assets/images/whistler/thumbs/b7bdf49c.webp",
+ "photos": [
+  {
+   "src": "assets/images/whistler/d8eee9ee.webp",
+   "thumb": "assets/images/whistler/thumbs/d8eee9ee.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Howe Sound",
+   "alt": "Highway running beside Howe Sound, with layered mountains, a snow-dusted peak and a low bank of cloud across the water under a big blue sky."
+  },
+  {
+   "src": "assets/images/whistler/8c8b7e2a.webp",
+   "thumb": "assets/images/whistler/thumbs/8c8b7e2a.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Shoulder Season",
+   "alt": "Cloud draped across the shoulder of a forested mountain, framed by tall evergreens beside the highway."
+  },
+  {
+   "src": "assets/images/whistler/beca5159.webp",
+   "thumb": "assets/images/whistler/thumbs/beca5159.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "The Chief",
+   "alt": "Stawamus Chief, a huge pale granite wall, rising above green forest beside a curving road."
+  },
+  {
+   "src": "assets/images/whistler/6549f97b.webp",
+   "thumb": "assets/images/whistler/thumbs/6549f97b.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Peak Ahead",
+   "alt": "Highway descending into a valley with a large snow-capped peak and clouds in the distance."
+  },
+  {
+   "src": "assets/images/whistler/9e81ca97.webp",
+   "thumb": "assets/images/whistler/thumbs/9e81ca97.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Orange Crush",
+   "alt": "Highway leading into a bright orange steel arch bridge, with forested mountains and a blue sky with a big cloud."
+  },
+  {
+   "src": "assets/images/whistler/959d8547.webp",
+   "thumb": "assets/images/whistler/thumbs/959d8547.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Melting Point",
+   "alt": "Last strip of melting snow in a paved plaza at the base of the mountain, beneath a tall white cloud and a forested ridge."
+  },
+  {
+   "src": "assets/images/whistler/8392586e.webp",
+   "thumb": "assets/images/whistler/thumbs/8392586e.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Lift Line",
+   "alt": "Chairlift cables with empty chairs climbing to a snow-covered rocky summit under dark clouds."
+  },
+  {
+   "src": "assets/images/whistler/96486b56.webp",
+   "thumb": "assets/images/whistler/thumbs/96486b56.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Drop In",
+   "alt": "Evergreens frame a distant snowy range above a forested valley under big white clouds."
+  },
+  {
+   "src": "assets/images/whistler/4d0cb4f4.webp",
+   "thumb": "assets/images/whistler/thumbs/4d0cb4f4.webp",
+   "w": 1152,
+   "h": 2048,
+   "tw": 450,
+   "th": 800,
+   "caption": "Trail Map",
+   "alt": "Forested valley with cleared ski runs and patches of snow beneath a deep blue sky and a bank of cloud."
+  },
+  {
+   "src": "assets/images/whistler/fa157417.webp",
+   "thumb": "assets/images/whistler/thumbs/fa157417.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Heavy Weather",
+   "alt": "Wide snowfield with dark, heaped clouds above glaciated peaks."
+  },
+  {
+   "src": "assets/images/whistler/05518eb4.webp",
+   "thumb": "assets/images/whistler/thumbs/05518eb4.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Squall",
+   "alt": "Snow squall veiling a mountain valley behind a stand of conifers."
+  },
+  {
+   "src": "assets/images/whistler/e914d0c8.webp",
+   "thumb": "assets/images/whistler/thumbs/e914d0c8.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Cookies and Cream",
+   "alt": "Wind-crusted snow drifts over dark rock with glaciated peaks in the distance."
+  },
+  {
+   "src": "assets/images/whistler/b7bdf49c.webp",
+   "thumb": "assets/images/whistler/thumbs/b7bdf49c.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Bowl Game",
+   "alt": "Sunlit glaciated peaks above a wide snowfield under a deep blue sky with scattered clouds."
+  },
+  {
+   "src": "assets/images/whistler/008f0718-72527.webp",
+   "thumb": "assets/images/whistler/thumbs/008f0718-72527.webp",
+   "w": 1920,
+   "h": 1080,
+   "tw": 800,
+   "th": 450,
+   "caption": "Southbound",
+   "alt": "Howe Sound with forested hills and a small boat on the water under a blue sky, seen past a highway barrier."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 0%"
+}

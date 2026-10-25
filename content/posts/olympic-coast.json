@@ -1,0 +1,182 @@
+{
+ "slug": "olympic-coast",
+ "title": "Olympic Coast",
+ "cardTitle": "Olympic Coast",
+ "date": "2018-05",
+ "dateLabel": "May 2018",
+ "location": "Olympic Coast, Washington",
+ "country": "United States",
+ "coords": [
+  47.9,
+  -124.6
+ ],
+ "tags": [
+  "backpacking",
+  "coast",
+  "forest",
+  "national-park"
+ ],
+ "sectionTitle": "Restless Shore",
+ "paragraphs": [
+  "Most beaches end at a parking lot. On the Olympic coast, the sand ends at a wall of spruce. The park protects more than seventy miles of this shoreline, much of it roadless, with trails that deliver you straight onto the beach. Rivers send whole trees down to the sea, and the surf stacks them along the high-tide line, bleached white as bone. Our hammocks went up between the spruce at the edge of the sand, Will's and mine, within earshot of the waves. If you plan to do the same, you will need a wilderness permit, and a tide table is just as important! Several headlands out here can only be rounded at low tide, and the Pacific does not negotiate.",
+  "The sun went down over the water, and then the moon took over, nearly full and bright enough to throw silver across the waves. We left the cameras clicking away on long exposures and fell asleep to the sound of the surf. By morning a fog had drifted in off the Pacific, and when the sun climbed above the trees it cut through in long golden shafts, down across the driftwood and the pebbles. Nearby, a lagoon the color of strong tea lay so still that the forest seemed to grow in both directions.",
+  "Then the tide went out, and the beach became a mirror. Sea stacks stood in the shallows with spruce growing from their crowns, their reflections stretched across the wet sand under a clear blue sky. Stacks are the stubborn remains of headlands: the waves chew through the softer rock and leave the hard core standing, so each one is a piece of coastline the ocean hasn't finished with yet. Back under the trees, a creek tumbled down a staircase of mossy boulders, in a hurry to join the sea. Almost nothing on this shore stays put. The logs arrived by river and will leave by tide, the sand shifts with every wave, and even the rock is being carried off a grain at a time. Everything out here is passing through, and so were we."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/olympic-coast/cover.webp",
+ "card": "assets/images/olympic-coast/thumbs/9eca0d71.webp",
+ "photos": [
+  {
+   "src": "assets/images/olympic-coast/667533e6.webp",
+   "thumb": "assets/images/olympic-coast/thumbs/667533e6.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Moon Shadow",
+   "alt": "The moon glowing through the trunks of tall spruce above a dark beach, with a forested island offshore and moonlight glittering on the sea."
+  },
+  {
+   "src": "assets/images/olympic-coast/6947bbdd.webp",
+   "thumb": "assets/images/olympic-coast/thumbs/6947bbdd.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Weathered",
+   "alt": "A bare, weathered spruce rises above tangled driftwood roots, with a hazy sea and a misty forested headland beyond."
+  },
+  {
+   "src": "assets/images/olympic-coast/7453b535.webp",
+   "thumb": "assets/images/olympic-coast/thumbs/7453b535.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Rise and Shine",
+   "alt": "The low sun glowing through a bare, weathered spruce, with rays of light slanting through the forest above driftwood logs on the beach."
+  },
+  {
+   "src": "assets/images/olympic-coast/1114fab5.webp",
+   "thumb": "assets/images/olympic-coast/thumbs/1114fab5.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Light Show",
+   "alt": "Golden sunbeams fan through spruce trees above big bleached driftwood logs on a gravel beach."
+  },
+  {
+   "src": "assets/images/olympic-coast/714f291f.webp",
+   "thumb": "assets/images/olympic-coast/thumbs/714f291f.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Windswept",
+   "alt": "A wind-bent spruce leans over a pebble beach strewn with driftwood roots, with sunbeams slanting through the hazy forest at right."
+  },
+  {
+   "src": "assets/images/olympic-coast/c7019d47.webp",
+   "thumb": "assets/images/olympic-coast/thumbs/c7019d47.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Marine Layer",
+   "alt": "A pebble beach and rolling surf lead to a misty, forested headland under a blue sky with a few clouds."
+  },
+  {
+   "src": "assets/images/olympic-coast/1d86425d.webp",
+   "thumb": "assets/images/olympic-coast/thumbs/1d86425d.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Tea Time",
+   "alt": "A still, tea-dark lagoon reflects spruce and bleached driftwood logs, with mist and sunbeams in the forest behind."
+  },
+  {
+   "src": "assets/images/olympic-coast/da0c1e56.webp",
+   "thumb": "assets/images/olympic-coast/thumbs/da0c1e56.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Looking Glass",
+   "alt": "A dark, still waterway winds between spruce-covered banks, reflecting the trees and a bright patch of sky as sunbeams filter through."
+  },
+  {
+   "src": "assets/images/olympic-coast/7856625d.webp",
+   "thumb": "assets/images/olympic-coast/thumbs/7856625d.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Tide's Out",
+   "alt": "A dark, slanting rock stack stands at the edge of a wet pebble beach, with surf rolling in and tree-topped islands on the hazy horizon."
+  },
+  {
+   "src": "assets/images/olympic-coast/0479c6f3.webp",
+   "thumb": "assets/images/olympic-coast/thumbs/0479c6f3.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Surf and Turf",
+   "alt": "Waves crash around the base of a dark, pointed sea stack beside a forested headland under a hazy blue sky."
+  },
+  {
+   "src": "assets/images/olympic-coast/413b846c.webp",
+   "thumb": "assets/images/olympic-coast/thumbs/413b846c.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Seafoam",
+   "alt": "Green and turquoise surf rolls toward a tree-topped sea stack and a forested point."
+  },
+  {
+   "src": "assets/images/olympic-coast/568f416b.webp",
+   "thumb": "assets/images/olympic-coast/thumbs/568f416b.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Good Hair Day",
+   "alt": "Two rocky sea stacks, one topped with spruce, rise from the surf beside a wet sandy beach."
+  },
+  {
+   "src": "assets/images/olympic-coast/25c5c2e4.webp",
+   "thumb": "assets/images/olympic-coast/thumbs/25c5c2e4.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Bookends",
+   "alt": "Two tall, pointed rock spires stand at the edge of a dark-sand beach where surf washes in under a clear blue sky."
+  },
+  {
+   "src": "assets/images/olympic-coast/df5f5a1f.webp",
+   "thumb": "assets/images/olympic-coast/thumbs/df5f5a1f.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Green Room",
+   "alt": "A small stream spills over mossy rocks in a lush green gully."
+  },
+  {
+   "src": "assets/images/olympic-coast/c6ad6266.webp",
+   "thumb": "assets/images/olympic-coast/thumbs/c6ad6266.webp",
+   "w": 1369,
+   "h": 2048,
+   "tw": 535,
+   "th": 800,
+   "caption": "Silky Smooth",
+   "alt": "Silky streams of water cascade over moss-covered boulders in a forest creek."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "67% 30%"
+}

@@ -1,0 +1,252 @@
+{
+ "slug": "zion",
+ "title": "Zion NP",
+ "cardTitle": "Zion NP",
+ "date": "2018-04",
+ "dateLabel": "April 2018",
+ "location": "Zion National Park, Utah",
+ "country": "United States",
+ "coords": [
+  37.3,
+  -113.0
+ ],
+ "tags": [
+  "national-park",
+  "hiking",
+  "desert",
+  "night-sky"
+ ],
+ "sectionTitle": "Angels and Watchmen",
+ "paragraphs": [
+  "Zion Canyon is only fifteen miles long, yet its walls climb as much as half a mile above the Virgin River, so most of the sightseeing here is done with your neck bent backwards. Will and I spent a few days in April around Springdale, the little town at the park's front door. We started with the Zion-Mount Carmel Highway, which winds up out of the canyon beneath red cliffs capped in cream. On the east side the walls give way to rolling hills of white slickrock, and the crosshatched lines in the stone are the slopes of sand dunes from nearly two hundred million years ago, frozen into Navajo Sandstone. An entire desert turned to rock! We pulled over at a few overlooks and peered down into narrow slots in the sandstone.",
+  "Angels Landing and the Narrows were the big ones. Both trailheads sit along the main canyon road, which is shuttle-only from spring through fall, so plan on riding the bus. From the river, Angels Landing looks like a wall with no way up. A trail zigzags up its back side, and the higher we climbed, the smaller the Virgin River became, until it was a ribbon through cottonwoods that were just leafing out. Back at the bottom, we walked up the river itself into the Narrows, where the canyon closes in until the water is the only trail and sunlight bounces down the walls to turn it gold. You can't help noticing that you are standing inside something that took millions of years to carve, and that the same quiet river is still at it.",
+  "One evening the Watchman, the peak that stands guard over the south entrance, caught the last of the sun and turned amber while the valley below slipped into shade. We chased the light along the road until it was gone, then pointed the cameras at the sky. The stars came out in absurd numbers, and a pair of streaks crossed them for good measure (meteors or satellites, I couldn't say)."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/zion/cover.webp",
+ "card": "assets/images/zion/thumbs/c48421d2.webp",
+ "photos": [
+  {
+   "src": "assets/images/zion/ce7ab715.webp",
+   "thumb": "assets/images/zion/thumbs/ce7ab715.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Welcome Mat",
+   "alt": "A stone entrance pillar with the National Park Service arrowhead and a hanging Zion National Park sign, backlit by bright sun."
+  },
+  {
+   "src": "assets/images/zion/bec67678.webp",
+   "thumb": "assets/images/zion/thumbs/bec67678.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Rolling In",
+   "alt": "A road curving along the base of red cliffs under a blue sky with scattered clouds."
+  },
+  {
+   "src": "assets/images/zion/5c8ffe22.webp",
+   "thumb": "assets/images/zion/thumbs/5c8ffe22.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Capped Off",
+   "alt": "A highway curving beneath red sandstone cliffs capped in cream, under a deep blue sky."
+  },
+  {
+   "src": "assets/images/zion/b525eeb9.webp",
+   "thumb": "assets/images/zion/thumbs/b525eeb9.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Carved Out",
+   "alt": "A tall red cliff with a huge arched alcove, a pine and a bare tree in the foreground."
+  },
+  {
+   "src": "assets/images/zion/b546d8da.webp",
+   "thumb": "assets/images/zion/thumbs/b546d8da.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Set in Stone",
+   "alt": "Waves of white slickrock with banded patterns and scattered pine trees."
+  },
+  {
+   "src": "assets/images/zion/fc6e0917.webp",
+   "thumb": "assets/images/zion/thumbs/fc6e0917.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Pinstripe",
+   "alt": "A narrow slot canyon with dark banded walls and a pine tree at the rim."
+  },
+  {
+   "src": "assets/images/zion/7c887d4c.webp",
+   "thumb": "assets/images/zion/thumbs/7c887d4c.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Creamsicle",
+   "alt": "Looking down into a slot canyon with cream and orange swirled walls above a murky green pool."
+  },
+  {
+   "src": "assets/images/zion/4a4ed5b6.webp",
+   "thumb": "assets/images/zion/thumbs/4a4ed5b6.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Perch",
+   "alt": "Red sandstone fins streaked with dark crevices, with a lone pine and a bare tree on the ledge against a clear blue sky."
+  },
+  {
+   "src": "assets/images/zion/928f6fd4.webp",
+   "thumb": "assets/images/zion/thumbs/928f6fd4.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Bare Bones",
+   "alt": "A leafless dead tree on a rim overlooking a forested canyon."
+  },
+  {
+   "src": "assets/images/zion/c48421d2.webp",
+   "thumb": "assets/images/zion/thumbs/c48421d2.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Angels Landing",
+   "alt": "The red Angels Landing monolith above the Virgin River, with white-topped cliffs behind."
+  },
+  {
+   "src": "assets/images/zion/66476758.webp",
+   "thumb": "assets/images/zion/thumbs/66476758.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Leafing Out",
+   "alt": "A pale-topped red cliff framed by green cottonwood trees under a deep blue sky."
+  },
+  {
+   "src": "assets/images/zion/416ae595.webp",
+   "thumb": "assets/images/zion/thumbs/416ae595.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Zion Canyon",
+   "alt": "Looking down Zion Canyon from high on a trail, with a pale-topped peak, red cliffs on either side and a deep blue sky."
+  },
+  {
+   "src": "assets/images/zion/ea4762c6.webp",
+   "thumb": "assets/images/zion/thumbs/ea4762c6.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Far Below",
+   "alt": "A bird's-eye view of the Virgin River and canyon road bending past yellow-green cottonwoods."
+  },
+  {
+   "src": "assets/images/zion/3d922cc9.webp",
+   "thumb": "assets/images/zion/thumbs/3d922cc9.webp",
+   "w": 2048,
+   "h": 2048,
+   "tw": 800,
+   "th": 800,
+   "caption": "Rock Stars",
+   "alt": "Stacks of flat red rocks on a slickrock ledge above a green canyon floor."
+  },
+  {
+   "src": "assets/images/zion/aaa21f45.webp",
+   "thumb": "assets/images/zion/thumbs/aaa21f45.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Virgin River",
+   "alt": "A turquoise river beside a boulder and bare cottonwood branches, with canyon walls beyond."
+  },
+  {
+   "src": "assets/images/zion/71f952c5.webp",
+   "thumb": "assets/images/zion/thumbs/71f952c5.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "The Narrows",
+   "alt": "Sculpted red canyon walls above green water and pale cobbles in the Narrows."
+  },
+  {
+   "src": "assets/images/zion/e6c6b6a0.webp",
+   "thumb": "assets/images/zion/thumbs/e6c6b6a0.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "River Road",
+   "alt": "Smooth sunlit canyon walls above a shallow river and rounded stones."
+  },
+  {
+   "src": "assets/images/zion/6a3b6e13.webp",
+   "thumb": "assets/images/zion/thumbs/6a3b6e13.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Reflected Glory",
+   "alt": "A narrow gorge with warm light reflected on the river between dark walls."
+  },
+  {
+   "src": "assets/images/zion/6d42cbe2.webp",
+   "thumb": "assets/images/zion/thumbs/6d42cbe2.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "The Watchman",
+   "alt": "The Watchman glowing gold at sunset above a tree-lined road with a single car."
+  },
+  {
+   "src": "assets/images/zion/76064921.webp",
+   "thumb": "assets/images/zion/thumbs/76064921.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Evening Shift",
+   "alt": "The Watchman peak in evening light, framed by cottonwood branches above a small stream."
+  },
+  {
+   "src": "assets/images/zion/e3130642.webp",
+   "thumb": "assets/images/zion/thumbs/e3130642.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Sunset Strip",
+   "alt": "An orange sunset glow between dark hills above a curving highway with a lone traffic barrel."
+  },
+  {
+   "src": "assets/images/zion/80539cad.webp",
+   "thumb": "assets/images/zion/thumbs/80539cad.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Make a Wish",
+   "alt": "A canyon under a sky full of stars with two bright streaks."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "20% 35%"
+}

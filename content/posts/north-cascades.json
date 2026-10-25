@@ -1,0 +1,256 @@
+{
+ "slug": "north-cascades",
+ "title": "North Cascades NP",
+ "cardTitle": "North Cascades NP",
+ "date": "2018-07",
+ "dateLabel": "July 2018",
+ "location": "North Cascades National Park, Washington",
+ "country": "United States",
+ "coords": [
+  48.7,
+  -121.2
+ ],
+ "tags": [
+  "national-park",
+  "mountains",
+  "hiking",
+  "lakes",
+  "snow",
+  "night-sky"
+ ],
+ "sectionTitle": "American Alps",
+ "paragraphs": [
+  "The sun was sitting right on the horizon as we came in, and I spent the whole descent with my face against the window. A river braided its way toward the sea beside the engine. Then came the inlets of Puget Sound, glowing silver under a long, dim line of mountains. The Olympics, I think. I had four days and two cameras, and the North Cascades were still a drive away.",
+  "The next day I followed the Skagit River upstream on Highway 20, the North Cascades Highway. A golden meadow rolled out beneath a snow-streaked peak, and then the river itself came into view. I didn't believe the color until I saw it, a milky mint green that looked more tropical than Washington! A raptor skimmed low over the water. Later, in the shade of tall conifers, the sun could only squeeze through as a single bright star. Plan on summer: that highway is the only road across these mountains, and it closes every winter.",
+  "Around nine that evening, the last light hit the snow on the high peaks and turned it pink and orange. I watched it fade, then stayed up for the dark. Far from any city lights, the Milky Way arched over the firs, so thick with stars the sky looked crowded, and low on the left sat a steady orange dot. That was Mars, closing in on its nearest approach to Earth in fifteen years. The bright glow low in that band is the center of our own galaxy.",
+  "The long day came next. The trail climbed out of the forest, and the views only got bigger. Far below, Diablo Lake lay in its valley like a turquoise fjord. The color comes from rock flour: glaciers grind rock into a fine powder, the meltwater carries it downstream, and the suspended flour scatters the light into an unreal blue-green. The park holds more than 300 glaciers, and the ice carved this skyline as surely as it colored the water. Jagged peaks stacked up behind each other, fading from dark blue to pale blue in the haze. People call these mountains the American Alps, and now I get it. In the other direction, a much deeper blue lay a long way down, which I think was Ross Lake. Near the top, mid-July still meant snowfields and little ponds of meltwater ringed by subalpine firs.",
+  "I spent my last morning with the dams. I pulled over for each dam I passed. Seattle City Light built three of them on the Skagit (Gorge, Diablo and Ross), and the corridor off Highway 20 is lined with powerhouses wedged into steep country. I peered down a gorge at one, a long cleared strip running up the slope behind it. Another had ROSS across its front with a huge dam looming above. At a steel suspension footbridge, a little local held court in the middle of the planks like a self-appointed toll collector. Hydropower like this is a big reason Seattle's electricity is so clean."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/north-cascades/cover.webp",
+ "card": "assets/images/north-cascades/thumbs/349e4e96.webp",
+ "photos": [
+  {
+   "src": "assets/images/north-cascades/0328eb04.webp",
+   "thumb": "assets/images/north-cascades/thumbs/0328eb04.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Wing View",
+   "alt": "Sunset seen from an airplane window, with a braided river winding toward the sea beside a jet engine."
+  },
+  {
+   "src": "assets/images/north-cascades/36d83b06.webp",
+   "thumb": "assets/images/north-cascades/thumbs/36d83b06.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Sound Approach",
+   "alt": "Inlets and islands of Puget Sound at dusk under an orange sky, with a faint line of mountains on the horizon."
+  },
+  {
+   "src": "assets/images/north-cascades/3e30067b.webp",
+   "thumb": "assets/images/north-cascades/thumbs/3e30067b.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Valley Floor",
+   "alt": "A golden meadow of tall grass in the foreground and a snow-streaked mountain under a clear blue sky."
+  },
+  {
+   "src": "assets/images/north-cascades/63948a1e.webp",
+   "thumb": "assets/images/north-cascades/thumbs/63948a1e.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Mint Condition",
+   "alt": "A mint-green glacial river bending through a forested valley, framed by drooping evergreen boughs."
+  },
+  {
+   "src": "assets/images/north-cascades/9413b97e.webp",
+   "thumb": "assets/images/north-cascades/thumbs/9413b97e.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Low Pass",
+   "alt": "A bird of prey flying low over a sparkling turquoise river between forested slopes."
+  },
+  {
+   "src": "assets/images/north-cascades/efabb5d3.webp",
+   "thumb": "assets/images/north-cascades/thumbs/efabb5d3.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Sun Star",
+   "alt": "Looking up through tall conifers, with the sun bursting through the leaves in the upper corner."
+  },
+  {
+   "src": "assets/images/north-cascades/abe5da99.webp",
+   "thumb": "assets/images/north-cascades/thumbs/abe5da99.webp",
+   "w": 2048,
+   "h": 1152,
+   "tw": 800,
+   "th": 450,
+   "caption": "Alpenglow",
+   "alt": "Snow-capped peaks glowing in warm evening light behind a wall of fir trees."
+  },
+  {
+   "src": "assets/images/north-cascades/38480d1b.webp",
+   "thumb": "assets/images/north-cascades/thumbs/38480d1b.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Runoff",
+   "alt": "A rocky mountain stream tumbling past a bank of snow, the water blurred by a long exposure."
+  },
+  {
+   "src": "assets/images/north-cascades/274dfbd9.webp",
+   "thumb": "assets/images/north-cascades/thumbs/274dfbd9.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Star Stuff",
+   "alt": "The Milky Way arching over silhouetted fir trees, with a distant snowy peak at the bottom."
+  },
+  {
+   "src": "assets/images/north-cascades/b9c99809.webp",
+   "thumb": "assets/images/north-cascades/thumbs/b9c99809.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Mars",
+   "alt": "The Milky Way over firs lit an eerie green by a nearby light, with a bright orange dot low on the left."
+  },
+  {
+   "src": "assets/images/north-cascades/349e4e96.webp",
+   "thumb": "assets/images/north-cascades/thumbs/349e4e96.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Diablo Lake",
+   "alt": "A turquoise glacial lake in a deep valley seen from a high ridge, with snowy peaks beyond and fir trees in the foreground."
+  },
+  {
+   "src": "assets/images/north-cascades/628410c6.webp",
+   "thumb": "assets/images/north-cascades/thumbs/628410c6.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Skyline",
+   "alt": "Jagged snow-covered peaks above forested ridges under a bright blue sky."
+  },
+  {
+   "src": "assets/images/north-cascades/216d6dd7.webp",
+   "thumb": "assets/images/north-cascades/thumbs/216d6dd7.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "July Snow",
+   "alt": "A large dark mountain streaked with snow patches rising above a forested ridge under a hazy sky."
+  },
+  {
+   "src": "assets/images/north-cascades/158cbca9.webp",
+   "thumb": "assets/images/north-cascades/thumbs/158cbca9.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Ridge After Ridge",
+   "alt": "Hazy blue ridges receding into the distance beneath a snowy peak, with a sliver of turquoise water below."
+  },
+  {
+   "src": "assets/images/north-cascades/464ddf51.webp",
+   "thumb": "assets/images/north-cascades/thumbs/464ddf51.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Deep Blue",
+   "alt": "A dark blue lake far below a snowfield and rocky ridge, with a pointed mountain beyond."
+  },
+  {
+   "src": "assets/images/north-cascades/afb45ad6.webp",
+   "thumb": "assets/images/north-cascades/thumbs/afb45ad6.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Stillness",
+   "alt": "A still alpine pond ringed by small firs and snow, with a pointed peak on the horizon."
+  },
+  {
+   "src": "assets/images/north-cascades/b790c2af.webp",
+   "thumb": "assets/images/north-cascades/thumbs/b790c2af.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Thaw",
+   "alt": "Turquoise meltwater pooled between snowbanks and rock walls, with firs in the background."
+  },
+  {
+   "src": "assets/images/north-cascades/730a3246.webp",
+   "thumb": "assets/images/north-cascades/thumbs/730a3246.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Vertigo",
+   "alt": "A steep forested gorge with a green river, a powerhouse building and snowy peaks in the distance."
+  },
+  {
+   "src": "assets/images/north-cascades/30105335.webp",
+   "thumb": "assets/images/north-cascades/thumbs/30105335.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Powerhouse",
+   "alt": "A concrete powerhouse marked ROSS with a dam rising behind it and power lines crossing in front of the forest."
+  },
+  {
+   "src": "assets/images/north-cascades/26c583eb.webp",
+   "thumb": "assets/images/north-cascades/thumbs/26c583eb.webp",
+   "w": 2048,
+   "h": 1639,
+   "tw": 800,
+   "th": 640,
+   "caption": "Toll Collector",
+   "alt": "A steel suspension footbridge seen through a rounded metal frame, with a small animal standing on the planks."
+  },
+  {
+   "src": "assets/images/north-cascades/6675815e.webp",
+   "thumb": "assets/images/north-cascades/thumbs/6675815e.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Shallows",
+   "alt": "Clear turquoise shallows in the foreground of a calm mountain lake, with a forested hill, snowy peaks and a transmission tower beyond."
+  },
+  {
+   "src": "assets/images/north-cascades/bff1d460.webp",
+   "thumb": "assets/images/north-cascades/thumbs/bff1d460.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Last Light",
+   "alt": "A covered boat slip silhouetted on calm water at dusk as the sun sets behind trees."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "57% 30%"
+}

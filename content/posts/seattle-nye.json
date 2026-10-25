@@ -1,0 +1,101 @@
+{
+ "slug": "seattle-nye",
+ "title": "Seattle NYE",
+ "cardTitle": "Seattle NYE",
+ "date": "2021-12",
+ "dateLabel": "December 2021",
+ "location": "Seattle, Washington",
+ "country": "United States",
+ "coords": [
+  47.6,
+  -122.3
+ ],
+ "tags": [
+  "city",
+  "mountains",
+  "snow"
+ ],
+ "sectionTitle": "Between Years",
+ "paragraphs": [
+  "I rang in 2022 in Seattle, and the weekend began with soup dumplings. They came in a bamboo steamer, and the trick is to bite a small hole and sip the broth first, because it will scald you. There were wide hand-pulled noodles too, and a s'mores dessert served beside a chocolate cake crowned with a marshmallow torched to a crisp.",
+  "The last half hour of 2021 belonged to Lake Union. I watched from the north shore, near Gas Works Park, with snow still on the lawn. The park is built around the rusted towers of an old gasification plant, but the better view is across the water. The whole skyline lines up over there: the towers of South Lake Union and downtown, the Space Needle off to the right, every light doubled in the lake. The Needle glowed magenta, with pale beams reaching up from its crown into the dark. It was built for the 1962 World's Fair, and nearly sixty years later it still looks like the future. A small boat slid through the reflections with its red and green running lights on, and at midnight the fireworks went up over the Needle and the lake lit up a second time! If you are ever in Seattle for New Year's Eve, I recommend this shore.",
+  "On the second morning of 2022 I headed east into the Cascades, and the snow got serious. A jagged peak rose over the valley, and evergreens heavy with snow crowded the edge of dark green water, all of it under a low gray sky. I shot most of it through the car window, so the glare and the power lines come with the view. Later, a roofed wooden frame stood in deep drifts while the sun found a gap in the clouds. A day and a half earlier, a whole city had counted down to midnight. The mountains keep a slower calendar. Back in 2016 I wrote that Seattle would one day be my home. I haven't forgotten."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/seattle-nye/cover.webp",
+ "card": "assets/images/seattle-nye/thumbs/e4d7a2a6.webp",
+ "photos": [
+  {
+   "src": "assets/images/seattle-nye/182b07db.webp",
+   "thumb": "assets/images/seattle-nye/thumbs/182b07db.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Soup's On",
+   "alt": "A round bamboo steamer packed with pleated soup dumplings on a dark counter, with a steel carafe at the left edge."
+  },
+  {
+   "src": "assets/images/seattle-nye/ad0d0a27.webp",
+   "thumb": "assets/images/seattle-nye/thumbs/ad0d0a27.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Indoor Campfire",
+   "alt": "A s'mores dessert on a wooden board: a graham cracker lid over a white scoop on a pool of chocolate sauce, beside a small bowl of chocolate cake topped with a torched marshmallow."
+  },
+  {
+   "src": "assets/images/seattle-nye/0e14d2f6.webp",
+   "thumb": "assets/images/seattle-nye/thumbs/0e14d2f6.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Lake Union",
+   "alt": "Night view across calm Lake Union to the lit Seattle skyline, with the Space Needle glowing magenta at the right and colorful reflections on the water."
+  },
+  {
+   "src": "assets/images/seattle-nye/bc6c09ba.webp",
+   "thumb": "assets/images/seattle-nye/thumbs/bc6c09ba.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Valley Wall",
+   "alt": "A jagged snow-covered mountain rising above a dark forested valley, seen through a car window, with a snowy slope in the foreground under a gray sky."
+  },
+  {
+   "src": "assets/images/seattle-nye/5a250ccb.webp",
+   "thumb": "assets/images/seattle-nye/thumbs/5a250ccb.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "High Voltage",
+   "alt": "A steep, snow-streaked peak seen close up through a car window, with power lines crossing the gray sky above it and a blurred snowy fir in the foreground."
+  },
+  {
+   "src": "assets/images/seattle-nye/4ac3620c.webp",
+   "thumb": "assets/images/seattle-nye/thumbs/4ac3620c.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Snow Bank",
+   "alt": "Evergreens heavy with snow along the bank of dark green water under heavy gray clouds, with a blurred snowbank in the foreground."
+  },
+  {
+   "src": "assets/images/seattle-nye/05066d62.webp",
+   "thumb": "assets/images/seattle-nye/thumbs/05066d62.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Snowed Under",
+   "alt": "A roofed wooden frame standing in deep snow beside snow-laden firs, with the sun flaring through the trees behind it."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "95% 0%"
+}

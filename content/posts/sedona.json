@@ -1,0 +1,100 @@
+{
+ "slug": "sedona",
+ "title": "Sedona, AZ",
+ "cardTitle": "Sedona, AZ",
+ "date": "2019-04",
+ "dateLabel": "April 2019",
+ "location": "Sedona, Arizona",
+ "country": "United States",
+ "coords": [
+  34.9,
+  -111.8
+ ],
+ "tags": [
+  "desert",
+  "hiking"
+ ],
+ "sectionTitle": "Seeing Red",
+ "paragraphs": [
+  "Sedona started out gray. Storm clouds sat low over the hills as we followed the road through Oak Creek Canyon, a guardrail on one side and green oak and pine on the other. The pale trunks of burned trees still stood among the new growth. Red sandstone broke through the green in rusty ledges, and even under that sky it held its color.",
+  "Red rock country is a lot greener than the name suggests, but the red is real. It's iron oxide, a fancy name for rust, staining the sandstone. You can read the layers in every cliff and mesa, red below and cream on top. We hiked out to Devil's Bridge, the largest natural sandstone arch in the Sedona area. The trail runs through pinyon and juniper scrub, and a claret cup cactus was blooming scarlet right at the edge of the path. Then the rock simply reaches out over the trees. It's one of the most popular hikes in town, so get an early start!",
+  "The dog found the best slab of slickrock and sat down like a model, red harness and all, with a big red butte over one shoulder. Everything matched. The sky kept switching, from gray to blue to big white cumulus, and the rock seemed to change color with every shift. The bridge has no rebar and no mortar, only rain, frost and wind and more time than I can imagine. Next to that, the two days we had for Slide Rock, Cathedral Rock and Devil's Bridge were a blink. A very red one."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/sedona/cover.webp",
+ "card": "assets/images/sedona/thumbs/8dd761d7.webp",
+ "photos": [
+  {
+   "src": "assets/images/sedona/94410b36.webp",
+   "thumb": "assets/images/sedona/thumbs/94410b36.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Gray Welcome",
+   "alt": "A guardrail runs along a canyon road under heavy gray clouds, with red rock ledges and pale burned tree trunks on a green hillside."
+  },
+  {
+   "src": "assets/images/sedona/c6b32981.webp",
+   "thumb": "assets/images/sedona/thumbs/c6b32981.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Cliffside",
+   "alt": "A tall canyon wall of red and brown rock rises above pine forest, with red sandstone crags in the foreground and a blue sky with small clouds."
+  },
+  {
+   "src": "assets/images/sedona/75b8790b.webp",
+   "thumb": "assets/images/sedona/thumbs/75b8790b.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Claret Cup",
+   "alt": "A claret cup cactus with bright scarlet flowers, surrounded by spines, dry twigs and red soil."
+  },
+  {
+   "src": "assets/images/sedona/8dd761d7.webp",
+   "thumb": "assets/images/sedona/thumbs/8dd761d7.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Point of View",
+   "alt": "An Australian shepherd in a red harness sits on a slab of red slickrock above a green forested valley, with a large red butte to the right and distant mesas under a cloudy sky."
+  },
+  {
+   "src": "assets/images/sedona/a02b82aa.webp",
+   "thumb": "assets/images/sedona/thumbs/a02b82aa.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Odd Couple",
+   "alt": "Two rocky red-brown peaks, one spired and one domed, rise above pine forest under heavy cloud."
+  },
+  {
+   "src": "assets/images/sedona/ad705024.webp",
+   "thumb": "assets/images/sedona/thumbs/ad705024.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Red Skyline",
+   "alt": "A wide green valley with red rock spires on the left and layered red buttes in the distance under a sky of white cumulus clouds."
+  },
+  {
+   "src": "assets/images/sedona/a70f0115.webp",
+   "thumb": "assets/images/sedona/thumbs/a70f0115.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Moody Blues",
+   "alt": "A two-lobed red rock butte rises above a dark forested slope under a deep blue sky with dark clouds."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "30% 40%"
+}

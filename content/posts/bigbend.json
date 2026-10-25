@@ -1,0 +1,298 @@
+{
+ "slug": "bigbend",
+ "title": "Big Bend NP",
+ "cardTitle": "Big Bend NP",
+ "date": "2015-07",
+ "dateLabel": "July 2015",
+ "location": "Big Bend National Park, Texas",
+ "country": "United States",
+ "coords": [
+  29.3,
+  -103.2
+ ],
+ "tags": [
+  "national-park",
+  "desert"
+ ],
+ "sectionTitle": "Hidden Treasures",
+ "paragraphs": [
+  "The mountains of Big Bend seemingly rise out of thin air as you drive through the vast expanse of West Texas. Over the horizon, what you may initially perceive to be clouds casting their shadows upon land turns out to be sky-scraping plateaus carved out by the steady flow of the Rio Grande. At the center of the park sits the Chisos Mountains, home to some of the most dramatic landscapes in the Southern United States. Who knew that Texas had such prominent mountains hidden far beyond its population centers! You better fuel up in Marathon, TX as you approach the National Park, for there is only one gas station in the park and the fuel prices are generally two to three times the normal rate in Texas. Hot showers, cooked meals, internet, electricity, and even water can be scarce to non-existent resources within its boundaries, but those who make the pilgrimage to Big Bend will be thoroughly rewarded.",
+  "Big Bend was my first national park, and it made quite the first impression. I felt a sense of isolation, exploration, and discovery in this desert oasis. I fell in love with the mountains at Big Bend. The first couple of days were spent hiking around the Chisos to picturesque peaks and vistas. I hadn’t paid much attention to the night sky because the moon was out for many hours after sunset each night. On the third night, I woke up past midnight with a full bladder, and I was utterly astounded and speechless as I crawled out of my tent. Spread out across the sky above me, I saw vibrant colors radiating out of the glimmering center of the Milky Way set against countless stars dotting the darkest of night skies. For the first time, I saw the universe with my own eyes. The sight filled me with love and a deep sense of connection to the universe. It is only when we get lost in the cosmos that we feel the most connected to this little rock we are living on. Everything on this rock, we must cherish, for we are all voyagers travelling along the same cosmic journey. My life was changed. I now lived for adventure, for discovery."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/bigbend/cover.jpg",
+ "card": "assets/images/bigbend/thumbs/2DS_1699.jpg",
+ "photos": [
+  {
+   "src": "assets/images/bigbend/_SHN7348.jpg",
+   "thumb": "assets/images/bigbend/thumbs/_SHN7348.jpg",
+   "w": 1803,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Rearview"
+  },
+  {
+   "src": "assets/images/bigbend/_SHN7418.jpg",
+   "thumb": "assets/images/bigbend/thumbs/_SHN7418.jpg",
+   "w": 1803,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Teaser"
+  },
+  {
+   "src": "assets/images/bigbend/_SHN7477.jpg",
+   "thumb": "assets/images/bigbend/thumbs/_SHN7477.jpg",
+   "w": 1680,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Introduction"
+  },
+  {
+   "src": "assets/images/bigbend/_SHN7508.jpg",
+   "thumb": "assets/images/bigbend/thumbs/_SHN7508.jpg",
+   "w": 1803,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Bears and Lions"
+  },
+  {
+   "src": "assets/images/bigbend/_SHN8162.jpg",
+   "thumb": "assets/images/bigbend/thumbs/_SHN8162.jpg",
+   "w": 1803,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Picture Perfect"
+  },
+  {
+   "src": "assets/images/bigbend/_SHN7547.jpg",
+   "thumb": "assets/images/bigbend/thumbs/_SHN7547.jpg",
+   "w": 1803,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Desert Rainbow"
+  },
+  {
+   "src": "assets/images/bigbend/_SHN8812.jpg",
+   "thumb": "assets/images/bigbend/thumbs/_SHN8812.jpg",
+   "w": 1803,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Hideaway"
+  },
+  {
+   "src": "assets/images/bigbend/2DS_2802.jpg",
+   "thumb": "assets/images/bigbend/thumbs/2DS_2802.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Milky Way"
+  },
+  {
+   "src": "assets/images/bigbend/_SHN7614.jpg",
+   "thumb": "assets/images/bigbend/thumbs/_SHN7614.jpg",
+   "w": 1803,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Steps"
+  },
+  {
+   "src": "assets/images/bigbend/_SHN7622.jpg",
+   "thumb": "assets/images/bigbend/thumbs/_SHN7622.jpg",
+   "w": 1680,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Decent"
+  },
+  {
+   "src": "assets/images/bigbend/_SHN7630.jpg",
+   "thumb": "assets/images/bigbend/thumbs/_SHN7630.jpg",
+   "w": 1803,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Window"
+  },
+  {
+   "src": "assets/images/bigbend/_SHN7661.jpg",
+   "thumb": "assets/images/bigbend/thumbs/_SHN7661.jpg",
+   "w": 1803,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Break"
+  },
+  {
+   "src": "assets/images/bigbend/_SHN8096.jpg",
+   "thumb": "assets/images/bigbend/thumbs/_SHN8096.jpg",
+   "w": 1803,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Fields"
+  },
+  {
+   "src": "assets/images/bigbend/_SHN8120.jpg",
+   "thumb": "assets/images/bigbend/thumbs/_SHN8120.jpg",
+   "w": 1803,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Jamming"
+  },
+  {
+   "src": "assets/images/bigbend/_SHN7529.jpg",
+   "thumb": "assets/images/bigbend/thumbs/_SHN7529.jpg",
+   "w": 1803,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Drive in"
+  },
+  {
+   "src": "assets/images/bigbend/_SHN8168.jpg",
+   "thumb": "assets/images/bigbend/thumbs/_SHN8168.jpg",
+   "w": 1803,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Boots"
+  },
+  {
+   "src": "assets/images/bigbend/_SHN8169.jpg",
+   "thumb": "assets/images/bigbend/thumbs/_SHN8169.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Pointer"
+  },
+  {
+   "src": "assets/images/bigbend/_SHN8182.jpg",
+   "thumb": "assets/images/bigbend/thumbs/_SHN8182.jpg",
+   "w": 1803,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Valley"
+  },
+  {
+   "src": "assets/images/bigbend/_SHN8206.jpg",
+   "thumb": "assets/images/bigbend/thumbs/_SHN8206.jpg",
+   "w": 1680,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Scale"
+  },
+  {
+   "src": "assets/images/bigbend/_SHN8261.jpg",
+   "thumb": "assets/images/bigbend/thumbs/_SHN8261.jpg",
+   "w": 1803,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Rio Grande"
+  },
+  {
+   "src": "assets/images/bigbend/_SHN8505.jpg",
+   "thumb": "assets/images/bigbend/thumbs/_SHN8505.jpg",
+   "w": 1680,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Expanse"
+  },
+  {
+   "src": "assets/images/bigbend/2DS_1508.jpg",
+   "thumb": "assets/images/bigbend/thumbs/2DS_1508.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Revolve"
+  },
+  {
+   "src": "assets/images/bigbend/2DS_1635.jpg",
+   "thumb": "assets/images/bigbend/thumbs/2DS_1635.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Ridgeline"
+  },
+  {
+   "src": "assets/images/bigbend/_SHN7608.jpg",
+   "thumb": "assets/images/bigbend/thumbs/_SHN7608.jpg",
+   "w": 1803,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Resident"
+  },
+  {
+   "src": "assets/images/bigbend/2DS_1686.jpg",
+   "thumb": "assets/images/bigbend/thumbs/2DS_1686.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Layback"
+  },
+  {
+   "src": "assets/images/bigbend/2DS_1661.jpg",
+   "thumb": "assets/images/bigbend/thumbs/2DS_1661.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Hold On"
+  },
+  {
+   "src": "assets/images/bigbend/2DS_1699.jpg",
+   "thumb": "assets/images/bigbend/thumbs/2DS_1699.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Wild West"
+  },
+  {
+   "src": "assets/images/bigbend/2DS_2429.jpg",
+   "thumb": "assets/images/bigbend/thumbs/2DS_2429.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Basin"
+  },
+  {
+   "src": "assets/images/bigbend/2DS_2435.jpg",
+   "thumb": "assets/images/bigbend/thumbs/2DS_2435.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Ready Set"
+  },
+  {
+   "src": "assets/images/bigbend/_SHN7591.jpg",
+   "thumb": "assets/images/bigbend/thumbs/_SHN7591.jpg",
+   "w": 1200,
+   "h": 1803,
+   "tw": 600,
+   "th": 392,
+   "caption": "Jugs"
+  }
+ ],
+ "legacy": true
+}

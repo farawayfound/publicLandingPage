@@ -1,0 +1,433 @@
+{
+ "slug": "london",
+ "title": "London, UK",
+ "cardTitle": "London, UK",
+ "date": "2016-03",
+ "dateLabel": "March 2016",
+ "location": "London, England",
+ "country": "United Kingdom",
+ "coords": [
+  51.5,
+  -0.1
+ ],
+ "tags": [
+  "city",
+  "abroad"
+ ],
+ "sectionTitle": "Constant Evolution",
+ "paragraphs": [
+  "Much like fine wine, London only gets better as it gets older. However, it doesn't just get older, in many aspects, it keeps on the cutting edge of technology, architecture, and design. The sight of the tallest edifice in Western Europe, the Shard, framed by the Tower of London is rather odd. They were built almost 900 years apart! London Bridge is on its third \"modern\" iteration since 990 AD, with even more bridges built on the exact site by the romans almost two thousand years ago!",
+  "Shortly after checking into my hostel in the mediterranean/middle eastern district, I realized London is the biggest melting pot in Europe. Perhaps the only city that can beat it is the Big Apple NYC. I ate food from every region througout my stay. I met up with a friend who was a foreign exchange student here, and she showed me around town. It was a great time, and I'm definitely going to visit again. There is just so much more to experience."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/london/cover.jpg",
+ "card": "assets/images/london/thumbs/DSC_8869.jpg",
+ "photos": [
+  {
+   "src": "assets/images/london/DSC_8790.jpg",
+   "thumb": "assets/images/london/thumbs/DSC_8790.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Over the Pond"
+  },
+  {
+   "src": "assets/images/london/DSC02558.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02558.jpg",
+   "w": 1385,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Camden Eye"
+  },
+  {
+   "src": "assets/images/london/DSC02600.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02600.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Commuter"
+  },
+  {
+   "src": "assets/images/london/DSC02588.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02588.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Double Deck"
+  },
+  {
+   "src": "assets/images/london/DSC02583.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02583.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Cathedral"
+  },
+  {
+   "src": "assets/images/london/DSC02576.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02576.jpg",
+   "w": 1680,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Steps"
+  },
+  {
+   "src": "assets/images/london/DSC_8824.jpg",
+   "thumb": "assets/images/london/thumbs/DSC_8824.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Eye"
+  },
+  {
+   "src": "assets/images/london/DSC_8841.jpg",
+   "thumb": "assets/images/london/thumbs/DSC_8841.jpg",
+   "w": 1680,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "To the Moon"
+  },
+  {
+   "src": "assets/images/london/DSC_8844.jpg",
+   "thumb": "assets/images/london/thumbs/DSC_8844.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Median"
+  },
+  {
+   "src": "assets/images/london/DSC_8819.jpg",
+   "thumb": "assets/images/london/thumbs/DSC_8819.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Nightshift"
+  },
+  {
+   "src": "assets/images/london/DSC_8855.jpg",
+   "thumb": "assets/images/london/thumbs/DSC_8855.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Late"
+  },
+  {
+   "src": "assets/images/london/DSC_8863.jpg",
+   "thumb": "assets/images/london/thumbs/DSC_8863.jpg",
+   "w": 1200,
+   "h": 1800,
+   "tw": 600,
+   "th": 392,
+   "caption": "Condos"
+  },
+  {
+   "src": "assets/images/london/DSC_8865.jpg",
+   "thumb": "assets/images/london/thumbs/DSC_8865.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Mall"
+  },
+  {
+   "src": "assets/images/london/DSC_8867.jpg",
+   "thumb": "assets/images/london/thumbs/DSC_8867.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Night Towers"
+  },
+  {
+   "src": "assets/images/london/DSC_8869.jpg",
+   "thumb": "assets/images/london/thumbs/DSC_8869.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "The Scoop"
+  },
+  {
+   "src": "assets/images/london/DSC_8874.jpg",
+   "thumb": "assets/images/london/thumbs/DSC_8874.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Hero"
+  },
+  {
+   "src": "assets/images/london/DSC_8855.jpg",
+   "thumb": "assets/images/london/thumbs/DSC_8855.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Late"
+  },
+  {
+   "src": "assets/images/london/DSC_8882.jpg",
+   "thumb": "assets/images/london/thumbs/DSC_8882.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Glare"
+  },
+  {
+   "src": "assets/images/london/DSC02281.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02281.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Telephone"
+  },
+  {
+   "src": "assets/images/london/DSC02297.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02297.jpg",
+   "w": 1500,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Cornering"
+  },
+  {
+   "src": "assets/images/london/DSC02302.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02302.jpg",
+   "w": 1680,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Going Places"
+  },
+  {
+   "src": "assets/images/london/DSC02313.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02313.jpg",
+   "w": 1680,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Corinthia"
+  },
+  {
+   "src": "assets/images/london/DSC02314.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02314.jpg",
+   "w": 1680,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Sherlock Holmes"
+  },
+  {
+   "src": "assets/images/london/DSC02481.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02481.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Ben"
+  },
+  {
+   "src": "assets/images/london/DSC02318.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02318.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Art Museum"
+  },
+  {
+   "src": "assets/images/london/DSC02320.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02320.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Consumerism"
+  },
+  {
+   "src": "assets/images/london/DSC02325.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02325.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Night Bus"
+  },
+  {
+   "src": "assets/images/london/DSC02326.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02326.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Station"
+  },
+  {
+   "src": "assets/images/london/DSC02349.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02349.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Framed"
+  },
+  {
+   "src": "assets/images/london/DSC02357.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02357.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Tower of London"
+  },
+  {
+   "src": "assets/images/london/DSC02359.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02359.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Armory"
+  },
+  {
+   "src": "assets/images/london/DSC02361.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02361.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Canons"
+  },
+  {
+   "src": "assets/images/london/DSC02376.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02376.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Allen"
+  },
+  {
+   "src": "assets/images/london/DSC02413.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02413.jpg",
+   "w": 1200,
+   "h": 1800,
+   "tw": 600,
+   "th": 392,
+   "caption": "One Point"
+  },
+  {
+   "src": "assets/images/london/DSC02428.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02428.jpg",
+   "w": 1200,
+   "h": 1800,
+   "tw": 600,
+   "th": 392,
+   "caption": "Mexican Flavours"
+  },
+  {
+   "src": "assets/images/london/DSC02438.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02438.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Tower Bridge"
+  },
+  {
+   "src": "assets/images/london/DSC02442.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02442.jpg",
+   "w": 1200,
+   "h": 1800,
+   "tw": 600,
+   "th": 392,
+   "caption": "Glass Ceiling"
+  },
+  {
+   "src": "assets/images/london/DSC02443.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02443.jpg",
+   "w": 1200,
+   "h": 1800,
+   "tw": 600,
+   "th": 392,
+   "caption": "Color me Blue"
+  },
+  {
+   "src": "assets/images/london/DSC02454.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02454.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Textures"
+  },
+  {
+   "src": "assets/images/london/DSC02465.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02465.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Old and New"
+  },
+  {
+   "src": "assets/images/london/DSC02468.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02468.jpg",
+   "w": 1200,
+   "h": 1800,
+   "tw": 600,
+   "th": 392,
+   "caption": "Shard"
+  },
+  {
+   "src": "assets/images/london/DSC02564.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02564.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Modern Mess"
+  },
+  {
+   "src": "assets/images/london/DSC02562.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02562.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Fire Tower"
+  },
+  {
+   "src": "assets/images/london/DSC02554.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02554.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Glass Wing"
+  },
+  {
+   "src": "assets/images/london/DSC02494.jpg",
+   "thumb": "assets/images/london/thumbs/DSC02494.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Nemo"
+  }
+ ],
+ "legacy": true
+}

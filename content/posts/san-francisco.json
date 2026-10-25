@@ -1,0 +1,180 @@
+{
+ "slug": "san-francisco",
+ "title": "San Francisco, CA",
+ "cardTitle": "San Francisco, CA",
+ "date": "2023-12",
+ "dateLabel": "December 2023",
+ "location": "San Francisco, California",
+ "country": "United States",
+ "coords": [
+  37.8,
+  -122.4
+ ],
+ "tags": [
+  "city",
+  "coast"
+ ],
+ "sectionTitle": "Within Sight",
+ "paragraphs": [
+  "Saturday was crisp and cloudless, the sky a deep December blue. This was one last long weekend for just the two of us before our family grew by one, so we started slow, on a rooftop garden that was probably Salesforce Park, laid across the top of a transit center. Orange pincushion proteas and a tall monkey puzzle tree grew right up against the glass towers. A transit center with a park on its roof is the kind of city planning I wish I saw everywhere. Down at Embarcadero Plaza, the Vaillancourt Fountain tipped water out of tilted concrete boxes into a green pool. It dates to 1971 and people have argued about it ever since. I wouldn't call it pretty, yet I couldn't stop looking.",
+  "On Sunday the sky turned hazy and we took the ferry out to Alcatraz. The bay was choppy and blue-green, and the island grew from a rocky hump into a lighthouse and a pale cellhouse. It was a federal prison from 1934 to 1963, but what struck me was how close it sits to the city. It is only a mile and a quarter offshore, and from its edge you can see the whole skyline. One narrow cell held a bunk, a shelf, a checkerboard and a bare bulb. A burned-out concrete shell stared at the bay through empty window frames, and beyond a rusted fence of barbed wire the Golden Gate Bridge hung in the haze. Freedom was in plain sight the whole time, just across water nobody was allowed to cross. In the terraced gardens, tiny magenta blossoms took no notice of the island's reputation.",
+  "Late that afternoon we were at Pier 39, where sea lions have held the floating docks since around 1990. In December most of the planks sat empty, with the sea lions bunched onto just a few. One slid off the edge with a splash while the sun burned through the haze behind the Ferris wheel. After dark we found our way up Grant Avenue in Chinatown, under red paper lanterns and strings of fairy lights, the Li Po neon glowing over the street. It is often called the oldest Chinatown in North America, and it was a fine place to end the weekend."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/san-francisco/cover.webp",
+ "card": "assets/images/san-francisco/thumbs/f7326239.webp",
+ "photos": [
+  {
+   "src": "assets/images/san-francisco/62cb2bb6.webp",
+   "thumb": "assets/images/san-francisco/thumbs/62cb2bb6.webp",
+   "w": 1153,
+   "h": 2048,
+   "tw": 450,
+   "th": 800,
+   "caption": "Pincushion",
+   "alt": "Orange pincushion flower surrounded by glossy green leaves with a glass tower behind"
+  },
+  {
+   "src": "assets/images/san-francisco/a831b57c.webp",
+   "thumb": "assets/images/san-francisco/thumbs/a831b57c.webp",
+   "w": 1153,
+   "h": 2048,
+   "tw": 450,
+   "th": 800,
+   "caption": "Monkey Puzzle",
+   "alt": "Tall monkey puzzle tree in a rooftop garden beside a glass building and a metal railing"
+  },
+  {
+   "src": "assets/images/san-francisco/d22972af.webp",
+   "thumb": "assets/images/san-francisco/thumbs/d22972af.webp",
+   "w": 2048,
+   "h": 1153,
+   "tw": 800,
+   "th": 450,
+   "caption": "Choppy Crossing",
+   "alt": "Alcatraz island seen across green water from the ferry deck, with the Golden Gate Bridge in the distance"
+  },
+  {
+   "src": "assets/images/san-francisco/f7326239.webp",
+   "thumb": "assets/images/san-francisco/thumbs/f7326239.webp",
+   "w": 2048,
+   "h": 1153,
+   "tw": 800,
+   "th": 450,
+   "caption": "The Rock",
+   "alt": "Alcatraz island with its lighthouse and cellhouse rising above the water under a pale sky"
+  },
+  {
+   "src": "assets/images/san-francisco/1d7779b6.webp",
+   "thumb": "assets/images/san-francisco/thumbs/1d7779b6.webp",
+   "w": 2048,
+   "h": 1153,
+   "tw": 800,
+   "th": 450,
+   "caption": "Cellhouse",
+   "alt": "Long pale cellhouse wall above a terraced garden with a bench and a worn path"
+  },
+  {
+   "src": "assets/images/san-francisco/23e450e4.webp",
+   "thumb": "assets/images/san-francisco/thumbs/23e450e4.webp",
+   "w": 1153,
+   "h": 2048,
+   "tw": 450,
+   "th": 800,
+   "caption": "Four Walls",
+   "alt": "Narrow green and cream prison cell with a bunk, a shelf, a folding checkerboard table and a bare bulb"
+  },
+  {
+   "src": "assets/images/san-francisco/55eff080.webp",
+   "thumb": "assets/images/san-francisco/thumbs/55eff080.webp",
+   "w": 1368,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Gutted",
+   "alt": "Burned-out concrete ruin with empty window frames and exposed steel framing the bay"
+  },
+  {
+   "src": "assets/images/san-francisco/578c7f09.webp",
+   "thumb": "assets/images/san-francisco/thumbs/578c7f09.webp",
+   "w": 1368,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "So Close",
+   "alt": "Rusted chain-link fence and barbed wire framing the Golden Gate Bridge in haze"
+  },
+  {
+   "src": "assets/images/san-francisco/09b4cdd8.webp",
+   "thumb": "assets/images/san-francisco/thumbs/09b4cdd8.webp",
+   "w": 1368,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Fireworks",
+   "alt": "Close-up of tiny magenta blossoms on thin wiry stems with a soft green background"
+  },
+  {
+   "src": "assets/images/san-francisco/9713d3ed.webp",
+   "thumb": "assets/images/san-francisco/thumbs/9713d3ed.webp",
+   "w": 2048,
+   "h": 1368,
+   "tw": 800,
+   "th": 534,
+   "caption": "Across the Bay",
+   "alt": "San Francisco skyline and the Bay Bridge across the water under streaks of high cloud"
+  },
+  {
+   "src": "assets/images/san-francisco/e322460e-1766.webp",
+   "thumb": "assets/images/san-francisco/thumbs/e322460e-1766.webp",
+   "w": 1080,
+   "h": 1920,
+   "tw": 450,
+   "th": 800,
+   "caption": "Sun Wheel",
+   "alt": "Sun setting directly behind a Ferris wheel above rows of wooden floating docks"
+  },
+  {
+   "src": "assets/images/san-francisco/2d4882ea.webp",
+   "thumb": "assets/images/san-francisco/thumbs/2d4882ea.webp",
+   "w": 1153,
+   "h": 2048,
+   "tw": 450,
+   "th": 800,
+   "caption": "Hauled Out",
+   "alt": "Sea lions resting on wooden floating docks with a gull standing nearby"
+  },
+  {
+   "src": "assets/images/san-francisco/15a294de-6874.webp",
+   "thumb": "assets/images/san-francisco/thumbs/15a294de-6874.webp",
+   "w": 1080,
+   "h": 1920,
+   "tw": 450,
+   "th": 800,
+   "caption": "Neighbors",
+   "alt": "Two sea lions facing each other on a wooden floating dock with rows of empty docks behind"
+  },
+  {
+   "src": "assets/images/san-francisco/15a294de-9571.webp",
+   "thumb": "assets/images/san-francisco/thumbs/15a294de-9571.webp",
+   "w": 1080,
+   "h": 1920,
+   "tw": 450,
+   "th": 800,
+   "caption": "Cannonball",
+   "alt": "A sea lion on the edge of a dock beside a splash of water"
+  },
+  {
+   "src": "assets/images/san-francisco/80a9ae2d.webp",
+   "thumb": "assets/images/san-francisco/thumbs/80a9ae2d.webp",
+   "w": 2048,
+   "h": 1368,
+   "tw": 800,
+   "th": 534,
+   "caption": "Red Lanterns",
+   "alt": "Red paper lanterns, a red and gold neon sign and a gift shop awning on a Chinatown street at night"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "20% 15%"
+}

@@ -1,0 +1,325 @@
+{
+ "slug": "paris",
+ "title": "Paris, FR",
+ "cardTitle": "Paris, FR",
+ "date": "2016-02",
+ "dateLabel": "February 2016",
+ "location": "Paris, France",
+ "country": "France",
+ "coords": [
+  48.9,
+  2.3
+ ],
+ "tags": [
+  "city",
+  "abroad"
+ ],
+ "sectionTitle": "City of Love",
+ "paragraphs": [
+  "Tranquility. Not the word you'd expect to describe the streets of Paris, unless it's the start of February and in the early morning. Other than the occasional jogger, I walked the empty streets of paris in perfect tranquility. It was a surreal introduction, it felt like time stood still until the sun began to rise. The quaint café's began to open their doors, and I chose to eat my petit déjeuner with a view of Notre Dame. The locals were quite impressed with my broken French that I managed to piece together, but I felt ashamed that I forgot what was at once my native tongue. I will make it my goal to get better at this beautiful language by the time I come back.",
+  "The rumors are true. Paris can make anybody fall in love. I met a gal at the hostel on the first night and we decided to explore the city together. We visited the gardens of Tuileries and went shopping at the Champs-Élysées. We sat at the foot of the Arc de Triomphe and feasted on french and macarons and everything in between. We walked the banks of the Sienne and held hands under the Eiffel Tower and talked about our dreams on a lonely bridge after sunset. Two days was all it took, we were certainly in love. The city might be frozen in time; it hasn't changed much for a hundred years, but we had to go back to our lives, back to reality. We realized that we, like time, must keep moving on."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/paris/cover.jpg",
+ "card": "assets/images/paris/thumbs/DSCF1090.jpg",
+ "photos": [
+  {
+   "src": "assets/images/paris/DSCF0981.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF0981.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Station"
+  },
+  {
+   "src": "assets/images/paris/DSCF0985.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF0985.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Frozen in Time"
+  },
+  {
+   "src": "assets/images/paris/DSCF0993.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF0993.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Cruise"
+  },
+  {
+   "src": "assets/images/paris/DSCF0998.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF0998.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Ghost"
+  },
+  {
+   "src": "assets/images/paris/DSCF1002.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF1002.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Norte Dame Sunrise"
+  },
+  {
+   "src": "assets/images/paris/DSCF1003.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF1003.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Towers"
+  },
+  {
+   "src": "assets/images/paris/DSCF1007.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF1007.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Governor"
+  },
+  {
+   "src": "assets/images/paris/DSCF1013.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF1013.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Council"
+  },
+  {
+   "src": "assets/images/paris/DSCF1017.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF1017.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Palace"
+  },
+  {
+   "src": "assets/images/paris/DSCF1018.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF1018.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Louvre"
+  },
+  {
+   "src": "assets/images/paris/DSCF1021.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF1021.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Pyramid"
+  },
+  {
+   "src": "assets/images/paris/DSCF1023.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF1023.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Intricate"
+  },
+  {
+   "src": "assets/images/paris/DSCF1025.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF1025.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Descent"
+  },
+  {
+   "src": "assets/images/paris/DSCF1028.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF1028.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Courtyard"
+  },
+  {
+   "src": "assets/images/paris/DSCF1034.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF1034.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Onyx"
+  },
+  {
+   "src": "assets/images/paris/DSCF1035.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF1035.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Hunter"
+  },
+  {
+   "src": "assets/images/paris/DSCF1038.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF1038.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Marble"
+  },
+  {
+   "src": "assets/images/paris/DSCF1046.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF1046.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Gilded"
+  },
+  {
+   "src": "assets/images/paris/DSCF1050.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF1050.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Dining"
+  },
+  {
+   "src": "assets/images/paris/DSCF1062.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF1062.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Grand"
+  },
+  {
+   "src": "assets/images/paris/DSCF1071.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF1071.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Collection"
+  },
+  {
+   "src": "assets/images/paris/DSCF1083.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF1083.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Hall"
+  },
+  {
+   "src": "assets/images/paris/DSCF1085.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF1085.jpg",
+   "w": 1200,
+   "h": 1800,
+   "tw": 600,
+   "th": 392,
+   "caption": "Victory"
+  },
+  {
+   "src": "assets/images/paris/DSCF1090.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF1090.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Winter"
+  },
+  {
+   "src": "assets/images/paris/DSCF1094.jpg",
+   "thumb": "assets/images/paris/thumbs/DSCF1094.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Ceiling"
+  },
+  {
+   "src": "assets/images/paris/Enlight1 14.jpg",
+   "thumb": "assets/images/paris/thumbs/Enlight1 14.jpg",
+   "w": 1663,
+   "h": 1663,
+   "tw": 600,
+   "th": 392,
+   "caption": "Fallen"
+  },
+  {
+   "src": "assets/images/paris/Enlight1 18.jpg",
+   "thumb": "assets/images/paris/thumbs/Enlight1 18.jpg",
+   "w": 1241,
+   "h": 1241,
+   "tw": 600,
+   "th": 392,
+   "caption": "MIA"
+  },
+  {
+   "src": "assets/images/paris/IMG_2320.jpg",
+   "thumb": "assets/images/paris/thumbs/IMG_2320.jpg",
+   "w": 1200,
+   "h": 1800,
+   "tw": 600,
+   "th": 392,
+   "caption": "Underside"
+  },
+  {
+   "src": "assets/images/paris/IMG_2375.jpg",
+   "thumb": "assets/images/paris/thumbs/IMG_2375.jpg",
+   "w": 2142,
+   "h": 1724,
+   "tw": 600,
+   "th": 392,
+   "caption": "Arc"
+  },
+  {
+   "src": "assets/images/paris/Enlight1 17.jpg",
+   "thumb": "assets/images/paris/thumbs/Enlight1 17.jpg",
+   "w": 2213,
+   "h": 1475,
+   "tw": 600,
+   "th": 392,
+   "caption": "Oldest Bridge"
+  },
+  {
+   "src": "assets/images/paris/Enlight1 16.jpg",
+   "thumb": "assets/images/paris/thumbs/Enlight1 16.jpg",
+   "w": 1603,
+   "h": 1602,
+   "tw": 600,
+   "th": 392,
+   "caption": "Trusses"
+  },
+  {
+   "src": "assets/images/paris/Enlight1 15.jpg",
+   "thumb": "assets/images/paris/thumbs/Enlight1 15.jpg",
+   "w": 1663,
+   "h": 1663,
+   "tw": 600,
+   "th": 392,
+   "caption": "Lit Up"
+  },
+  {
+   "src": "assets/images/paris/IMG_2315 2.jpg",
+   "thumb": "assets/images/paris/thumbs/IMG_2315 2.jpg",
+   "w": 1200,
+   "h": 1600,
+   "tw": 600,
+   "th": 392,
+   "caption": "Eiffel"
+  }
+ ],
+ "legacy": true
+}

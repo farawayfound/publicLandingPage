@@ -1,0 +1,251 @@
+{
+ "slug": "paris-revisited",
+ "title": "Gilded Paris",
+ "cardTitle": "Gilded Paris",
+ "date": "2022-11",
+ "dateLabel": "November 2022",
+ "location": "Paris, France",
+ "country": "France",
+ "coords": [
+  48.9,
+  2.3
+ ],
+ "tags": [
+  "abroad",
+  "city"
+ ],
+ "sectionTitle": "Second Glance",
+ "paragraphs": [
+  "In 2016 I spent two days in Paris and promised myself I would come back with better French. It took almost seven years. When I finally returned it was late November, damp and gray, and from the Louvre the top of the Eiffel Tower simply vanished into the fog behind one of the palace's pavilions. Not exactly postcard weather, but I'll take a moody Paris over a perfect one.",
+  "Inside the Louvre, the gray turned to gold. The Napoleon III apartments are pure excess, with crimson velvet, gilt on every surface, crystal chandeliers and a dining room with a table set for dozens. Napoleon III is also the emperor who put Baron Haussmann in charge of rebuilding Paris, so the cream-colored apartment blocks outside, with their iron balconies, belong to the same era as these golden rooms. Whatever you think of the man, the dense blocks and wide boulevards he left behind are a big reason Paris is still such a good city to walk. Even among all that gilt, I drifted toward the mountains: an Alpine lake as still as glass in a gold frame. A hiker can't help it.",
+  "Montmartre came next. From the hill at Sacré-Cœur, Paris spreads out to the haze in a patchwork of zinc roofs and cream stone, and inside the basilica a vast blue and gold mosaic glows above the altar. I also made time for the Catacombs, about as far from gilded as Paris gets. They hold the remains of millions of Parisians, which puts all that gold leaf in perspective. Book a timed ticket ahead, since they only let so many people down at once.",
+  "The next day I walked along the Seine, past houseboats moored under yellow plane trees with the Grand Palais hazy in the distance, and ended up at the Orsay. It started out as a train station for the 1900 World's Fair, and under those huge arched windows and that coffered ceiling you could happily miss a train. Naturally, I headed for the landscapes again: the Cirque de Gavarnie, the chalk cliffs of Étretat, Monet's irises and a pale winter frost. A painted lion stared me down from a green wall, and a cutaway model of an opera house, the Palais Garnier I think, showed how much machinery hides behind all that gilt. Paris hasn't changed much since my first visit, which makes it a handy ruler for how much I have."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/paris-revisited/cover.webp",
+ "card": "assets/images/paris-revisited/thumbs/2aab7885.webp",
+ "photos": [
+  {
+   "src": "assets/images/paris-revisited/0cafa779.webp",
+   "thumb": "assets/images/paris-revisited/thumbs/0cafa779.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Warm Welcome",
+   "alt": "Church interior with a painted apse, gilded coffered arch and altar glowing in warm light"
+  },
+  {
+   "src": "assets/images/paris-revisited/d6abb822.webp",
+   "thumb": "assets/images/paris-revisited/thumbs/d6abb822.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Vanishing Act",
+   "alt": "Louvre pavilion with a dark mansard roof and the Eiffel Tower fading into gray fog behind it"
+  },
+  {
+   "src": "assets/images/paris-revisited/9f3137fa.webp",
+   "thumb": "assets/images/paris-revisited/thumbs/9f3137fa.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Skylit Palace",
+   "alt": "View upward through a geometric glass roof at a stone palace facade"
+  },
+  {
+   "src": "assets/images/paris-revisited/bd06bf75.webp",
+   "thumb": "assets/images/paris-revisited/thumbs/bd06bf75.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Second Empire",
+   "alt": "Gilded salon with red velvet chairs, crimson curtains, a carved fireplace and a painted ceiling"
+  },
+  {
+   "src": "assets/images/paris-revisited/29e7339b.webp",
+   "thumb": "assets/images/paris-revisited/thumbs/29e7339b.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Wingspan",
+   "alt": "Small gold winged ornament on a pink display stand"
+  },
+  {
+   "src": "assets/images/paris-revisited/3a99f411.webp",
+   "thumb": "assets/images/paris-revisited/thumbs/3a99f411.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Up We Go",
+   "alt": "Stone stairwell with a gold chandelier, gilded iron balustrade and honey-colored marble columns"
+  },
+  {
+   "src": "assets/images/paris-revisited/fd6a9188.webp",
+   "thumb": "assets/images/paris-revisited/thumbs/fd6a9188.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Jewel Box",
+   "alt": "Glowing stained glass window at the end of a dark stone archway"
+  },
+  {
+   "src": "assets/images/paris-revisited/776269de.webp",
+   "thumb": "assets/images/paris-revisited/thumbs/776269de.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Alps, Framed",
+   "alt": "Gold-framed painting of a glassy Alpine lake beneath snowy peaks"
+  },
+  {
+   "src": "assets/images/paris-revisited/1712fae5.webp",
+   "thumb": "assets/images/paris-revisited/thumbs/1712fae5.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Sea of Zinc",
+   "alt": "Zinc rooftops, chimneys and cream stone apartment buildings seen from Montmartre"
+  },
+  {
+   "src": "assets/images/paris-revisited/1811c5b0.webp",
+   "thumb": "assets/images/paris-revisited/thumbs/1811c5b0.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Sacré-Cœur",
+   "alt": "White domes of Sacré-Cœur behind an iron fence and an autumn tree"
+  },
+  {
+   "src": "assets/images/paris-revisited/24dfbadf.webp",
+   "thumb": "assets/images/paris-revisited/thumbs/24dfbadf.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Halo",
+   "alt": "Looking up inside Sacré-Cœur at a white dome ringed with arched windows above a large blue and gold apse mosaic"
+  },
+  {
+   "src": "assets/images/paris-revisited/1c6d1e22.webp",
+   "thumb": "assets/images/paris-revisited/thumbs/1c6d1e22.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Underground",
+   "alt": "Stone-lined underground tunnel with arched walls and a light at the far end"
+  },
+  {
+   "src": "assets/images/paris-revisited/7e8fef91.webp",
+   "thumb": "assets/images/paris-revisited/thumbs/7e8fef91.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Lion Fountain",
+   "alt": "Stone fountain with lions in front of a church with two bell towers under a blue sky"
+  },
+  {
+   "src": "assets/images/paris-revisited/c0a60271.webp",
+   "thumb": "assets/images/paris-revisited/thumbs/c0a60271.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Houseboat Row",
+   "alt": "Houseboats moored along the Seine beneath yellow autumn trees, the Grand Palais hazy in the distance"
+  },
+  {
+   "src": "assets/images/paris-revisited/065423a4.webp",
+   "thumb": "assets/images/paris-revisited/thumbs/065423a4.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Gavarnie",
+   "alt": "Painting of a mountain amphitheater with a thin waterfall and snow-streaked ridges in an ornate dark frame"
+  },
+  {
+   "src": "assets/images/paris-revisited/c3826673.webp",
+   "thumb": "assets/images/paris-revisited/thumbs/c3826673.webp",
+   "w": 2048,
+   "h": 1368,
+   "tw": 800,
+   "th": 534,
+   "caption": "Étretat",
+   "alt": "Gold-framed painting of white chalk cliffs and a rock arch above a beach with boats"
+  },
+  {
+   "src": "assets/images/paris-revisited/bbd21b82.webp",
+   "thumb": "assets/images/paris-revisited/thumbs/bbd21b82.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Irises at Giverny",
+   "alt": "Gold-framed impressionist painting of a garden path lined with purple irises"
+  },
+  {
+   "src": "assets/images/paris-revisited/e41a777e.webp",
+   "thumb": "assets/images/paris-revisited/thumbs/e41a777e.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Frost Warning",
+   "alt": "Gold-framed painting of a pale, frosty winter landscape"
+  },
+  {
+   "src": "assets/images/paris-revisited/6d6a8075.webp",
+   "thumb": "assets/images/paris-revisited/thumbs/6d6a8075.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Painted Paris",
+   "alt": "Large painting of Paris seen from high above under a golden hazy sky, with a small red balloon at the lower left"
+  },
+  {
+   "src": "assets/images/paris-revisited/1e915bbd.webp",
+   "thumb": "assets/images/paris-revisited/thumbs/1e915bbd.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Behind the Curtain",
+   "alt": "Cutaway scale model of an opera house showing the stage tower, gilded auditorium and dome"
+  },
+  {
+   "src": "assets/images/paris-revisited/c2e059a3.webp",
+   "thumb": "assets/images/paris-revisited/thumbs/c2e059a3.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Mane Event",
+   "alt": "Gold-framed painting of a lion with a bright orange mane against a green wall"
+  },
+  {
+   "src": "assets/images/paris-revisited/5ce90a38.webp",
+   "thumb": "assets/images/paris-revisited/thumbs/5ce90a38.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Counting Sheep",
+   "alt": "Gold-framed painting of sheep in a dark field beneath a rising moon"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "48% 20%"
+}

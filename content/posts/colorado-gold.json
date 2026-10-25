@@ -1,0 +1,222 @@
+{
+ "slug": "colorado-gold",
+ "title": "Colorado Gold",
+ "cardTitle": "Colorado Gold",
+ "date": "2020-09",
+ "dateLabel": "September 2020",
+ "location": "Elk Mountains, Colorado",
+ "country": "United States",
+ "coords": [
+  39.0,
+  -106.9
+ ],
+ "tags": [
+  "forest",
+  "hiking",
+  "mountains",
+  "road-trip"
+ ],
+ "sectionTitle": "Shared Roots",
+ "paragraphs": [
+  "The aspens across Colorado's high country go gold in late September, and my wife and I landed right in the middle of it on our honeymoon road trip. Around Aspen and Snowmass the color was only just arriving. From the road, the mountainsides were dark spruce with streaks of yellow running down through them, as if the slopes hadn't quite made up their minds. A gravel road curved toward a pink-tinged peak. We walked a trail between tall white trunks, with red shrubs glowing along its edges, and stopped at an old steel truss bridge over a river choked with boulders.",
+  "Aspens share roots, and I liked that thought on a honeymoon. A few days later we were in Crested Butte, where the cliff-faced mountain the town is named for rises over the valley. The sky was hazy that day and everything looked soft around the edges, but the slopes still glowed above a rust-colored meadow with a creek winding through it. Two mountain bikes were parked against a boardwalk railing with the best view in town.",
+  "The next day the aspens were at their peak. Whole groves stood solid gold against a blue sky, and loose leaves drifted through the air. Up on the ski mountain the aspens crowded right up to the lifts, and the empty chairs hung among them, waiting for snow. To chase the color, remember that it starts high and works its way downhill, so if you miss it in one valley, drop lower. The leaves will be gone within weeks, but next September the hillsides will show up right on schedule. I plan to as well."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/colorado-gold/cover.webp",
+ "card": "assets/images/colorado-gold/thumbs/3e90f8fb.webp",
+ "photos": [
+  {
+   "src": "assets/images/colorado-gold/bc8e85f8.webp",
+   "thumb": "assets/images/colorado-gold/thumbs/bc8e85f8.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Double Yellow",
+   "alt": "A two-lane road with a double yellow line curving through green and yellow aspens under a blue sky with white clouds"
+  },
+  {
+   "src": "assets/images/colorado-gold/e3162066.webp",
+   "thumb": "assets/images/colorado-gold/thumbs/e3162066.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "First Gold",
+   "alt": "A steep forested slope with streaks of yellow aspen among dark spruce and a rusty rock outcrop"
+  },
+  {
+   "src": "assets/images/colorado-gold/0f5e557c.webp",
+   "thumb": "assets/images/colorado-gold/thumbs/0f5e557c.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Unpaved",
+   "alt": "A gravel road curving past golden shrubs and aspens toward a pink-tinted distant summit"
+  },
+  {
+   "src": "assets/images/colorado-gold/b1129c45.webp",
+   "thumb": "assets/images/colorado-gold/thumbs/b1129c45.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Fair Weather",
+   "alt": "A wide mountain valley of forested slopes and distant peaks under scattered puffy clouds"
+  },
+  {
+   "src": "assets/images/colorado-gold/38b6196e.webp",
+   "thumb": "assets/images/colorado-gold/thumbs/38b6196e.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Quilted",
+   "alt": "A hillside patched with yellow aspen groves among dark spruce and red shrubs"
+  },
+  {
+   "src": "assets/images/colorado-gold/7f98c808.webp",
+   "thumb": "assets/images/colorado-gold/thumbs/7f98c808.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Palette",
+   "alt": "A dirt trail winding through yellow aspens and red shrubs"
+  },
+  {
+   "src": "assets/images/colorado-gold/659ce084.webp",
+   "thumb": "assets/images/colorado-gold/thumbs/659ce084.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Canopy",
+   "alt": "Looking up at tall white aspen trunks and leaves against a blue sky"
+  },
+  {
+   "src": "assets/images/colorado-gold/dd3de593.webp",
+   "thumb": "assets/images/colorado-gold/thumbs/dd3de593.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Truss Fall",
+   "alt": "A steel truss bridge with a wooden deck, spruce and golden trees behind it"
+  },
+  {
+   "src": "assets/images/colorado-gold/2f563e6a.webp",
+   "thumb": "assets/images/colorado-gold/thumbs/2f563e6a.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Boulder Dash",
+   "alt": "A mountain river rushing over large boulders with evergreens and autumn trees along the bank"
+  },
+  {
+   "src": "assets/images/colorado-gold/8bd88140.webp",
+   "thumb": "assets/images/colorado-gold/thumbs/8bd88140.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Crested Butte",
+   "alt": "A cliff-faced gray mountain above slopes of gold aspen and scattered houses under a hazy sky"
+  },
+  {
+   "src": "assets/images/colorado-gold/ad52f6dd.webp",
+   "thumb": "assets/images/colorado-gold/thumbs/ad52f6dd.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Squiggle",
+   "alt": "A mountain valley with gold aspen slopes above a rust-colored meadow and a winding creek"
+  },
+  {
+   "src": "assets/images/colorado-gold/0fed3633.webp",
+   "thumb": "assets/images/colorado-gold/thumbs/0fed3633.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Two-Wheel Drive",
+   "alt": "Two mountain bikes leaning against a wooden boardwalk railing with a rocky peak in the distance"
+  },
+  {
+   "src": "assets/images/colorado-gold/3e90f8fb.webp",
+   "thumb": "assets/images/colorado-gold/thumbs/3e90f8fb.webp",
+   "w": 2048,
+   "h": 1280,
+   "tw": 800,
+   "th": 500,
+   "caption": "Loose Change",
+   "alt": "Golden aspens against a deep blue sky with leaves floating in the air"
+  },
+  {
+   "src": "assets/images/colorado-gold/82fc5f82.webp",
+   "thumb": "assets/images/colorado-gold/thumbs/82fc5f82.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "All Eyes",
+   "alt": "Close view of white aspen trunks with dark scars among sunlit golden leaves"
+  },
+  {
+   "src": "assets/images/colorado-gold/e131b802.webp",
+   "thumb": "assets/images/colorado-gold/thumbs/e131b802.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Pure Gold",
+   "alt": "Bright gold aspen leaves and slender white trunks above green grass"
+  },
+  {
+   "src": "assets/images/colorado-gold/d698aa63.webp",
+   "thumb": "assets/images/colorado-gold/thumbs/d698aa63.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Off Season",
+   "alt": "A golden aspen grove on a grassy slope with a distant valley and mountains"
+  },
+  {
+   "src": "assets/images/colorado-gold/a39f9a3d.webp",
+   "thumb": "assets/images/colorado-gold/thumbs/a39f9a3d.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Packed House",
+   "alt": "A wall of tall golden aspens on a grassy hillside under a deep blue sky"
+  },
+  {
+   "src": "assets/images/colorado-gold/152510f5.webp",
+   "thumb": "assets/images/colorado-gold/thumbs/152510f5.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Standing By",
+   "alt": "A ski lift tower standing among golden aspen trees"
+  },
+  {
+   "src": "assets/images/colorado-gold/34cf58d5.webp",
+   "thumb": "assets/images/colorado-gold/thumbs/34cf58d5.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Reserved",
+   "alt": "An empty chairlift chair in the foreground with a sharp gray peak and aspens behind it"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 65%"
+}

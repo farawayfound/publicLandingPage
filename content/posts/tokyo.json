@@ -1,0 +1,140 @@
+{
+ "slug": "tokyo",
+ "title": "Tokyo, JP",
+ "cardTitle": "Tokyo, JP",
+ "date": "2025-09",
+ "dateLabel": "January & September 2025",
+ "location": "Tokyo, Japan",
+ "country": "Japan",
+ "coords": [
+  35.7,
+  139.7
+ ],
+ "tags": [
+  "city",
+  "abroad"
+ ],
+ "sectionTitle": "Electric Tide",
+ "paragraphs": [
+  "You can't see Tokyo in one trip, so in 2025 I went twice. The first was January, New Year in the city, when the winter sun is gone before five. One evening I caught the sky through a window above the rooftops: orange fading up into pale lavender, streaky clouds blushing pink, and far off on the horizon a small, faint triangle that I took to be Mount Fuji. Winter is apparently your best shot at spotting it from the city. Tokyo is famous for its skyscrapers, but I kept noticing the low stuff. Block after block of houses and apartments rolled out to the edge of the haze, as if the city had simply decided not to end.",
+  "I came back in late August for two weeks, and my camera seems to have been drawn to anything that glowed. At the Sumida Aquarium in Tokyo Skytree Town, the stars were the garden eels, speckled periscopes poking out of pale sand. They keep their tails anchored in burrows, snack on plankton as it drifts past, and vanish underground the moment something startles them. Elsewhere in the building, a goldfish with bulging eyes floated in a small glass tank while water trickled in from a bare pipe overhead. Days later, at teamLab Borderless in Azabudai Hills, the fish were made of light. Swarms of glowing orange and yellow streamed across the dark walls in a blur.",
+  "One evening in early September I went up to the observation deck of the Tokyo Metropolitan Government Building in Shinjuku. It's free and about two hundred meters up, which makes it one of the best deals in the city. Around seven the night was hazy with low cloud, and the city had already switched on. Orange expressways threaded between the towers. Park Tower rose out of the glow, its three stepped crowns lit white and dotted with red aviation lights. Beyond them the neighborhoods ran on until the haze swallowed them. The glass added a few blue ghosts of reflection to every frame, which suits that fish-tank glow. Every one of those windows is somebody's evening, and I'll never know a single one of them. From the deck the city looked like a tide coming in, and I was happy to watch from the shore."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/tokyo/cover.webp",
+ "card": "assets/images/tokyo/thumbs/a7d26f28.webp",
+ "photos": [
+  {
+   "src": "assets/images/tokyo/ebcfeaa3.webp",
+   "thumb": "assets/images/tokyo/thumbs/ebcfeaa3.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Amber Hour",
+   "alt": "Orange sunset behind a Tokyo skyline of low rooftops with a lone tower and distant skyscrapers"
+  },
+  {
+   "src": "assets/images/tokyo/c689714e.webp",
+   "thumb": "assets/images/tokyo/thumbs/c689714e.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Hello, Fuji",
+   "alt": "Orange sunset sky with streaky clouds above Tokyo rooftops and a small dark peak, thought to be Mount Fuji, on the horizon"
+  },
+  {
+   "src": "assets/images/tokyo/4f1d4aed.webp",
+   "thumb": "assets/images/tokyo/thumbs/4f1d4aed.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Power Lines",
+   "alt": "Pink clouds in an orange sunset sky above apartment buildings and a utility pole"
+  },
+  {
+   "src": "assets/images/tokyo/b16d6b7d-19336.webp",
+   "thumb": "assets/images/tokyo/thumbs/b16d6b7d-19336.webp",
+   "w": 1080,
+   "h": 1920,
+   "tw": 450,
+   "th": 800,
+   "caption": "Periscopes",
+   "alt": "Spotted garden eels poking up from white sand in an aquarium tank"
+  },
+  {
+   "src": "assets/images/tokyo/0f4a9f8e-3378.webp",
+   "thumb": "assets/images/tokyo/thumbs/0f4a9f8e-3378.webp",
+   "w": 1080,
+   "h": 1920,
+   "tw": 450,
+   "th": 800,
+   "caption": "Telescope Eyes",
+   "alt": "Orange goldfish with bulging eyes in a small glass tank on a wooden shelf with a pipe above"
+  },
+  {
+   "src": "assets/images/tokyo/31ed5e44-199302.webp",
+   "thumb": "assets/images/tokyo/thumbs/31ed5e44-199302.webp",
+   "w": 1920,
+   "h": 1080,
+   "tw": 800,
+   "th": 450,
+   "caption": "School of Light",
+   "alt": "Swarm of glowing yellow and orange fish projected across a dark wall"
+  },
+  {
+   "src": "assets/images/tokyo/a7d26f28.webp",
+   "thumb": "assets/images/tokyo/thumbs/a7d26f28.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Orange Arteries",
+   "alt": "Park Tower and glowing orange expressways above a dark park at night, seen from above"
+  },
+  {
+   "src": "assets/images/tokyo/ec9ded86.webp",
+   "thumb": "assets/images/tokyo/thumbs/ec9ded86.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Three Crowns",
+   "alt": "Close view of the three stepped, lit crowns of Park Tower at night"
+  },
+  {
+   "src": "assets/images/tokyo/945a603b.webp",
+   "thumb": "assets/images/tokyo/thumbs/945a603b.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Violet Spire",
+   "alt": "Night view over Tokyo office towers with a violet-lit spire on the horizon under low clouds"
+  },
+  {
+   "src": "assets/images/tokyo/3795c457.webp",
+   "thumb": "assets/images/tokyo/thumbs/3795c457.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Into the Haze",
+   "alt": "Hazy night panorama of Shinjuku towers and neighbourhoods stretching to the horizon"
+  },
+  {
+   "src": "assets/images/tokyo/c0e27ed8.webp",
+   "thumb": "assets/images/tokyo/thumbs/c0e27ed8.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Counting Windows",
+   "alt": "Dense Tokyo skyline at night with lit towers, seen from a high observation deck"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 40%"
+}

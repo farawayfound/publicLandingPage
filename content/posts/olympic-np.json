@@ -1,0 +1,185 @@
+{
+ "slug": "olympic-np",
+ "title": "Olympic NP",
+ "cardTitle": "Olympic NP",
+ "date": "2018-05",
+ "dateLabel": "May 2018",
+ "location": "Olympic National Park, Washington",
+ "country": "United States",
+ "coords": [
+  48.0,
+  -123.5
+ ],
+ "tags": [
+  "forest",
+  "hiking",
+  "lakes",
+  "mountains",
+  "national-park",
+  "road-trip",
+  "waterfalls"
+ ],
+ "sectionTitle": "Long Way Round",
+ "paragraphs": [
+  "No road crosses the Olympic Mountains. Highway 101 loops around them instead, so Memorial Day weekend found Will and me driving the edge and pulling over whenever the peaks showed up. Our first evening ended on a long wooden pier over the Strait of Juan de Fuca, where the water lay calm over rippled sand and the sun sank into a thin orange band. Somewhere past the haze was Canada. We stayed until the last pink faded from the clouds.",
+  "Hurricane Ridge came next. It's named for the winds that sweep across it, though we got blue sky and towering cumulus. The road climbs from the strait to nearly a mile above it, and from the top the whole range runs along the horizon, still snow-capped in late May. Cloud shadows pooled in the valleys, and a few last patches of snow lay in the meadow. Mount Olympus, the tallest peak in the range, is somewhere in that jumble. Down in the valley the light turned green. The trail to Marymere Falls starts at the Storm King Ranger Station and follows a clear creek through old-growth fir and hemlock, past sword ferns and moss-draped trunks. Then the woods open onto a ribbon of water spilling about ninety feet down a mossy cleft, with a log jam at its foot. It's an easy walk for a payoff that big!",
+  "The climb up Mount Storm King starts at the same trailhead, and it is steep. Up on the ridge the forest gives way to bare rock, and Lake Crescent lies far below, a long strip of blue between the hills, dark in the middle and teal along the shore. Glaciers carved this basin, and the lake is more than six hundred feet deep. Past the hills at its far end, a pale band on the horizon was, I think, the strait. Afterward we pulled over beside the highway for a maple draped in so much moss it glowed in the sun, and for one more look at the water. It's wonderful that places like this still exist. Somewhere behind those snowy peaks is a wilderness with no road through it, and I hope it stays that way."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/olympic-np/cover.webp",
+ "card": "assets/images/olympic-np/thumbs/5a4abe57.webp",
+ "photos": [
+  {
+   "src": "assets/images/olympic-np/756062ee.webp",
+   "thumb": "assets/images/olympic-np/thumbs/756062ee.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Juan de Fuca",
+   "alt": "A wooden pier with pale railings stands over rippled shallows at sunset, with old pilings in the water, a thin orange band on the horizon and small pink-edged clouds in a deep blue sky."
+  },
+  {
+   "src": "assets/images/olympic-np/edf4974e.webp",
+   "thumb": "assets/images/olympic-np/thumbs/edf4974e.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Pier Pressure",
+   "alt": "A white-railed wooden pier silhouetted against a glowing orange sunset, with pilings standing in the water below and scattered clouds above."
+  },
+  {
+   "src": "assets/images/olympic-np/59ae3fd8.webp",
+   "thumb": "assets/images/olympic-np/thumbs/59ae3fd8.webp",
+   "w": 1616,
+   "h": 1080,
+   "tw": 800,
+   "th": 535,
+   "caption": "Under the Pier",
+   "alt": "Dark pilings and crossbeams of a wooden pier silhouetted against an orange afterglow over the water, with a faint line of distant hills on the horizon."
+  },
+  {
+   "src": "assets/images/olympic-np/3219b57f.webp",
+   "thumb": "assets/images/olympic-np/thumbs/3219b57f.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Sea Level",
+   "alt": "Fir trees frame a green hillside and forested lowlands, with a band of blue water on the horizon beneath a large cumulus cloud."
+  },
+  {
+   "src": "assets/images/olympic-np/d9423ac2.webp",
+   "thumb": "assets/images/olympic-np/thumbs/d9423ac2.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Hurricane Ridge",
+   "alt": "A green mountain meadow slopes toward a long range of snow-capped peaks under a deep blue sky with big white clouds."
+  },
+  {
+   "src": "assets/images/olympic-np/5a4abe57.webp",
+   "thumb": "assets/images/olympic-np/thumbs/5a4abe57.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Snowcaps",
+   "alt": "Snow-covered peaks of the Olympic range beneath a bank of white cloud and blue sky, with the edge of a meadow and a few dark conifers in the foreground."
+  },
+  {
+   "src": "assets/images/olympic-np/ba59a9ac.webp",
+   "thumb": "assets/images/olympic-np/thumbs/ba59a9ac.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Evergreen State",
+   "alt": "Ridge after ridge of dark conifer forest climbing to distant snow-dusted peaks under a pale blue sky."
+  },
+  {
+   "src": "assets/images/olympic-np/127b0a2b.webp",
+   "thumb": "assets/images/olympic-np/thumbs/127b0a2b.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Cloud Cap",
+   "alt": "A dark forested mountain whose snow-dusted summit is wrapped in cloud, with evergreen branches at the bottom of the frame."
+  },
+  {
+   "src": "assets/images/olympic-np/f9190cf5.webp",
+   "thumb": "assets/images/olympic-np/thumbs/f9190cf5.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Fade to White",
+   "alt": "Layered gray-green ridges fading into a bright, hazy white sky above a fresh green meadow."
+  },
+  {
+   "src": "assets/images/olympic-np/497d7691.webp",
+   "thumb": "assets/images/olympic-np/thumbs/497d7691.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Into the Woods",
+   "alt": "A dirt trail runs between tall, dark conifer trunks in an old forest, with bright light coming through at the top of the frame."
+  },
+  {
+   "src": "assets/images/olympic-np/7e780f36.webp",
+   "thumb": "assets/images/olympic-np/thumbs/7e780f36.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Old Growth",
+   "alt": "Tall, moss-covered trunks rise from an old forest, with fallen logs beside a dirt path and sunlit green boughs on the left."
+  },
+  {
+   "src": "assets/images/olympic-np/385c22d1.webp",
+   "thumb": "assets/images/olympic-np/thumbs/385c22d1.webp",
+   "w": 1369,
+   "h": 2048,
+   "tw": 535,
+   "th": 800,
+   "caption": "Marymere Falls",
+   "alt": "A tall, narrow waterfall drops down a mossy rock cleft, with fallen logs and mossy boulders at its base."
+  },
+  {
+   "src": "assets/images/olympic-np/8a4b417f.webp",
+   "thumb": "assets/images/olympic-np/thumbs/8a4b417f.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Toward the Strait",
+   "alt": "A conifer frames the left side of a high view over the dark, still end of a lake, with forested hills beyond and a pale band of water on the horizon under an overcast sky."
+  },
+  {
+   "src": "assets/images/olympic-np/ce6def59.webp",
+   "thumb": "assets/images/olympic-np/thumbs/ce6def59.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Mossy Maple",
+   "alt": "Looking up into the wide, branching crown of a moss-covered tree with sunlight glowing through green leaves."
+  },
+  {
+   "src": "assets/images/olympic-np/4abf0fda.webp",
+   "thumb": "assets/images/olympic-np/thumbs/4abf0fda.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Last Look",
+   "alt": "A dark blue lake ripples in front of a craggy, forested peak, with thin clouds in a pale sky and a small conifer at the bottom right."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 60%"
+}

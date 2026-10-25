@@ -1,0 +1,216 @@
+{
+ "slug": "houston",
+ "title": "Houston, TX",
+ "cardTitle": "Houston, TX",
+ "date": "2016-04",
+ "dateLabel": "April 2016",
+ "location": "Houston, Texas",
+ "country": "United States",
+ "coords": [
+  29.8,
+  -95.4
+ ],
+ "tags": [
+  "city"
+ ],
+ "sectionTitle": "We Have a Problem",
+ "paragraphs": [
+  "How did I end up back here? I thought I was done with this city after graduating High School, but somehow fate brought me back. This time, I had my tripod and camera.",
+  "I'm not very fond of Houston. It's urban sprawl examplifies exactly what's wrong with big American cities. You can't do anything without a car, buildings and businesses are incredibly spread out with much wasted space between everything, and the public transportation network is inadequate. The wealth disparity is quite dramatic in this city. There are gated multimillion dollar manors with fountains and five car garages in the richest parts of town and ghetto slums with boarded up houses 5 miles down the street. I should have perhaps documented the social problems of this city, but I feel the people in bad circumstances do not want to be photographed."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/houston/cover.jpg",
+ "card": "assets/images/houston/thumbs/IMG_3070.jpg",
+ "photos": [
+  {
+   "src": "assets/images/houston/IMG_2646 2.jpg",
+   "thumb": "assets/images/houston/thumbs/IMG_2646 2.jpg",
+   "w": 900,
+   "h": 901,
+   "tw": 600,
+   "th": 392,
+   "caption": "Movement"
+  },
+  {
+   "src": "assets/images/houston/IMG_3265.jpg",
+   "thumb": "assets/images/houston/thumbs/IMG_3265.jpg",
+   "w": 900,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "We Found Love"
+  },
+  {
+   "src": "assets/images/houston/Untitled1.jpg",
+   "thumb": "assets/images/houston/thumbs/Untitled1.jpg",
+   "w": 1440,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Warp Speed"
+  },
+  {
+   "src": "assets/images/houston/Enlight1 24.jpg",
+   "thumb": "assets/images/houston/thumbs/Enlight1 24.jpg",
+   "w": 1200,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "MetroRail"
+  },
+  {
+   "src": "assets/images/houston/Enlight1 26.jpg",
+   "thumb": "assets/images/houston/thumbs/Enlight1 26.jpg",
+   "w": 900,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Quadruplet"
+  },
+  {
+   "src": "assets/images/houston/IMG_3193.jpg",
+   "thumb": "assets/images/houston/thumbs/IMG_3193.jpg",
+   "w": 900,
+   "h": 1125,
+   "tw": 600,
+   "th": 392,
+   "caption": "Convergence"
+  },
+  {
+   "src": "assets/images/houston/Enlight1 28.jpg",
+   "thumb": "assets/images/houston/thumbs/Enlight1 28.jpg",
+   "w": 900,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Zoom"
+  },
+  {
+   "src": "assets/images/houston/Enlight1 29.jpg",
+   "thumb": "assets/images/houston/thumbs/Enlight1 29.jpg",
+   "w": 900,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Work In Progress"
+  },
+  {
+   "src": "assets/images/houston/Enlight1 30.jpg",
+   "thumb": "assets/images/houston/thumbs/Enlight1 30.jpg",
+   "w": 900,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Violet"
+  },
+  {
+   "src": "assets/images/houston/Enlight1 32.jpg",
+   "thumb": "assets/images/houston/thumbs/Enlight1 32.jpg",
+   "w": 900,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Temple"
+  },
+  {
+   "src": "assets/images/houston/Enlight1 35.jpg",
+   "thumb": "assets/images/houston/thumbs/Enlight1 35.jpg",
+   "w": 900,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Bridge"
+  },
+  {
+   "src": "assets/images/houston/Enlight1 36.jpg",
+   "thumb": "assets/images/houston/thumbs/Enlight1 36.jpg",
+   "w": 900,
+   "h": 1125,
+   "tw": 600,
+   "th": 392,
+   "caption": "Bayou"
+  },
+  {
+   "src": "assets/images/houston/Enlight1 37.jpg",
+   "thumb": "assets/images/houston/thumbs/Enlight1 37.jpg",
+   "w": 900,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Holy"
+  },
+  {
+   "src": "assets/images/houston/final.jpg",
+   "thumb": "assets/images/houston/thumbs/final.jpg",
+   "w": 900,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Duality"
+  },
+  {
+   "src": "assets/images/houston/IMG_3070.jpg",
+   "thumb": "assets/images/houston/thumbs/IMG_3070.jpg",
+   "w": 1192,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Midnight"
+  },
+  {
+   "src": "assets/images/houston/IMG_1147.jpg",
+   "thumb": "assets/images/houston/thumbs/IMG_1147.jpg",
+   "w": 1260,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Up Above"
+  },
+  {
+   "src": "assets/images/houston/IMG_1286 2.jpg",
+   "thumb": "assets/images/houston/thumbs/IMG_1286 2.jpg",
+   "w": 1201,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Woodlands"
+  },
+  {
+   "src": "assets/images/houston/IMG_2486.jpg",
+   "thumb": "assets/images/houston/thumbs/IMG_2486.jpg",
+   "w": 900,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Reflection"
+  },
+  {
+   "src": "assets/images/houston/IMG_2541.jpg",
+   "thumb": "assets/images/houston/thumbs/IMG_2541.jpg",
+   "w": 900,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Greenspace"
+  },
+  {
+   "src": "assets/images/houston/Enlight1 21.jpg",
+   "thumb": "assets/images/houston/thumbs/Enlight1 21.jpg",
+   "w": 5013,
+   "h": 3345,
+   "tw": 600,
+   "th": 392,
+   "caption": "Fog"
+  },
+  {
+   "src": "assets/images/houston/Untitled1-2.jpg",
+   "thumb": "assets/images/houston/thumbs/Untitled1-2.jpg",
+   "w": 900,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Guardrail"
+  }
+ ],
+ "legacy": true
+}

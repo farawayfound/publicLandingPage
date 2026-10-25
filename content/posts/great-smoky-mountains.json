@@ -1,0 +1,134 @@
+{
+ "slug": "great-smoky-mountains",
+ "title": "Great Smoky Mountains NP",
+ "cardTitle": "Smoky Mountains NP",
+ "date": "2019-04",
+ "dateLabel": "April 2019",
+ "location": "Great Smoky Mountains National Park, North Carolina",
+ "country": "United States",
+ "coords": [
+  35.6,
+  -83.5
+ ],
+ "tags": [
+  "national-park",
+  "mountains",
+  "backpacking",
+  "hiking",
+  "forest",
+  "waterfalls"
+ ],
+ "sectionTitle": "Blue Smoke",
+ "paragraphs": [
+  "Spring in the Smokies is loud. I spent Easter Sunday in the Big Creek area, on the North Carolina side of the park, where the creek was roaring, high and milky white, beneath arching rhododendron. The hardwoods had just leafed out in that neon green that never lasts long, and every bend in the trail seemed to hide another cascade. I took far more long exposures than I will ever need, but water that blurs into mist is hard to walk past. About two miles in, a tall, tiered waterfall that I'm fairly sure is Mouse Creek Falls spilled through the rhododendron into the creek. The walk is easy enough that you don't need a backpack. Along the trail, a rock wall of moss and ferns dripped in thin threads.",
+  "On Monday I climbed Mount Sterling, and the season rewound. A small stair-step cascade glowed in the sunlit woods along the way, but the higher I went, the earlier in spring it got. By the summit, at 5,842 feet, only the spruce and fir were green and most of the other trees were still bare. Those dark conifers are an Ice Age leftover, a piece of the north that got left behind on the high peaks when the climate warmed. Forests migrate too, just slowly enough that we never notice. An old steel fire tower from the 1930s stands up there, and when I went you could still climb it. Through its weathered window frames, rusty bolts and all, the ridges rolled out to a flat, pale horizon.",
+  "I hung around for the sunset. The sun sank to a thin orange sliver on a long dark ridge, the sky went from gold to pink, and far out in the lowlands a lake glinted back. The Cherokee called these mountains Shaconage, the place of blue smoke, and it isn't smoke at all. The forest itself breathes out vapors that scatter blue light. Watching the ridges fade into layer after layer of blue, I understood the name. The next morning, on the way down, a snail on a mossy log let me take its portrait. It wasn't going anywhere."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/great-smoky-mountains/cover.webp",
+ "card": "assets/images/great-smoky-mountains/thumbs/baf8e08e.webp",
+ "photos": [
+  {
+   "src": "assets/images/great-smoky-mountains/a1f75694.webp",
+   "thumb": "assets/images/great-smoky-mountains/thumbs/a1f75694.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "High Water",
+   "alt": "Long-exposure whitewater pouring over a boulder in a forest creek, with fresh green leaves in the trees above."
+  },
+  {
+   "src": "assets/images/great-smoky-mountains/9e7226d3.webp",
+   "thumb": "assets/images/great-smoky-mountains/thumbs/9e7226d3.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Milk and Moss",
+   "alt": "A milky creek tumbling down a staircase of mossy boulders between rhododendron and bright new leaves."
+  },
+  {
+   "src": "assets/images/great-smoky-mountains/baf8e08e.webp",
+   "thumb": "assets/images/great-smoky-mountains/thumbs/baf8e08e.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Tiered",
+   "alt": "A tall tiered waterfall dropping through rhododendron and bare trunks into a churning, boulder-strewn creek."
+  },
+  {
+   "src": "assets/images/great-smoky-mountains/a3fd6660.webp",
+   "thumb": "assets/images/great-smoky-mountains/thumbs/a3fd6660.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Plunge",
+   "alt": "A narrow waterfall tumbling in tiers down dark rock, framed by rhododendron and hardwoods, with rapids at its foot."
+  },
+  {
+   "src": "assets/images/great-smoky-mountains/5427ac55.webp",
+   "thumb": "assets/images/great-smoky-mountains/thumbs/5427ac55.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Threads",
+   "alt": "Thin threads of water trickling down a moss- and fern-covered rock wall beside the trail."
+  },
+  {
+   "src": "assets/images/great-smoky-mountains/2bc1530d.webp",
+   "thumb": "assets/images/great-smoky-mountains/thumbs/2bc1530d.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Stair Steps",
+   "alt": "A small stair-step cascade over sunlit mossy boulders in open hardwood forest, with a gravel bar in the foreground."
+  },
+  {
+   "src": "assets/images/great-smoky-mountains/e6775641.webp",
+   "thumb": "assets/images/great-smoky-mountains/thumbs/e6775641.webp",
+   "w": 2048,
+   "h": 2041,
+   "tw": 800,
+   "th": 797,
+   "caption": "Picture Window",
+   "alt": "A weathered wooden window frame with rusty bolts looks out over spruce-fir treetops to hazy blue ridges and a clear sky."
+  },
+  {
+   "src": "assets/images/great-smoky-mountains/f7d0709c.webp",
+   "thumb": "assets/images/great-smoky-mountains/thumbs/f7d0709c.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Layers",
+   "alt": "Peach evening light over layered blue-green ridges, seen above dark spruce and fir and a few bare treetops."
+  },
+  {
+   "src": "assets/images/great-smoky-mountains/68f3d7a3.webp",
+   "thumb": "assets/images/great-smoky-mountains/thumbs/68f3d7a3.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Faraway",
+   "alt": "Pale pink sky over layered blue ridges, with a faint glint of a lake far out on the horizon."
+  },
+  {
+   "src": "assets/images/great-smoky-mountains/6f124b21.webp",
+   "thumb": "assets/images/great-smoky-mountains/thumbs/6f124b21.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Mobile Home",
+   "alt": "A small snail on a moss-covered log among bright green leaves."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "35% 40%"
+}

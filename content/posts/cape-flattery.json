@@ -1,0 +1,143 @@
+{
+ "slug": "cape-flattery",
+ "title": "Cape Flattery, WA",
+ "cardTitle": "Cape Flattery, WA",
+ "date": "2018-05",
+ "dateLabel": "May 2018",
+ "location": "Cape Flattery, Washington",
+ "country": "United States",
+ "coords": [
+  48.4,
+  -124.7
+ ],
+ "tags": [
+  "aerial",
+  "coast",
+  "forest",
+  "hiking",
+  "road-trip"
+ ],
+ "sectionTitle": "Edge of the Map",
+ "paragraphs": [
+  "Keep heading northwest in the lower 48 and eventually you run out of country. The last corner of it is Cape Flattery, at the tip of the Olympic Peninsula, and it is a long drive from anywhere. Over Memorial Day weekend I made the trip out with Will, and on the way we stopped in Sekiu, a fishing village on the Strait of Juan de Fuca, to send the drone up over the harbor. The whole bay glittered. The cape itself sits on Makah land, a short drive past the town of Neah Bay. You need a recreation pass to park at the trailhead, so pick one up in town and be a good guest out there. The trail is short, under a mile each way, but it dives into the forest and stays there: big spruce and ferns, roots across the path, long stretches of plank boardwalk, and sunlight slanting through the trunks.",
+  "Then the trees part and the land just stops. Below the viewpoints, the Pacific has carved the coast into coves and hollows, with tree-topped stacks standing in dark water and surf swirling around mossy rocks. Tatoosh Island sits just offshore, low and flat. The name Flattery goes back to Captain Cook, who in 1778 noticed an opening in the coastline that flattered him with the hope of a harbor. He sailed on past, but the name stuck. Seen from above, the rock looks even stranger: narrow fins standing in turquoise water, with the surf folding white around them.",
+  "We stayed for the sunset. Wind-bent spruce leaned out over the edge, and the sun slid toward Tatoosh through a band of haze while a couple of cameras ran time-lapses. The sky deepened from gold to blue, with contrails scratched across it, and one thin orange line hung on the horizon long after the sun was gone. We stood where a whole continent runs out. Behind us lay every road and city; ahead lay nothing but ocean, all the way to Asia."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/cape-flattery/cover.webp",
+ "card": "assets/images/cape-flattery/thumbs/f0a0d648.webp",
+ "photos": [
+  {
+   "src": "assets/images/cape-flattery/c96bab82-91842.webp",
+   "thumb": "assets/images/cape-flattery/thumbs/c96bab82-91842.webp",
+   "w": 1920,
+   "h": 1080,
+   "tw": 800,
+   "th": 450,
+   "caption": "Quicksilver",
+   "alt": "Aerial view of a dark, forested point beside a small harbor, with bright sunlight glittering across the water in the foreground."
+  },
+  {
+   "src": "assets/images/cape-flattery/ecb97ff2.webp",
+   "thumb": "assets/images/cape-flattery/thumbs/ecb97ff2.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Green Hour",
+   "alt": "Low sun glows between tall conifer trunks above a forest floor of ferns and shrubs, with a big mossy trunk at the left."
+  },
+  {
+   "src": "assets/images/cape-flattery/5e2a62b7.webp",
+   "thumb": "assets/images/cape-flattery/thumbs/5e2a62b7.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Gatekeepers",
+   "alt": "A dirt path with exposed roots runs between two huge tree trunks toward sunlight glowing through the forest."
+  },
+  {
+   "src": "assets/images/cape-flattery/db286699.webp",
+   "thumb": "assets/images/cape-flattery/thumbs/db286699.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Plank Road",
+   "alt": "A wooden plank boardwalk runs along a dirt bank through tall trees, with low sun glowing between the trunks."
+  },
+  {
+   "src": "assets/images/cape-flattery/0040ad61.webp",
+   "thumb": "assets/images/cape-flattery/thumbs/0040ad61.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Tree-Topped",
+   "alt": "Rock stacks crowned with trees rise from a quiet cove, framed by dark spruce branches under a pale, hazy sky."
+  },
+  {
+   "src": "assets/images/cape-flattery/05554446-84356.webp",
+   "thumb": "assets/images/cape-flattery/thumbs/05554446-84356.webp",
+   "w": 1920,
+   "h": 1080,
+   "tw": 800,
+   "th": 450,
+   "caption": "Rock Fins",
+   "alt": "Straight-down aerial view of narrow rock fins standing in teal water between steep cliffs, with white surf at the edges."
+  },
+  {
+   "src": "assets/images/cape-flattery/05554446-111526.webp",
+   "thumb": "assets/images/cape-flattery/thumbs/05554446-111526.webp",
+   "w": 1920,
+   "h": 1080,
+   "tw": 800,
+   "th": 450,
+   "caption": "Surf's Up",
+   "alt": "Straight-down aerial view of surf churning white around rust-brown rocks in teal water."
+  },
+  {
+   "src": "assets/images/cape-flattery/f0a0d648.webp",
+   "thumb": "assets/images/cape-flattery/thumbs/f0a0d648.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Tatoosh Island",
+   "alt": "Dark, wind-bent spruce branches frame a low forested island on the horizon as the setting sun glows through a band of haze."
+  },
+  {
+   "src": "assets/images/cape-flattery/787c4c0f.webp",
+   "thumb": "assets/images/cape-flattery/thumbs/787c4c0f.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Wild Bonsai",
+   "alt": "A wind-bent tree is silhouetted against a golden sunset, with a low forested island on the horizon beyond calm water."
+  },
+  {
+   "src": "assets/images/cape-flattery/8a6d2b56.webp",
+   "thumb": "assets/images/cape-flattery/thumbs/8a6d2b56.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Spin Cycle",
+   "alt": "A long exposure turns the surf into soft white swirls around mossy rocks in deep blue water below a cliff."
+  },
+  {
+   "src": "assets/images/cape-flattery/582f5667.webp",
+   "thumb": "assets/images/cape-flattery/thumbs/582f5667.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Day's End",
+   "alt": "A low, flat forested island sits on the horizon beneath layered clouds, with a thin orange line of light along the horizon over dark blue water."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "70% 50%"
+}

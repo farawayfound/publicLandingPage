@@ -1,0 +1,243 @@
+{
+ "slug": "seattle",
+ "title": "Seattle, WA",
+ "cardTitle": "Seattle, WA",
+ "date": "2016-05",
+ "dateLabel": "May 2016",
+ "location": "Seattle, Washington",
+ "country": "United States",
+ "coords": [
+  47.6,
+  -122.3
+ ],
+ "tags": [
+  "city"
+ ],
+ "sectionTitle": "Urban Fantasy",
+ "paragraphs": [
+  "I cannot believe it took me this long to get to the Pacific Northwest. The myth that rainy Seattle is depressed could not be further from the truth; the city is thriving. There is more life on the streets of Seattle than any other American city I've visited (and I've been to a couple dozen from coast to coast). It has everything I could wish for: a dramatic coastline on the West, prominent mountains in the East and South, Canada a short drive to the North, an international airport, waterfalls and lakes dotting the landscape, and some of the best people living within. That is not even mentioning the attractions in the city like Pikes Market and the Space Needle area with all the museums.",
+  "They have a composting program! That is so progressive I didn't even imagine such a thing being feasible in America. Even the politicians are progressive, with the town pulling their funds from Bank of America for its support of the oil pipelines that pollute native american lands. Downtown Seattle is a pedestrian's paradise, unlike most metropolitan areas in America. The public transportation system is fantastic, and the density of everything and civil engineering design makes for great walkability. It is a city of awesome cultural diversity, economic opportunity, artistic expression, leading technology and sustainability. One day, this shall be my home."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/seattle/cover.jpg",
+ "card": "assets/images/seattle/thumbs/DSC06051.jpg",
+ "photos": [
+  {
+   "src": "assets/images/seattle/DSC03382.jpg",
+   "thumb": "assets/images/seattle/thumbs/DSC03382.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "landfall"
+  },
+  {
+   "src": "assets/images/seattle/DSC03387.jpg",
+   "thumb": "assets/images/seattle/thumbs/DSC03387.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "first meal"
+  },
+  {
+   "src": "assets/images/seattle/DSC_0594.jpg",
+   "thumb": "assets/images/seattle/thumbs/DSC_0594.jpg",
+   "w": 1348,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "crash pad"
+  },
+  {
+   "src": "assets/images/seattle/Enlight1 6.jpg",
+   "thumb": "assets/images/seattle/thumbs/Enlight1 6.jpg",
+   "w": 1079,
+   "h": 1078,
+   "tw": 600,
+   "th": 392,
+   "caption": "kitty"
+  },
+  {
+   "src": "assets/images/seattle/DSC03415.jpg",
+   "thumb": "assets/images/seattle/thumbs/DSC03415.jpg",
+   "w": 1552,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Fresh Picked"
+  },
+  {
+   "src": "assets/images/seattle/DSC03427.jpg",
+   "thumb": "assets/images/seattle/thumbs/DSC03427.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Bookstore"
+  },
+  {
+   "src": "assets/images/seattle/DSC03486.jpg",
+   "thumb": "assets/images/seattle/thumbs/DSC03486.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Baywalk"
+  },
+  {
+   "src": "assets/images/seattle/DSC03499.jpg",
+   "thumb": "assets/images/seattle/thumbs/DSC03499.jpg",
+   "w": 1200,
+   "h": 1800,
+   "tw": 600,
+   "th": 392,
+   "caption": "Subway"
+  },
+  {
+   "src": "assets/images/seattle/DSC03680.jpg",
+   "thumb": "assets/images/seattle/thumbs/DSC03680.jpg",
+   "w": 1350,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Private"
+  },
+  {
+   "src": "assets/images/seattle/DSC03708.jpg",
+   "thumb": "assets/images/seattle/thumbs/DSC03708.jpg",
+   "w": 1350,
+   "h": 900,
+   "tw": 600,
+   "th": 392,
+   "caption": "Over Olympic"
+  },
+  {
+   "src": "assets/images/seattle/DSC06045.jpg",
+   "thumb": "assets/images/seattle/thumbs/DSC06045.jpg",
+   "w": 1200,
+   "h": 1800,
+   "tw": 600,
+   "th": 392,
+   "caption": "Night One"
+  },
+  {
+   "src": "assets/images/seattle/DSC06051.jpg",
+   "thumb": "assets/images/seattle/thumbs/DSC06051.jpg",
+   "w": 3599,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Kerry Park"
+  },
+  {
+   "src": "assets/images/seattle/DSC03382.jpg",
+   "thumb": "assets/images/seattle/thumbs/DSC03382.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "landfall"
+  },
+  {
+   "src": "assets/images/seattle/DSC06070.jpg",
+   "thumb": "assets/images/seattle/thumbs/DSC06070.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Pathway"
+  },
+  {
+   "src": "assets/images/seattle/DSC06076.jpg",
+   "thumb": "assets/images/seattle/thumbs/DSC06076.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Station"
+  },
+  {
+   "src": "assets/images/seattle/DSC06077.jpg",
+   "thumb": "assets/images/seattle/thumbs/DSC06077.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Alley"
+  },
+  {
+   "src": "assets/images/seattle/DSC06086.jpg",
+   "thumb": "assets/images/seattle/thumbs/DSC06086.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "City Falls 1"
+  },
+  {
+   "src": "assets/images/seattle/DSC06093.jpg",
+   "thumb": "assets/images/seattle/thumbs/DSC06093.jpg",
+   "w": 1680,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "City Falls 2"
+  },
+  {
+   "src": "assets/images/seattle/DSC06099.jpg",
+   "thumb": "assets/images/seattle/thumbs/DSC06099.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Parking Triangle"
+  },
+  {
+   "src": "assets/images/seattle/Enlight1 2.jpg",
+   "thumb": "assets/images/seattle/thumbs/Enlight1 2.jpg",
+   "w": 1036,
+   "h": 1036,
+   "tw": 600,
+   "th": 392,
+   "caption": "Needle"
+  },
+  {
+   "src": "assets/images/seattle/Enlight1 3.jpg",
+   "thumb": "assets/images/seattle/thumbs/Enlight1 3.jpg",
+   "w": 1033,
+   "h": 1033,
+   "tw": 600,
+   "th": 392,
+   "caption": "Pike's"
+  },
+  {
+   "src": "assets/images/seattle/Enlight1 4.jpg",
+   "thumb": "assets/images/seattle/thumbs/Enlight1 4.jpg",
+   "w": 1045,
+   "h": 1045,
+   "tw": 600,
+   "th": 392,
+   "caption": "Skywards"
+  },
+  {
+   "src": "assets/images/seattle/Enlight1 9.jpg",
+   "thumb": "assets/images/seattle/thumbs/Enlight1 9.jpg",
+   "w": 833,
+   "h": 833,
+   "tw": 600,
+   "th": 392,
+   "caption": "Monkfish"
+  },
+  {
+   "src": "assets/images/seattle/Enlight1 11.jpg",
+   "thumb": "assets/images/seattle/thumbs/Enlight1 11.jpg",
+   "w": 1079,
+   "h": 1079,
+   "tw": 600,
+   "th": 392,
+   "caption": "Docks"
+  }
+ ],
+ "legacy": true
+}

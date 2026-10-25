@@ -1,0 +1,136 @@
+{
+ "slug": "sbrockies",
+ "title": "Snowboarding the Rockies",
+ "cardTitle": "Snowboarding the Rockies",
+ "date": "2017-01",
+ "dateLabel": "January 2017",
+ "location": "Summit County, Colorado",
+ "country": "United States",
+ "coords": [
+  39.6,
+  -106.0
+ ],
+ "tags": [
+  "mountains",
+  "snow"
+ ],
+ "sectionTitle": "Fresh Powder",
+ "paragraphs": [
+  "For the last few months leading up to Air Force BMT, I've been spending much of my free time carving the slopes of the Rockies. I managed to capture some pictures, but it's incredibly difficult to tote a camera around while shredding and my phone kept dying when exposed to the cold.",
+  "Thrilling and relaxing, truly liberating. There is nothing quite like rushing down the side of a mountain on a snowboard. Nothing but the fresh mountain air and the fresh powder under my feet. I'm thankful to have shared these moments with my little brothers by my side, and for all the hospitality provided by the small mountain towns I visited. Till next winter, Colorado!"
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/sbrockies/background.jpg",
+ "card": "assets/images/sbrockies/thumbs/IMG_2126.jpg",
+ "photos": [
+  {
+   "src": "assets/images/sbrockies/Enlight1.jpg",
+   "thumb": "assets/images/sbrockies/thumbs/Enlight1.jpg",
+   "w": 2263,
+   "h": 2263,
+   "tw": 600,
+   "th": 392,
+   "caption": "snowy lifts"
+  },
+  {
+   "src": "assets/images/sbrockies/DSC_9474.jpg",
+   "thumb": "assets/images/sbrockies/thumbs/DSC_9474.jpg",
+   "w": 4769,
+   "h": 4769,
+   "tw": 600,
+   "th": 392,
+   "caption": "fiberglass throne"
+  },
+  {
+   "src": "assets/images/sbrockies/A620BB12-8032-40B0-9112-7B3A1B007394.JPG",
+   "thumb": "assets/images/sbrockies/thumbs/A620BB12-8032-40B0-9112-7B3A1B007394.jpg",
+   "w": 1083,
+   "h": 1080,
+   "tw": 600,
+   "th": 392,
+   "caption": "winter barn"
+  },
+  {
+   "src": "assets/images/sbrockies/Enlight1 2.JPG",
+   "thumb": "assets/images/sbrockies/thumbs/Enlight1 2.jpg",
+   "w": 1079,
+   "h": 1080,
+   "tw": 600,
+   "th": 392,
+   "caption": "kiss of sunrise"
+  },
+  {
+   "src": "assets/images/sbrockies/638CC364-6505-4F8C-8D39-04EB87EDED0D.JPG",
+   "thumb": "assets/images/sbrockies/thumbs/638CC364-6505-4F8C-8D39-04EB87EDED0D.jpg",
+   "w": 1616,
+   "h": 1080,
+   "tw": 600,
+   "th": 392,
+   "caption": "light bike"
+  },
+  {
+   "src": "assets/images/sbrockies/Enlight4.JPG",
+   "thumb": "assets/images/sbrockies/thumbs/Enlight4.jpg",
+   "w": 2879,
+   "h": 2879,
+   "tw": 600,
+   "th": 392,
+   "caption": "first board"
+  },
+  {
+   "src": "assets/images/sbrockies/Enlight5.JPG",
+   "thumb": "assets/images/sbrockies/thumbs/Enlight5.jpg",
+   "w": 1440,
+   "h": 1440,
+   "tw": 600,
+   "th": 392,
+   "caption": "speed check"
+  },
+  {
+   "src": "assets/images/sbrockies/Enlight19.JPG",
+   "thumb": "assets/images/sbrockies/thumbs/Enlight19.jpg",
+   "w": 3024,
+   "h": 4032,
+   "tw": 600,
+   "th": 392,
+   "caption": "forest path"
+  },
+  {
+   "src": "assets/images/sbrockies/IMG_2126.JPG",
+   "thumb": "assets/images/sbrockies/thumbs/IMG_2126.jpg",
+   "w": 3277,
+   "h": 4096,
+   "tw": 600,
+   "th": 392,
+   "caption": "night at winter park"
+  },
+  {
+   "src": "assets/images/sbrockies/IMG_6281.JPG",
+   "thumb": "assets/images/sbrockies/thumbs/IMG_6281.jpg",
+   "w": 750,
+   "h": 1334,
+   "tw": 600,
+   "th": 392,
+   "caption": "snap"
+  },
+  {
+   "src": "assets/images/sbrockies/temp 2.JPG",
+   "thumb": "assets/images/sbrockies/thumbs/temp 2.jpg",
+   "w": 960,
+   "h": 1280,
+   "tw": 600,
+   "th": 392,
+   "caption": "selfie"
+  },
+  {
+   "src": "assets/images/sbrockies/temp.JPG",
+   "thumb": "assets/images/sbrockies/thumbs/temp.jpg",
+   "w": 3060,
+   "h": 2448,
+   "tw": 600,
+   "th": 392,
+   "caption": "blue on blue"
+  }
+ ],
+ "legacy": true
+}

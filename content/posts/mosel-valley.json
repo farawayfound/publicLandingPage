@@ -1,0 +1,163 @@
+{
+ "slug": "mosel-valley",
+ "title": "Mosel Valley, DE",
+ "cardTitle": "Mosel Valley, DE",
+ "date": "2023-06",
+ "dateLabel": "June 2023",
+ "location": "Mosel Valley, Germany",
+ "country": "Germany",
+ "coords": [
+  49.9,
+  7.1
+ ],
+ "tags": [
+  "abroad",
+  "city",
+  "hiking",
+  "road-trip"
+ ],
+ "sectionTitle": "Slate and Vine",
+ "paragraphs": [
+  "My first visit to Amsterdam, back in January 2016, was all bare branches and cold canals. This time the trees were in full leaf under a clear June sky. I ate ramen for dinner and kept wandering until the light ran out over the water. The next day I went to the Van Gogh Museum, where thunderclouds gather over a wheat field, a bouquet of irises glows against golden yellow, and a knot of tree roots twists in blue and orange. Van Gogh painted the wheat field and the roots in July 1890, the last weeks of his life. It was a short return, but a good one. Then it was on to Germany!",
+  "The Mosel never goes straight, doubling back on itself between steep green hills. At Bernkastel-Kues it swings around a wide bend, with Bernkastel on one bank and Kues facing it across the water, joined by a road bridge. They have been one town since 1905. A river cruiser was docked right beside the parking lot, and somehow the asphalt did nothing to spoil the view. Behind the quay, half-timbered houses lean together over cobblestone lanes, and above them the vines climb slopes so steep that much of the work is still done by hand. This is Riesling country, and the soil is slate, which soaks up the sun by day and gives the warmth back to the vines after dark. Even the roofs are slate.",
+  "I followed a footpath up through the vineyards above the old town. Between the rows you look across slate roofs to the church spire. At the top stood Burg Landshut, a castle ruin under big white clouds. The archbishops of Trier once used it as a summer residence, until a fire in 1692 left the roofless ruin you see today. There is a restaurant terrace inside the old walls, so plan the climb around lunch. Looking back down, the whole bend of the river lay below me. The boats, the bridge, the entire town, even the parking lot, all of it fit inside one curve of the water.",
+  "The next morning, near the village of Plein, I found an old red sandstone viaduct arching over a wooded ravine. The railway it carried is a bike path now, which seems like a fine second career for a railway. A couple of days later Cochem added one more castle on one more hill. I only saw a few of the Mosel's many bends, and I would happily follow the rest."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/mosel-valley/cover.webp",
+ "card": "assets/images/mosel-valley/thumbs/84603c00.webp",
+ "photos": [
+  {
+   "src": "assets/images/mosel-valley/c86e4bf4.webp",
+   "thumb": "assets/images/mosel-valley/thumbs/c86e4bf4.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Floating Home",
+   "alt": "A tree-lined Amsterdam canal in warm evening light, with a low, curtained houseboat moored in the foreground."
+  },
+  {
+   "src": "assets/images/mosel-valley/c8fe406a.webp",
+   "thumb": "assets/images/mosel-valley/thumbs/c8fe406a.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Ramen Stop",
+   "alt": "A blue-and-white bowl of ramen topped with herbs and a sheet of nori on a wooden table, with a straw drink behind it."
+  },
+  {
+   "src": "assets/images/mosel-valley/b9f94c05.webp",
+   "thumb": "assets/images/mosel-valley/thumbs/b9f94c05.webp",
+   "w": 1367,
+   "h": 2048,
+   "tw": 534,
+   "th": 800,
+   "caption": "Canal Dusk",
+   "alt": "A quiet Amsterdam canal at dusk, with moored boats, dark trees and a pale pink glow on the horizon."
+  },
+  {
+   "src": "assets/images/mosel-valley/08060fe6.webp",
+   "thumb": "assets/images/mosel-valley/thumbs/08060fe6.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Brewing Storm",
+   "alt": "A gold-framed painting of a green and yellow wheat field under dark blue thunderclouds."
+  },
+  {
+   "src": "assets/images/mosel-valley/33f4fa55.webp",
+   "thumb": "assets/images/mosel-valley/thumbs/33f4fa55.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Irises",
+   "alt": "A gold-framed painting of blue irises in an ochre vase against a golden yellow background."
+  },
+  {
+   "src": "assets/images/mosel-valley/3517e620.webp",
+   "thumb": "assets/images/mosel-valley/thumbs/3517e620.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Roots",
+   "alt": "A gold-framed painting of twisting tree roots in blue, green and orange."
+  },
+  {
+   "src": "assets/images/mosel-valley/3be2c418.webp",
+   "thumb": "assets/images/mosel-valley/thumbs/3be2c418.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Cloudless",
+   "alt": "A corner mansion with a mansard roof, a gray conical turret and a flag, set against a deep blue cloudless sky."
+  },
+  {
+   "src": "assets/images/mosel-valley/d05d3818.webp",
+   "thumb": "assets/images/mosel-valley/thumbs/d05d3818.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Backyard Vines",
+   "alt": "Grapevines in leaf on dry, straw-colored ground, with slate rooftops and a glass-roofed dormer just below."
+  },
+  {
+   "src": "assets/images/mosel-valley/6d390b2d.webp",
+   "thumb": "assets/images/mosel-valley/thumbs/6d390b2d.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Steeple Bend",
+   "alt": "Looking across vine leaves and slate roofs to a pointed church spire, a yellow house and a bend of the river."
+  },
+  {
+   "src": "assets/images/mosel-valley/d329cb04.webp",
+   "thumb": "assets/images/mosel-valley/thumbs/d329cb04.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Vine Frame",
+   "alt": "A church spire and a glimpse of the river seen through vine leaves and a trellis post under a cloudy blue sky."
+  },
+  {
+   "src": "assets/images/mosel-valley/84603c00.webp",
+   "thumb": "assets/images/mosel-valley/thumbs/84603c00.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Roofless",
+   "alt": "A ruined castle seen from below, with a round tower and a roofless wall with window openings, above a grassy slope and under white clouds."
+  },
+  {
+   "src": "assets/images/mosel-valley/79767003.webp",
+   "thumb": "assets/images/mosel-valley/thumbs/79767003.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Meander",
+   "alt": "The Mosel seen from high above, curving between forested hills and vineyards with a village on the far bank."
+  },
+  {
+   "src": "assets/images/mosel-valley/ff2f2453.webp",
+   "thumb": "assets/images/mosel-valley/thumbs/ff2f2453.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Red Arches",
+   "alt": "An old red sandstone viaduct with an iron railing crossing a wooded ravine, framed by green foliage."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 45%"
+}

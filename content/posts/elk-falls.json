@@ -1,0 +1,103 @@
+{
+ "slug": "elk-falls",
+ "title": "Elk Falls Overlook",
+ "cardTitle": "Elk Falls",
+ "date": "2021-08",
+ "dateLabel": "August 2021",
+ "location": "Elk Falls Overlook, Staunton State Park, Colorado",
+ "country": "United States",
+ "coords": [
+  39.5,
+  -105.4
+ ],
+ "tags": [
+  "hiking",
+  "forest",
+  "waterfalls",
+  "mountains",
+  "state-park"
+ ],
+ "sectionTitle": "Granite Afternoon",
+ "paragraphs": [
+  "A dome of gray granite looks down on Elk Falls Pond, and the pond looks right back. I came to Staunton State Park on a Sunday afternoon in August, not far from home, with the mountain bike along for the ride. The pond sits in a conifer valley, small and dark and calm, with a wooden fence and a few wildflowers along the shore. White cumulus piled up over the ridge and doubled itself in the water. The brown sign by the shore lays out the rules: fishing license required, no swimming, no boats, rafts or other floating devices. Admiring it from the bank is the whole idea.",
+  "The overlook is where the afternoon opened up. From a bare ledge of warm granite the ground drops away into a canyon of pink and orange spires and fins, thick with conifers. Elk Falls itself, I think, is the thin white thread near the bottom, so far down that it is easy to miss. Squint toward the bottom right of the shots below and you can find it. The pink stone is ancient granite that cooled slowly deep underground and was uncovered as everything above it wore away. Heavy gray clouds rolled across the ridges while a warm haze stacked the distance into soft layers, and the light slid from silver toward gold.",
+  "On the way out I stopped at the pond one more time. The light had flattened and the water had gone dark and glassy, so the bike got its portraits, once beside the sign and once on the rocks by the shore. Next to rock that old, a mountain bike looks like a toy."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/elk-falls/cover.webp",
+ "card": "assets/images/elk-falls/thumbs/4c4e7bf3.webp",
+ "photos": [
+  {
+   "src": "assets/images/elk-falls/ca3fc0e6.webp",
+   "thumb": "assets/images/elk-falls/thumbs/ca3fc0e6.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Rest Stop",
+   "alt": "A mountain bike leaning against a log bench on a dirt trail among green aspens and pines"
+  },
+  {
+   "src": "assets/images/elk-falls/6f6f2ad2.webp",
+   "thumb": "assets/images/elk-falls/thumbs/6f6f2ad2.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Storm Ledge",
+   "alt": "A rocky ledge looking out over a forested canyon with pink granite cliffs under heavy grey clouds"
+  },
+  {
+   "src": "assets/images/elk-falls/e9bea676.webp",
+   "thumb": "assets/images/elk-falls/thumbs/e9bea676.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Thin Thread",
+   "alt": "Pink granite spires and fins above dense evergreen forest, with a narrow waterfall at the bottom right"
+  },
+  {
+   "src": "assets/images/elk-falls/c2b0f22f.webp",
+   "thumb": "assets/images/elk-falls/thumbs/c2b0f22f.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Pink Granite",
+   "alt": "Orange granite cliffs in a forested canyon with hazy ridges stacked behind under a pale golden sky"
+  },
+  {
+   "src": "assets/images/elk-falls/522fbc12.webp",
+   "thumb": "assets/images/elk-falls/thumbs/522fbc12.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Open Sky",
+   "alt": "A sandy rock ledge in the foreground and a wide forested valley with distant ridges under a cream and grey sky"
+  },
+  {
+   "src": "assets/images/elk-falls/0194e924.webp",
+   "thumb": "assets/images/elk-falls/thumbs/0194e924.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "House Rules",
+   "alt": "A mountain bike parked in front of a brown Elk Falls Pond sign, with the still pond and a granite outcrop behind"
+  },
+  {
+   "src": "assets/images/elk-falls/6bd48ea0.webp",
+   "thumb": "assets/images/elk-falls/thumbs/6bd48ea0.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Dome Sweet Dome",
+   "alt": "A mountain bike resting on boulders at the edge of a dark pond, with a large layered granite dome rising on the far shore"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 50%"
+}

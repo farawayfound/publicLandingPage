@@ -1,0 +1,163 @@
+{
+ "slug": "rocky-mountain-summer",
+ "title": "Rocky Mountain Summer",
+ "cardTitle": "Rocky Mountain Summer",
+ "date": "2023-07",
+ "dateLabel": "July & September 2023",
+ "location": "Golden Gate Canyon & Breckenridge, Colorado",
+ "country": "United States",
+ "coords": [
+  39.4,
+  -106.1
+ ],
+ "tags": [
+  "mountains",
+  "hiking",
+  "lakes",
+  "forest",
+  "state-park"
+ ],
+ "sectionTitle": "Hand to Horizon",
+ "paragraphs": [
+  "Some of the best views in the Rockies are knee high. One July afternoon I walked through an aspen grove in Golden Gate Canyon State Park, in the foothills west of Golden. A rocky summit stood over the treetops, and the forest floor was in bloom. Colorado blue columbines grew in the shade among the ferns, their lavender-blue sepals flaring around white petals and a puff of yellow stamens. Columbine comes from the Latin word for dove, and the sepals do look a bit like wings. An orange wallflower stood out against the pale aspen trunks, and a lone white geranium sat quietly in the greenery.",
+  "On the first weekend of September I looked up for a change. I hiked the Mohawk Lakes trail south of Breckenridge, past a stepped waterfall tumbling through rust-colored rock, and climbed toward the lakes above. In one basin a huge bare dome of scree rose over a tangle of willow and spruce and made everything else look small. Farther on, a clear lake lay beneath a slope of broken rock streaked with what looked like old snow. The sky was split in two, with bright cumulus over the valley and a heavy gray lid over the water. Pack a rain shell, because the weather up high turns fast.",
+  "I was still out there when the light went blue. A small pond among the boulders and spruce held the last of the sky, and on its far side a fire glowed between the trees, its orange doubled in the water. In July, summer fit in the palm of my hand. By September it filled an entire basin."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/rocky-mountain-summer/cover.webp",
+ "card": "assets/images/rocky-mountain-summer/thumbs/561eb573.webp",
+ "photos": [
+  {
+   "src": "assets/images/rocky-mountain-summer/76230d2d.webp",
+   "thumb": "assets/images/rocky-mountain-summer/thumbs/76230d2d.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Before the Gold",
+   "alt": "Green aspen trees in full leaf with a rocky peak rising behind them under a blue sky with white clouds."
+  },
+  {
+   "src": "assets/images/rocky-mountain-summer/bbb18aa1.webp",
+   "thumb": "assets/images/rocky-mountain-summer/thumbs/bbb18aa1.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "State Flower",
+   "alt": "Two lavender-blue and white columbine flowers among green leaves and thin dark stems."
+  },
+  {
+   "src": "assets/images/rocky-mountain-summer/8318b078.webp",
+   "thumb": "assets/images/rocky-mountain-summer/thumbs/8318b078.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "No Wallflower",
+   "alt": "A spike of orange wallflowers with pale aspen trunks softly blurred behind."
+  },
+  {
+   "src": "assets/images/rocky-mountain-summer/a5f6d5bd.webp",
+   "thumb": "assets/images/rocky-mountain-summer/thumbs/a5f6d5bd.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Shady Character",
+   "alt": "A single columbine bloom among green leaves, with rocks and pale tree trunks in the background."
+  },
+  {
+   "src": "assets/images/rocky-mountain-summer/8a19ee02.webp",
+   "thumb": "assets/images/rocky-mountain-summer/thumbs/8a19ee02.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Rock Star",
+   "alt": "Blue and white columbines growing at the base of a rocky bank."
+  },
+  {
+   "src": "assets/images/rocky-mountain-summer/4aec8a6e.webp",
+   "thumb": "assets/images/rocky-mountain-summer/thumbs/4aec8a6e.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Quiet One",
+   "alt": "A single white geranium flower with faint pink veins, open among forest-floor greenery."
+  },
+  {
+   "src": "assets/images/rocky-mountain-summer/de24ff5b.webp",
+   "thumb": "assets/images/rocky-mountain-summer/thumbs/de24ff5b.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Duet",
+   "alt": "Two columbine flowers, one above the other, among bright green leaves."
+  },
+  {
+   "src": "assets/images/rocky-mountain-summer/6a03ad35.webp",
+   "thumb": "assets/images/rocky-mountain-summer/thumbs/6a03ad35.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Pinwheel",
+   "alt": "A columbine seen from above, its pale blue sepals spread like a pinwheel in the grass."
+  },
+  {
+   "src": "assets/images/rocky-mountain-summer/ea083317.webp",
+   "thumb": "assets/images/rocky-mountain-summer/thumbs/ea083317.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "The Climb",
+   "alt": "A rocky trail climbing past green willow and golden grass toward a ridge under broken cloud."
+  },
+  {
+   "src": "assets/images/rocky-mountain-summer/561eb573.webp",
+   "thumb": "assets/images/rocky-mountain-summer/thumbs/561eb573.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Gentle Giant",
+   "alt": "A huge bare dome of scree above a basin of willow and spruce, with a small pond, white cumulus clouds and blue sky."
+  },
+  {
+   "src": "assets/images/rocky-mountain-summer/ac8c7192.webp",
+   "thumb": "assets/images/rocky-mountain-summer/thumbs/ac8c7192.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Ripple Effect",
+   "alt": "A clear alpine lake with rippled water and a stony shoreline below a slope with patches of snow."
+  },
+  {
+   "src": "assets/images/rocky-mountain-summer/653fa7db.webp",
+   "thumb": "assets/images/rocky-mountain-summer/thumbs/653fa7db.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Dimmer Switch",
+   "alt": "Spruce and a boulder field at dusk above a small pond, with a faint orange glow among the trees."
+  },
+  {
+   "src": "assets/images/rocky-mountain-summer/eb973879.webp",
+   "thumb": "assets/images/rocky-mountain-summer/thumbs/eb973879.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Across the Pond",
+   "alt": "A fire glowing among spruce trees on the far side of a small pond, its orange light reflected in the water."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 70%"
+}

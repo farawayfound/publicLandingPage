@@ -1,0 +1,163 @@
+{
+ "slug": "lake-tahoe",
+ "title": "Frosted Tahoe",
+ "cardTitle": "Frosted Tahoe",
+ "date": "2023-02",
+ "dateLabel": "March 2020 & February 2023",
+ "location": "Lake Tahoe, Nevada & California",
+ "country": "United States",
+ "coords": [
+  39.1,
+  -120.0
+ ],
+ "tags": [
+  "forest",
+  "hiking",
+  "lakes",
+  "mountains",
+  "snow"
+ ],
+ "sectionTitle": "Cold Clarity",
+ "paragraphs": [
+  "Frost had turned every shrub on Heavenly's ridge into white coral. Rime, to be exact: the ice that builds up when fog freezes onto whatever it touches. I had five days at Lake Tahoe as January turned to February, and that Monday morning on the Nevada side the sky was a saturated, cloudless blue. Round granite boulders poked through the wind-packed snow. Far below, the lake lay deep and inky, with a thin bank of fog along the far shore and the snowy crest of the Sierra rising behind it. Tahoe is about 22 miles long, 12 wide and 1,645 feet deep, the second-deepest lake in the country. From the ridge, that depth is easy to believe.",
+  "The next afternoon I found snow on the sand at Nevada Beach, with a long black dock stretched across cobalt water and jagged white peaks beyond. Later I paused on Heavenly's lower slopes to look down through the pines at a curving shoreline and its turquoise shallows. By Thursday the blue was gone. After an afternoon near Northstar, the road south along the east shore ran right beside glassy water, and as the light faded a thin stripe of orange slid in beneath the heavy clouds. Lone pines stood black on the granite points, and round boulders sat in the shallows beside their own reflections. I took these from the car, so the pines smeared into brushstrokes and the shoreline into watercolor. Technically, they're a mess. I love them anyway.",
+  "I had seen the lake frosted once before. On leap day 2020 I hiked a stretch of what I think was the Rubicon Trail on the west shore in the late afternoon, between granite boulders and tall pines, with the water only a pale strip under heavy gray cloud. That was about two weeks before the pandemic shut everything down. The next afternoon a fresh dusting had coated every shrub and pine bough, the lake was steel blue and the low sun lit the clouds gold. At a roadside pullout near Emerald Bay, the Jeep made a red exclamation point against all that white. Driving Highway 89 along the west shore, expect to pull over a lot. The lake is some two million years old, and the granite around it is older still. Two frosts, almost three years apart, make a small sample. I'd still like a third."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/lake-tahoe/cover.webp",
+ "card": "assets/images/lake-tahoe/thumbs/89fbef42.webp",
+ "photos": [
+  {
+   "src": "assets/images/lake-tahoe/d2ce4858.webp",
+   "thumb": "assets/images/lake-tahoe/thumbs/d2ce4858.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Heavenly",
+   "alt": "A snowy ridge of frosted shrubs under a cloudless deep blue sky, with a long snow-covered mountain range and the edge of the lake in the distance"
+  },
+  {
+   "src": "assets/images/lake-tahoe/0ecf4228.webp",
+   "thumb": "assets/images/lake-tahoe/thumbs/0ecf4228.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Rime Time",
+   "alt": "Shrubs thickly coated in white rime ice on a sunlit snowy slope, with the lake and a distant snowy mountain range beyond"
+  },
+  {
+   "src": "assets/images/lake-tahoe/0c313b32.webp",
+   "thumb": "assets/images/lake-tahoe/thumbs/0c313b32.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Sand and Snow",
+   "alt": "A black floating dock stretching across calm blue water in front of snowy peaks, with a sandy beach and a patch of snow in the foreground"
+  },
+  {
+   "src": "assets/images/lake-tahoe/ec38bbeb.webp",
+   "thumb": "assets/images/lake-tahoe/thumbs/ec38bbeb.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Framed by Pines",
+   "alt": "Tall pines framing a high view of the lake, its curving shoreline and turquoise shallows, under a pale blue sky with a long contrail"
+  },
+  {
+   "src": "assets/images/lake-tahoe/958c1b6a.webp",
+   "thumb": "assets/images/lake-tahoe/thumbs/958c1b6a.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Granite Point",
+   "alt": "A lone pine on a dark rocky point above glassy water, with a thin orange glow on the horizon under heavy clouds, softened by motion blur"
+  },
+  {
+   "src": "assets/images/lake-tahoe/13f2dc01.webp",
+   "thumb": "assets/images/lake-tahoe/thumbs/13f2dc01.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Slate and Amber",
+   "alt": "Pines and a patch of snow along the shore of a calm lake, with an orange stripe of light on the horizon beneath heavy slate-blue clouds"
+  },
+  {
+   "src": "assets/images/lake-tahoe/be4963e6.webp",
+   "thumb": "assets/images/lake-tahoe/thumbs/be4963e6.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Stepping Stones",
+   "alt": "Round boulders in calm shallows reflecting orange light, with a pine-covered point and a snowy shore beneath dark clouds"
+  },
+  {
+   "src": "assets/images/lake-tahoe/9121a550.webp",
+   "thumb": "assets/images/lake-tahoe/thumbs/9121a550.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Fade Out",
+   "alt": "A wide, glassy lake at dusk under heavy blue-gray clouds, with a thin orange glow on the horizon and dark pines and snow in the foreground"
+  },
+  {
+   "src": "assets/images/lake-tahoe/c024586d.webp",
+   "thumb": "assets/images/lake-tahoe/thumbs/c024586d.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Leap Day",
+   "alt": "A sandy trail winding between rounded granite boulders and low green shrubs, with tall pines and a pale strip of lake under a gray sky"
+  },
+  {
+   "src": "assets/images/lake-tahoe/f41642ba.webp",
+   "thumb": "assets/images/lake-tahoe/thumbs/f41642ba.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Far Shore",
+   "alt": "A steel-blue lake below heaped clouds lit gold by the low sun, with a snow-streaked ridge on the far shore and pines at the edges"
+  },
+  {
+   "src": "assets/images/lake-tahoe/8555b588.webp",
+   "thumb": "assets/images/lake-tahoe/thumbs/8555b588.webp",
+   "w": 2048,
+   "h": 1106,
+   "tw": 800,
+   "th": 432,
+   "caption": "Powder Blue",
+   "alt": "A wide view of the lake through snow-dusted pines and shrubs, with gold-lit clouds and a snowy ridge on the far shore"
+  },
+  {
+   "src": "assets/images/lake-tahoe/85b4312f.webp",
+   "thumb": "assets/images/lake-tahoe/thumbs/85b4312f.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Cherry Red",
+   "alt": "A tall pine and snowy mountain slopes above a roadside pullout, where a small red Jeep sits beside brown signposts"
+  },
+  {
+   "src": "assets/images/lake-tahoe/0d7a1518.webp",
+   "thumb": "assets/images/lake-tahoe/thumbs/0d7a1518.webp",
+   "w": 1521,
+   "h": 2048,
+   "tw": 594,
+   "th": 800,
+   "caption": "Fresh Coat",
+   "alt": "Snow-dusted shrubs and pines under gold-lit clouds and patches of blue sky, with a small red Jeep parked below snowy mountains"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 15%"
+}

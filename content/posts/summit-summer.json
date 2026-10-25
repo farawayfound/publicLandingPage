@@ -1,0 +1,183 @@
+{
+ "slug": "summit-summer",
+ "title": "Summit County Summer",
+ "cardTitle": "Summit County Summer",
+ "date": "2022-09",
+ "dateLabel": "September 2022",
+ "location": "Summit County, Colorado",
+ "country": "United States",
+ "coords": [
+  39.6,
+  -106.1
+ ],
+ "tags": [
+  "backpacking",
+  "forest",
+  "hiking",
+  "lakes",
+  "mountains"
+ ],
+ "sectionTitle": "Short Season",
+ "paragraphs": [
+  "In mid-July I hiked into the Gore Range from the Silverthorne side for an overnight, and the trail began in beetle-killed forest, gray trunks standing bare against the sky. Bark beetles have been sweeping through Colorado's forests for the last couple of decades, and in this part of the Rockies the damage is hard to miss. Then the trees opened onto a lush meadow with a stream braiding through the grass, and there they were: a row of jagged spires, the skyline this range is known for! I made camp at a cirque lake, with steep cliffs overhead and snow still lingering in the shadows. Around eight that evening, the last of the sun lit the tip of a peak gold, and the still water held its reflection. The walk out the next day followed a clear creek past a fallen log.",
+  "On the Sunday of Labor Day weekend I was back up high, this time on a ridge south of Breckenridge. I started early, with the trail still dusted white, and by a little after eight I was on the crest, the low sun stretching long shadows across the slopes. Bring a warm layer: even in early September, mornings up there start cold. I spent hours above 13,000 feet, a long walk over scree and tundra past serrated crests and tilted bands of rock, under the kind of deep blue sky you only get at altitude. Two dark tarns lay far below in a gray cirque. A dirt road zigzagged up a green valley. Even up here, summer was on its way out: crimson leaves wedged between the rocks, right beside splashes of orange lichen. The dog, blue pack and all, posed on the ridge for the camera.",
+  "Seven weeks and two mountain ranges apart, my two outings bracketed the summer. In July the shadows still held snow; by early September the white was back on the trail and the first leaves were turning red between the rocks. Up high, the growing season lasts only six to eight weeks, which leaves the plants no time to waste. Maybe I should take the hint."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/summit-summer/cover.webp",
+ "card": "assets/images/summit-summer/thumbs/9ead89d3.webp",
+ "photos": [
+  {
+   "src": "assets/images/summit-summer/249fb934.webp",
+   "thumb": "assets/images/summit-summer/thumbs/249fb934.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Skeleton Crew",
+   "alt": "A dirt trail runs past standing dead trees and green conifers, with a snow-streaked peak beyond under puffy clouds"
+  },
+  {
+   "src": "assets/images/summit-summer/68d23955.webp",
+   "thumb": "assets/images/summit-summer/thumbs/68d23955.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Cirque Lake",
+   "alt": "A still alpine lake beneath steep gray cliffs and jagged peaks with patches of snow"
+  },
+  {
+   "src": "assets/images/summit-summer/db14abd7.webp",
+   "thumb": "assets/images/summit-summer/thumbs/db14abd7.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Gold Peak",
+   "alt": "A gold-lit mountain peak reflected in a calm lake in evening light"
+  },
+  {
+   "src": "assets/images/summit-summer/f8bf0dba.webp",
+   "thumb": "assets/images/summit-summer/thumbs/f8bf0dba.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Log Crossing",
+   "alt": "A clear creek runs past a fallen log and tall conifers with reddish bark"
+  },
+  {
+   "src": "assets/images/summit-summer/28e7eb19.webp",
+   "thumb": "assets/images/summit-summer/thumbs/28e7eb19.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Cold Start",
+   "alt": "A dog in a blue pack walks a rocky trail dusted with white beneath a gray mountainside in early morning"
+  },
+  {
+   "src": "assets/images/summit-summer/b07c5705.webp",
+   "thumb": "assets/images/summit-summer/thumbs/b07c5705.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Shadow Line",
+   "alt": "A long ridge in morning light with a dark shadow across the slope below a deep blue sky"
+  },
+  {
+   "src": "assets/images/summit-summer/1a826ace.webp",
+   "thumb": "assets/images/summit-summer/thumbs/1a826ace.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Lookout",
+   "alt": "An Australian shepherd in a blue pack sits on sunlit rocks against a deep blue sky"
+  },
+  {
+   "src": "assets/images/summit-summer/b84feadf.webp",
+   "thumb": "assets/images/summit-summer/thumbs/b84feadf.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Haze Lines",
+   "alt": "A shadowed ridge crest and layered hazy ranges beneath a deep blue sky"
+  },
+  {
+   "src": "assets/images/summit-summer/60715d57.webp",
+   "thumb": "assets/images/summit-summer/thumbs/60715d57.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Ribcage",
+   "alt": "Ribbed gray cliffs below a pale hill and a hazy blue range on the horizon"
+  },
+  {
+   "src": "assets/images/summit-summer/eeccf79d.webp",
+   "thumb": "assets/images/summit-summer/thumbs/eeccf79d.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "First Color",
+   "alt": "Crimson leaves wedged between pale rocks beside a patch of orange lichen"
+  },
+  {
+   "src": "assets/images/summit-summer/7e597e39.webp",
+   "thumb": "assets/images/summit-summer/thumbs/7e597e39.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Inkwells",
+   "alt": "Two dark tarns in a gray rocky cirque seen from high above"
+  },
+  {
+   "src": "assets/images/summit-summer/c6d83be7.webp",
+   "thumb": "assets/images/summit-summer/thumbs/c6d83be7.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Tilted Strata",
+   "alt": "Tilted bands of gray and tan rock with a layer of orange stone"
+  },
+  {
+   "src": "assets/images/summit-summer/5379dc05.webp",
+   "thumb": "assets/images/summit-summer/thumbs/5379dc05.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Crimson",
+   "alt": "A round clump of deep red leaves among pale broken rock"
+  },
+  {
+   "src": "assets/images/summit-summer/86a85975.webp",
+   "thumb": "assets/images/summit-summer/thumbs/86a85975.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Beyond",
+   "alt": "Rugged ridgelines layered with blue haze and a small lake far below"
+  },
+  {
+   "src": "assets/images/summit-summer/9d54d208.webp",
+   "thumb": "assets/images/summit-summer/thumbs/9d54d208.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Switchbacks",
+   "alt": "A dirt road switchbacks up a green valley seen from a high ridge"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 30%"
+}

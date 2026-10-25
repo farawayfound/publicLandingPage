@@ -1,0 +1,101 @@
+{
+ "slug": "snowy-roxborough",
+ "title": "Snowy Roxborough",
+ "cardTitle": "Snowy Roxborough",
+ "date": "2019-11",
+ "dateLabel": "November 2019",
+ "location": "Roxborough State Park, Colorado",
+ "country": "United States",
+ "coords": [
+  39.4,
+  -105.1
+ ],
+ "tags": [
+  "state-park",
+  "snow",
+  "mountains",
+  "hiking"
+ ],
+ "sectionTitle": "Frosted Fins",
+ "paragraphs": [
+  "The day before Thanksgiving, Roxborough's fins wore white edges. The last time I saw them under snow was back in April 2017, so when the snow came again I went back for the proper winter version. The scrub oak held on to its russet leaves, and the tall brush in the foreground glowed rust-orange against the white. Across the valley, the big ridge showed its red stripes through the snow. The rocks are ancient, and every winter they still show up looking brand new. I'm a little jealous.",
+  "Then the deer showed up. In an open pocket of snow, a mule deer buck picked his way across the dead grass, and before long a smaller buck stood facing him. Late November is rut season for mule deer, which probably explains why neither had any time for a guy with a camera. Earlier, what I took for a doe beside the trees had turned her back on me and given me the same cold shoulder. Mule deer are named for their ears, and against all that snow every pair looked like it was listening for something. If you visit right after a fresh snow, bring real boots. Same fins, new coat."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/snowy-roxborough/cover.webp",
+ "card": "assets/images/snowy-roxborough/thumbs/fb3b0a64.webp",
+ "photos": [
+  {
+   "src": "assets/images/snowy-roxborough/4fa7c23f.webp",
+   "thumb": "assets/images/snowy-roxborough/thumbs/4fa7c23f.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Winter Return",
+   "alt": "Wide snowy meadow with a faint track and red sandstone fins rising in the distance"
+  },
+  {
+   "src": "assets/images/snowy-roxborough/3cc55f8a.webp",
+   "thumb": "assets/images/snowy-roxborough/thumbs/3cc55f8a.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Peppermint",
+   "alt": "Snow-striped red sandstone ridge above a slope of bare winter trees"
+  },
+  {
+   "src": "assets/images/snowy-roxborough/36e9bfff.webp",
+   "thumb": "assets/images/snowy-roxborough/thumbs/36e9bfff.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "Frosting",
+   "alt": "Tilted red sandstone fins dusted with snow behind russet brush"
+  },
+  {
+   "src": "assets/images/snowy-roxborough/fb3b0a64.webp",
+   "thumb": "assets/images/snowy-roxborough/thumbs/fb3b0a64.webp",
+   "w": 2048,
+   "h": 1367,
+   "tw": 800,
+   "th": 534,
+   "caption": "School of Sharks",
+   "alt": "A row of red sandstone fins with snow on their ledges above rust-colored brush"
+  },
+  {
+   "src": "assets/images/snowy-roxborough/b9037bae.webp",
+   "thumb": "assets/images/snowy-roxborough/thumbs/b9037bae.webp",
+   "w": 2048,
+   "h": 2048,
+   "tw": 800,
+   "th": 800,
+   "caption": "Camera Shy",
+   "alt": "A mule deer doe standing in snow at the edge of a thicket, turned away"
+  },
+  {
+   "src": "assets/images/snowy-roxborough/76c7badc.webp",
+   "thumb": "assets/images/snowy-roxborough/thumbs/76c7badc.webp",
+   "w": 2048,
+   "h": 2048,
+   "tw": 800,
+   "th": 800,
+   "caption": "Lone Buck",
+   "alt": "A mule deer buck standing in snow below a hillside of dormant scrub"
+  },
+  {
+   "src": "assets/images/snowy-roxborough/ef00612f.webp",
+   "thumb": "assets/images/snowy-roxborough/thumbs/ef00612f.webp",
+   "w": 2014,
+   "h": 1333,
+   "tw": 800,
+   "th": 529,
+   "caption": "Standoff",
+   "alt": "Two mule deer bucks, one larger and one smaller, facing each other in an open snowy field"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 40%"
+}

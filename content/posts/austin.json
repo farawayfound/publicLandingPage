@@ -1,0 +1,513 @@
+{
+ "slug": "austin",
+ "title": "Austin, TX",
+ "cardTitle": "Austin, TX",
+ "date": "2015-12",
+ "dateLabel": "December 2015",
+ "location": "Austin, Texas",
+ "country": "United States",
+ "coords": [
+  30.3,
+  -97.7
+ ],
+ "tags": [
+  "city"
+ ],
+ "sectionTitle": "Heart of Texas",
+ "paragraphs": [
+  "Home is where the heart is, and Austin was my home for the last 4 years, during which some of my dearest memories were made. I had developed my personal identity, grown from boy to man. I studied petroleum engineering at UT, fallen in love, become a progressive and environmentalist, started a business, dropped out of school, had my heart broken, and dissolved a business. My time there was full of lessons and loss, but it there was even more love and joy. Austin made me who I am, and I wouldn't take back a single moment I spent there.",
+  "I only picked up a camera during the later part of my stay in Austin, and then learned to back up my images the hard way by losing most of them. There is an abundance of beautiful moments both in and outside of the city limits. The streets of Austin are filled with life and sights, and the best state parks in Texas surround Austin. My images in this gallery hardly do the city justice; however, that only gives me one more excuse to go back one day! I have no doubt in my mind I will be back in Austin, but this time as a visitor, not a resident."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/austin/cover.jpg",
+ "card": "assets/images/austin/thumbs/sm_austin-26.jpg",
+ "photos": [
+  {
+   "src": "assets/images/austin/sm_austin-28.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-28.jpg",
+   "w": 1080,
+   "h": 720,
+   "tw": 600,
+   "th": 392,
+   "caption": "Ghosts"
+  },
+  {
+   "src": "assets/images/austin/_SHN6896.jpg",
+   "thumb": "assets/images/austin/thumbs/_SHN6896.jpg",
+   "w": 1803,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "MoPac"
+  },
+  {
+   "src": "assets/images/austin/_SHN6908.jpg",
+   "thumb": "assets/images/austin/thumbs/_SHN6908.jpg",
+   "w": 1803,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Crossway"
+  },
+  {
+   "src": "assets/images/austin/2DS_0212.jpg",
+   "thumb": "assets/images/austin/thumbs/2DS_0212.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Blue"
+  },
+  {
+   "src": "assets/images/austin/2DS_0904.jpg",
+   "thumb": "assets/images/austin/thumbs/2DS_0904.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Rooftop"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-26.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-26.jpg",
+   "w": 1081,
+   "h": 720,
+   "tw": 600,
+   "th": 392,
+   "caption": "Capitol"
+  },
+  {
+   "src": "assets/images/austin/2DS_9728-2.jpg",
+   "thumb": "assets/images/austin/thumbs/2DS_9728-2.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Lou Neff"
+  },
+  {
+   "src": "assets/images/austin/21.jpg",
+   "thumb": "assets/images/austin/thumbs/21.jpg",
+   "w": 3072,
+   "h": 2048,
+   "tw": 600,
+   "th": 392,
+   "caption": "Boardwalk"
+  },
+  {
+   "src": "assets/images/austin/20.jpg",
+   "thumb": "assets/images/austin/thumbs/20.jpg",
+   "w": 3072,
+   "h": 2048,
+   "tw": 600,
+   "th": 392,
+   "caption": "Colorado"
+  },
+  {
+   "src": "assets/images/austin/DSC04086.jpg",
+   "thumb": "assets/images/austin/thumbs/DSC04086.jpg",
+   "w": 5472,
+   "h": 3648,
+   "tw": 600,
+   "th": 392,
+   "caption": "Castle"
+  },
+  {
+   "src": "assets/images/austin/Enlight1 22.jpg",
+   "thumb": "assets/images/austin/thumbs/Enlight1 22.jpg",
+   "w": 2832,
+   "h": 2832,
+   "tw": 600,
+   "th": 392,
+   "caption": "Junk Cathedral"
+  },
+  {
+   "src": "assets/images/austin/Enlight1 25.jpg",
+   "thumb": "assets/images/austin/thumbs/Enlight1 25.jpg",
+   "w": 1279,
+   "h": 1279,
+   "tw": 600,
+   "th": 392,
+   "caption": "Summer Fling"
+  },
+  {
+   "src": "assets/images/austin/Enlight1 31.jpg",
+   "thumb": "assets/images/austin/thumbs/Enlight1 31.jpg",
+   "w": 1362,
+   "h": 1362,
+   "tw": 600,
+   "th": 392,
+   "caption": "Twilight"
+  },
+  {
+   "src": "assets/images/austin/IMG_1115 2.jpg",
+   "thumb": "assets/images/austin/thumbs/IMG_1115 2.jpg",
+   "w": 2048,
+   "h": 1365,
+   "tw": 600,
+   "th": 392,
+   "caption": "Overloop"
+  },
+  {
+   "src": "assets/images/austin/IMG_1119 2.jpg",
+   "thumb": "assets/images/austin/thumbs/IMG_1119 2.jpg",
+   "w": 960,
+   "h": 640,
+   "tw": 600,
+   "th": 392,
+   "caption": "Garage View"
+  },
+  {
+   "src": "assets/images/austin/IMG_1120.jpg",
+   "thumb": "assets/images/austin/thumbs/IMG_1120.jpg",
+   "w": 960,
+   "h": 600,
+   "tw": 600,
+   "th": 392,
+   "caption": "Warp"
+  },
+  {
+   "src": "assets/images/austin/IMG_1121.jpg",
+   "thumb": "assets/images/austin/thumbs/IMG_1121.jpg",
+   "w": 960,
+   "h": 600,
+   "tw": 600,
+   "th": 392,
+   "caption": "Bee"
+  },
+  {
+   "src": "assets/images/austin/IMG_1130.jpg",
+   "thumb": "assets/images/austin/thumbs/IMG_1130.jpg",
+   "w": 2048,
+   "h": 1280,
+   "tw": 600,
+   "th": 392,
+   "caption": "Glassy"
+  },
+  {
+   "src": "assets/images/austin/IMG_2702.jpg",
+   "thumb": "assets/images/austin/thumbs/IMG_2702.jpg",
+   "w": 1598,
+   "h": 1280,
+   "tw": 600,
+   "th": 392,
+   "caption": "Rentals"
+  },
+  {
+   "src": "assets/images/austin/IMG_2707.jpg",
+   "thumb": "assets/images/austin/thumbs/IMG_2707.jpg",
+   "w": 1161,
+   "h": 1161,
+   "tw": 600,
+   "th": 392,
+   "caption": "Shallow"
+  },
+  {
+   "src": "assets/images/austin/IMG_2709.jpg",
+   "thumb": "assets/images/austin/thumbs/IMG_2709.jpg",
+   "w": 1367,
+   "h": 1368,
+   "tw": 600,
+   "th": 392,
+   "caption": "Fall"
+  },
+  {
+   "src": "assets/images/austin/IMG_2711.jpg",
+   "thumb": "assets/images/austin/thumbs/IMG_2711.jpg",
+   "w": 1279,
+   "h": 1280,
+   "tw": 600,
+   "th": 392,
+   "caption": "Meditation"
+  },
+  {
+   "src": "assets/images/austin/IMG_2712.jpg",
+   "thumb": "assets/images/austin/thumbs/IMG_2712.jpg",
+   "w": 1362,
+   "h": 1363,
+   "tw": 600,
+   "th": 392,
+   "caption": "Fog"
+  },
+  {
+   "src": "assets/images/austin/IMG_3049.jpg",
+   "thumb": "assets/images/austin/thumbs/IMG_3049.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Campus"
+  },
+  {
+   "src": "assets/images/austin/IMG_3115.jpg",
+   "thumb": "assets/images/austin/thumbs/IMG_3115.jpg",
+   "w": 1201,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Analog"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-3.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-3.jpg",
+   "w": 1082,
+   "h": 720,
+   "tw": 600,
+   "th": 392,
+   "caption": "Texas"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-4.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-4.jpg",
+   "w": 1082,
+   "h": 720,
+   "tw": 600,
+   "th": 392,
+   "caption": "Overcast"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-5.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-5.jpg",
+   "w": 1082,
+   "h": 720,
+   "tw": 600,
+   "th": 392,
+   "caption": "Reflect"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-7.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-7.jpg",
+   "w": 1082,
+   "h": 720,
+   "tw": 600,
+   "th": 392,
+   "caption": "Pedestrian"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-8.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-8.jpg",
+   "w": 2688,
+   "h": 1520,
+   "tw": 600,
+   "th": 392,
+   "caption": "Home"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-11.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-11.jpg",
+   "w": 1082,
+   "h": 720,
+   "tw": 600,
+   "th": 392,
+   "caption": "Picnic"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-12.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-12.jpg",
+   "w": 1082,
+   "h": 720,
+   "tw": 600,
+   "th": 392,
+   "caption": "Under"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-13.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-13.jpg",
+   "w": 1082,
+   "h": 720,
+   "tw": 600,
+   "th": 392,
+   "caption": "Greenbelt"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-14.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-14.jpg",
+   "w": 1080,
+   "h": 720,
+   "tw": 600,
+   "th": 392,
+   "caption": "Cowboy"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-15.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-15.jpg",
+   "w": 1082,
+   "h": 720,
+   "tw": 600,
+   "th": 392,
+   "caption": "Memossa"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-16.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-16.jpg",
+   "w": 1082,
+   "h": 720,
+   "tw": 600,
+   "th": 392,
+   "caption": "Setting Sun"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-17.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-17.jpg",
+   "w": 1081,
+   "h": 720,
+   "tw": 600,
+   "th": 392,
+   "caption": "Pannels"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-18.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-18.jpg",
+   "w": 1081,
+   "h": 720,
+   "tw": 600,
+   "th": 392,
+   "caption": "Owl"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-20.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-20.jpg",
+   "w": 1423,
+   "h": 960,
+   "tw": 600,
+   "th": 392,
+   "caption": "Congress Ave"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-21.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-21.jpg",
+   "w": 1082,
+   "h": 720,
+   "tw": 600,
+   "th": 392,
+   "caption": "UT"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-22.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-22.jpg",
+   "w": 1421,
+   "h": 960,
+   "tw": 600,
+   "th": 392,
+   "caption": "Pyramid"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-23.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-23.jpg",
+   "w": 1082,
+   "h": 720,
+   "tw": 600,
+   "th": 392,
+   "caption": "Camp"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-24.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-24.jpg",
+   "w": 1082,
+   "h": 720,
+   "tw": 600,
+   "th": 392,
+   "caption": "Flow"
+  },
+  {
+   "src": "assets/images/austin/_SHN4718.jpg",
+   "thumb": "assets/images/austin/thumbs/_SHN4718.jpg",
+   "w": 1803,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Castle Hill"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-29.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-29.jpg",
+   "w": 1082,
+   "h": 720,
+   "tw": 600,
+   "th": 392,
+   "caption": "Lip"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-31.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-31.jpg",
+   "w": 1082,
+   "h": 720,
+   "tw": 600,
+   "th": 392,
+   "caption": "Wing"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-22.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-32.jpg",
+   "w": 1421,
+   "h": 960,
+   "tw": 600,
+   "th": 392,
+   "caption": "Shine"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-33.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-33.jpg",
+   "w": 1152,
+   "h": 720,
+   "tw": 600,
+   "th": 392,
+   "caption": "Congress Bridge"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-34.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-34.jpg",
+   "w": 1439,
+   "h": 960,
+   "tw": 600,
+   "th": 392,
+   "caption": "Happy Accident"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-35.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-35.jpg",
+   "w": 1152,
+   "h": 720,
+   "tw": 600,
+   "th": 392,
+   "caption": "Daydream"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-36.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-36.jpg",
+   "w": 1439,
+   "h": 960,
+   "tw": 600,
+   "th": 392,
+   "caption": "Storm"
+  },
+  {
+   "src": "assets/images/austin/sm_austin-37.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin-37.jpg",
+   "w": 1439,
+   "h": 960,
+   "tw": 600,
+   "th": 392,
+   "caption": "Skywash"
+  },
+  {
+   "src": "assets/images/austin/sm_austin.jpg",
+   "thumb": "assets/images/austin/thumbs/sm_austin.jpg",
+   "w": 1082,
+   "h": 720,
+   "tw": 600,
+   "th": 392,
+   "caption": "Power Plant"
+  },
+  {
+   "src": "assets/images/austin/2DS_0907.jpg",
+   "thumb": "assets/images/austin/thumbs/2DS_0907.jpg",
+   "w": 1798,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Hilton"
+  }
+ ],
+ "legacy": true
+}

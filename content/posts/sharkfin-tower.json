@@ -1,0 +1,205 @@
+{
+ "slug": "sharkfin-tower",
+ "title": "Sharkfin Tower",
+ "cardTitle": "Sharkfin Tower",
+ "date": "2018-09",
+ "dateLabel": "September 2018",
+ "location": "North Cascades National Park, Washington",
+ "country": "United States",
+ "coords": [
+  48.5,
+  -121.1
+ ],
+ "tags": [
+  "national-park",
+  "mountains",
+  "hiking",
+  "backpacking",
+  "snow",
+  "waterfalls"
+ ],
+ "sectionTitle": "Stone and Ice",
+ "paragraphs": [
+  "For Labor Day weekend I went back to the North Cascades, this time up into Boston Basin, the bowl where climbers base themselves for peaks like Sharkfin Tower. If you want to camp in the backcountry here, you need a permit, so stop at the ranger station in Marblemount on the way up. I drove in on Saturday evening as the sun sank low enough to lay a long shadow across a forested peak. The next morning I started up a gravel road that soon narrowed into a trail, and the walls began to close in. Granite rose on both sides with snow still clinging to the gullies, and the sun lit the spires long before it reached me on the valley floor. Creeks and cascades crossed the path one after another, and I lost count of the little waterfalls.",
+  "Sunday was all blue sky and granite. Eventually the trees gave way to boulders and bare slabs with meltwater sheeting down them, and then the basin opened up. Ice carved this whole bowl, and a little of it is still hanging around. A glacier clung to the foot of a jagged gray ridge, and the meadow below was already turning yellow for fall. A marmot lounged on a boulder among the wildflowers.",
+  "Up on the snow, the surface was streaked with pink. I had no idea snow could do that! It was probably watermelon snow, an alga that blooms on old snow late in the summer, which means even the snow was alive. A crevasse split the snowfield nearby, dark and deep, and beside it rose a wall of rock stained the color of rust, as if the mountain were slowly oxidizing. The glaciers here have been shrinking for decades, so I'm glad I got to see some of that ice.",
+  "I'd pitched my tent in the basin, and on Monday morning I unzipped the door to find the valleys filled with cloud and only the tops of the peaks standing above it, like fins cutting through a white sea. Fitting for a place called Sharkfin Tower. White wildflowers dotted the rocks around camp, and I watched the clouds boil and shift, hiding a peak for a minute and then handing it back as if nothing had happened. Labor Day usually means a barbecue. I spent mine in the clouds."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/sharkfin-tower/cover.webp",
+ "card": "assets/images/sharkfin-tower/thumbs/d65bad7d.webp",
+ "photos": [
+  {
+   "src": "assets/images/sharkfin-tower/64e70c54.webp",
+   "thumb": "assets/images/sharkfin-tower/thumbs/64e70c54.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Long Shadow",
+   "alt": "Forested mountain in evening light with a long shadow across its slope and clouds above"
+  },
+  {
+   "src": "assets/images/sharkfin-tower/6c52f4c4.webp",
+   "thumb": "assets/images/sharkfin-tower/thumbs/6c52f4c4.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "The Way In",
+   "alt": "Gravel road curving into dark forest beneath a sunlit granite wall streaked with snow"
+  },
+  {
+   "src": "assets/images/sharkfin-tower/9e90d72a.webp",
+   "thumb": "assets/images/sharkfin-tower/thumbs/9e90d72a.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Alpine Start",
+   "alt": "Sunlit granite spires with snow-filled gullies, framed by fir trees in morning haze"
+  },
+  {
+   "src": "assets/images/sharkfin-tower/b71d1a1a.webp",
+   "thumb": "assets/images/sharkfin-tower/thumbs/b71d1a1a.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Straight Up",
+   "alt": "Looking up at a steep granite face with patches of snow under a deep blue sky"
+  },
+  {
+   "src": "assets/images/sharkfin-tower/15fa6e92.webp",
+   "thumb": "assets/images/sharkfin-tower/thumbs/15fa6e92.webp",
+   "w": 1369,
+   "h": 2048,
+   "tw": 535,
+   "th": 800,
+   "caption": "Water Staircase",
+   "alt": "Narrow waterfall stepping down a mossy rock slope between green shrubs"
+  },
+  {
+   "src": "assets/images/sharkfin-tower/4cbfe7f6.webp",
+   "thumb": "assets/images/sharkfin-tower/thumbs/4cbfe7f6.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Early Fall",
+   "alt": "Gray granite ridge with patches of snow above a green and yellow meadow"
+  },
+  {
+   "src": "assets/images/sharkfin-tower/4f9e2e5d.webp",
+   "thumb": "assets/images/sharkfin-tower/thumbs/4f9e2e5d.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Spot the Marmot",
+   "alt": "Boulder field with pink and white wildflowers below a fir-covered slope, with a marmot sitting on a boulder at the upper right"
+  },
+  {
+   "src": "assets/images/sharkfin-tower/15547acb.webp",
+   "thumb": "assets/images/sharkfin-tower/thumbs/15547acb.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Heavyweight",
+   "alt": "Large glaciated mountain face with snow-filled gullies rising above a ridge of small fir trees"
+  },
+  {
+   "src": "assets/images/sharkfin-tower/abbcaf36.webp",
+   "thumb": "assets/images/sharkfin-tower/thumbs/abbcaf36.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Burnt Orange",
+   "alt": "Rust-orange boulders on a granite slab below a ridge with snow and thin waterfalls"
+  },
+  {
+   "src": "assets/images/sharkfin-tower/d7266226.webp",
+   "thumb": "assets/images/sharkfin-tower/thumbs/d7266226.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Meltwater",
+   "alt": "Meltwater sheeting down smooth granite slabs below a snow-flecked ridge"
+  },
+  {
+   "src": "assets/images/sharkfin-tower/bbcd90ca.webp",
+   "thumb": "assets/images/sharkfin-tower/thumbs/bbcd90ca.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Pink Snow",
+   "alt": "Close view into a crevasse in the snow, with faint pink streaks across the surface"
+  },
+  {
+   "src": "assets/images/sharkfin-tower/3996fb62.webp",
+   "thumb": "assets/images/sharkfin-tower/thumbs/3996fb62.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Frozen Waves",
+   "alt": "Rippled snowfield below a rust-stained rock wall with a crevasse in the foreground"
+  },
+  {
+   "src": "assets/images/sharkfin-tower/93ecdb06.webp",
+   "thumb": "assets/images/sharkfin-tower/thumbs/93ecdb06.webp",
+   "w": 2048,
+   "h": 1369,
+   "tw": 800,
+   "th": 535,
+   "caption": "Iron Curtain",
+   "alt": "Dark rock wall stained rust-orange with snow piled at its base and a blue sky above"
+  },
+  {
+   "src": "assets/images/sharkfin-tower/e4f772f4-36538.webp",
+   "thumb": "assets/images/sharkfin-tower/thumbs/e4f772f4-36538.webp",
+   "w": 1920,
+   "h": 1080,
+   "tw": 800,
+   "th": 450,
+   "caption": "Blue Yonder",
+   "alt": "Layers of blue ridgelines and valleys fading into the distance under a deep blue sky with scattered clouds, seen from the edge of a snowfield"
+  },
+  {
+   "src": "assets/images/sharkfin-tower/eeece27f.webp",
+   "thumb": "assets/images/sharkfin-tower/thumbs/eeece27f.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Front Door",
+   "alt": "View from inside a rain-beaded tent door over a rocky campsite to clouds drifting around a peak"
+  },
+  {
+   "src": "assets/images/sharkfin-tower/8d8fac5b.webp",
+   "thumb": "assets/images/sharkfin-tower/thumbs/8d8fac5b.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Cloud Garden",
+   "alt": "Clouds swirling around a distant peak behind rocks, fir trees and white wildflowers"
+  },
+  {
+   "src": "assets/images/sharkfin-tower/d65bad7d.webp",
+   "thumb": "assets/images/sharkfin-tower/thumbs/d65bad7d.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Fins and Fog",
+   "alt": "Clouds filling a valley with dark peaks and snow patches rising above fir trees"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "40% 0%"
+}

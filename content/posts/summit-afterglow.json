@@ -1,0 +1,184 @@
+{
+ "slug": "summit-afterglow",
+ "title": "Summit County Afterglow",
+ "cardTitle": "Summit Afterglow",
+ "date": "2020-02",
+ "dateLabel": "February 2020",
+ "location": "Summit County, Colorado",
+ "country": "United States",
+ "coords": [
+  39.6,
+  -106.1
+ ],
+ "tags": [
+  "mountains",
+  "snow",
+  "aerial",
+  "road-trip",
+  "lakes"
+ ],
+ "sectionTitle": "Borrowed Light",
+ "paragraphs": [
+  "I signed off my last snowboarding post, right before Air Force BMT, with “Till next winter, Colorado!” In early 2020, Colorado got another winter out of me. The warm-up came in January: a copper-red ridge in central Utah with snow packed into every gully, a groomed run above Keystone, then Glenwood Canyon under low cloud, its pale cliffs streaked white and I-70 threading the walls on viaducts and through tunnels.",
+  "On the first Saturday of February, the sun was already behind the mountains when I sent the drone up over Silverthorne. The sky hadn't gotten the message. Magenta and violet poured across the horizon while the town switched on its lights and I-70 turned into a ribbon of red and white. Just past the rooftops lay Dillon Reservoir, a lake that didn't exist before the early 1960s, when Denver Water dammed the Blue River so it could send Summit County's snowmelt through a tunnel under the Continental Divide. Frozen over, with the dam drawn across it like a ruler, it looked more like a salt flat. Within minutes the magenta faded to peach and the valley went blue.",
+  "On Sunday I rode Vail, where the sun made a starburst over layered ranges all the way to the horizon. Later that afternoon the drone was up again over Tenmile Canyon, and the low sun raked across a sheer wall of snow and bare rock. Avalanche chutes ran down toward the plowed lanes of I-70, and ski runs striped a ridge on the far side.",
+  "Monday morning found me under frosted pines at Keystone. By midday I was crossing Loveland Pass, nearly 12,000 feet up on the Continental Divide, where snowmelt parts ways, west to the Pacific and east to the Atlantic. That day the ridgelines faded into cloud. Six weeks later, the pandemic shut Colorado's ski areas down for the season. In hindsight, that whole weekend was borrowed light too."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/summit-afterglow/cover.webp",
+ "card": "assets/images/summit-afterglow/thumbs/67d422d3.webp",
+ "photos": [
+  {
+   "src": "assets/images/summit-afterglow/920fea40.webp",
+   "thumb": "assets/images/summit-afterglow/thumbs/920fea40.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Copper Ridge",
+   "alt": "A jagged copper-red rock ridge dusted with snow beside a divided highway under a blue sky with scattered clouds"
+  },
+  {
+   "src": "assets/images/summit-afterglow/8bad5eaa.webp",
+   "thumb": "assets/images/summit-afterglow/thumbs/8bad5eaa.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "canyon walls",
+   "alt": "A dark rock cliff towers over a highway with snow-dusted flats and white peaks in the distance under cloud"
+  },
+  {
+   "src": "assets/images/summit-afterglow/2ee33301.webp",
+   "thumb": "assets/images/summit-afterglow/thumbs/2ee33301.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "above Keystone",
+   "alt": "View down a groomed ski run through dark spruce to a valley town and a snowy ridge under a deep blue sky"
+  },
+  {
+   "src": "assets/images/summit-afterglow/ba624b32.webp",
+   "thumb": "assets/images/summit-afterglow/thumbs/ba624b32.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Glenwood Canyon",
+   "alt": "Low cloud and snow-streaked cliffs above the curving interstate in Glenwood Canyon, seen over a red hood"
+  },
+  {
+   "src": "assets/images/summit-afterglow/32fc657e.webp",
+   "thumb": "assets/images/summit-afterglow/thumbs/32fc657e.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "pink pavement",
+   "alt": "Two snowy summits against an orange and violet sunset sky above a wet, icy parking lot with an orange cone"
+  },
+  {
+   "src": "assets/images/summit-afterglow/67d422d3.webp",
+   "thumb": "assets/images/summit-afterglow/thumbs/67d422d3.webp",
+   "w": 2048,
+   "h": 1535,
+   "tw": 800,
+   "th": 600,
+   "caption": "lights on",
+   "alt": "Aerial view of Silverthorne's lit streets and snowy rooftops under a violet and pink dusk sky"
+  },
+  {
+   "src": "assets/images/summit-afterglow/7e997bcc.webp",
+   "thumb": "assets/images/summit-afterglow/thumbs/7e997bcc.webp",
+   "w": 2048,
+   "h": 1535,
+   "tw": 800,
+   "th": 600,
+   "caption": "Dillon Reservoir",
+   "alt": "Aerial view of a frozen reservoir and its straight dam crest below a pink and lavender dusk sky, with a switchback road in the foreground"
+  },
+  {
+   "src": "assets/images/summit-afterglow/24a67a62.webp",
+   "thumb": "assets/images/summit-afterglow/thumbs/24a67a62.webp",
+   "w": 2048,
+   "h": 1535,
+   "tw": 800,
+   "th": 600,
+   "caption": "ribbon of light",
+   "alt": "Aerial view at blue hour of a highway curving through a snowy valley below a snow-capped peak and a fading peach sky"
+  },
+  {
+   "src": "assets/images/summit-afterglow/4070441f.webp",
+   "thumb": "assets/images/summit-afterglow/thumbs/4070441f.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "high noon",
+   "alt": "Wide-angle view from a ski-area ridge with a bright sun starburst in a deep blue sky, a boundary rope with an orange sign, distant snowy ranges and wind-packed snow"
+  },
+  {
+   "src": "assets/images/summit-afterglow/8b4987bd.webp",
+   "thumb": "assets/images/summit-afterglow/thumbs/8b4987bd.webp",
+   "w": 2048,
+   "h": 1535,
+   "tw": 800,
+   "th": 600,
+   "caption": "Tenmile Canyon",
+   "alt": "Aerial view of a snow-covered mountain wall above the interstate in warm late-afternoon light, with ski runs on a far ridge"
+  },
+  {
+   "src": "assets/images/summit-afterglow/31549317.webp",
+   "thumb": "assets/images/summit-afterglow/thumbs/31549317.webp",
+   "w": 2048,
+   "h": 1535,
+   "tw": 800,
+   "th": 600,
+   "caption": "avalanche chutes",
+   "alt": "Close aerial view of a steep snowy mountain flank with bare rock bands and avalanche chutes above the highway"
+  },
+  {
+   "src": "assets/images/summit-afterglow/883d9b75.webp",
+   "thumb": "assets/images/summit-afterglow/thumbs/883d9b75.webp",
+   "w": 2048,
+   "h": 1024,
+   "tw": 800,
+   "th": 400,
+   "caption": "full circle",
+   "alt": "Spherical drone panorama with the low sun behind a ridge and the interstate curving through a snowy canyon"
+  },
+  {
+   "src": "assets/images/summit-afterglow/254d16af.webp",
+   "thumb": "assets/images/summit-afterglow/thumbs/254d16af.webp",
+   "w": 2048,
+   "h": 1536,
+   "tw": 800,
+   "th": 600,
+   "caption": "Pine Chimney",
+   "alt": "Looking straight up through tall, snow-flecked pines to a blue sky with scattered clouds"
+  },
+  {
+   "src": "assets/images/summit-afterglow/564082fd.webp",
+   "thumb": "assets/images/summit-afterglow/thumbs/564082fd.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "storm window",
+   "alt": "Spruce scattered across a snow-filled bowl under grey cloud, seen through a vehicle window with the side mirror in frame"
+  },
+  {
+   "src": "assets/images/summit-afterglow/6a84aa23.webp",
+   "thumb": "assets/images/summit-afterglow/thumbs/6a84aa23.webp",
+   "w": 1536,
+   "h": 2048,
+   "tw": 600,
+   "th": 800,
+   "caption": "Loveland Pass",
+   "alt": "A snowy ridge disappearing into fog above a mountain pass road, with a vehicle's side mirror at the bottom of the frame"
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "50% 75%"
+}

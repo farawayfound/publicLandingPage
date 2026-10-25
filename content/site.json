@@ -1,0 +1,208 @@
+{
+  "_readme": "Site-level copy for FarawayFound. Everything under 'landing' and 'blog' (except where noted in _changes) was hand-written by the site owner and is kept VERBATIM, quirks included. Do not 'fix' it. 'ui' holds the neutral, functional interface strings. Edit this file, then run: node scripts/build-site.js",
+  "_changes": [
+    "landing.cards[1].text: the trailing sentence \"Sorry, this hasn't been updated in a while...\" was dropped (owner-approved edit).",
+    "blog.contact.href: the placeholder link (google.com) now points to https://davidchui.work/ (owner-approved edit).",
+    "blog.footer: the dead social-icon links were removed (owner-approved edit)."
+  ],
+  "site": {
+    "name": "FarawayFound",
+    "url": "https://farawayfound.com",
+    "_url": "Public address of the site WITHOUT a trailing slash, e.g. https://example.com . Needed for canonical links, absolute og:image URLs and sitemap.xml. Left empty until you set it; the build prints a reminder.",
+    "lang": "en",
+    "themeColor": "#0f051e"
+  },
+  "landing": {
+    "title": "FarawayFound — David Chui",
+    "description": "Home hub for David Chui: professional portfolio at davidchui.work and the FarawayFound travel blog.",
+    "headline": [
+      "Live",
+      "Explore",
+      "Wander"
+    ],
+    "headlineSeparator": " · ",
+    "tagline": "A single place to find my work on the web — engineering, portfolio, and travel.",
+    "sub": "Choose a destination below",
+    "cards": [
+      {
+        "id": "professional",
+        "label": "Professional",
+        "title": "davidchui.work",
+        "text": "Portfolio and professional presence — projects, experience, and how to get in touch for work.",
+        "cta": "Open site",
+        "href": "https://davidchui.work/",
+        "external": true,
+        "mediaLabel": "Terminal animation showing code execution"
+      },
+      {
+        "id": "blog",
+        "label": "Travel blog",
+        "title": "FarawayFound stories",
+        "text": "Photo journals and notes from the road — national parks, cities, and mountain trips.",
+        "cta": "Enter blog",
+        "href": "blog/index.html",
+        "external": false
+      }
+    ],
+    "footer": {
+      "before": "David Chui · Colorado · ",
+      "links": [
+        {
+          "label": "Blog",
+          "href": "blog/index.html",
+          "external": false
+        },
+        {
+          "label": "Portfolio",
+          "href": "https://davidchui.work/",
+          "external": true
+        }
+      ],
+      "separator": " · "
+    }
+  },
+  "blog": {
+    "title": "FarawayFound — Live. Explore. Wander",
+    "headline": "Live - Explore - Wander",
+    "cue": "what's our next adventure?",
+    "nav": [
+      {
+        "label": "All sites",
+        "href": "../index.html"
+      },
+      {
+        "label": "Home",
+        "href": "#home"
+      },
+      {
+        "label": "Stories",
+        "href": "#stories"
+      },
+      {
+        "label": "About",
+        "href": "#about"
+      },
+      {
+        "label": "Contact",
+        "href": "#contact"
+      }
+    ],
+    "stories": {
+      "title": "Stories",
+      "intro": "There is no better way of expanding horizons than to travel. To live like locals, to experience diverse cultures, and to wander into the wilderness. After all, we are merely a collection of memories, so to explore the world is to enrich ourselves. With this in mind, I hope to embark on a global journey to learn about our world, the life which inhabits it, and to find myself in the process."
+    },
+    "about": {
+      "name": "David Chui",
+      "meta": [
+        "Father, Husband, Veteran, Engineer.",
+        "Curious mind always seeking my next adventure. Currently a Software Engineer at Spectrum."
+      ],
+      "text": "I was born in Xi’an China, raised in Montreal Canada, went to High School in Texas, and graduated from University of Colorado at Denver with a B.S. in Finance and Information Systems. I served in the USAF as a structural engineer at Nellis AFB in Las Vegas, where I met my wife. Home base for us is now the front range of the Rocky Mountains in Colorado, where we are raising our child to be a little mountain man."
+    },
+    "contact": {
+      "title": "Contact",
+      "lead": "I'd love to hear from you",
+      "text": "Let me know if you have any travel related questions, comments, or suggestions",
+      "button": "Get in touch",
+      "href": "https://davidchui.work/"
+    },
+    "footer": "Designed by David Chui"
+  },
+  "hero": {
+    "_readme": "Hero slideshow tuning. 'landingFirst' = file stem of the landing photo shown first (the rest are shuffled in the browser). 'blogPhotos' = Landing/web photos (file stems) used to pad the blog hero after the newest stories' covers; only landscapes without people. 'blogStories' = how many of the newest non-legacy story covers lead the blog hero.",
+    "landingFirst": "DSC_1075",
+    "blogPhotos": [
+      "DSC01054",
+      "DSC01036",
+      "DSC_4831",
+      "DSC02116",
+      "DSC03993 (2)",
+      "DSC_6993",
+      "DSC_7453",
+      "DSC_0795"
+    ],
+    "blogStories": 5,
+    "blogMax": 8,
+    "_shade": "Every hero photo is darkened by a flat, neutral amount (0 - 0.6) that is MEASURED at build time from how bright it is where the words sit (scripts/lib/tone.js; dark photos get 0, the most any photo gets automatically is 0.34). 'shade' forces a value for a story whose JSON is not edited by hand, e.g. {\"seattle\": 0.34}; a story file may also carry its own \"heroShade\". 'coverPositions' does the same for the cover's CSS object-position, e.g. {\"seattle\": \"50% 40%\"}.",
+    "shade": {
+      "seattle": 0.34
+    },
+    "coverPositions": {}
+  },
+  "titleTags": {
+    "aspen": "Aspen",
+    "denver": "Denver",
+    "rmnp": "Rocky Mountain NP"
+  },
+  "_titleTags": "Browser-tab title (after \"FarawayFound — \") for stories whose original tab title differed from the page title: the owner's own wording is kept. A story file may also carry \"titleTag\".",
+  "ui": {
+    "skip": "Skip to content",
+    "allStories": "All stories",
+    "map": "Map",
+    "latest": "Latest stories",
+    "photos": "photos",
+    "stories": "stories",
+    "story": "story",
+    "countries": "countries",
+    "country": "country",
+    "years": "years",
+    "previousStory": "Previous story",
+    "nextStory": "Next story",
+    "previous": "Previous",
+    "next": "Next",
+    "date": "Date",
+    "place": "Location",
+    "coordinates": "Coordinates",
+    "tags": "Tags",
+    "region": "Region",
+    "filter": "Filter",
+    "year": "Year",
+    "all": "All",
+    "timeline": "Timeline",
+    "clearFilters": "Clear filters",
+    "noMatch": "No stories match these filters.",
+    "pause": "Pause slideshow",
+    "play": "Play slideshow",
+    "viewStory": "View story",
+    "mapNoScript": "The map needs JavaScript.",
+    "close": "Close",
+    "viewer": "Photo viewer",
+    "menu": "Menu",
+    "backToTop": "Back to top",
+    "photo": "photo",
+    "totals": "Totals",
+    "mapLabel": "World map of stories",
+    "preview": "Story preview",
+    "explore": "Explore",
+    "about": "About",
+    "coordsLabel": "Coordinates",
+    "of": "of",
+    "tagFilterLabel": "Filter by tag",
+    "yearsNav": "Years",
+    "moreStories": "More stories",
+    "storyOf": "Story",
+    "rotate": "Slideshow",
+    "photosHeading": "Photos"
+  },
+  "tagLabels": {
+    "national-park": "National parks",
+    "state-park": "State parks",
+    "mountains": "Mountains",
+    "snow": "Snow",
+    "desert": "Desert",
+    "coast": "Coast",
+    "city": "Cities",
+    "abroad": "Abroad",
+    "backpacking": "Backpacking",
+    "hiking": "Hiking",
+    "road-trip": "Road trips",
+    "lakes": "Lakes",
+    "forest": "Forest",
+    "waterfalls": "Waterfalls",
+    "night-sky": "Night sky",
+    "aerial": "Aerial",
+    "climbing": "Climbing"
+  },
+  "photoBreaks": {},
+  "_photoBreaks": "Optional: {\"slug\": [\"assets/images/slug/photo.jpg\"]} names the frames that become full-bleed photo breaks for stories whose JSON cannot be edited (legacy stories). New stories just set \"featured\": true on a photo. Rules: 3+ paragraphs and 12+ photos, never a portrait, the cover, or a frame whose alt/caption mentions people."
+}

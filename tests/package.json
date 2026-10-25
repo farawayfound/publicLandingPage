@@ -1,0 +1,11 @@
+{
+  "name": "farawayfound-tests",
+  "private": true,
+  "description": "Browser regression suite for the generated site (Playwright + Chrome). Not needed to build or deploy the site.",
+  "scripts": {
+    "test": "node run-all.js"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.49.1"
+  }
+}

@@ -1,0 +1,215 @@
+{
+ "slug": "camp-muir",
+ "title": "Camp Muir",
+ "cardTitle": "Camp Muir",
+ "date": "2020-08",
+ "dateLabel": "August 2020",
+ "location": "Camp Muir, Mount Rainier National Park, Washington",
+ "country": "United States",
+ "coords": [
+  46.8,
+  -121.7
+ ],
+ "tags": [
+  "national-park",
+  "mountains",
+  "backpacking",
+  "hiking",
+  "snow",
+  "night-sky"
+ ],
+ "sectionTitle": "Above Paradise",
+ "paragraphs": [
+  "The trail to Camp Muir starts in the wildflower meadows at Paradise, on Rainier's south side, and climbs until the meadows are a long way below. It follows the Skyline Trail past patches of lingering snow, then gives way to the Muir Snowfield, a wide white slope that climbs for what feels like forever. At the top sits Camp Muir, 10,080 feet above sea level and still more than four thousand feet below the summit. It's the high camp where many climbers begin their summit attempts.",
+  "Rainier spent the whole trip showing off its glaciers. It's the most heavily glaciated peak in the lower 48, and from the trail you can see why: cracked blue ice spilling down the flank and meltwater racing over red-brown volcanic rock, with one thin waterfall dropping off a cliff right below the edge of the ice. Past the last of the meadows, the world turned into snow and broken stone.",
+  "I pitched my tent on the flattest patch of rubble I could find, which is a generous way to describe it, and the view from the door was the kind you usually only get from an airplane window. It gets cold fast once the sun drops, so pack extra layers. By evening, a sea of clouds had filled every valley below, so thick it looked like you could walk out onto it. Only the green ridges and the jagged Tatoosh peaks poked through, like islands. Far on the horizon, three more volcanoes stood above the haze: broad Mount Adams, Mount St. Helens still missing the top it lost in 1980, and, if I squinted, a faint Mount Hood.",
+  "I watched the light turn gold, then pink, and when it was gone a faint Milky Way stretched across the sky, with distant cities glowing orange under the clouds. Clouds are supposed to be a ceiling. On an earlier trip, they hid this whole mountain from me. Now they were the floor. When it was time to leave, I walked back down through lupine and paintbrush in full bloom."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/camp-muir/cover.webp",
+ "card": "assets/images/camp-muir/thumbs/2814b716.webp",
+ "photos": [
+  {
+   "src": "assets/images/camp-muir/d25ee3c7.webp",
+   "thumb": "assets/images/camp-muir/thumbs/d25ee3c7.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Cascade",
+   "alt": "Rainier's glacier-draped flank under a clear blue sky, with meltwater tumbling over red-brown rock in the foreground."
+  },
+  {
+   "src": "assets/images/camp-muir/267aff93.webp",
+   "thumb": "assets/images/camp-muir/thumbs/267aff93.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Headwaters",
+   "alt": "A thin waterfall dropping off a dark cliff band beneath the curved lower edge of a glacier."
+  },
+  {
+   "src": "assets/images/camp-muir/dfe76611.webp",
+   "thumb": "assets/images/camp-muir/thumbs/dfe76611.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Frozen River",
+   "alt": "A crevassed icefall flowing between two dark rock buttresses under a deep blue sky."
+  },
+  {
+   "src": "assets/images/camp-muir/2814b716.webp",
+   "thumb": "assets/images/camp-muir/thumbs/2814b716.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Sea View",
+   "alt": "A dome tent among broken rock and camping gear in golden light, a sea of clouds spreading below and distant volcanoes on the horizon."
+  },
+  {
+   "src": "assets/images/camp-muir/e043ee35.webp",
+   "thumb": "assets/images/camp-muir/thumbs/e043ee35.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Shoreline",
+   "alt": "A green ridge dotted with snow patches meeting a sea of clouds in warm evening light."
+  },
+  {
+   "src": "assets/images/camp-muir/3de76ace.webp",
+   "thumb": "assets/images/camp-muir/thumbs/3de76ace.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Mount Adams",
+   "alt": "A broad snow-capped volcano on the horizon above jagged ridges in golden-green haze."
+  },
+  {
+   "src": "assets/images/camp-muir/ab9fab93.webp",
+   "thumb": "assets/images/camp-muir/thumbs/ab9fab93.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "High Tide",
+   "alt": "A vast sea of clouds filling the valleys, with a jagged ridge at the far edge and a snow slope curving across the lower right."
+  },
+  {
+   "src": "assets/images/camp-muir/542bf0e8.webp",
+   "thumb": "assets/images/camp-muir/thumbs/542bf0e8.webp",
+   "w": 1365,
+   "h": 2048,
+   "tw": 533,
+   "th": 800,
+   "caption": "Pillow Top",
+   "alt": "Hazy peaks above a sea of clouds, with a green ridge and snow patches in the foreground, in peach evening light."
+  },
+  {
+   "src": "assets/images/camp-muir/560f3380.webp",
+   "thumb": "assets/images/camp-muir/thumbs/560f3380.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Churn",
+   "alt": "Billowing blue-grey clouds rolling past the edge of a snow slope."
+  },
+  {
+   "src": "assets/images/camp-muir/52cb061b.webp",
+   "thumb": "assets/images/camp-muir/thumbs/52cb061b.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Mile After Mile",
+   "alt": "Layers of hazy blue-green ridges under a pink sky, with a tiny snowy peak on the far horizon."
+  },
+  {
+   "src": "assets/images/camp-muir/855115f0.webp",
+   "thumb": "assets/images/camp-muir/thumbs/855115f0.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Kindling",
+   "alt": "Jagged rock peaks glowing orange in low sun, rising out of a sea of clouds."
+  },
+  {
+   "src": "assets/images/camp-muir/4e9a9d9c.webp",
+   "thumb": "assets/images/camp-muir/thumbs/4e9a9d9c.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Archipelago",
+   "alt": "Dark ridge tops rising like islands out of a sea of clouds under a pale gold sky."
+  },
+  {
+   "src": "assets/images/camp-muir/e5a805e7.webp",
+   "thumb": "assets/images/camp-muir/thumbs/e5a805e7.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "St. Helens",
+   "alt": "A flat-topped volcano on the horizon above layers of blue haze and cloud, with dark ridge silhouettes below, in pink dusk light."
+  },
+  {
+   "src": "assets/images/camp-muir/9fd9e2ea.webp",
+   "thumb": "assets/images/camp-muir/thumbs/9fd9e2ea.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Glow Below",
+   "alt": "A dense field of stars and a faint Milky Way above a thin orange glow on the horizon beneath a layer of cloud."
+  },
+  {
+   "src": "assets/images/camp-muir/a2f37b19.webp",
+   "thumb": "assets/images/camp-muir/thumbs/a2f37b19.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Snow Camp",
+   "alt": "Three orange and yellow dome tents pitched in a rippled snow surface, with crevasses above."
+  },
+  {
+   "src": "assets/images/camp-muir/43f6872a.webp",
+   "thumb": "assets/images/camp-muir/thumbs/43f6872a.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Castle and Moat",
+   "alt": "Rainier's glaciated south side under a deep blue sky, with a curved trench of snow in the foreground."
+  },
+  {
+   "src": "assets/images/camp-muir/a8bd1d1c.webp",
+   "thumb": "assets/images/camp-muir/thumbs/a8bd1d1c.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Full Bloom",
+   "alt": "Purple lupine and red paintbrush in bloom among green leaves."
+  },
+  {
+   "src": "assets/images/camp-muir/decf2846.webp",
+   "thumb": "assets/images/camp-muir/thumbs/decf2846.webp",
+   "w": 2048,
+   "h": 1365,
+   "tw": 800,
+   "th": 533,
+   "caption": "Lupine Meadow",
+   "alt": "A meadow of purple lupine with fuzzy white seed heads."
+  }
+ ],
+ "legacy": false,
+ "coverPosition": "85% 22%"
+}

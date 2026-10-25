@@ -1,0 +1,217 @@
+{
+ "slug": "denversp",
+ "title": "Denver State Parks",
+ "cardTitle": "Denver State Parks",
+ "date": "2016-09",
+ "dateLabel": "September 2016",
+ "location": "Front Range, Colorado",
+ "country": "United States",
+ "coords": [
+  39.5,
+  -105.1
+ ],
+ "tags": [
+  "state-park",
+  "hiking"
+ ],
+ "sectionTitle": "Abundant Beauty",
+ "paragraphs": [
+  "Having lived in Houston for a while, I was astounded by the abundance of State Parks so close to the city! Within an hour drive, you can get to awesome crags, beautiful waterfalls, and 14,000 foot peaks - some hiking required.",
+  "The parks pictured include Roxborough, Chatfield, Cherry Creek, Staunton, Golden Gate, and Eldorado Canyon. I only visited about half of Denver's State Parks, and of those I visited I only hiked about a dozen miles from each. Some offer over a hundred miles of trail! It's hard to imagine hiking all the state parks near Denver. I only wish I had more time to explore."
+ ],
+ "scrollCue": "memories below",
+ "cover": "assets/images/denversp/cover.jpg",
+ "card": "assets/images/denversp/thumbs/Enlight18.jpg",
+ "photos": [
+  {
+   "src": "assets/images/denversp/DSC04158.jpg",
+   "thumb": "assets/images/denversp/thumbs/DSC04158.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Roxborough"
+  },
+  {
+   "src": "assets/images/denversp/DSC04252.jpg",
+   "thumb": "assets/images/denversp/thumbs/DSC04252.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Eldorado"
+  },
+  {
+   "src": "assets/images/denversp/Enlight18.jpg",
+   "thumb": "assets/images/denversp/thumbs/Enlight18.jpg",
+   "w": 1200,
+   "h": 1600,
+   "tw": 600,
+   "th": 392,
+   "caption": "Devil's Head"
+  },
+  {
+   "src": "assets/images/denversp/DSC04266.jpg",
+   "thumb": "assets/images/denversp/thumbs/DSC04266.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Quite the climb"
+  },
+  {
+   "src": "assets/images/denversp/Enlight6.jpg",
+   "thumb": "assets/images/denversp/thumbs/Enlight6.jpg",
+   "w": 1201,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Lounging"
+  },
+  {
+   "src": "assets/images/denversp/DSC05473.jpg",
+   "thumb": "assets/images/denversp/thumbs/DSC05473.jpg",
+   "w": 1500,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Evans"
+  },
+  {
+   "src": "assets/images/denversp/DSC05613.jpg",
+   "thumb": "assets/images/denversp/thumbs/DSC05613.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Cherry"
+  },
+  {
+   "src": "assets/images/denversp/DSC05610.jpg",
+   "thumb": "assets/images/denversp/thumbs/DSC05610.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Incredible Sunset"
+  },
+  {
+   "src": "assets/images/denversp/DSC05720.jpg",
+   "thumb": "assets/images/denversp/thumbs/DSC05720.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Suburban Camp"
+  },
+  {
+   "src": "assets/images/denversp/DSC05753.jpg",
+   "thumb": "assets/images/denversp/thumbs/DSC05753.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "On the Edge"
+  },
+  {
+   "src": "assets/images/denversp/Enlight1 40.jpg",
+   "thumb": "assets/images/denversp/thumbs/Enlight1 40.jpg",
+   "w": 1500,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Backyard Boulder"
+  },
+  {
+   "src": "assets/images/denversp/DSC05762.jpg",
+   "thumb": "assets/images/denversp/thumbs/DSC05762.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "TLR"
+  },
+  {
+   "src": "assets/images/denversp/Enlight1 38.jpg",
+   "thumb": "assets/images/denversp/thumbs/Enlight1 38.jpg",
+   "w": 1600,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Drama"
+  },
+  {
+   "src": "assets/images/denversp/Enlight1 41.jpg",
+   "thumb": "assets/images/denversp/thumbs/Enlight1 41.jpg",
+   "w": 1600,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Scales"
+  },
+  {
+   "src": "assets/images/denversp/Enlight11.jpg",
+   "thumb": "assets/images/denversp/thumbs/Enlight11.jpg",
+   "w": 1200,
+   "h": 1600,
+   "tw": 600,
+   "th": 392,
+   "caption": "Chatfield"
+  },
+  {
+   "src": "assets/images/denversp/Enlight24.jpg",
+   "thumb": "assets/images/denversp/thumbs/Enlight24.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Model"
+  },
+  {
+   "src": "assets/images/denversp/IMG_5076.jpg",
+   "thumb": "assets/images/denversp/thumbs/IMG_5076.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Staunton"
+  },
+  {
+   "src": "assets/images/denversp/IMG_5449.jpg",
+   "thumb": "assets/images/denversp/thumbs/IMG_5449.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "High Sierra"
+  },
+  {
+   "src": "assets/images/denversp/IMG_5456.jpg",
+   "thumb": "assets/images/denversp/thumbs/IMG_5456.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Bierstadt"
+  },
+  {
+   "src": "assets/images/denversp/IMG_5488.jpg",
+   "thumb": "assets/images/denversp/thumbs/IMG_5488.jpg",
+   "w": 1200,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Camo"
+  },
+  {
+   "src": "assets/images/denversp/DSC05400.jpg",
+   "thumb": "assets/images/denversp/thumbs/DSC05400.jpg",
+   "w": 1800,
+   "h": 1200,
+   "tw": 600,
+   "th": 392,
+   "caption": "Golden Gate"
+  }
+ ],
+ "legacy": true
+}
